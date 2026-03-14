@@ -1,0 +1,449 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Ark - ECPv6.15.17.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Ark
+X-ORIGINAL-URL:https://theark.org
+X-WR-CALDESC:Events for The Ark
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Detroit
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260314T200000
+DTEND;TZID=America/Detroit:20260314T230000
+DTSTAMP:20260313T233702
+CREATED:20250911T140052Z
+LAST-MODIFIED:20250910T173802Z
+UID:10001032-1773518400-1773529200@theark.org
+SUMMARY:BeauSoleil
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nFor the past 50 years\, BeauSoleil avec Michael Doucet has been making some of the most potent and popular Cajun music on the planet. Born out of the rich Acadian ancestry of its members\, and created and driven by bandleader Michael Doucet’s spellbinding fiddle playing and soulful vocals\, BeauSoleil is notorious for bringing even the most staid audience to its feet. BeauSoleil’s distinctive sound derives from the distilled spirits of New Orleans jazz\, blues rock\, folk\, swamp pop\, Zydeco\, country and bluegrass\, captivating listeners from the Jazz and Heritage Festival in New Orleans\, to Carnegie Hall\, then all the way across the pond to Richard Thompson’s Meltdown Festival in England. \nTheir most recent album was titled “From Bamako to Carencro\,” alluding the cultural and migratory connection between Bamako\, in Mali\, West Africa\, and Louisiana (symbolized in name by the Lafayette\, LA suburb of Carencro)\, a connection that draws a sonic bloodline back to BeauSoleil’s roots. Since becoming the first Cajun band to win a GRAMMY with “L’amour Ou La Folie” (their Traditional Folk Album – 1998) and then a second Grammy in 2010\, “Live at the New Orleans Jazz & Heritage Festival”\, BeauSoleil has garnered many accolades\, including twelve GRAMMY nominations. They are regular guests on Garrison Keillor’s NPR show A Prairie Home Companion\, where Keillor has dubbed them as “the best Cajun band in the world\,” and their music is so integral to the Cajun culture that they have been featured on the New Orleans–based hit HBO program “Treme”. Critics unanimously agree that it is “bon temps\, every time they play\,” (New York Times).
+URL:https://theark.org/event/beausoleil-260314/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/09/BeauSoleil-IMG_7085.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260315T193000
+DTEND;TZID=America/Detroit:20260315T230000
+DTSTAMP:20260313T233702
+CREATED:20251014T140015Z
+LAST-MODIFIED:20260121T172127Z
+UID:10001059-1773603000-1773615600@theark.org
+SUMMARY:Julianna Barwick and Mary Lattimore
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nJulianna Barwich and Mary Lattimore are longtime friends\, tourmates\, and two of contemporary ambient and experimental music’s most celebrated composers. Synthesizing their respective crafts within the walls of Philharmonie de Paris after being given access to the extraordinary instrument collection of the Musée de la Musique in partnership with the French label InFiné\, their new single\, “Perpetual Adoration\,” blends historical harps\, celestial synths\, and Barwick’s singular voice into an immersive electroacoustic soundscape of memory\, spirituality\, and timeless resonance. It is the first piece of new music from the duo since “Canyon Lights\,” a single released as part of 2021’s Adult Swim compilation\, Digitalis. \nTogether in improvised dialogue\, voice and instrument — Lattimore selecting an Érard double movement harp (France\, 1873) and Barwick behind a Sequential Circuits PROPHET-5 analog synthesizer (USA\, circa 1975) — the duo channels an immense volume of emotion drawn from a visit to Basilica of Sacré Cœur de Montmartre. On a rainy night\, they saw a sign outside the cathedral labeled “ADORATION PERPÉTUELLE” and entered the reverberant space where a nun was singing above organ drones during Sunday Mass. They carried the powerful scene with them into a session. The resulting performance honors both the moment and the history within their instruments: the gilded\, ornate Érard harp\, the first modern pedal harp\, remains open for innovation\, still carrying the simplest\, universally beautiful tone of human fingers on strings. The PROPHET-5 has shaped several decades of exploratory music\, and Barwick continues this legacy. Her skyward synth and vocal lines ascend alongside Lattimore’s tender harp strums\, creating a meditation on the restorative power of shared experience. \nOpener Fred Thomas is a songwriter\, producer\, and experimental musician living in Michigan. Over the past thirty years\, he’s consistently created new and evolving work\, touring internationally on a regular basis and releasing albums with Polyvinyl\, K Records\, Type\, Slumberland\, and many others. His music changes from project to project\, sometimes taking the form of literate narrative indie rock\, and sometimes veering towards soft ambient synthesizer sounds.
+URL:https://theark.org/event/julianna-barwick-and-mary-lattimore/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/10/JB-X-ML-1440x1080_RachaelPonyCassells-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260316T193000
+DTEND;TZID=America/Detroit:20260316T230000
+DTSTAMP:20260313T233702
+CREATED:20251007T140029Z
+LAST-MODIFIED:20251110T153154Z
+UID:10001051-1773689400-1773702000@theark.org
+SUMMARY:Cowboy Junkies - Live on Tour 2026
+DESCRIPTION:“Margo Timmins’s voice is as melancholy and enchanting as ever” –The New York Times \n“There’s something that is nearly miraculous about the way Margo Timmins’ beautiful voice fits with those pained lyrics written by her brother Michael Timmins…the result is some truly transformative music.” –The Mercury News \nCowboy Junkies will be performing a career-spanning show from The Trinity Session to their recent album\, Such Ferocious Beauty! \nAbout Cowboy Junkies \nSometimes revolutions begin quietly. \nIn 1988\, Cowboy Junkies proved that there was an audience waiting for something quiet\, beautiful and reflective. The Trinity Session was like a whisper that cut through the noise — and it was compelling. It stood out in the midst of the flash and bombast that came to define the late 80’s. The now classic recording combined folk\, blues and rock in a way that had never been heard before and went on to sell more than a million copies.  \nFormed in Toronto in 1985 with siblings Michael Timmins on guitar\, Margo Timmins on vocals\, Peter Timmins on drums\, and Michael’s lifelong friend Alan Anton on bass\, the band has sparkled over the course of 29 albums. “I’ve known Alan longer than I’ve known Pete\,” says Michael. “We were friends before Pete was born.” \nUnlike most long-lasting groups\, Cowboy Junkies have never had a break up or taken a sanity-saving hiatus. There’s an appreciation of each other that keeps them constantly working. “It’s that intimacy and understanding of what each one of us brings to the table\,” says Michael. 
+URL:https://theark.org/event/cowboy-junkies-260316/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+CATEGORIES:Sold Out
+ATTACH;FMTTYPE=image/png:https://theark.org/wp-content/uploads/2025/10/CJ-Ann-Arbor-Banner-Ad-Mat.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260317T193000
+DTEND;TZID=America/Detroit:20260317T230000
+DTSTAMP:20260313T233702
+CREATED:20251007T140005Z
+LAST-MODIFIED:20251201T151304Z
+UID:10001052-1773775800-1773788400@theark.org
+SUMMARY:Cowboy Junkies - Live on Tour 2026
+DESCRIPTION:“Margo Timmins’s voice is as melancholy and enchanting as ever” –The New York Times \n“There’s something that is nearly miraculous about the way Margo Timmins’ beautiful voice fits with those pained lyrics written by her brother Michael Timmins…the result is some truly transformative music.” –The Mercury News \nCowboy Junkies will be performing a career-spanning show from The Trinity Session to their recent album\, Such Ferocious Beauty! \nAbout Cowboy Junkies \nSometimes revolutions begin quietly. \nIn 1988\, Cowboy Junkies proved that there was an audience waiting for something quiet\, beautiful and reflective. The Trinity Session was like a whisper that cut through the noise — and it was compelling. It stood out in the midst of the flash and bombast that came to define the late 80’s. The now classic recording combined folk\, blues and rock in a way that had never been heard before and went on to sell more than a million copies.  \nFormed in Toronto in 1985 with siblings Michael Timmins on guitar\, Margo Timmins on vocals\, Peter Timmins on drums\, and Michael’s lifelong friend Alan Anton on bass\, the band has sparkled over the course of 29 albums. “I’ve known Alan longer than I’ve known Pete\,” says Michael. “We were friends before Pete was born.” \nUnlike most long-lasting groups\, Cowboy Junkies have never had a break up or taken a sanity-saving hiatus. There’s an appreciation of each other that keeps them constantly working. “It’s that intimacy and understanding of what each one of us brings to the table\,” says Michael. 
+URL:https://theark.org/event/cowboy-junkies-260317/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+CATEGORIES:Sold Out
+ATTACH;FMTTYPE=image/png:https://theark.org/wp-content/uploads/2025/10/CJ-Ann-Arbor-Banner-Ad-Mat.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260318T200000
+DTEND;TZID=America/Detroit:20260318T230000
+DTSTAMP:20260313T233702
+CREATED:20260120T170144Z
+LAST-MODIFIED:20260225T154717Z
+UID:10001151-1773864000-1773874800@theark.org
+SUMMARY:The Ark's Open Stage
+DESCRIPTION:Whether you’re looking for your big break\, want to perfect your live performance skills\, or just want to perform live for the sheer fun of it\, Open Stage nights offer supportive audiences and a terrific space. Performers have eight minutes (or two songs) each to do their thing. Doors open at 7:30\, and names are drawn at 7:55 and 8:30. If your name isn’t chosen\, bring your raffle ticket with you next time\, and you’ll double your chances. \nWhy play Open Stage at the Ark? Do it to be heard. Do it so you know you can. Do it to take your music to the masses. If you’re not interested in getting on stage tonight\, get your practice in at being a great audience member and observer of new music. \nTickets available at the door.
+URL:https://theark.org/event/the-arks-open-stage-260318/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+CATEGORIES:Open Mic
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2021/10/ArkNew_8.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260319T200000
+DTEND;TZID=America/Detroit:20260319T230000
+DTSTAMP:20260313T233702
+CREATED:20251023T140057Z
+LAST-MODIFIED:20260116T203828Z
+UID:10001066-1773950400-1773961200@theark.org
+SUMMARY:Larry McCray
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nLarry McCray is a powerhouse bluesman with a soul-soaked voice\, blistering guitar chops\, and a story embodying the spirit of his music. With his new album Heartbreak City\, McCray turns the page on a new chapter—raw\, joyful\, and deeply personal. Produced by blues-rock champions and Grammy Nominated duo Joe Bonamassa and Josh Smith\, Heartbreak City finds the legendary singer and guitarist firing on all cylinders\, reconnecting with his roots while stepping boldly forward. \nFrom the first notes of the title track\, McCray reminds listeners why he’s long been hailed as one of the most expressive blues artists of his generation. Heartbreak City showcases Larry’s gritty vocals and searing guitar work\, evoking the decades he spent grinding it out in clubs\, pouring heartache and redemption into every solo. Elsewhere\, standout single “Bye Bye Blues” draws on McCray’s teenage years in Michigan\, when soul music still ruled the airwaves. Co-written with longtime collaborator Charlie Walmsley\, it nods to giants like Johnnie Taylor and Bobby Bland while delivering a sound all his own—grooving\, head-nodding\, and utterly timeless. \nThe release follows 2022’s Blues Without You\, which marked McCray’s long-awaited return after a seven-year hiatus. The album debuted at No. 2 on the Billboard Blues chart and was named the #1 Blues Album of 2022 by Blues Rock Review\, solidifying his status as a torchbearer of modern blues. In 2024\, McCray was inducted into the Michigan Rock and Roll Legends Hall of Fame\, a testament to his deep roots in the state and his enduring impact on American music. Now\, Heartbreak City builds on that momentum. It’s a record that reflects Larry McCray at his most self-assured -grounded in tradition\, but more fearless than ever. \nBorn in 1960 in Smackover\, Arkansas\, McCray grew up steeped in gospel\, soul\, and the electric blues of the three Kings—B.B.\, Albert\, and Freddie. He moved to Saginaw\, Michigan at 12\, where he honed his guitar style by blending classic blues with the psychedelic edge of Hendrix and the southern fire of the Allman Brothers. After years of gigging while working a factory job\, he was signed in the late ’80s as the first artist on Virgin Records’ blues imprint Point Blank. His debut Ambition (1990) was followed by acclaimed albums like Delta Hurricane\, Meet Me at the Lake\, and Born to Play the Blues\, solidifying his role in defining modern blues-rock through the ’90s and early 2000s. \nOver the years\, McCray has played alongside a who’s who of music legends —B.B. King\, Buddy Guy\, Albert King\, the Allman Brothers\, Joe Walsh\, Jonny Lang\, Levon Helm\, and of course\, Joe Bonamassa. He was named Orville H. Gibson Male Blues Guitarist of the Year in 2000 and won the Top Guitarist prize in the International Blues Matters writer’s poll in 2014. \nBut accolades aside\, it’s the soul in McCray’s music that keeps fans coming back. “I feel totally reborn\,” he says. “This new album lets me show the full scope of what I do —it’s blues\, it’s soul\, it’s real stories. This is who I am.”
+URL:https://theark.org/event/larry-mccray-260319/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/10/larry.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260320T200000
+DTEND;TZID=America/Detroit:20260320T230000
+DTSTAMP:20260313T233702
+CREATED:20260129T150053Z
+LAST-MODIFIED:20260219T170819Z
+UID:10001157-1774036800-1774047600@theark.org
+SUMMARY:Ryan Montbleau (solo)
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nA relentless road warrior and masterful wordsmith\, Ryan Montbleau has spent the better part of thirty years cultivating a devoted audience on the strength of his ecstatic live shows and exhilarating sonic versatility. He’s collaborated with artists as diverse as Trombone Shorty\, Galactic\, Steel Pulse\, Tall Heights\, Martin Sexton\, Anders Osborne\, and George Porter\, Jr; shared bills with the likes of Tedeschi Trucks Band\, Ani DiFranco\, Todd Snider\, The Wood Brothers\, Rodrigo y Gabriela\, and Mavis Staples; and racked up more than 150 million streams on Spotify alone. NPR’s Mountain Stage compared his “eloquent\, soulful songwriting” to Bill Withers and James Taylor\, while Relix celebrated his “poetic Americana\,” and The Boston Herald raved that “he’s made a career of confident\, danceable positivity.” \nMontbleau’s freewheeling new album finds him exploring the full spectrum of his influences like never before\, touching on folk\, rock\, funk\, soul\, hip-hop\, and reggae\, all with a preternatural ease that belies the intensely focused craftsmanship behind it. The songs are sprawling and unpredictable\, grappling with a modern world perpetually teetering on the edge of chaos\, but the performances are relentlessly optimistic\, insisting on hope and joy in the face of it all. The result is Montbleau’s most vulnerable and cathartic work yet\, an album that acknowledges the inevitability of doubt and pain while at the same time celebrating our limitless capacity for growth and love. \nPresented with support from Bank of Ann Arbor
+URL:https://theark.org/event/ryan-montbleau-260320/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/11/Ryan-Montbleau-Press-Photo-1-scaled-e1762803174191.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260321T200000
+DTEND;TZID=America/Detroit:20260321T230000
+DTSTAMP:20260313T233702
+CREATED:20251203T150002Z
+LAST-MODIFIED:20251202T165703Z
+UID:10001105-1774123200-1774134000@theark.org
+SUMMARY:Chicago Farmer & The Fieldnotes
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nThe son of a small town farming community\, Cody Diekhoff logged plenty of highway and stage time under the name Chicago Farmer before settling in the city in 2003. Profoundly inspired by fellow midwesterner John Prine\, he’s a working-class folk musician to his core. His small town roots\, tilled with city streets mentality\, are turning heads North and South of I-80. \n“I love the energy\, music\, and creativity of Chicago\, but at the same time\, the roots and hard work of my small town\,” he shares. Growing up in Delavan\, Illinois\, with a population less than 2\,000\, Diekhoff’s grandparents were farmers\, and their values have always provided the baseline of his songs.  \nHe writes music for “the kind of people that come to my shows. Whether in Chicago or Delavan\, everyone has a story\, and everyone puts in a long day and works hard the same way\,” he says. “My generation may have been labeled as slackers\, but I don’t know anyone who doesn’t work hard – many people I know put in 50-60 hours a week and 12 hour days. That’s what keeps me playing. I don’t like anyone to be left out; my music is for everyone in big and very small towns.” \nHe listened to punk rock and grunge as a kid before discovering a friend’s dad playing Hank Williams\, and it was a revelation. Prine and Guthrie quickly followed. The name Chicago Farmer was originally for a band\, but the utilitarian life of driving alone from bar to bar\, city to city – to make a direct connection to his audience and listener\, took a deeper hold.
+URL:https://theark.org/event/chicago-farmer-260321/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/12/Chicago-Farmer-and-the-Fieldnotes-2025.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260322T193000
+DTEND;TZID=America/Detroit:20260322T230000
+DTSTAMP:20260313T233702
+CREATED:20260115T150017Z
+LAST-MODIFIED:20260204T182326Z
+UID:10001142-1774207800-1774220400@theark.org
+SUMMARY:Celebrating Dick Siegel & His Music
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nBeloved\, legendary songwriter\, Michigan’s own Dick Siegel\, has performed his iconic songs across the country\, from New York to Texas\, and internationally\, since he exploded on the Detroit/Ann Arbor music scene in the 1980s with the release of his critically acclaimed first album\, SNAP!  Celebrating his nearly 50 year musical career\, Dick will be honored tonight by his musical friends and family with tributes and performances of some of his most well-known songs on the stage of The Ark\, where Dick has performed countless times over the years. Per Dick and his family’s request\, all proceeds from this concert will go to support The Ark. \nTonight’s stellar lineup includes Brennan Andes\, Judy Banker\, George Bedard\, Mr. B\, Chris Buhalis\, Annie & Rod Capps\, Rochelle Clark & Jason Dennie\, Gemily\, Dan Hazlett\, Whit & Al Hill\, Dave Keeney and Sophia Hanifi\, Tracy Jaffe\, Shari Kane & Dave Steele\, Billy King\, John D Lamb\, Alan Pagliere\, Randazzo Dance Troupe\, Charlie Reischl\, Jim Roll\, David Roof\, Peter Madcat Ruth\, Arden Siegel\, Michael Smith\, and Randy Tessier.
+URL:https://theark.org/event/celebrating-dick-siegel-his-music/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/png:https://theark.org/wp-content/uploads/2026/01/DICK-SIEGEL-ARK-CALENDAR.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260323T200000
+DTEND;TZID=America/Detroit:20260323T230000
+DTSTAMP:20260313T233702
+CREATED:20260107T190700Z
+LAST-MODIFIED:20260107T190700Z
+UID:10001137-1774296000-1774306800@theark.org
+SUMMARY:The Ark's Open Stage
+DESCRIPTION:Whether you’re looking for your big break\, want to perfect your live performance skills\, or just want to perform live for the sheer fun of it\, Open Stage nights offer supportive audiences and a terrific space. Performers have eight minutes (or two songs) each to do their thing. Doors open at 7:30\, and names are drawn at 7:55 and 8:30. If your name isn’t chosen\, bring your raffle ticket with you next time\, and you’ll double your chances. \nWhy play Open Stage at the Ark? Do it to be heard. Do it so you know you can. Do it to take your music to the masses. If you’re not interested in getting on stage tonight\, get your practice in at being a great audience member and observer of new music. \nTickets available at the door.
+URL:https://theark.org/event/the-arks-open-stage-260323/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+CATEGORIES:Open Mic
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2021/10/ArkNew_8.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260324T200000
+DTEND;TZID=America/Detroit:20260324T230000
+DTSTAMP:20260313T233702
+CREATED:20260109T150026Z
+LAST-MODIFIED:20260107T190424Z
+UID:10001136-1774382400-1774393200@theark.org
+SUMMARY:Max Gomez
+DESCRIPTION:Singer/Songwriter Max Gomez grew up in Taos\, New Mexico\, where he fell under the influence of country blues early on and developed a songwriting style that was uniquely his. As a budding performer\, Max apprenticed in the rarefied musical micro-climate of northern New Mexico\, where troubadours like Michael Martin Murphey and Ray Wylie Hubbard helped foster a Western folk sound both cosmic and country. \nHe received critical acclaim upon the release of his debut album Rule The World (2013\, New West Records); and his subsequent EP\, Me and Joe (2017\, Brigadoon Records)\, contained a freshly minted classic\, “Make It Me.”  \nHe has shared billing on hundreds of stages with stalwarts of the genre like James McMurtry\, Buddy Miller\, John Hiatt\, Patty Griffin\, Tommy James & The Shondells\, Jeff Beck\, and Johnny Depp. Judging by the company he keeps\, Gomez is poised to emerge as a prominent voice of Americana’s next generation.  Max’s latest album Memory Mountain\, was released in August and is currently in the top 50 of the AMA / CDX Top 200 Album Chart.
+URL:https://theark.org/event/max-gomez-260324/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+CATEGORIES:Artist Spotlight Series
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2026/01/2-JimWrightPHotoCredit.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260325T200000
+DTEND;TZID=America/Detroit:20260325T230000
+DTSTAMP:20260313T233702
+CREATED:20250813T140004Z
+LAST-MODIFIED:20260203T150636Z
+UID:10000996-1774468800-1774479600@theark.org
+SUMMARY:Eliza McLamb
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nIt appears to be a trophy at first. Look closer\, and you’ll see the cover of Good Story features Eliza McLamb holding a makeshift award\, hot-glued together from scraps she and her mother salvaged. It is\, of course\, silver — a self-deprecating wink introducing the timbre of McLamb’s sophomore album. These last few years\, McLamb’s been parsing her upbringing\, the songs she wrote about it\, and the whole endeavor of the stories we tell about ourselves. “If you get really good at telling the story of who you are\, you become the story you told instead of the ever-dynamic\, ever-changing person you have to be\,” McLamb says. “I did really well telling the story of who I am\, but I began asking: What’s the point of it?”  \nAt only 23\, McLamb has already lived multiple lives. In her late teens\, McLamb found success via co-hosting the podcast Binchtopia and sharing songs on TikTok. She soon pulled back from the platform\, feeling it didn’t represent her actual ethos as a songwriter. Instead\, she signed to Royal Mountain and released her 2024 debut Going Through It\, a document of a complex\, traumatic childhood that led to searching phases — dropping out of college during the pandemic in favor of working on Midwest farms\, eventually leaving her North Carolina hometown behind for Los Angeles. It all gave her plenty of stories to tell on Going Through It. And now on Good Story\, she wonders how that process affected her. Yet the homemade trophy of Good Story’s cover is far from a jocular consolation prize alone. It’s a symbol of the layered\, accomplished writing McLamb arrived at as she interrogated everything she thought she was about as an artist.
+URL:https://theark.org/event/eliza-mclamb-260325/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/08/Eliza-McLamb-scaled-e1755028009157.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260326T200000
+DTEND;TZID=America/Detroit:20260326T230000
+DTSTAMP:20260313T233702
+CREATED:20251030T140012Z
+LAST-MODIFIED:20251029T172621Z
+UID:10001077-1774555200-1774566000@theark.org
+SUMMARY:University of Michigan Jazz Showcase Featuring Jonathan Kreisberg
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nContemporary Improvisation at the U-M\, along with a prominent special guest each year. This year’s special guest is guitarist Jonathan Kreisberg. Combining timeless melodicism with forward thinking lines and textures\, His style and approach has created a strong following of fans around the world.  He frequently tours worldwide and records with his own groups as well artists such as Dr. Lonnie Smith\, who says of Kreisberg “He is a passionate musician with great vision\, and he is constantly in fiery pursuit of innovation.”
+URL:https://theark.org/event/university-of-michigan-jazz-showcase-featuring-jonathan-kreisberg/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/10/Johnathan-Kreisberg.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260327T200000
+DTEND;TZID=America/Detroit:20260327T230000
+DTSTAMP:20260313T233702
+CREATED:20260129T150034Z
+LAST-MODIFIED:20260219T170714Z
+UID:10001158-1774641600-1774652400@theark.org
+SUMMARY:Rabbitology
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nEveryone has their own world. Fragments of moments lived\, translated and understood through metaphor and storytelling. Rabbitology is the project of (University of Michigan student) Nat Timmerman—a world that was pulled from her odd-running mind. A little land of the harebrained and burrowing. Venture into these eclectic soundscapes\, and here you will discover a collection of memoirs turned into fantastical sonic short stories. \nStrange but charming\, you’ll find these songs bundled in capes of star-dusted moss\, grounded in the natural world\, propelled by the raw and the real. If a song takes place in the woods\, then the woods the song will become; the percussion is the stomping of the leaves\, the synth is a warped fox’s cry. Thus arise the stories of dread-grey skies\, writhing vines\, and shivering pines—stories of a magically real folk horror. The dark and ugly become beautiful here\, and vice versa. In this world\, there is no such thing as “black or white\,” instead\, everything exists together at once. \nThis world is for the souls who never quite fit in\, who found themselves like ghosts\, drifting between realms\, never finding anywhere to settle. Simply follow the three-legged rabbit prints until you’re knee deep in this world’s tall grass. Here\, you’re invited to rest\, to dance\, to create\, to ideate\, even if your visit is only for a little while. Stay as long as you like. Make this world your home too. It’s a little unusual in here\, but that’s life! \nPresented with support from Bank of Ann Arbor
+URL:https://theark.org/event/rabbitology-260327/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/06/Rabbitology-Butcheress-38-SQ-scaled-e1750275755391.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260328T200000
+DTEND;TZID=America/Detroit:20260328T230000
+DTSTAMP:20260313T233702
+CREATED:20251211T150005Z
+LAST-MODIFIED:20251229T162606Z
+UID:10001112-1774728000-1774738800@theark.org
+SUMMARY:Joy Clark & Kate Peterson
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nJoy Clark’s songcraft\, paired with sophisticated progressions\, and themes of freedom\, love and self-acceptance gained her notice on the national folk and Americana scenes just a few years ago with appearances at Americanafest. She caught the attention of Grammy-winner Allison Russell and was offered a regular spot in her backing band The Rainbow Coalition\, earning her the chance to jam with superstars Brandi Carlile and the Indigo Girls. Talking to The Tennessean\, Russell described Joy as a “a brilliant artist\, writer and singer.” \nAnn Arbor’s homegrown friend and folksinger describes herself as “raspy\, emo acoustic soul-folk with a touch of optimism and a lot of humanness.” \nBeginning in 2005\, Michigan-based singer songmaker and multi-instrumentalist Kate Peterson has traveled the US and Europe winning the hearts of vulnerability lovers everywhere. For 10 years\, she spilled her heart onto hundreds of stages\, opened for her heroes and sparked thousands of laughs (and almost as many tears) with her folk duo\, Nervous but Excited. These days\, in between adventure travel\, Kate is a home-makin’ hobbyist who swaps her wood-working tools for a microphone for only the most special of occasions. \nThe roots of her music are still planted firmly in the Pleasantly Aggressive Folk sound that long time fans will find familiar\, but they will quickly notice a depth in her sound that only time and patience can cultivate.
+URL:https://theark.org/event/joy-clark-kate-peterson/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/12/Joy-and-Kate.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260329T193000
+DTEND;TZID=America/Detroit:20260329T230000
+DTSTAMP:20260313T233702
+CREATED:20260122T150010Z
+LAST-MODIFIED:20260120T192403Z
+UID:10001153-1774812600-1774825200@theark.org
+SUMMARY:Laith Al-Saadi
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nIn 2016\, Laith Al-Saadi won America’s hearts and a spot in the Season 10 finale of NBC’s “The Voice.” Now he’s bringing an authentic blend of blues\, soul and classic rock to audiences around the nation and the world. Laith Al-Saadi has always had the perfect combination of Midwestern hustle and incredible musical chops—honed at the University of Michigan school of music in his hometown of Ann Arbor\, and on stages across the country working with legends like Taj Mahal\, Luther Allison\, Buddy Guy\, Son Seals\, Gregg Allman\, and B.B. King.  \n“Laith is one of the most diverse talents we have\,” said Maroon 5 frontman and “The Voice” coach Adam Levine. “Incredible guitar player\, incredible singer.”  \nEntertainment Weekly called Laith Al-Saadi “a power performer who is so legitimate and memorable.”  \nAudiences have agreed\, propelling Laith’s album “REAL” to the top of the blues chart for five weeks and the top 20 album chart for two weeks. Guitar World Magazine has called Laith Al-Saadi a cross between “Danny Gatton and Buddy Guy at their best\,” and in 2006 Guitar Center crowned him one of the top four blues guitarists in the United States.
+URL:https://theark.org/event/laith-al-saadi-260329/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2026/01/Laith-Al-Saadi-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260330T200000
+DTEND;TZID=America/Detroit:20260330T230000
+DTSTAMP:20260313T233702
+CREATED:20251218T150033Z
+LAST-MODIFIED:20260116T203916Z
+UID:10001130-1774900800-1774911600@theark.org
+SUMMARY:Le Vent Du Nord
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nOnce again\, Le Vent du Nord rises to the occasion with a new concert directed by Michel Faubert. Still inspired by its international “20 Printemps” tour (200\,000 tickets sold\, awarded “Best Traditional Album of the year” with FELIX 2022\, OPUS 2023 & Songlines Music Awards 2023 – Americas)\, the legendary Quebec quintet of singers and multi-instrumentalists is always on the move\, committed to the present. \nWith the release of their 13th album\, they tackle the theme of neighborhoods\, sources of universal inspiration. He opens his door to good neighbors. He hopes that ideas of sharing will flourish\, and the best for the common good. From those who are musical and enrich their repertoire: Irish and Scottish Celts\, American folk\, songs from Acadia and French-speaking America. From those with their neighbors\, the rivers\, to those that bear witness to history: battles won or lost\, abuses\, losses\, friendships and\, above all\, loves. \nFive voices in harmony\, podorythmy\, hurdy-gurdy\, bouzouki\, bombarde québé-coise and tunes of violin and accordion tell us that traditional music from here is rich\, lively and inventive.\nIt’s a show where you can let yourself dance\, be moved by the words spoken orally\, and recharge your batteries with the energy of these eternal travellers with deep-rooted roots.\nAn invitation to discover a world of humanities!
+URL:https://theark.org/event/le-vent-du-nord-260330/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/12/VDN-2025_0560-HR_RELIEF_horiz_16-9_1920.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260331T200000
+DTEND;TZID=America/Detroit:20260331T230000
+DTSTAMP:20260313T233702
+CREATED:20260113T150017Z
+LAST-MODIFIED:20260116T203926Z
+UID:10001139-1774987200-1774998000@theark.org
+SUMMARY:Mike Doughty
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nMike Doughty is an American singer\, songwriter\, and author best known as the founder and frontman of Soul Coughing. This year\, Mike Doughty returns to the stage for a solo tour\, presenting stripped-down\, intimate performances that span his Soul Coughing legacy and prolific solo work\, reaffirming his place as one of alternative music’s most distinctive and enduring voices.
+URL:https://theark.org/event/mike-doughty-260331/
+LOCATION:MI
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2026/01/MikeDoughty_credittoClayPatrickMcBride-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260401T200000
+DTEND;TZID=America/Detroit:20260401T230000
+DTSTAMP:20260313T233702
+CREATED:20260115T150008Z
+LAST-MODIFIED:20260223T193731Z
+UID:10001144-1775073600-1775084400@theark.org
+SUMMARY:Mike Marshall & Alessandro Penezzi
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nThis show is free for Ark members at the Solo ($50) level and above. Show your membership card at the box office for entry! \nMike Marshall is one of the world’s most accomplished and versatile string instrumentalists and a three-time Grammy nominee. A master of mandolin\, guitar\, mandocello\, and violin\, he blends American roots with classical\, jazz\, pop\, and Brazilian music. At 19\, he joined the David Grisman Quintet and has since produced over 40 recordings while collaborating with Bela Fleck\, Edgar Meyer\, and Chris Thile. Deeply committed to education\, Mike directed the Acoustic Music Seminar at SMF and teaches globally. With his wife\, German mandolinist Caterina Lichtenberg\, he co-founded the Mandolin World Retreats and continues to tour internationally\, inspiring musicians worldwide.\n\nBorn in Piracicaba\, Brazil\, Alessandro Penezzi is one of the great virtuosos of Brazilian guitar. He graduated in Popular Music from Unicamp with a specialization in Creative Processes from Faculdade Souza Lima\, and has been teaching courses\, workshops\, and seminars at various music festivals in Brazil and abroad. Penezzi is a multi-instrumentalist and prolific composer and has toured extensively worldwide. He plays the seven-string guitar\, tenor guitar\, cavaquinho\, mandolin and flute\, and has received numerous honors and nominations for his performances as an instrumentalist and composer. He has also been highlighted in the Visa MPB Instrumental\, Tim de Música Brasileira\, and Shell de Teatro and Prêmio da Música Brasileira awards.
+URL:https://theark.org/event/mike-marshall-alessandro-penezzi/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2026/01/Mike-and-Alessandro.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260402T200000
+DTEND;TZID=America/Detroit:20260402T230000
+DTSTAMP:20260313T233702
+CREATED:20250918T140002Z
+LAST-MODIFIED:20250924T190020Z
+UID:10001041-1775160000-1775170800@theark.org
+SUMMARY:The Gothard Sisters
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nThe Gothard Sisters are three sisters Greta\, Willow and Solana. They are contemporary Celtic folk multi-instrumentalists\, composers\, performers and songwriters. Blending Celtic\, folk\, world\, classical and new age musical influences\, the Gothard Sisters bring songs to life with violin\, acoustic guitar\, mandolin\, bodhran\, djembe\, whistle and vocal harmonies\, creating music that is “vivid\, inspirational and captivating.” (Tim Carroll\, Folk Words Review 2018) \nRaised and homeschooled by artists in the Pacific Northwest\, the Gothard Sisters grew up immersed in nature\, imaginative play and traditional folk and classical music. Their music takes inspiration from folk music traditions around the world\, timeless stories\, new age and classical records\, and nature itself. Writing and recording near their home in the Pacific Northwest\, USA\, the band has released 11 albums and performed over 2\,000 live shows over the course of their career. \nThe Gothard Sisters come to The Ark with their new album\, “Moment in Time.”
+URL:https://theark.org/event/the-gothard-sisters-260402/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/09/Gothard-Sisters.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260403T200000
+DTEND;TZID=America/Detroit:20260403T230000
+DTSTAMP:20260313T233702
+CREATED:20260205T150055Z
+LAST-MODIFIED:20260226T151834Z
+UID:10001165-1775246400-1775257200@theark.org
+SUMMARY:Billy King
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nIn the early 1990s\, Billy led his two-member band\, the preteen King Brothers\, to local fame in the Ann Arbor area\, performing regularly and releasing five albums of mostly original material. Still living and working on the family farm\, Billy has continued writing and recording\, and\, with his brother\, started Holler Fest\, a three-day music festival featuring Michigan artists. \nBilly’s versatility as a multi-genre singer-songwriter is matched by his ability on a wide range of instruments from guitar and banjo to keyboards and accordion.  \nWithin the songwriting community\, he is well-known for his musicianship and originality. In 2007\, his composition\, “I Don’t Write Love Songs\,” was awarded the Grand Prize in the Great Lakes Songwriting Contest. Influenced by master songwriters such as Bob Dylan\, Joni Mitchell and Paul Simon\, Billy crafts melodically compelling songs that maintain a sense of the timeless and classic. Sometimes catchy folk/rock\, sometimes searing blues\, but always direct and thoughtful lyrics – this is original music from an original life\, fully accomplished yet humble\, and most of all real.
+URL:https://theark.org/event/billy-king-260403/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/01/BillyKing.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260404T200000
+DTEND;TZID=America/Detroit:20260404T230000
+DTSTAMP:20260313T233702
+CREATED:20251023T140011Z
+LAST-MODIFIED:20260116T203939Z
+UID:10001067-1775332800-1775343600@theark.org
+SUMMARY:James Keelaghan
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nJames Keelaghan is an artist who has proven to be a man for all seasons.  As the calendar pages have turned\, for almost a quarter of a century now\, this poet laureate of the folk and roots music world has gone about his work with a combination of passion\, intent and intensity\, and curiosity. \nFusing his insatiable appetite for finding the next unique storyline Keelaghan also forges his pieces with brilliantly defined craftsmanship and a monogrammed artistic vision\, making him one of the most distinctive and readily identifiable voices of not only the Canadian scene\, but as a member of the international singer-songwriter community. \nAdmiration and respect for his work amongst his peers is best summed up by David Francey who recently stated that\, “James Keelaghan is a voice in contemporary Canadian songwriting that has helped us define who we are as a people. He writes with great humanity and honesty\, with an eye to the past and a vision of the future. He has chronicled his times with powerful and abiding songs\, with heart and eyes wide open.”
+URL:https://theark.org/event/james-keelaghan-260404/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/10/JamesKeelaghan2021_299-WEB.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260407T200000
+DTEND;TZID=America/Detroit:20260407T230000
+DTSTAMP:20260313T233702
+CREATED:20260226T154443Z
+LAST-MODIFIED:20260226T154443Z
+UID:10001181-1775592000-1775602800@theark.org
+SUMMARY:The Moth GrandSLAM
+DESCRIPTION:The ultimate storytelling competition\, The Moth GrandSLAM invites winners from our open-mic StorySLAMs back to the stage for the Ann Arbor storytelling championship.
+URL:https://theark.org/event/the-moth-grandslam-260407/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/png:https://theark.org/wp-content/uploads/2024/02/Moth_red-web.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260408T190000
+DTEND;TZID=America/Detroit:20260408T230000
+DTSTAMP:20260313T233702
+CREATED:20251105T181051Z
+LAST-MODIFIED:20251105T181051Z
+UID:10001084-1775674800-1775689200@theark.org
+SUMMARY:Joseph
+DESCRIPTION:Made up of three sisters from Oregon\, Joseph are renowened for their signature sibling harmonies and stripped-back performance style. While their sophomore album\, I’m Alone\, No You’re Not (2016)\, arrived in a breeze of swoony folk\, pop rock-minded follow-up Good Luck\, Kid (2019) saw Joseph turn the volume – and soul – up. Raising their profile on tour with James Bay\, the group has since hosted a cosy NPR Tiny Desk concert and performed on Later… with Jools Holland.
+URL:https://theark.org/event/joseph-260408/
+LOCATION:El Club\, 4114 W Vernor Hwy\, Detroit\, MI\, 48209\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/11/PROMO-EDITS-22-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260408T200000
+DTEND;TZID=America/Detroit:20260408T230000
+DTSTAMP:20260313T233702
+CREATED:20260120T170221Z
+LAST-MODIFIED:20260225T154639Z
+UID:10001152-1775678400-1775689200@theark.org
+SUMMARY:The Ark's Open Stage
+DESCRIPTION:Whether you’re looking for your big break\, want to perfect your live performance skills\, or just want to perform live for the sheer fun of it\, Open Stage nights offer supportive audiences and a terrific space. Performers have eight minutes (or two songs) each to do their thing. Doors open at 7:30\, and names are drawn at 7:55 and 8:30. If your name isn’t chosen\, bring your raffle ticket with you next time\, and you’ll double your chances. \nWhy play Open Stage at the Ark? Do it to be heard. Do it so you know you can. Do it to take your music to the masses. If you’re not interested in getting on stage tonight\, get your practice in at being a great audience member and observer of new music. \nTickets available at the door.
+URL:https://theark.org/event/the-arks-open-stage-260408/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+CATEGORIES:Open Mic
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2021/10/ArkNew_8.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260409T190000
+DTEND;TZID=America/Detroit:20260409T203000
+DTSTAMP:20260313T233702
+CREATED:20260224T201439Z
+LAST-MODIFIED:20260312T134602Z
+UID:10001179-1775761200-1775766600@theark.org
+SUMMARY:James McMurtry - The Black Dog and the Wandering Boy
+DESCRIPTION:“One of America’s greatest living songwriters.” (Rolling Stone) Texas-based songwriter and guitarist James McMurtry is a supremely insightful and inventive storyteller whose fans include everyone from Stephen King to John Mellencamp. Funny and sad often in the same breath\, McMurtry teases vivid worlds out of small details\, crafting searingly honest lyrics set against a rock/Americana backdrop. His Ypsilanti Freighthouse debut draws from his 2025 album The Black Dog and the Wandering Boy. The story-songs on that album find inspiration in scraps from his family’s past: a rough pencil sketch by Ken Kesey that serves as the album cover; the hallucinations experienced by his father\, the legendary writer Larry McMurtry; an old poem by a family friend. “A solid smorgasbord of aging\, Americana\, and arrested development.” (The Austin Chronicle) \nTwo performances\, 7:00pm and 9:30pm \nPRESENTING SPONSOR\nMatt and Nicole Lester
+URL:https://theark.org/event/james-mcmurtry-the-black-dog-and-the-wandering-boy/2026-04-09/1/
+LOCATION:Ypsilanti Freighthouse\, 100 Market Pl\, Ypsilanti\, MI\, 48198\, United States
+CATEGORIES:Special Event
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2026/02/James-McMurtry-5-by-Mary-Keating-Bruton-PREFERRED-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260409T200000
+DTEND;TZID=America/Detroit:20260409T230000
+DTSTAMP:20260313T233702
+CREATED:20260108T184137Z
+LAST-MODIFIED:20260108T184137Z
+UID:10001140-1775764800-1775775600@theark.org
+SUMMARY:A night with Adam Bohanan and Frankie Torres
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nAdam Bohanan is a Black and Jewish Twin Cities based musician and songwriter who tours nationwide. His music draws from soul\, jazz\, funk\, and R&B. His influences include: Stevie Wonder\, D’Angelo\, Donny Hathaway\, Sam Cooke\, and Marvin Gaye. A lifelong nerd\, Adam also loves to incorporate playful wordplay and nerdy references into his songwriting. His latest single\, “Reese’s” reflects this blend\, melding sultry R&B with tongue-in-cheek humor. In 2024\, he was a semifinalist on Season 26 of The Voice. On Team Reba\, he was known for his “dirty soul” style and fun-loving attitude.  \nBorn and raised in Minnetonka\, Minnesota\, Frankie grew up with a diverse combination of musical inspirations. The foundation of her music stands on classic rock and the blues\, which she grew up singing in bars and at music festivals as young as 8 years old. She was a contestant on season 26 of NBC’s The Voice\, making it to the Knockouts on Team Reba. Since leaving The Voice\, she has continued to perform around the Twin Cities as an independent artist and as the lead singer of her cover band\, Midnight Rambler.
+URL:https://theark.org/event/a-night-with-adam-bohanan-and-frankie-torres/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/png:https://theark.org/wp-content/uploads/2026/01/AdamBohanan_FrankieTorres.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260409T213000
+DTEND;TZID=America/Detroit:20260409T230000
+DTSTAMP:20260313T233702
+CREATED:20260224T201439Z
+LAST-MODIFIED:20260312T134602Z
+UID:10001180-1775770200-1775775600@theark.org
+SUMMARY:James McMurtry - The Black Dog and the Wandering Boy
+DESCRIPTION:“One of America’s greatest living songwriters.” (Rolling Stone) Texas-based songwriter and guitarist James McMurtry is a supremely insightful and inventive storyteller whose fans include everyone from Stephen King to John Mellencamp. Funny and sad often in the same breath\, McMurtry teases vivid worlds out of small details\, crafting searingly honest lyrics set against a rock/Americana backdrop. His Ypsilanti Freighthouse debut draws from his 2025 album The Black Dog and the Wandering Boy. The story-songs on that album find inspiration in scraps from his family’s past: a rough pencil sketch by Ken Kesey that serves as the album cover; the hallucinations experienced by his father\, the legendary writer Larry McMurtry; an old poem by a family friend. “A solid smorgasbord of aging\, Americana\, and arrested development.” (The Austin Chronicle) \nTwo performances\, 7:00pm and 9:30pm \nPRESENTING SPONSOR\nMatt and Nicole Lester
+URL:https://theark.org/event/james-mcmurtry-the-black-dog-and-the-wandering-boy/2026-04-09/2/
+LOCATION:Ypsilanti Freighthouse\, 100 Market Pl\, Ypsilanti\, MI\, 48198\, United States
+CATEGORIES:Special Event
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2026/02/James-McMurtry-5-by-Mary-Keating-Bruton-PREFERRED-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260410T200000
+DTEND;TZID=America/Detroit:20260410T230000
+DTSTAMP:20260313T233702
+CREATED:20260129T150020Z
+LAST-MODIFIED:20260128T174116Z
+UID:10001159-1775851200-1775862000@theark.org
+SUMMARY:Brian Vander Ark
+DESCRIPTION:Brian Vander Ark is the lead singer and principal songwriter for the multi-platinum alternative rock band The Verve Pipe\, recognized worldwide for their radio hits Photograph\, Hero\, Happiness Is\, Never Let You Down\, and the #1 smash single The Freshmen. \nDuring breaks from his work with The Verve Pipe\, Brian set out on his own to launch a multifaceted solo career that has included releasing four acclaimed independent studio albums – Resurrection\, Angel Put Your Face On\, Brian Vander Ark and Magazine as well as his collections of cover songs called Planet Sunday Sessions\, Volume 1 & II. He’s also collaborated with actor/musician Jeff Daniels on the Simple Truths\, an album of original Americana songs while continuing to write and record original music with The Verve Pipe\, including their most recent independent album\, Threads.
+URL:https://theark.org/event/brian-vander-ark-260410/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2026/01/Photo-Credit-Jamie-Geysbeek-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260411T200000
+DTEND;TZID=America/Detroit:20260411T230000
+DTSTAMP:20260313T233702
+CREATED:20251001T134050Z
+LAST-MODIFIED:20251001T142909Z
+UID:10001046-1775937600-1775948400@theark.org
+SUMMARY:Penny and Sparrow
+DESCRIPTION:Ticket prices on our website reflect all-in pricing for purchases made online or by phone.  This means the price you see includes the ticket price plus MUTO’s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nA wise wizard once said: “when in doubt\, always follow your nose.”  \nThe last album from Penny and Sparrow\, Olly Olly\, was a work of revelation and liberation. A search for and an embrace of the self. I imagine they were left with a headscratcher of a question: well\, shit. Where do you go from there? \nFortunately\, they listened to the wizard and followed their noses backwards to find their way forward.  \nAiming to strip away pretense and invite experimentation\, they commandeered a garden shed from a friend and retrofitted it to make a twenty-track album that is vast\, weird\, and wholly unexpected.  \nIf Lefty is anything\, it is the journal of Penny and Sparrow’s inner child. Dog-eared\, lock busted open. On its pages the sketches of dreams\, nightmares\, erotica\, and literary fan fiction graffiti the margins of poetry\, elegies\, and love letters in the wild colors of saxophone blue\, electronic pink\, and blood harmony red.  \nBeautifully varied and richly rendered\, it is an album that wanders from theme to theme\, style to style\, exultation to tragedy. Yet it is never lost. If anything\, it is at play.  \nUnited by its intimate vocals and aching harmonies\, its acoustic laments trickle into ethereal pop only to surge into whimsical ballads and crest into grand hooligan anthems that sway gently down to familiar shores where melancholic ballads tell of love lost\, found\, forgotten\, and remembered.  \nAndy and Kyle have written some albums in blood. Others they’ve whispered to the sea. This one they danced in the sky with smiles on their faces. Lefty feels like not just a celebration of their journey beyond the bounds of their traditional genre\, but as if they have rediscovered the joy in music by honoring the sounds that inspired two boys growing up in Texas to one day make the damn stuff themselves. \n–Pierce Brown\, author and friend \nVIP includes:\nOne general admission ticket\nEarly entry into the venue\nAccess to an intimate pre-show soundcheck party (2-3 songs)\nQ&A with Penny & Sparrow\nLimited edition tour poster; autographed by Penny & Sparrow\nCrowd free merchandise shopping\nLimited availability \nEarly Entry includes:\nOne general admission ticket\nEarly entry into the venue\nLimited edition tour poster; autographed by Penny & Sparrow\nCrowd free merchandise shopping\nLimited availability
+URL:https://theark.org/event/penny-and-sparrow-260411/
+LOCATION:The Ark\, 316 S. Main\, Ann Arbor\, MI\, 48104\, United States
+ATTACH;FMTTYPE=image/jpeg:https://theark.org/wp-content/uploads/2025/10/61460002-1-scaled-e1759325861147.jpg
+END:VEVENT
+END:VCALENDAR
