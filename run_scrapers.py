@@ -41,6 +41,9 @@ def run_scraper(name: str, module) -> list[dict]:
     """Run a single scraper module. Returns events or [] on failure."""
     try:
         events = module.scrape()
+        if not isinstance(events, list):
+            logger.error(f"[{name}] scrape() returned {type(events).__name__}, expected list")
+            return []
         logger.info(f"[{name}] scraped {len(events)} events")
         return events
     except Exception as e:
