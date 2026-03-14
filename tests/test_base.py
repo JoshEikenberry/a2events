@@ -69,3 +69,46 @@ def test_slugify():
     assert slugify("Conor O'Neill's") == "conor-oneills"
     assert slugify("  extra  spaces  ") == "extra-spaces"
     assert slugify("Special! @#$ Chars") == "special-chars"
+
+
+from scrapers.base import parse_date, is_in_window, parse_ical_feed
+from datetime import date
+import responses as responses_lib
+
+
+def test_parse_date_iso():
+    assert parse_date("2026-03-15") == date(2026, 3, 15)
+
+
+def test_parse_date_human():
+    assert parse_date("March 15, 2026") == date(2026, 3, 15)
+    assert parse_date("Saturday, March 15, 2026") == date(2026, 3, 15)
+
+
+def test_parse_date_slash():
+    assert parse_date("03/15/2026") == date(2026, 3, 15)
+
+
+def test_parse_date_invalid():
+    assert parse_date("not a date") is None
+
+
+def test_is_in_window_today():
+    today = date.today()
+    assert is_in_window(today.isoformat()) is True
+
+
+def test_is_in_window_future_in_range():
+    from datetime import timedelta
+    future = date.today() + timedelta(days=15)
+    assert is_in_window(future.isoformat()) is True
+
+
+def test_is_in_window_too_far():
+    from datetime import timedelta
+    far = date.today() + timedelta(days=45)
+    assert is_in_window(far.isoformat()) is False
+
+
+def test_is_in_window_past():
+    assert is_in_window("2020-01-01") is False

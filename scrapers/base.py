@@ -2,8 +2,10 @@
 import re
 import time
 import logging
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from typing import Optional
+
+from dateutil import parser as dateutil_parser
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -95,3 +97,56 @@ class RateLimitedSession:
         response = self._session.get(url, timeout=15, **kwargs)
         response.raise_for_status()
         return response
+
+
+def parse_date(text: str) -> Optional[date]:
+    """Parse a date string in any common format. Returns None on failure."""
+    if not text:
+        return None
+    try:
+        return dateutil_parser.parse(text, fuzzy=True).date()
+    except (ValueError, OverflowError):
+        return None
+
+
+def is_in_window(date_str: str, window_days: int = WINDOW_DAYS) -> bool:
+    """Return True if date_str falls within today + window_days."""
+    parsed = parse_date(date_str)
+    if not parsed:
+        return False
+    today = date.today()
+    return today <= parsed <= today + timedelta(days=window_days)
+
+
+def parse_ical_feed(ical_bytes: bytes, source: str, category: str) -> list[dict]:
+    """Parse an iCal feed and return a list of event dicts within the window."""
+    from icalendar import Calendar
+    cal = Calendar.from_ical(ical_bytes)
+    events = []
+    for component in cal.walk():
+        if component.name != "VEVENT":
+            continue
+        dtstart = component.get("DTSTART")
+        if not dtstart:
+            continue
+        event_date = dtstart.dt
+        if hasattr(event_date, "date"):
+            event_date = event_date.date()
+        date_str = event_date.isoformat()
+        if not is_in_window(date_str):
+            continue
+        title = str(component.get("SUMMARY", "")).strip()
+        url = str(component.get("URL", "")).strip() or None
+        if not url or not title:
+            continue
+        events.append(make_event(
+            title=title,
+            date=date_str,
+            time=dtstart.dt.strftime("%I:%M %p").lstrip("0") if hasattr(dtstart.dt, "strftime") else "",
+            venue=str(component.get("LOCATION", "")).strip(),
+            url=url,
+            source=source,
+            category=category,
+            description=str(component.get("DESCRIPTION", "")).strip(),
+        ))
+    return events
