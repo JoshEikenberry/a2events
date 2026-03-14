@@ -153,7 +153,7 @@ def scrape() -> list[dict]:
 
 Shared utilities in `scrapers/base.py`:
 - `make_event(**kwargs) -> dict` — validates schema, generates `id` slug
-- HTTP session with retry logic and polite rate limiting
+- HTTP session with retry logic (3 retries, exponential backoff) and polite rate limiting (1–2 second delay between requests per domain)
 - Date/time parsing helpers
 - iCal feed parser helper
 
@@ -177,7 +177,7 @@ Handled in `merge.py` after all scrapers complete.
    - Venue name similarity — 30% weight
    - Time match — 10% weight
 3. Score ≥ 85%: merge into one event
-   - Keep the version with more detail (longer description, has image)
+   - Keep the version with more detail (longer description, has image); if detail level is equal, prefer the source whose venue name more closely matches the event title
    - Collect all source URLs into `also_listed_at`
 4. Score 70–85%: keep both events, set `possible_duplicate: true` on both
 5. Score < 70%: treat as distinct events
@@ -203,7 +203,7 @@ Single-page static site at `docs/index.html`. Vanilla HTML, CSS, and JavaScript 
 **GitHub Pages config:**
 - `docs/` folder served as site root
 - `docs/CNAME` for custom domain (optional)
-- `.gitignore` excludes `data/raw/` if desired (or keep for audit trail)
+- `data/raw/` is committed to the repo for audit trail (per-source JSON for each daily run)
 
 ---
 
@@ -234,6 +234,10 @@ jobs:
           git add docs/events.json data/raw/
           git diff --cached --quiet || git commit -m "chore: update events $(date -u +%Y-%m-%d)"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    permissions:
+      contents: write
 ```
 
 **Dependencies (requirements.txt):**
@@ -267,7 +271,7 @@ jobs:
 │   ├── observer.py
 │   └── eventbrite.py
 ├── data/
-│   └── raw/              # per-source JSON output (gitignored optional)
+│   └── raw/              # per-source JSON output (committed for audit trail)
 ├── docs/
 │   ├── index.html        # static frontend
 │   └── events.json       # merged/deduped events (committed daily)
@@ -281,4 +285,4 @@ jobs:
 
 ## Time Range
 
-Scrapers fetch events within a **rolling 30-day window** from today. Events outside this window are excluded from `events.json`. This keeps the payload small and the site focused on actionable upcoming events.
+Scrapers fetch events within a **rolling 30-day window** from today and pre-filter to that range before saving to `data/raw/`. `merge.py` trusts that per-source files are already date-filtered and does not re-apply the window. This keeps the payload small and the site focused on actionable upcoming events.
