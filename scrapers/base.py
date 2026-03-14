@@ -38,7 +38,7 @@ def make_event(
     image_url: Optional[str] = None,
 ) -> dict:
     """Build a validated event dict conforming to the event schema."""
-    if not url:
+    if not url or not url.strip():
         raise ValueError("url is required and must not be None or empty")
 
     event_id = f"{source}-{date}-{slugify(title)}"

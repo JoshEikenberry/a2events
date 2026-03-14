@@ -1,6 +1,5 @@
 # tests/test_base.py
 import pytest
-from datetime import date, datetime, timezone
 from scrapers.base import make_event, slugify
 
 
