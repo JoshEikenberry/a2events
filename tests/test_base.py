@@ -1,6 +1,7 @@
 # tests/test_base.py
 import pytest
-from scrapers.base import make_event, slugify
+from datetime import date, timedelta
+from scrapers.base import make_event, slugify, parse_date, is_in_window, parse_ical_feed
 
 
 def test_make_event_generates_id():
@@ -71,11 +72,6 @@ def test_slugify():
     assert slugify("Special! @#$ Chars") == "special-chars"
 
 
-from scrapers.base import parse_date, is_in_window, parse_ical_feed
-from datetime import date
-import responses as responses_lib
-
-
 def test_parse_date_iso():
     assert parse_date("2026-03-15") == date(2026, 3, 15)
 
@@ -99,16 +95,103 @@ def test_is_in_window_today():
 
 
 def test_is_in_window_future_in_range():
-    from datetime import timedelta
     future = date.today() + timedelta(days=15)
     assert is_in_window(future.isoformat()) is True
 
 
 def test_is_in_window_too_far():
-    from datetime import timedelta
     far = date.today() + timedelta(days=45)
     assert is_in_window(far.isoformat()) is False
 
 
 def test_is_in_window_past():
     assert is_in_window("2020-01-01") is False
+
+
+# ---------------------------------------------------------------------------
+# parse_ical_feed tests
+# ---------------------------------------------------------------------------
+
+def _make_ical(events_data: list[dict]) -> bytes:
+    """Build a minimal iCal feed from a list of dicts with keys: summary, dtstart, url, location, description."""
+    lines = ["BEGIN:VCALENDAR", "VERSION:2.0"]
+    for e in events_data:
+        lines += [
+            "BEGIN:VEVENT",
+            f"SUMMARY:{e['summary']}",
+            f"DTSTART:{e['dtstart']}",
+            f"URL:{e['url']}",
+            f"LOCATION:{e.get('location', '')}",
+            f"DESCRIPTION:{e.get('description', '')}",
+            "END:VEVENT",
+        ]
+    lines.append("END:VCALENDAR")
+    return "\r\n".join(lines).encode()
+
+
+def test_parse_ical_feed_returns_events_in_window():
+    future = date.today() + timedelta(days=5)
+    ical = _make_ical([{
+        "summary": "Jazz Night",
+        "dtstart": future.strftime("%Y%m%d"),
+        "url": "https://example.com/jazz",
+        "location": "Blue Llama",
+        "description": "A great jazz show",
+    }])
+    events = parse_ical_feed(ical, source="test", category="arts_culture")
+    assert len(events) == 1
+    assert events[0]["title"] == "Jazz Night"
+    assert events[0]["venue"] == "Blue Llama"
+    assert events[0]["url"] == "https://example.com/jazz"
+
+
+def test_parse_ical_feed_skips_out_of_window():
+    far_future = date.today() + timedelta(days=60)
+    ical = _make_ical([{
+        "summary": "Far Future Event",
+        "dtstart": far_future.strftime("%Y%m%d"),
+        "url": "https://example.com/far",
+    }])
+    events = parse_ical_feed(ical, source="test", category="arts_culture")
+    assert len(events) == 0
+
+
+def test_parse_ical_feed_skips_missing_url():
+    future = date.today() + timedelta(days=5)
+    lines = [
+        "BEGIN:VCALENDAR", "VERSION:2.0",
+        "BEGIN:VEVENT",
+        "SUMMARY:No URL Event",
+        f"DTSTART:{future.strftime('%Y%m%d')}",
+        "END:VEVENT",
+        "END:VCALENDAR",
+    ]
+    ical = "\r\n".join(lines).encode()
+    events = parse_ical_feed(ical, source="test", category="arts_culture")
+    assert len(events) == 0
+
+
+def test_parse_ical_feed_datetime_event_has_time():
+    future = date.today() + timedelta(days=5)
+    dtstart = future.strftime("%Y%m%d") + "T200000"  # 8 PM
+    ical = _make_ical([{
+        "summary": "Evening Show",
+        "dtstart": dtstart,
+        "url": "https://example.com/show",
+    }])
+    events = parse_ical_feed(ical, source="test", category="arts_culture")
+    assert len(events) == 1
+    assert events[0]["time"] != ""  # datetime event should have a time
+
+
+def test_parse_ical_feed_allday_event_has_empty_time():
+    future = date.today() + timedelta(days=5)
+    dtstart = future.strftime("%Y%m%d")  # all-day (date only)
+    ical = _make_ical([{
+        "summary": "All Day Event",
+        "dtstart": dtstart,
+        "url": "https://example.com/allday",
+    }])
+    events = parse_ical_feed(ical, source="test", category="arts_culture")
+    assert len(events) == 1
+    assert events[0]["time"] == ""  # all-day event should have empty time

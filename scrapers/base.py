@@ -142,7 +142,11 @@ def parse_ical_feed(ical_bytes: bytes, source: str, category: str) -> list[dict]
         events.append(make_event(
             title=title,
             date=date_str,
-            time=dtstart.dt.strftime("%I:%M %p").lstrip("0") if hasattr(dtstart.dt, "strftime") else "",
+            time=(
+                (lambda s: s[1:] if s[0] == "0" else s)(dtstart.dt.strftime("%I:%M %p"))
+                if isinstance(dtstart.dt, datetime)
+                else ""
+            ),
             venue=str(component.get("LOCATION", "")).strip(),
             url=url,
             source=source,
