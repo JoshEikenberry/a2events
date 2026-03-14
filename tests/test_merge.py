@@ -1,4 +1,6 @@
 # tests/test_merge.py
+import json
+from pathlib import Path
 import pytest
 from merge import compute_similarity, merge_events, load_raw_events
 
@@ -58,18 +60,20 @@ def test_merge_events_deduplicates_above_threshold():
 
 
 def test_merge_events_flags_possible_duplicates():
+    # Build events that score deterministically in the 70-84 range (~73.8)
+    # Same date, slightly different title ("Live" suffix), different venue
     events = [
-        make_test_event("The Ark Presents The War on Drugs Live", "2026-03-15", "The Ark",
+        make_test_event("War on Drugs Live", "2026-03-15", "The Ark",
                         source="ark", url="https://theark.org/1"),
-        make_test_event("War on Drugs", "2026-03-15", "Ark Ann Arbor",
+        make_test_event("War on Drugs", "2026-03-15", "Blind Pig",
                         source="eventbrite", url="https://eventbrite.com/1"),
     ]
     result = merge_events(events)
-    # Score should be 70-85 range — kept separate but flagged
-    # (exact behavior depends on score; test that at least one is flagged or merged)
+    # Score ~73.8: in flagging range — kept separate but both flagged
     assert len(result) in (1, 2)
     if len(result) == 2:
-        assert any(e["possible_duplicate"] for e in result)
+        assert result[0]["possible_duplicate"] is True
+        assert result[1]["possible_duplicate"] is True
 
 
 def test_merge_events_keeps_more_detailed():
@@ -90,3 +94,29 @@ def test_merge_events_preserves_distinct_events():
     ]
     result = merge_events(events)
     assert len(result) == 3
+
+
+def test_load_raw_events_missing_dir(tmp_path, monkeypatch):
+    import merge
+    monkeypatch.setattr(merge, "RAW_DIR", tmp_path / "nonexistent")
+    result = load_raw_events()
+    assert result == []
+
+
+def test_load_raw_events_reads_json_files(tmp_path, monkeypatch):
+    import merge
+    monkeypatch.setattr(merge, "RAW_DIR", tmp_path)
+    events = [{"id": "test-1", "title": "Event 1"}]
+    (tmp_path / "test.json").write_text(json.dumps(events))
+    result = load_raw_events()
+    assert result == events
+
+
+def test_load_raw_events_skips_malformed_json(tmp_path, monkeypatch):
+    import merge
+    monkeypatch.setattr(merge, "RAW_DIR", tmp_path)
+    (tmp_path / "good.json").write_text(json.dumps([{"id": "1"}]))
+    (tmp_path / "bad.json").write_text("not valid json")
+    result = load_raw_events()
+    assert len(result) == 1
+    assert result[0]["id"] == "1"

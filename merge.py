@@ -3,7 +3,6 @@ import json
 import logging
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Optional
 
 from rapidfuzz import fuzz
 
@@ -41,7 +40,6 @@ def _pick_better(a: dict, b: dict) -> tuple[dict, dict]:
 def merge_events(events: list[dict]) -> list[dict]:
     """Deduplicate events using fuzzy matching. Returns merged event list."""
     merged: list[dict] = []
-    used: set[str] = set()
 
     # Group by date for efficiency
     by_date: dict[str, list[dict]] = {}
@@ -62,14 +60,14 @@ def merge_events(events: list[dict]) -> list[dict]:
                 if score >= MERGE_THRESHOLD:
                     keeper, secondary = _pick_better(a, b)
                     keeper = dict(keeper)
-                    keeper["also_listed_at"] = list(keeper["also_listed_at"]) + [secondary["url"]]
+                    keeper["also_listed_at"] = list(keeper["also_listed_at"]) + [secondary["url"]] + list(secondary.get("also_listed_at", []))
                     a = keeper
                     day_used.add(secondary["id"])
                 elif score >= FLAG_THRESHOLD:
                     a = dict(a)
                     a["possible_duplicate"] = True
-                    b = dict(b)
-                    b["possible_duplicate"] = True
+                    day_events[j] = dict(day_events[j])
+                    day_events[j]["possible_duplicate"] = True
 
             if a["id"] not in day_used:
                 day_result.append(a)
