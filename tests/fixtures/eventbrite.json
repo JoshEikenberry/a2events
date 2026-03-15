@@ -1,0 +1,505 @@
+{
+  "events": {
+    "pagination": {
+      "object_count": 401,
+      "page_count": 21,
+      "page_number": 1,
+      "page_size": 20,
+      "continuation": "eyJwYWdlIjoyfQ"
+    },
+    "results": [
+      {
+        "locations": [
+          {
+            "type": "continent",
+            "id": "102191575",
+            "name": "North America"
+          },
+          {
+            "type": "country",
+            "id": "85633793",
+            "name": "United States"
+          },
+          {
+            "type": "region",
+            "id": "85688599",
+            "name": "Michigan"
+          },
+          {
+            "type": "county",
+            "id": "102083763",
+            "name": "Washtenaw"
+          },
+          {
+            "type": "localadmin",
+            "id": "404506537",
+            "name": "Ann Arbor"
+          },
+          {
+            "type": "locality",
+            "id": "85951859",
+            "name": "Ann Arbor"
+          },
+          {
+            "type": "neighbourhood",
+            "id": "85875909",
+            "name": "Northeast Area"
+          }
+        ],
+        "timezone": "America/Detroit",
+        "id": "1981347693287",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1981347693287",
+        "urgency_signals": {
+          "messages": [],
+          "categories": []
+        },
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "6471266981",
+        "dedup": {
+          "count": 1,
+          "hash": ""
+        },
+        "num_children": 1,
+        "debug_info": {},
+        "parent_url": null,
+        "hide_end_date": false,
+        "start_date": "2026-03-19",
+        "end_time": "15:30",
+        "_type": "destination_event",
+        "end_date": "2026-03-19",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/2004",
+            "display_name": "High Tech"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/102",
+            "display_name": "Science & Technology",
+            "localized": {
+              "display_name": "Science & Technology"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/16",
+            "display_name": "Tour"
+          }
+        ],
+        "eventbrite_event_id": "1981347693287",
+        "start_time": "14:00",
+        "full_description": null,
+        "image_id": "503505559",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "296090680",
+        "checkout_flow": "widget",
+        "series_id": null,
+        "name": "Michigan Engineering North Campus Tour (Full - Waitlist Only)",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/michigan-engineering-north-campus-tour-full-waitlist-only-tickets-1981347693287",
+        "hide_start_date": false,
+        "summary": "Join us on a walking tour for an up-close look at North Campus and the Michigan Engineering facilities.",
+        "is_online_event": false,
+        "eid": "1981347693287",
+        "published": "2026-01-22T16:39:43Z"
+      },
+      {
+        "locations": [
+          {
+            "type": "continent",
+            "id": "102191575",
+            "name": "North America"
+          },
+          {
+            "type": "country",
+            "id": "85633793",
+            "name": "United States"
+          },
+          {
+            "type": "region",
+            "id": "85688599",
+            "name": "Michigan"
+          },
+          {
+            "type": "county",
+            "id": "102083763",
+            "name": "Washtenaw"
+          },
+          {
+            "type": "localadmin",
+            "id": "404506537",
+            "name": "Ann Arbor"
+          },
+          {
+            "type": "locality",
+            "id": "85951859",
+            "name": "Ann Arbor"
+          },
+          {
+            "type": "neighbourhood",
+            "id": "85875909",
+            "name": "Northeast Area"
+          }
+        ],
+        "timezone": "America/Detroit",
+        "id": "1977721903452",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1977721903452",
+        "urgency_signals": {
+          "messages": [],
+          "categories": []
+        },
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "6471266981",
+        "dedup": {
+          "count": 1,
+          "hash": ""
+        },
+        "num_children": 1,
+        "debug_info": {},
+        "parent_url": null,
+        "hide_end_date": false,
+        "start_date": "2026-03-27",
+        "end_time": "11:30",
+        "_type": "destination_event",
+        "end_date": "2026-03-27",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/2004",
+            "display_name": "High Tech"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/102",
+            "display_name": "Science & Technology",
+            "localized": {
+              "display_name": "Science & Technology"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/16",
+            "display_name": "Tour"
+          }
+        ],
+        "eventbrite_event_id": "1977721903452",
+        "start_time": "10:00",
+        "full_description": null,
+        "image_id": "503505559",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "295604362",
+        "checkout_flow": "widget",
+        "series_id": null,
+        "name": "Michigan Engineering North Campus Tour (Full - Waitlist Only)",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/michigan-engineering-north-campus-tour-full-waitlist-only-tickets-1977721903452",
+        "hide_start_date": false,
+        "summary": "Join us on a walking tour for an up-close look at North Campus and the Michigan Engineering facilities.",
+        "is_online_event": false,
+        "eid": "1977721903452",
+        "published": "2025-12-12T17:30:11Z"
+      },
+      {
+        "locations": [
+          {
+            "type": "continent",
+            "id": "102191575",
+            "name": "North America"
+          },
+          {
+            "type": "country",
+            "id": "85633793",
+            "name": "United States"
+          },
+          {
+            "type": "region",
+            "id": "85688599",
+            "name": "Michigan"
+          },
+          {
+            "type": "county",
+            "id": "102083763",
+            "name": "Washtenaw"
+          },
+          {
+            "type": "localadmin",
+            "id": "404506537",
+            "name": "Ann Arbor"
+          },
+          {
+            "type": "locality",
+            "id": "85951859",
+            "name": "Ann Arbor"
+          },
+          {
+            "type": "neighbourhood",
+            "id": "85875909",
+            "name": "Northeast Area"
+          }
+        ],
+        "timezone": "America/Detroit",
+        "id": "1977721874365",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1977721874365",
+        "urgency_signals": {
+          "messages": [],
+          "categories": []
+        },
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "6471266981",
+        "dedup": {
+          "count": 1,
+          "hash": ""
+        },
+        "num_children": 1,
+        "debug_info": {},
+        "parent_url": null,
+        "hide_end_date": false,
+        "start_date": "2026-03-20",
+        "end_time": "11:30",
+        "_type": "destination_event",
+        "end_date": "2026-03-20",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/2004",
+            "display_name": "High Tech"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/102",
+            "display_name": "Science & Technology",
+            "localized": {
+              "display_name": "Science & Technology"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/16",
+            "display_name": "Tour"
+          }
+        ],
+        "eventbrite_event_id": "1977721874365",
+        "start_time": "10:00",
+        "full_description": null,
+        "image_id": "503505559",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "295604348",
+        "checkout_flow": "widget",
+        "series_id": null,
+        "name": "Michigan Engineering North Campus Tour (Full - Waitlist Only)",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/michigan-engineering-north-campus-tour-full-waitlist-only-tickets-1977721874365",
+        "hide_start_date": false,
+        "summary": "Join us on a walking tour for an up-close look at North Campus and the Michigan Engineering facilities.",
+        "is_online_event": false,
+        "eid": "1977721874365",
+        "published": "2025-12-12T17:30:10Z"
+      },
+      {
+        "locations": [
+          {
+            "type": "continent",
+            "id": "102191575",
+            "name": "North America"
+          },
+          {
+            "type": "country",
+            "id": "85633793",
+            "name": "United States"
+          },
+          {
+            "type": "region",
+            "id": "85688599",
+            "name": "Michigan"
+          },
+          {
+            "type": "county",
+            "id": "102083763",
+            "name": "Washtenaw"
+          },
+          {
+            "type": "localadmin",
+            "id": "404506537",
+            "name": "Ann Arbor"
+          },
+          {
+            "type": "locality",
+            "id": "85951859",
+            "name": "Ann Arbor"
+          },
+          {
+            "type": "neighbourhood",
+            "id": "85875909",
+            "name": "Northeast Area"
+          }
+        ],
+        "timezone": "America/Detroit",
+        "id": "1977721927524",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1977721927524",
+        "urgency_signals": {
+          "messages": [],
+          "categories": []
+        },
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "6471266981",
+        "dedup": {
+          "count": 1,
+          "hash": ""
+        },
+        "num_children": 1,
+        "debug_info": {},
+        "parent_url": null,
+        "hide_end_date": false,
+        "start_date": "2026-04-03",
+        "end_time": "11:30",
+        "_type": "destination_event",
+        "end_date": "2026-04-03",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/2004",
+            "display_name": "High Tech"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/102",
+            "display_name": "Science & Technology",
+            "localized": {
+              "display_name": "Science & Technology"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/16",
+            "display_name": "Tour"
+          }
+        ],
+        "eventbrite_event_id": "1977721927524",
+        "start_time": "10:00",
+        "full_description": null,
+        "image_id": "503505559",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "295604370",
+        "checkout_flow": "widget",
+        "series_id": null,
+        "name": "Michigan Engineering North Campus Tour (Full - Waitlist Only)",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/michigan-engineering-north-campus-tour-full-waitlist-only-tickets-1977721927524",
+        "hide_start_date": false,
+        "summary": "Join us on a walking tour for an up-close look at North Campus and the Michigan Engineering facilities.",
+        "is_online_event": false,
+        "eid": "1977721927524",
+        "published": "2025-12-12T17:30:11Z"
+      },
+      {
+        "locations": [
+          {
+            "type": "continent",
+            "id": "102191575",
+            "name": "North America"
+          },
+          {
+            "type": "country",
+            "id": "85633793",
+            "name": "United States"
+          },
+          {
+            "type": "region",
+            "id": "85688599",
+            "name": "Michigan"
+          },
+          {
+            "type": "county",
+            "id": "102083763",
+            "name": "Washtenaw"
+          },
+          {
+            "type": "localadmin",
+            "id": "404506537",
+            "name": "Ann Arbor"
+          },
+          {
+            "type": "locality",
+            "id": "85951859",
+            "name": "Ann Arbor"
+          },
+          {
+            "type": "neighbourhood",
+            "id": "85875909",
+            "name": "Northeast Area"
+          }
+        ],
+        "timezone": "America/Detroit",
+        "id": "1977721954605",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1977721954605",
+        "urgency_signals": {
+          "messages": [],
+          "categories": []
+        },
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "6471266981",
+        "dedup": {
+          "count": 1,
+          "hash": ""
+        },
+        "num_children": 1,
+        "debug_info": {},
+        "parent_url": null,
+        "hide_end_date": false,
+        "start_date": "2026-04-10",
+        "end_time": "11:30",
+        "_type": "destination_event",
+        "end_date": "2026-04-10",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/2004",
+            "display_name": "High Tech"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/102",
+            "display_name": "Science & Technology",
+            "localized": {
+              "display_name": "Science & Technology"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/16",
+            "display_name": "Tour"
+          }
+        ],
+        "eventbrite_event_id": "1977721954605",
+        "start_time": "10:00",
+        "full_description": null,
+        "image_id": "503505559",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "295604376",
+        "checkout_flow": "widget",
+        "series_id": null,
+        "name": "Michigan Engineering North Campus Tour (Full - Waitlist Only)",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/michigan-engineering-north-campus-tour-full-waitlist-only-tickets-1977721954605",
+        "hide_start_date": false,
+        "summary": "Join us on a walking tour for an up-close look at North Campus and the Michigan Engineering facilities.",
+        "is_online_event": false,
+        "eid": "1977721954605",
+        "published": "2025-12-12T17:30:11Z"
+      }
+    ]
+  },
+  "event_search": {
+    "q": "",
+    "dates": "current_future",
+    "bbox": "-84.3,42.2,-83.6,42.4",
+    "page_size": 20,
+    "page": 1
+  }
+}
