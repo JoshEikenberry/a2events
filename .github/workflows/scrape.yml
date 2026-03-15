@@ -1,0 +1,63 @@
+name: Scrape & Deploy
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Daily at 6 AM UTC
+  workflow_dispatch:        # Manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Run scrapers
+        run: python run_scrapers.py
+
+      - name: Merge events
+        run: python merge.py
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/events.json
+          git diff --staged --quiet || git commit -m "chore: update events [skip ci]"
+          git push
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main  # pick up commits pushed by scrape job
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
