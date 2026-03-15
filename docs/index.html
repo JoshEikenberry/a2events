@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>A2 Events — Ann Arbor &amp; Ypsilanti</title>
+  <style>
+
+    :root {
+      --bg: #f8f8f6; --surface: #ffffff; --border: #e2e2dc;
+      --text: #1a1a18; --muted: #6b6b65; --accent: #2d6a4f;
+      --accent-light: #d8f3dc; --arts: #6b4c9e; --arts-light: #ede7f6;
+      --community: #d4691e; --community-light: #fef3e2;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg); color: var(--text); line-height: 1.5; min-height: 100vh;
+    }
+    nav {
+      position: sticky; top: 0; z-index: 100; background: var(--surface);
+      border-bottom: 1px solid var(--border); padding: 0 1.5rem;
+      display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;
+    }
+    .nav-title { font-size: 1.1rem; font-weight: 700; color: var(--accent); white-space: nowrap; padding: 0.9rem 0; }
+    .nav-tabs { display: flex; gap: 0.25rem; padding: 0.5rem 0; }
+    .tab-btn {
+      background: none; border: 1px solid transparent; border-radius: 2rem;
+      padding: 0.35rem 1rem; font-size: 0.875rem; font-weight: 500; cursor: pointer;
+      color: var(--muted); transition: all 0.15s ease; white-space: nowrap;
+    }
+    .tab-btn:hover { background: var(--bg); color: var(--text); }
+    .tab-btn.active { background: var(--accent-light); border-color: var(--accent); color: var(--accent); }
+    .tab-btn.active.arts-tab { background: var(--arts-light); border-color: var(--arts); color: var(--arts); }
+    .tab-btn.active.community-tab { background: var(--community-light); border-color: var(--community); color: var(--community); }
+    .layout { display: grid; grid-template-columns: 260px 1fr; gap: 1.5rem; max-width: 1100px; margin: 0 auto; padding: 1.5rem; align-items: start; }
+    .sidebar { position: sticky; top: 60px; }
+    .calendar-widget { background: var(--surface); border: 1px solid var(--border); border-radius: 0.75rem; padding: 1rem; }
+    .calendar-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem; }
+    .calendar-month-label { font-size: 0.9rem; font-weight: 600; color: var(--text); }
+    .calendar-nav-btn {
+      background: none; border: 1px solid var(--border); border-radius: 0.375rem;
+      width: 1.75rem; height: 1.75rem; cursor: pointer; font-size: 0.9rem; color: var(--muted);
+      display: flex; align-items: center; justify-content: center; transition: all 0.15s ease;
+    }
+    .calendar-nav-btn:hover { background: var(--bg); color: var(--text); }
+    .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; }
+    .cal-day-name { text-align: center; font-size: 0.65rem; font-weight: 600; color: var(--muted); padding: 0.2rem 0; text-transform: uppercase; letter-spacing: 0.05em; }
+    .cal-day { position: relative; text-align: center; font-size: 0.8rem; padding: 0.3rem 0.2rem 0.5rem; border-radius: 0.375rem; cursor: default; color: var(--muted); transition: all 0.15s ease; }
+    .cal-day.in-month { color: var(--text); cursor: pointer; }
+    .cal-day.in-month:hover { background: var(--bg); }
+    .cal-day.today { font-weight: 700; color: var(--accent); background: var(--accent-light); }
+    .cal-day.today:hover { background: #c6eacb; }
+    .cal-day.selected { background: var(--accent) !important; color: #fff !important; font-weight: 600; }
+    .cal-day.has-events::after {
+      content: ""; position: absolute; bottom: 3px; left: 50%; transform: translateX(-50%);
+      width: 4px; height: 4px; border-radius: 50%; background: var(--accent);
+    }
+    .cal-day.selected::after { background: rgba(255,255,255,0.7); }
+    .clear-day-btn {
+      display: none; width: 100%; margin-top: 0.75rem; padding: 0.4rem; background: none;
+      border: 1px solid var(--border); border-radius: 0.375rem; font-size: 0.8rem;
+      color: var(--muted); cursor: pointer; transition: all 0.15s ease;
+    }
+    .clear-day-btn:hover { background: var(--bg); color: var(--text); }
+    .clear-day-btn.visible { display: block; }
+    .events-list { display: flex; flex-direction: column; gap: 0.75rem; }
+    .events-count { font-size: 0.85rem; color: var(--muted); padding: 0.25rem 0; }
+    .event-card {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 0.75rem;
+      display: flex; gap: 1rem; padding: 1rem 1.25rem;
+      transition: box-shadow 0.15s ease, border-color 0.15s ease;
+    }
+    .event-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.07); border-color: #ccc; }
+    .event-date-col { flex-shrink: 0; width: 3rem; text-align: center; padding-top: 0.1rem; }
+    .event-date-month { font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); }
+    .event-date-day { font-size: 1.6rem; font-weight: 700; line-height: 1; color: var(--text); }
+    .event-body { flex: 1; min-width: 0; }
+    .event-title { font-size: 1rem; font-weight: 600; margin-bottom: 0.25rem; line-height: 1.3; }
+    .event-title a { color: var(--text); text-decoration: none; }
+    .event-title a:hover { color: var(--accent); text-decoration: underline; }
+    .event-meta { font-size: 0.82rem; color: var(--muted); margin-bottom: 0.5rem; }
+    .badges { display: flex; flex-wrap: wrap; gap: 0.375rem; }
+    .badge { display: inline-block; padding: 0.2rem 0.6rem; border-radius: 2rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.02em; }
+    .badge.arts { background: var(--arts-light); color: var(--arts); }
+    .badge.community { background: var(--community-light); color: var(--community); }
+    .badge.tag { background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
+    .event-link-btn {
+      display: inline-block; margin-top: 0.5rem; padding: 0.3rem 0.75rem; font-size: 0.78rem;
+      font-weight: 500; border: 1px solid var(--border); border-radius: 0.375rem;
+      color: var(--muted); text-decoration: none; transition: all 0.15s ease;
+    }
+    .event-link-btn:hover { background: var(--bg); color: var(--text); border-color: #bbb; }
+    .state-message {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 0.75rem;
+      padding: 3rem 2rem; text-align: center; color: var(--muted);
+    }
+    .state-message h2 { font-size: 1.1rem; margin-bottom: 0.5rem; color: var(--text); }
+    .state-message.error h2 { color: #c0392b; }
+    @media (max-width: 720px) {
+      .layout { grid-template-columns: 1fr; padding: 1rem; gap: 1rem; }
+      .sidebar { display: none; }
+      nav { padding: 0 1rem; gap: 0.75rem; }
+      .nav-title { font-size: 0.95rem; }
+      .tab-btn { padding: 0.3rem 0.75rem; font-size: 0.8rem; }
+      .event-card { padding: 0.875rem 1rem; }
+    }
+
+  </style>
+</head>
+<body>
+
+<nav>
+  <span class="nav-title">A2 Events — Ann Arbor &amp; Ypsilanti</span>
+  <div class="nav-tabs">
+    <button class="tab-btn active" data-category="all">All</button>
+    <button class="tab-btn arts-tab" data-category="arts_culture">Arts &amp; Culture</button>
+    <button class="tab-btn community-tab" data-category="community">Community</button>
+  </div>
+</nav>
+
+<main class="layout">
+  <aside class="sidebar">
+    <div class="calendar-widget">
+      <div class="calendar-header">
+        <button class="calendar-nav-btn" id="cal-prev" aria-label="Previous month">‹</button>
+        <span class="calendar-month-label" id="cal-month-label"></span>
+        <button class="calendar-nav-btn" id="cal-next" aria-label="Next month">›</button>
+      </div>
+      <div class="calendar-grid" id="cal-grid"></div>
+      <button class="clear-day-btn" id="clear-day-btn">Clear day filter</button>
+    </div>
+  </aside>
+
+  <section class="events-list" id="events-list">
+    <div class="state-message">
+      <h2>Loading events…</h2>
+    </div>
+  </section>
+</main>
+
+<script>
+
+(function () {
+  "use strict";
+
+  var TODAY = new Date();
+  var todayStr = fmtIso(TODAY);
+  var allEvents = [];
+  var activeCategory = "all";
+  var selectedDay = null;
+  var calYear = TODAY.getFullYear();
+  var calMonth = TODAY.getMonth();
+
+  function pad2(n) { return String(n).padStart(2, "0"); }
+  function fmtIso(d) { return d.getFullYear() + "-" + pad2(d.getMonth() + 1) + "-" + pad2(d.getDate()); }
+  function isoYMD(y, m1, d) { return y + "-" + pad2(m1) + "-" + pad2(d); }
+  function parseDateLocal(s) { var p = s.split("-").map(Number); return new Date(p[0], p[1]-1, p[2]); }
+
+  function fmtMonthDay(ds) {
+    var d = parseDateLocal(ds);
+    var months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    return { month: months[d.getMonth()], day: d.getDate() };
+  }
+
+  function fmtMonthYear(year, month) {
+    var months = ["January","February","March","April","May","June",
+                  "July","August","September","October","November","December"];
+    return months[month] + " " + year;
+  }
+
+  function categoryLabel(cat) {
+    if (cat === "arts_culture") return "Arts \u0026 Culture";
+    if (cat === "community") return "Community";
+    return cat;
+  }
+
+  function categoryClass(cat) {
+    if (cat === "arts_culture") return "arts";
+    if (cat === "community") return "community";
+    return "";
+  }
+
+  // Safe DOM element builder - no innerHTML used
+  function el(tag, props, children) {
+    var node = document.createElement(tag);
+    if (props) {
+      Object.keys(props).forEach(function(k) {
+        if (k === "className") node.className = props[k];
+        else if (k === "textContent") node.textContent = props[k];
+        else if (k === "style") node.style.cssText = props[k];
+        else node.setAttribute(k, props[k]);
+      });
+    }
+    if (children) children.forEach(function(c) { if (c) node.appendChild(c); });
+    return node;
+  }
+
+  function clearEl(node) { while (node.firstChild) node.removeChild(node.firstChild); }
+
+  function getFiltered() {
+    return allEvents.filter(function(ev) {
+      if (activeCategory !== "all" && ev.category !== activeCategory) return false;
+      if (selectedDay && ev.date !== selectedDay) return false;
+      return true;
+    });
+  }
+
+  function renderEvents() {
+    var list = document.getElementById("events-list");
+    clearEl(list);
+    var filtered = getFiltered();
+
+    if (filtered.length === 0) {
+      list.appendChild(el("div", {className: "state-message"}, [
+        el("h2", {textContent: "No events found"}),
+        el("p", {textContent: "Try changing the category or selecting a different day."})
+      ]));
+      return;
+    }
+
+    list.appendChild(el("div", {
+      className: "events-count",
+      textContent: filtered.length + " event" + (filtered.length !== 1 ? "s" : "")
+    }));
+
+    filtered.forEach(function(ev) {
+      var md = fmtMonthDay(ev.date);
+      var catCls = categoryClass(ev.category);
+      var catLbl = categoryLabel(ev.category);
+
+      var dateCol = el("div", {className: "event-date-col"}, [
+        el("div", {className: "event-date-month", textContent: md.month}),
+        el("div", {className: "event-date-day", textContent: String(md.day)})
+      ]);
+
+      var metaParts = [];
+      if (ev.time) metaParts.push(ev.time);
+      if (ev.venue) metaParts.push(ev.venue);
+      if (ev.address) {
+        var ap = ev.address.split(",");
+        if (ap.length >= 2) metaParts.push(ap[1].trim());
+      }
+      var meta = el("div", {className: "event-meta", textContent: metaParts.join(" \u00b7 ")});
+
+      var titleChild = ev.url
+        ? el("a", {href: ev.url, target: "_blank", rel: "noopener noreferrer", textContent: ev.title || ""})
+        : el("span", {textContent: ev.title || ""});
+      var title = el("h3", {className: "event-title"}, [titleChild]);
+
+      var badgeList = [];
+      if (catCls) badgeList.push(el("span", {className: "badge " + catCls, textContent: catLbl}));
+      (ev.tags || []).forEach(function(t) {
+        badgeList.push(el("span", {className: "badge tag", textContent: t}));
+      });
+      var badges = el("div", {className: "badges"}, badgeList);
+
+      var bodyChildren = [title, meta, badges];
+      if (ev.url) {
+        bodyChildren.push(el("a", {
+          className: "event-link-btn",
+          href: ev.url,
+          target: "_blank",
+          rel: "noopener noreferrer",
+          textContent: "Details \u2192"
+        }));
+      }
+
+      list.appendChild(el("article", {className: "event-card"}, [
+        dateCol,
+        el("div", {className: "event-body"}, bodyChildren)
+      ]));
+    });
+  }
+
+  function getEventDays() {
+    var days = {};
+    allEvents.forEach(function(ev) { days[ev.date] = true; });
+    return days;
+  }
+
+  function renderCalendar() {
+    document.getElementById("cal-month-label").textContent = fmtMonthYear(calYear, calMonth);
+    var clearBtn = document.getElementById("clear-day-btn");
+    clearBtn.classList[selectedDay ? "add" : "remove"]("visible");
+
+    var grid = document.getElementById("cal-grid");
+    clearEl(grid);
+
+    ["Mo","Tu","We","Th","Fr","Sa","Su"].forEach(function(n) {
+      grid.appendChild(el("div", {className: "cal-day-name", textContent: n}));
+    });
+
+    var eventDays = getEventDays();
+    var firstDay = new Date(calYear, calMonth, 1);
+    var offset = (firstDay.getDay() + 6) % 7;
+    var daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
+
+    for (var i = 0; i < offset; i++) {
+      grid.appendChild(el("div", {className: "cal-day"}));
+    }
+
+    for (var d = 1; d <= daysInMonth; d++) {
+      var dateStr = isoYMD(calYear, calMonth + 1, d);
+      var classes = ["cal-day", "in-month"];
+      if (dateStr === todayStr) classes.push("today");
+      if (dateStr === selectedDay) classes.push("selected");
+      if (eventDays[dateStr]) classes.push("has-events");
+
+      var cell = el("div", {
+        className: classes.join(" "),
+        "data-date": dateStr,
+        role: "button",
+        tabindex: "0",
+        "aria-label": dateStr,
+        textContent: String(d)
+      });
+
+      (function(ds) {
+        cell.addEventListener("click", function() {
+          selectedDay = (selectedDay === ds) ? null : ds;
+          renderCalendar();
+          renderEvents();
+        });
+        cell.addEventListener("keydown", function(e) {
+          if (e.key === "Enter" || e.key === " ") { e.preventDefault(); cell.click(); }
+        });
+      })(dateStr);
+
+      grid.appendChild(cell);
+    }
+  }
+
+  function initTabs() {
+    document.querySelectorAll(".tab-btn").forEach(function(btn) {
+      btn.addEventListener("click", function() {
+        activeCategory = btn.dataset.category;
+        document.querySelectorAll(".tab-btn").forEach(function(b) { b.classList.remove("active"); });
+        btn.classList.add("active");
+        renderEvents();
+      });
+    });
+  }
+
+  function initCalNav() {
+    document.getElementById("cal-prev").addEventListener("click", function() {
+      calMonth -= 1;
+      if (calMonth < 0) { calMonth = 11; calYear -= 1; }
+      renderCalendar();
+    });
+    document.getElementById("cal-next").addEventListener("click", function() {
+      calMonth += 1;
+      if (calMonth > 11) { calMonth = 0; calYear += 1; }
+      renderCalendar();
+    });
+    document.getElementById("clear-day-btn").addEventListener("click", function() {
+      selectedDay = null;
+      renderCalendar();
+      renderEvents();
+    });
+  }
+
+  function init() {
+    initTabs();
+    initCalNav();
+    renderCalendar();
+
+    fetch("./events.json")
+      .then(function(res) {
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        return res.json();
+      })
+      .then(function(data) {
+        if (!Array.isArray(data)) throw new Error("events.json is not an array");
+        allEvents = data.slice().sort(function(a, b) {
+          return a.date < b.date ? -1 : a.date > b.date ? 1 : 0;
+        });
+        renderCalendar();
+        renderEvents();
+      })
+      .catch(function(err) {
+        var list = document.getElementById("events-list");
+        clearEl(list);
+        list.appendChild(el("div", {className: "state-message error"}, [
+          el("h2", {textContent: "Could not load events"}),
+          el("p", {textContent: String(err.message || "Unknown error")}),
+          el("p", {
+            style: "margin-top:0.5rem;font-size:0.82rem;",
+            textContent: "Serve this page over HTTP for fetch() to work."
+          })
+        ]));
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+
+</script>
+</body>
+</html>

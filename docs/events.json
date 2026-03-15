@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ark-2026-03-20-test-band",
+    "title": "Test Band Live",
+    "date": "2026-03-20",
+    "time": "8:00 PM",
+    "venue": "The Ark",
+    "address": "316 S Main St, Ann Arbor, MI",
+    "category": "arts_culture",
+    "tags": ["music"],
+    "description": "A great show",
+    "url": "https://theark.org",
+    "source": "ark",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-03-15T00:00:00Z"
+  },
+  {
+    "id": "observer-2026-03-22-community-event",
+    "title": "Community Meetup",
+    "date": "2026-03-22",
+    "time": "6:00 PM",
+    "venue": "Downtown Library",
+    "address": "343 S 5th Ave, Ann Arbor, MI",
+    "category": "community",
+    "tags": [],
+    "description": "",
+    "url": "https://annarborobserver.com",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-03-15T00:00:00Z"
+  }
+]
