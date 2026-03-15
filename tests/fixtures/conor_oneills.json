@@ -1,0 +1,56 @@
+{
+  "upcoming": [
+    {
+      "id": "fixture-pub-trivia-march-25",
+      "title": "Pub Trivia at 7:30pm",
+      "startDate": 1774465200000,
+      "endDate": 1774472400000,
+      "fullUrl": "/events/pub-trivia-march-25",
+      "urlId": "pub-trivia-march-25",
+      "excerpt": "<p>Join us for Trivia at 7:30 every Thursday at your favorite Irish pub in downtown Ann Arbor.</p>",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/5fb2ec3d767c4d6fc1204052/trivia.png"
+    },
+    {
+      "id": "fixture-traditional-irish-session-april-5",
+      "title": "Traditional Irish Session",
+      "startDate": 1775431800000,
+      "endDate": 1775443500000,
+      "fullUrl": "/events/traditional-irish-session-april-5",
+      "urlId": "traditional-irish-session-april-5",
+      "excerpt": "<p>Join us every Sunday for a traditional Irish session.</p>",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/5fb2ec3d767c4d6fc1204052/irish-session.png"
+    },
+    {
+      "id": "fixture-comedy-night-april-10",
+      "title": "Comedy Night at the Pub",
+      "startDate": 1775858400000,
+      "endDate": 1775869200000,
+      "fullUrl": "/events/comedy-night-april-10",
+      "urlId": "comedy-night-april-10",
+      "excerpt": "<p>Stand-up comedy night at Conor O'Neill's. Tickets available at the door.</p>",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/5fb2ec3d767c4d6fc1204052/comedy.png"
+    },
+    {
+      "id": "fixture-out-of-window-may-15",
+      "title": "Summer Kickoff Party",
+      "startDate": 1778871600000,
+      "endDate": 1778886000000,
+      "fullUrl": "/events/summer-kickoff-may-15",
+      "urlId": "summer-kickoff-may-15",
+      "excerpt": "<p>Kick off the summer with live music and specials.</p>",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/5fb2ec3d767c4d6fc1204052/summer.png"
+    }
+  ],
+  "past": [
+    {
+      "id": "fixture-st-practice-day",
+      "title": "St. Practice Day",
+      "startDate": 1773511200000,
+      "endDate": 1773546900000,
+      "fullUrl": "/events/st-practice-day",
+      "urlId": "st-practice-day",
+      "excerpt": "<p>Practice for St. Patrick's Day with live music, dancers, bagpipers, Irish food.</p>",
+      "assetUrl": "https://images.squarespace-cdn.com/content/v1/5fb2ec3d767c4d6fc1204052/st-practice.png"
+    }
+  ]
+}
