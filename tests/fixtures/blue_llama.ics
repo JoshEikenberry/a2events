@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Blue LLama - ECPv6.15.17.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Blue LLama
+X-ORIGINAL-URL:https://bluellamaclub.com
+X-WR-CALDESC:Events for Blue LLama
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Detroit
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260315T180000
+DTEND;TZID=America/Detroit:20260315T203000
+DTSTAMP:20260315T133426
+CREATED:20251217T180905Z
+LAST-MODIFIED:20260225T183253Z
+UID:10000206-1773597600-1773606600@bluellamaclub.com
+SUMMARY:Rick Roe Trio
+DESCRIPTION:Sun | Mar 15	\n\n	Sets at 6pm & 7:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Rick Roe is a jazz pianist\, composer\, performer\, and educator in the southeastern Michigan music community. He has produced and co-produced over a dozen recordings with original compositions and jazz classics with some of the most accomplished jazz musicians in the world.  \nMonkʼs Modern Music\, Rickʼs first recording on his RNR Unknown Records label\, has become highly regarded by many jazz greats around the world. It features Rodney Whitaker and Greg Hutchinson. His subsequent recordings have also received praise for his compositions and arrangements of jazz classics and popular culture hits.  \nHis teaching experience includes being an Assistant Professor of Jazz Studies and Jazz Piano at Michigan State University from 2001-2011\, and he has been a guest artist and clinician at the University of Arizona\, North Texas University\, the University of Nevada\, Las Vegas\, Juilliard Jazz in N.Y.\, and the University of Michigan.  \nRick has performed with jazz greats Wynton Marsalis\, Marcus Belgrave\, Frank Morgan\, Louis Hayes\, Clark Terry\, Louis Smith\, Rodney Whitaker\, Donald Walden\, Greg Hutchinson\, Karriem Riggins\, Robert Hurst\, Buster Williams\, Emily Remler\, Wycliffe Gordon\, Barbara Morrison\, Wess Anderson\, Jon Faddis\, Walter Blanding\, Randy Gelispie\, Ron Brooks\, George Davidson\, Wendall Harrison\, Vincent York\, Michael Dease\, Gerald Cleaver\, Frank Foster\, Joe Magnarelli\, Derrick Gardner\, Joe Farnsworth\, James Carter\, Jim Snidero\, Randy Napoleon\, Dwight Adams\, and many more.  \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/rick-roe-trio-3/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/08/rick-roe.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260318T190000
+DTEND;TZID=America/Detroit:20260318T213000
+DTSTAMP:20260315T133426
+CREATED:20251217T181619Z
+LAST-MODIFIED:20260119T173733Z
+UID:10000224-1773860400-1773869400@bluellamaclub.com
+SUMMARY:Lisa Sung Quartet
+DESCRIPTION:Wed | Mar 18\nSets 7pm & 8:30pm | $25 Cover \n RESERVE TABLE  \n\nAbout the Artist\nLisa Sung is an award-winning jazz educator and performer who received the highest artistic development award\, the John Sites Jazz Award\, in 2022. \nLisa has performed and recorded with Terell Stafford\, Rodney Whitaker\, Ron McClure\, Stafford Hunter\, Rob Smith\, Thomas Knific\, Diego Rivera\, Dmitri Methany\, Jordan VanHemert\, John Webber\, and many other prominent musicians. Lisa’s passion is to interpret Asian Melodie into jazz. Her latest album Half Moon consists of traditional Korean children’s songs. \nMs. Sung is an adjunct professor at Calvin University and Aquinas College. She also directs Calvin University’s jazz band and co-directs the gospel choir. This fall\, Ms. Sung began her Doctor of Musical Arts (DMA) program at the University of Michigan and was honored with the prestigious Rachem Merit Fellowship. Lisa studied at Temple University with Terell Stafford\, and Thomas Lawton\, and completed her graduate studies at NYU with Ron McClure\, and Don Friedman. \nShe was recently sponsored by JSJA and had a successful Indonesia\, Korea\, and Vietnam tour. Lisa Sung Trio was featured in CNN Indonesia\, where they played a variety of Indonesian Children’s Songs and music from Lisa Sung’s latest album Half Moon. Lisa’s quartet also performed Vietnamese Children’s Songs at the first International Jazz Festival in Nha Trang which was broadcast nationally. \n  RESERVE TABLE
+URL:https://bluellamaclub.com/event/lisa-sung-quartet/
+ATTACH;FMTTYPE=image/jpeg:https://bluellamaclub.com/wp-content/uploads/2025/07/lisa-sung-piano.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260319T190000
+DTEND;TZID=America/Detroit:20260319T220000
+DTSTAMP:20260315T133426
+CREATED:20251217T181708Z
+LAST-MODIFIED:20260119T173802Z
+UID:10000207-1773946800-1773957600@bluellamaclub.com
+SUMMARY:Randy Napoleon
+DESCRIPTION:THURS | Mar 19\nSets at 7pm and 8:30pm | $25 Cover \n RESERVE TABLE  \n\nAbout the Artist\nBorn in Brooklyn and raised in Ann Arbor\, Michigan\, Randy Napoleon began his journey in jazz immediately after finishing his studies at the University of Michigan. Jeff Hamilton of the Clayton-Hamilton Jazz Orchestra invited the young Napoleon to do a series of performances with them at the Hollywood Bowl. From there\, Napoleon’s career took off\, first touring with pianist Benny Green nationally and internationally for a year\, and then full time with the Clayton-Hamilton Jazz Orchestra. A three-year stint with crooner Michael Buble followed; Napoleon is featured on Buble’s Grammy-nominated CD “Caught in the Act.” \nGuitarist George Benson calls Napoleon “sensational.” Detroit Free Press critic Mark Stryker says Napoleon “plays with a gentle\, purring tone that makes you lean in close to hear its range of color and articulation.” Washington Post critic Mike Joyce praises his “exceptionally nimble finger-style technique.” Comparing him to Wes Montgomery\, music critic Michael G. Nastos says\, “he displays an even balance of swing\, soul\, and single-line or chord elements that mark an emerging voice dedicated to tradition and universally accessible jazz values.” \nNapoleon currently tours with the legendary singer/pianist\, Freddy Cole\, and is featured on Cole’s 2009 album\, “Live at Dizzy’s Club: The Dreamer in Me.” He is the main arranger and the guitarist on “Freddy Cole Sings Mr. B\,” a 2010 Grammy-nominated release from High Note that features songs from the Billy Eckstine song book\, as well as on “Talk to Me\,” Cole’s 2011 album\, and Cole’s most recent album “This and That.” \nToday\, Napoleon is one of the most sought-after guitarists in New York\, where he is known as a forward-thinking musician with a passion for the jazz guitar tradition. In addition to backing the best\, he leads his own bands\, an organ trio\, a trombone trio\, a quartet with piano\, and a three-horn sextet that includes organ\, drums\, trumpet\, tenor sax\, and trombone. \n  RESERVE TABLE
+URL:https://bluellamaclub.com/event/randy-napoleon/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/12/randy-napoleon.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260320T190000
+DTEND;TZID=America/Detroit:20260320T220000
+DTSTAMP:20260315T133426
+CREATED:20251226T170628Z
+LAST-MODIFIED:20260313T134736Z
+UID:10000208-1774033200-1774044000@bluellamaclub.com
+SUMMARY:Linda May Han Oh
+DESCRIPTION:Fri | Mar 20	\n\n	Doors 5:30pm Show 7pm\nDoors 8:30pm Show 9pm\n$95 Dinner & Show\n$50 Cover Only\n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Based in New York City\, GRAMMY award-winning Linda May Han Oh is a bassist/composer who has performed and recorded with artists such as Pat Metheny\, Kenny Barron\, Joe Lovano\, Dave Douglas\, Terri Lyne Carrington\, Steve Wilson\, Geri Allen and Vijay Iyer. \nBorn in Malaysia and raised in Boorloo (Perth)\, Western Australia\, she has received many awards including a 2022 Deutscher Jazz Preis and was voted the 2018-2021\, 2023-2025 Bassist of the Year by the Jazz Journalist’s Association\, as well 2022 Bassist of the Year in Jazztimes. Linda also was voted 2019 Bassist of the Year in Hothouse Magazine and was the 2020 recipient APRA award for Best New Jazz Work. In 2023 she received the prestigious Herb Albert Award for music and received an Honorary Doctorate from the Manhattan School of Music in 2024. \nLinda has had five releases as a leader which have received critical acclaim\, her latest – a quintet album entitled The Glass Hours on Biophilia Records. Her latest commissions include “Littoral Tales” a solo piano piece in two movements for Gloria Cheng\, and “Ephemeral Echoes” written for percussion trio and piano trio as well as “Mirrors and Shadows” written for piano and bass duo. \nLinda May Han Oh- bass\nFabian Almazan- piano/effects\nMark Whitfield Jnr- drums\nDinner & Show Menu:\nFirst Course:\nChilled White Asparagus: smoked trout\, dill-horseradish crème fraiche -Or-\nIcelandic Cod: remoulade\nMain Course:\nWild Striped Bass: “spring minestrone” -Or-\nBeef Tenderloin and Short Rib: cipollini\nDessert:\nFlourless Chocolate Cake: chantilly -Or-\nTiramisu: espresso ganache\n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/linda-may-han-oh/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/12/linda-may-han-oh.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260321T190000
+DTEND;TZID=America/Detroit:20260321T220000
+DTSTAMP:20260315T133426
+CREATED:20251217T182455Z
+LAST-MODIFIED:20260312T134058Z
+UID:10000209-1774119600-1774130400@bluellamaclub.com
+SUMMARY:Laura Simone Quintet
+DESCRIPTION:Sat | Mar 21	\n\n	Sets at 7pm and 9pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Ft. Trineice Robinson\nXavier Davis\nKevin Brewster\nNate Winn\nLaura-Simone is a 20-year-old bassist and vocalist who has performed at nationally acclaimed venues like the BBC Proms\, Carnegie Hall\, Blue Note at Sea\, the Kennedy Center\, Monterey Jazz Festival\, and more. She was a member of Marcus Miller’s five-person bass ensemble\, alongside Meshell Ndegeocello (a 12-time Grammy nominee)\, Aston Barrett Jr.\, and Mamadou Kouyaté\, for Steve McQueen’s art exhibit Bass-the director of 12 Years a Slave. \nShe was the 2024 fellowship winner of Living Jazz Camp which provided an intensive with Linda May Oh\, Allison Miller\, and Alicia Olatuja. She also was picked to be apart of Etienne Charle’s Afro-Carribean Big Band under Jas Aspen Academy. Past ensembles she has been apart of include Carnegie Hall’s National Youth Jazz Orchestra\, where she toured Europe and the U.S. with Sean Jones and 2x Grammy winning vocalist\, Dee Dee Bridgewater and Princeton University’s Creative Large Ensemble. \nIn her junior year of high school\, she merged her love for music and activism by founding the Queen Amina Music Program\, aimed at advancing the “women in jazz” movement. This program\, designed for 4th-8th grade instrumentalists at Lawrence Intermediate and Middle Schools\, teaches jazz history\, improvisation\, and modal progressions. Laura-Simone also secured grant funding to bring in guest artists\, host masterclasses\, and organize a public concert on March 15\, 2023\, featuring Grammy-nominated saxophonist and Oscar winner Tia Fuller. \nCurrently\, Laura-Simone is a junior at Michigan State University\, studying under renowned bassist Rodney Whitaker. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/laura-simone-quintet/
+ATTACH;FMTTYPE=image/jpeg:https://bluellamaclub.com/wp-content/uploads/2025/07/laura-simone.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260322T180000
+DTEND;TZID=America/Detroit:20260322T203000
+DTSTAMP:20260315T133426
+CREATED:20251217T182633Z
+LAST-MODIFIED:20260211T173430Z
+UID:10000223-1774202400-1774211400@bluellamaclub.com
+SUMMARY:Sunny Wilkinson Trio
+DESCRIPTION:Sun | Mar 22	\n\n	Sets 6pm & 7:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Sunny Wilkinson has taken her place in that elite group of jazz vocalists who have stretched the boundaries and found themselves “one of a kind.” \nSunny has sung with music icons such as The Count Basie Orchestra\, Rob McConnell and the Boss Brass\, Clark Terry\, Mark Murphy\, Milt Hinton\, Curtis Fuller and many more.  She has recorded four CDs as leader and numerous guest appearances. “Into the Light\,” her newest CD\, is all about family-not just Wilkinson’s immediate family\, but her extended musical family as well. Featuring her Michigan band\, Ron Newman on piano\, Ed Fedewa on Bass\, and Larry Ochiltree on Drums\, it comprises a stylistic mix of tunes that resonate with Wilkinson because of the stories they tell. The CD features her crystalline voice and impressive ability to convey the heart of a lyric with unadorned honesty. Look for it at CD baby\, Amazon.com. \nSunny has also made significant contributions in jazz education.  She was the head of the vocal jazz program at Michigan State University for eighteen years.  Presently she is adjunct faculty at Western Michigan University and an artist in residence at the University of Michigan. She developed a mentoring program for young women jazz musicians called “Sisters in Jazz” that was taken to an international level through IAJE.  Sunny is very proud of her former students\, many of whom are now the heads of vocal jazz programs at universities around the country and have successful careers as jazz performers and recording artists. \nAn inspirational voice in jazz\, Sunny has a rich stage history\, having performed at jazz festivals\, with symphony orchestras\, and at clubs and music programs across the country. \nLooking ahead\, Ms. Wilkinson is excited and passionate about continuing to share her unique sound with audiences and students everywhere. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/sunny-wilkinson-trio/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/12/sunny-wilkinson.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260325T190000
+DTEND;TZID=America/Detroit:20260325T213000
+DTSTAMP:20260315T133426
+CREATED:20251217T183533Z
+LAST-MODIFIED:20260119T174023Z
+UID:10000225-1774465200-1774474200@bluellamaclub.com
+SUMMARY:Gwenyth Hayes Trio
+DESCRIPTION:Wed | Mar 25\nSets 7pm & 8:30pm | $25 Cover \n RESERVE TABLE  \n\nAbout the Artist\n\nGwenyth Hayes\, a bassist\, song stylist\, vocalist\, and recording artist hailing from Ann Arbor\, captivates audiences throughout the Metro Detroit area with her distinctive performances. Gwenyth’s unique reinterpretations showcase a fusion of classic tunes and soulful covers & originals across various genres\, and are centered by her sultry vocals\, groove-infused bass lines\, and tight instrumental arrangements. \nSince 2012\, Gwenyth’s ensembles have graced numerous festivals and venues across Southeastern Michigan\, Chicago\, and Honolulu.  \nIn 2023\, Gwenyth was inducted as a fellow with the Amplify Fellowship based in Washtenaw\, a recognition that granted her valuable resources to begin finalizing her forthcoming recording project set for release in 2024. Alongside this\, Gwenyth is an active member of Detroit Bass Players and has been prominently featured in various publications. \nThroughout her musical journey\, she has served as a professional bassist\, lending support to fellow artists in the realms of blues\, pop\, and soul. Notable milestones in her career include opening for B.B. King alongside Murali Coryell\, the son of the late Larry Coryell\, and subsequently embarking on a tour with Murali. Additionally\, she graced the stage at The Chicago Blues Festival in both 2010 and 2013 with Quintus McCormick and Khalif “Wailin'” Walter. Her participation in the 2009 Detroit Blues Festival at Chene Park Amphitheater\, now recognized as the Aretha Franklin Park\, further underscores her impactful contributions. \nDuring her residency in Chicago from 2010 to 2013\, Gwenyth performed regularly as a blues bassists at renowned venues such as Buddy Guy’s Legends\, Kingston Mines\, and B.L.U.E.S. on Halsted\, with Alligator and Delmark Records recording artists Maurice John Vaughn\, Quintus McCormick\, & Toronzo Cannon. Later\, her musical pursuits extended to touring with Detroit Music Awarding winning recording artist Laura Rain and the Caesars and performing with other notable metro detroit artists. \nHer modern approach to music serves as a conduit for reinventing popular soul\, jazz\, soft rock\, and blues standards\, infusing them with a sensual and contemporary vibe. Gwenyth’s sound resonates with diverse audiences\, aiming to evoke nostalgia for many generations to come. \n\n  RESERVE TABLE
+URL:https://bluellamaclub.com/event/gwenyth-hayes-trio/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/12/gwenyth-hayes.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260327T190000
+DTEND;TZID=America/Detroit:20260327T213000
+DTSTAMP:20260315T133426
+CREATED:20251217T183857Z
+LAST-MODIFIED:20260119T174214Z
+UID:10000226-1774638000-1774647000@bluellamaclub.com
+SUMMARY:Sean Dobbins Organ Trio ft. Dana Badcock
+DESCRIPTION:Fri | Mar 27\nSets at 7pm & 9pm | $25 Cover \n RESERVE TABLE  \n\nAbout the Artist\nThe Sean Dobbins Organ TrioDana Badcock– VocalistJim Alfredson– OrganIan Blunden– GuitarSean Dobbins– Drums\, Leader \nSean Dobbins got his start as sought-after Detroit area jazz sideman at a young age\, when he would regularly play with Blue Note artist Louis Smith. As Sean’s Career progressed\, he found himself the recipient of many awards and accolades including the “Woody Herman Jazz Award”\, an award for outstanding musicianship\, as well as the Louis Armstrong Scholarship. Due to Sean’s great talent both as a player and an educator\, he has been the focus of countless news articles\, jazz radio programs\, and documentaries. \nThough still young by jazz standards\, Dobbins has amassed an impressive list of playing companions. He has performed/toured/recorded with Johnny Basset\, Benny Golson\, Dr. Lonnie Smith\, Frank Morgan\, Joey DeFrancesco\, George Cables\, James “Blood” Ulmer\, Marcus Belgrave\, Larry Willis\, Rodney Whittaker\, Claude Black\, Johnny O’Neal\, Paul Keller\, Tad Weed\, Kurt Krahnke\, Jon Hendricks\, David “Fathead” Newman\, Donald Walden\, Cyrus Chesnut\, Barry Harris\, David Baker\, Randy Johnston\, Marion Hayden\, Mose Allison\, and a host of other great musicians. \nSean’s sound can best be described as hard-driving\, solid rhythm with refreshing melodic sensibility. Some of Sean’s influences include Art Blakey\, Jeff Hamilton\, Jeff “Tain” Watts\, Ed Thigpen\, Sonny Payne\, as well as Detroit area greats Gerald Cleaver and the one and only Elvin Jones. \n  RESERVE TABLE
+URL:https://bluellamaclub.com/event/sean-dobbins-4/
+ATTACH;FMTTYPE=image/webp:https://bluellamaclub.com/wp-content/uploads/2025/06/SeanDobbinsBNW.jpg-sqLg.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260328T190000
+DTEND;TZID=America/Detroit:20260328T213000
+DTSTAMP:20260315T133426
+CREATED:20251217T184748Z
+LAST-MODIFIED:20260127T174826Z
+UID:10000227-1774724400-1774733400@bluellamaclub.com
+SUMMARY:Joan Belgrave
+DESCRIPTION:Sat | Mar 28\nSets 7pm & 9pm | $25 Cover \n RESERVE TABLE  \n\nAbout the Artist\nJOAN BELGRAVE is Detroit’s most noted Jazz singer. Known for her soothing voice\, Joan has performed at historic venues like Baker’s Keyboard Lounge\, The Jazz Cafe at The Music Hall\, The Dirty Dog Jazz Café\, The Fillmore Theatre\, Orchestra Hall\, and The Detroit Opera House. Nationally\, she has performed at famed Dizzy’s Club Coca-Cola in New York and The Metropolitan Room. And her international travels have taken her to The Toronto Jazz Festival\, Jazz à la Villette in Paris\, and The Ascona Jazz Festival in Switzerland. But she is so much more. \nIn addition to her trademark Jazz sound\, Joan has also sung Blues\, Gospel\, Big Band\, Standards\, and Contemporary R&B. Jazz Review Magazine in Toronto calls her “a class act and a beautiful talent.” Joan has produced 7 albums – five with her late husband\, legendary Jazz trumpeter\, Marcus Belgrave. She has also recorded tributes to Billie Holliday\, Ray Charles and Louis Armstrong. And she has worked with some of America’s leading Jazz singers and musicians like Regina Carter\, Charlie Gabriel\, Kirk Lightsey\, Geri Allen\, James Carter\, Don Was\, Carmen Lundy\, and Ali Jackson. \nKnown for clean notes\, vibrant melodies and vocal versatility\, Joan Belgrave is remarkable. \n  RESERVE TABLE
+URL:https://bluellamaclub.com/event/joan-belgrave/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/12/Joan-Belgrave.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260329T180000
+DTEND;TZID=America/Detroit:20260329T203000
+DTSTAMP:20260315T133426
+CREATED:20251217T203525Z
+LAST-MODIFIED:20260119T174453Z
+UID:10000228-1774807200-1774816200@bluellamaclub.com
+SUMMARY:Paul Vornhagen Quartet
+DESCRIPTION:Sun | Mar 29\nSets 6pm & 7:30pm | $25 Cover \n RESERVE TABLE  \n\nAbout the Artist\n“On the recent Paul Vornhagen Quartet release recorded live at the Blue LLama Jazz Club\, Vornhagen has a cool tone on tenor\, swinging away…and also an impressive flute player.” -LOS ANGELES JAZZ SCENE \nPaul VornHagen is an accomplished jazz saxophonist\, flutist\, and vocalist who has won Detroit Music Awards on six separate occasions and categories: Jazz Reeds\, Talent Deserving Wider Recognition\, Instrumentalist\, World Music Recording (2) and Jazz Recording.  Presently living in Ann Arbor\, Michigan where  Paul got his start on the flute in 1972 performing with the University of Michigan dance department as an accompanist.  Mostly self-taught initially\, he studied music at  City College Of San Francisco in 1978-79 followed by classes at the Washtenaw Community College in Ann Arbor.  He has since traveled far and wide from the shores of Hawaii and Mexico to the jazz clubs of San Francisco\, Chicago\, New York City\, Havana (Cuba)\, Paris (France)\, England and the US Virgin Islands. \n  RESERVE TABLE
+URL:https://bluellamaclub.com/event/paul-vornhagen-quartet-2/
+ATTACH;FMTTYPE=image/jpeg:https://bluellamaclub.com/wp-content/uploads/2025/07/IMG_9662.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260401T190000
+DTEND;TZID=America/Detroit:20260401T213000
+DTSTAMP:20260315T133426
+CREATED:20260226T151621Z
+LAST-MODIFIED:20260226T184917Z
+UID:10000287-1775070000-1775079000@bluellamaclub.com
+SUMMARY:Big Tent ft. Wayne Gerard
+DESCRIPTION:Wed | Apr 1	\n\n	Sets 7pm & 8:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n		https://bluellamaclub.com/wp-content/uploads/2026/02/WG_SHAPE_SOLO.mp4	\n\n			About the Artist	\n	Grammy-nominated guitarist Wayne Gerard leads Big Tent\, a groove-driven band rooted in funky\, danceable jazz and open improvisation. Joined by Dale Grisa\, John Barron\, Bobby Streng\, and Chaim Tolwin\, the group performs music by Herbie Hancock\, John Scofield\, and The Meters\, alongside Grateful Dead selections reimagined through a jazz lens. Their performances emphasize feel\, interaction\, and real-time musical direction\, with no two shows unfolding the same way. \nHis playing reflects a blues-informed\, groove-centered approach to jazz\, shaped as much by feel and phrasing as by traditional jazz vocabulary. \nHe has collaborated with Kem\, Patti Smith\, Wayne Kramer\, Bob James\, Lenny White\, and Geri Allen\, and is currently touring with Don Was and the Pan-Detroit Ensemble. With Big Tent\, he brings that same depth of experience into a live setting focused on groove\, risk-taking\, and connection between players and audience. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/big-tent-ft-wayne-gerard/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2026/02/Wayne-Gerard-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260402T190000
+DTEND;TZID=America/Detroit:20260402T210000
+DTSTAMP:20260315T133426
+CREATED:20260203T180927Z
+LAST-MODIFIED:20260203T180927Z
+UID:10000259-1775156400-1775163600@bluellamaclub.com
+SUMMARY:Ari and Cecil Alexander Quartet
+DESCRIPTION:THURS | Apr 2	\n\n	Sets 7pm & 8:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Ari and Cecil Alexander’s decade long musical collaboration has been brought to stages across the world such as the Lincoln Center and the Copenhagen jazz festival. A finalist in the 2019 Herbie Hancock Institute of Jazz International Guitar Competition\, Cecil has been hailed by Jazz Guitar Today as “carrying the torch into the future\,” and by Jazzwise as “a superb guitarist in the bop tradition\, with bags of taste\, swing and chops.” Holding a Scandinavian sensitivity to an American tradition\, Danish-American Ari Alexander is as equally a jazz musician as she is a singer-songwriter. She was inspired to pursue jazz by her vibrant musical family\, including her grandmother and great-aunt\, jazz vocalist Teddi King. Aarhus Jazz Festival described her 2025 performance as following: “Ari treats every note with great imagination\, and especially her mastery and playful use of scat singing sets her apart from other jazz vocalists. Together\, Ari and Cecil anchor a quartet and duo sound that is intimate\, dynamic\, and rhythmically alive. Their forthcoming album Kaleidoscope is set for release in April 2026\, and it features acrobatic\, energetic originals penned by Ari and Cecil as well as reconstructions of the Great American Songbook. \nCecil Alexander- Guitar\nAri Alexander- Vocal\nDanny McGonegle- Drums\nRob Linton- Bass\n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/ari-cecil-alexander-quartet/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2026/02/ari-cecil.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260403T160000
+DTEND;TZID=America/Detroit:20260403T180000
+DTSTAMP:20260315T133426
+CREATED:20260203T181338Z
+LAST-MODIFIED:20260203T181338Z
+UID:10000229-1775232000-1775239200@bluellamaclub.com
+SUMMARY:WEMU 5:01 Jazz Series: Dave Sharp Worlds Quartet
+DESCRIPTION:Fri | Apr 3	\n\n	Set 5:01pm | No Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Recognized in the Jazz Times Critic’s Poll\, the DAVE SHARP WORLDS QUARTET masterfully blends rhythms\, sounds\, and textures from across the globe with world music inspired original compositions. Featuring oud\, violin\, electric bass\, synthesizer and world percussion\, the WORLDS QUARTET is fueled by the spirit of jazz\, world music and dynamic exploratory improvisation. Bassist\, composer\, and bandleader Dave Sharp leads the WORLDS QUARTET to explore music traditions from Armenia\, India\, Turkey\, Egypt\, Ukraine\, Bulgaria and Greece. \nThe quartet has performed live at the JazzAscona Festival (Switzerland)\, the Detroit International Jazz Festival\, the Lansing Jazz Fest\, the Concert of Colors (Detroit)\, the Ann Arbor Summer Festival\, the Bach Music Festival (Kalamazoo)\, the Lansing Harmony Celebration and the Rasa Indian Arts Festival (Ann Arbor)\, as well as intimate venues such as the Alluvion (Traverse CIty) Kerrytown Concert House (Ann Arbor)\, Blue LLama Jazz Club\, Music Hall Jazz Cafe (Detroit)\, the Blue LLama Jazz Club (Ann Arbor) UrbanBeat Events Center (Lansing)\, the North Star Lounge (Ann Arbor) and the Riverfolk Music and Arts Blacksmith Shop Concert Series in Manchester. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/501-dave-sharp-worlds-quartet/
+ATTACH;FMTTYPE=image/webp:https://bluellamaclub.com/wp-content/uploads/2025/02/11-30-2023-Dave-Sharp-Worlds-Quartet-sq-thumb-for-PM.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260403T190000
+DTEND;TZID=America/Detroit:20260403T220000
+DTSTAMP:20260315T133426
+CREATED:20260129T153042Z
+LAST-MODIFIED:20260129T153042Z
+UID:10000249-1775242800-1775253600@bluellamaclub.com
+SUMMARY:Rodney Whitaker Group
+DESCRIPTION:Fri | Apr 3	\n\n	Sets at 7pm & 9pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Internationally renowned bassist and Mack Avenue recording artist\, Rodney Whitaker is one of the world’s renowned double bass performers\, educators\, mentors and is dedicated to inspiring and growing the next generation of jazz educators and musicians. \nA Detroit native\, he grew up in the city soaking in the sounds of jazz and classical music and working with the finest musicians in the city.  Building on his Detroit roots and enormous talent\, Whitaker went on to earn an international reputation as one of the world’s finest jazz double bass performers. He completed a seven-year tenure as bassist with the Wynton Marsalis’ Sextet\, the Lincoln Center Jazz Orchestra and has toured the world over the last twenty-six years\, collaborating with over 100+ legendary performing jazz artists and leading symphony orchestras across the world. \nFeatured on more than 100+ recordings – from film to compact discs – Whitaker’s film scores\, China\, directed by Jeff Wray\, was released on PBS Fall 2002 and Malaria and Malawi\, released on PBS Fall 2010. In 2011\, he was nominated for an EMMY for the ‘Original Music’ category\, “Malawi and Malaria: Fighting to Save the Children” produced by Robert Gould and Sue Carter.  Whitaker collaborated with musicians Phil Dwyer and Alan Jones on “Let Me Tell You About My Day\,” produced by Alma Records and was nominated for a Juno Award in 2006 for Traditional Jazz Album of the Year\, Canada’s equivalent to the United State of America’s Grammy. \nHe is a full professor of jazz double bass and director of jazz studies at Michigan State University where he has built one of the leading jazz degree granting programs offering both a bachelor’s and master’s degrees in Jazz Performance. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/rodney-whitaker-group-2/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/08/rodney-whitaker-group.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260404T190000
+DTEND;TZID=America/Detroit:20260404T220000
+DTSTAMP:20260315T133426
+CREATED:20260212T163849Z
+LAST-MODIFIED:20260312T202734Z
+UID:10000211-1775329200-1775340000@bluellamaclub.com
+SUMMARY:Tierney Sutton & Tamir Hendelman
+DESCRIPTION:Sat | Apr 4\nDoors 5:30pm Show 7pmDoors 8:30pm Show 9pm$95 Dinner & Show$50 Cover Only  RESERVE TABLE  \n\nAbout the Artist\n9-time Grammy® nominated jazz vocalist Tierney Sutton has received a “Best Jazz Vocal Album” Grammy® nod for every project she has released in the last decade. Known for her impeccable voice and imaginative treatments of The Great American Songbook\, Sutton is heralded for her abilities as both a jazz storyteller and her ability to use her voice as an instrument. Her 14 recordings as leader have addressed themes such as materialism (“Desire” 2009)\, the pursuit of happiness (“On The Other Side” 2007)\, as well as paying tribute to the music of Bill Evans (“Blue In Green” 2002)\, Frank Sinatra (“Dancing In The Dark” 2004)\, and pop icon Sting (“The Sting Variations” 2016). Her 2013 Joni Mitchell tribute\, “After Blue” featured keyboardist Larry Goldings\, drummer Peter Erskine\, jazz vocal legend Al Jarreau\, and NEA Jazz Master flautist Hubert Laws. \nIn May 2016 Tierney was approached by legendary Director Clint Eastwood. The original score to his box-office smash\, Sully\, was created by Tierney Sutton Band pianist\, Christian Jacob\, The Tierney Sutton Band and Clint Eastwood. The end-title song “Flying Home” features music by Eastwood and lyrics by Tierney Sutton and JB Eckl. It is performed by Tierney Sutton and The Tierney Sutton Band. \nWhen she is not performing\, Tierney is in demand as both a studio vocal producer and vocal educator. In 2016\, she worked with famed lyric soprano Natalie Dessay for Sony Classics’ “Pictures of America” and “Between Yesterday and Tomorrow”. \nTierney taught for over a decade at USC’s Thornton School of Music and spent 6 years as the Vocal Department Head at The Los Angeles College of Music in Pasadena\, CA. She has also taught and mentored some of the finest new generation of singers including Gretchen Parlato and Sara Gazarek. \n\n RESERVE TABLE
+URL:https://bluellamaclub.com/event/tierney-sutton-tamir-hendelman/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/12/tierney-sutton.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260405T180000
+DTEND;TZID=America/Detroit:20260405T203000
+DTSTAMP:20260315T133426
+CREATED:20260211T152917Z
+LAST-MODIFIED:20260211T152917Z
+UID:10000263-1775412000-1775421000@bluellamaclub.com
+SUMMARY:The Triumvirate
+DESCRIPTION:Sun | Apr 5	\n\n	Sets at 6pm and 7:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n\n			About the Artist	\n	The Triumvirate is an Ann Arbor based group featuring drummer Alex Sherk\, bassist Desmond Lorenz\, and pianist Zach Michalec. The group was formed while the members were attending high school together in Ann Arbor\, hailing from the Community High School jazz program. They have influences ranging from many eras of jazz\, with much of their focus on the Ray Brown trio\, the Bill Evans trio\, and the music of John Coltrane\, Miles Davis\, and Kenny Garret. Their show involves interactive arrangements of well-known jazz standards and original compositions built for a high-energy and hard swinging show. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/the-triumvirate-3/
+ATTACH;FMTTYPE=image/jpeg:https://bluellamaclub.com/wp-content/uploads/2025/08/IMG_4707.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260408T190000
+DTEND;TZID=America/Detroit:20260408T213000
+DTSTAMP:20260315T133426
+CREATED:20260202T192101Z
+LAST-MODIFIED:20260202T192101Z
+UID:10000260-1775674800-1775683800@bluellamaclub.com
+SUMMARY:Aya Sekine Trio
+DESCRIPTION:Wed | Apr 8	\n\n	Sets at 7pm and 8:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Japanese Jazz Pianist Aya Sekine\, with over three decades of cross-continental experience\, has solidified her position as one of Asia’s most illustrious Jazz figures. Recently\, Sekine has relocated to Detroit\, Michigan after being approved for an artist permanent residency (EB-1) in the United States based on her Extraordinary Ability. From her classical piano roots to prestigious stages in New York City and beyond\, Sekine’s journey is marked by a rich tapestry of experiences and seasoned expertise. Renowned for her unique style\, often hailed as genre-bending\, Sekine effortlessly weaves together traditional jazz and abstract expression\, infusing her music with a playful charm and a touch of mischief. Her performances capture audiences in with warmth and allure\, while she swings hard\, and adding her original colour to the classics. Whether collaborating with diverse artists or leading her own band\, Sekine’s magnetic stage presence and transcendent musical mixture continue to captivate audiences\, cementing her status as an iconic figure in the global jazz community. \nAya Sekine – Piano\nJaribu Shahid – Bass\nJonathan Barahal Taylor – Drums\n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/aya-sekine-trio-2/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/11/Aya-Sekine-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260409T190000
+DTEND;TZID=America/Detroit:20260409T213000
+DTSTAMP:20260315T133426
+CREATED:20260129T153159Z
+LAST-MODIFIED:20260305T213704Z
+UID:10000237-1775761200-1775770200@bluellamaclub.com
+SUMMARY:REDWOOD
+DESCRIPTION:THURS | Apr 9\nSets 7pm and 8:30pm | $25 Cover \n RESERVE TABLE  \n\nAbout the Artist\nA musician\, producer\, composer\, and recording artist\, REDWOOD was born Sequoia Snyder in Washington DC but spent her early childhood in Fort Myers\, Florida. She was heavily influenced by gospel\, R&B\, hip-hop funk\, soul\, and pop music while growing up. Upon returning to DC at 10 years old\, she began singing and eventually entered the prestigious Duke Ellington School of the Arts as a vocal major. \nBut she became enamored with the piano as a freshman and changed her major\, swiftly becoming an accomplished performer and leader. REDWOOD earned tremendous opportunities at Ellington\, including performances with legendary artists like Herbie Hancock\, Terence Blanchard\, Terell Stafford\, and DeeDee Bridgewater. \nA 2021 graduate of the Jazz Studies program at Michigan State University\, REDWOOD has been mentored by esteemed musicians like Rodney Whitaker\, Jason Moran\, Etienne Charles\, and Diego Rivera\, blending contemporary  jazz and other Black genres with sophisticated individuality. In 2022\, she performed with international Afrobeat star CKay in New York\, Miami\, Los Angeles and The Roots Picnic in Philadelphia. She also performed with Teri Lynne Carrington\, Patrice Rushen\, and Jazzmeia Horn\, as a Geri Allen Gathering Orchestra Fellow\, and appeared with the New York City Ballet.  \nREDWOOD’s multimedia piece on Black joy\, “Delight\,” won the Most Inspiring Performance Art Award at MSU’s 2021 Social Justice Festival. She won the Outstanding Piano award at the Lincoln Center’s Jack Rudin Jazz Competition in 2020\, and later performed alongside Kenny Barron and Cory Henry at NPR’s annual “A Jazz Piano Christmas” program. Her musical endeavors in 2019 included selection for the Kennedy Center’s Betty Carter Jazz Ahead residency; JAS Aspen Snowmass Academy (directed by Christian McBride); and DeeDee Bridgewater’s pilot program for emerging women musicians\, The Woodshed Network.  \nAt just 25 years old\, REDWOOD has covered remarkable ground in a short period of time\, with plans to go much farther. \n\n RESERVE TABLE
+URL:https://bluellamaclub.com/event/redwood-2/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/08/RedwoodCrop.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260410T160000
+DTEND;TZID=America/Detroit:20260410T183000
+DTSTAMP:20260315T133426
+CREATED:20260129T153444Z
+LAST-MODIFIED:20260312T202849Z
+UID:10000230-1775836800-1775845800@bluellamaclub.com
+SUMMARY:Swing Happy Hour: Kerrytown Stompers
+DESCRIPTION:Fri | Apr 10\n5:00 – 6:30pm | No Cover \n RESERVE TABLE  \n\nAbout the Artist\nThe Kerrytown Stompers are thrilled to return to the Blue Llama Jazz Club to bring Swingin’ “Hot Jazz”\, performed by an All-Star Sextet. Specializing in Early Jazz from 1917 to 1940\, you will hear\, see and feel the reason this music has become so important in American culture. This music is instantly uplifting and fun. Not to be missed! \nDave Kosmyna- cornetRay Heitger- clarinetChris Smith- tromboneChris Tabaczynski- bass saxophoneAlex Belhaj- guitarPete Siers- drums\, washboard \n\n RESERVE TABLE
+URL:https://bluellamaclub.com/event/swing-happy-hour-kerrytown-stompers-4/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/09/kerrytown-stompers.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260410T190000
+DTEND;TZID=America/Detroit:20260410T220000
+DTSTAMP:20260315T133426
+CREATED:20260129T153705Z
+LAST-MODIFIED:20260305T211821Z
+UID:10000250-1775847600-1775858400@bluellamaclub.com
+SUMMARY:Wendell Harrison Pharaoh Sanders Tribute
+DESCRIPTION:Fri | Apr 10\nSets 7pm & 9pm | $25 Cover \n RESERVE TABLE   \nAbout the Artist\nWendell Harrison is an award winning jazz guru who is known all over the world as a world class jazz clarinetist\, saxophonist\, composer\, recording artist and a jazz entrepreneur. Wendell was born in Detroit\, MI on October 1\, 1942. His early days in Detroit as a young musician stemmed from his elder school mates at Northwestern High School which included internationally known pianist Barry Harris\, trumpeter Lonnie Hillyar\, bassist James Hankins and drummer Roy Brooks. These are important world known jazz icons that encouraged and groomed him. \nWendell has garnered many awards which most recently including the 2024 Ron Brooks award from SEMJA\, 2021 Jazz Journalist Award\, 2018 Kresge Eminent Artist Award\, 2021 New Music USA\, 2020 Chamber Music USA to for his works as a cultural warrior and hero. Wendell is also a dynamic educator\, schooling students in jazz improvisation. Starting off with a few students in middle school\, they are now performing with him and training and teaching others about Jazz. \nWendell has over 30 recorded releases on the international Jazz market and he has authored two publications; The Be Boppers Method Books Volumes I & II which is invaluable aid to students studying jazz improvisation. Wendell also received a Masters Degree in Communications from Spring Arbor University in 2018 having a desire to continue learning. \n\n RESERVE TABLE
+URL:https://bluellamaclub.com/event/wendell-harrison/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2026/01/wendell-harrison.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260411T190000
+DTEND;TZID=America/Detroit:20260411T213000
+DTSTAMP:20260315T133426
+CREATED:20260129T153803Z
+LAST-MODIFIED:20260225T172339Z
+UID:10000231-1775934000-1775943000@bluellamaclub.com
+SUMMARY:Demetrius Nabors
+DESCRIPTION:Sat | Apr 11	\n\n	Sets 7pm & 8:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Demetrius “Krayon” Nabors is a prominent pianist\, composer\, producer\, and arranger\, celebrated in both the Detroit area and the national contemporary jazz scene. His music reflects a rich tapestry of influences\, including gospel\, jazz\, classical\, and blues\, all of which are evident in his compositions and performances. A two-time winner of the Detroit Music Award for Outstanding Gospel/Christian Musician\, Demetrius holds both Bachelor’s and Master’s Degrees in Jazz Studies from the University of Michigan. His talents have taken him to stages in Europe and Africa\, as well as to national television\, including a memorable appearance on the former “Arsenio Hall” show. \nHis exceptional skills have drawn the attention of numerous high-profile artists\, including R&B singer KEM\, flutist Althea Rene\, guitarist Tim Bowman\, and trumpeter Willie Bradley. Demetrius’s productions have achieved notable success on the Billboard charts\, including two #1 hits for KEM’s singles “Nobody” and “It’s You” (2014)\, a #2 for Willie Bradley’s “It’s On Now” (2020)\, a #5 for Althea Rene’s “Barbara Mae” (2019)\, and a #1 for Tim Bowman’s “Fireball” (2021). Additionally\, “Nobody” was nominated for Best Traditional R&B Performance at the 57th Grammy Awards. \nDemetrius’s discography features five critically acclaimed releases: “A Journey Within Part I” (2011)\, “Christmas with Krayon” (2012)\, “A Journey Within Part II” (2014)\, “Perseverance” (2021)\, and “Evolution EP” (2022). \nHe thrives on the energy of live performance\, a passion that shines through in his music and resonates deeply with his dedicated fan base. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/demetrius-nabors-1/
+ATTACH;FMTTYPE=image/webp:https://bluellamaclub.com/wp-content/uploads/2025/05/DemetriusNaborsBW1.jpg-sqLg.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260412T180000
+DTEND;TZID=America/Detroit:20260412T203000
+DTSTAMP:20260315T133426
+CREATED:20260223T172733Z
+LAST-MODIFIED:20260223T172733Z
+UID:10000275-1776016800-1776025800@bluellamaclub.com
+SUMMARY:Howard Alden Trio
+DESCRIPTION:Sun | Apr 12	\n\n	Sets 6pm & 7:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Howard Alden- Guitar\nRandy Napoleon- Guitar\nReuben Stump- Bass\nHoward Alden is widely considered by critics to be one of the premier jazz guitarists of his generation\, recognized for his “astonishing virtuosity and originality”. Born in Newport Beach\, California\, in 1958\, he began playing at age ten and was influenced by masters such as Barney Kessel\, Charlie Christian\, and Django Reinhardt. After playing professionally in Los Angeles\, he moved to New York City in 1982\, where he quickly became a sought-after soloist and accompanist for legendary artists like Dizzy Gillespie\, Woody Herman\, and Benny Carter. \nA defining aspect of Alden’s career is his mastery of the seven-string guitar\, which he began playing in 1992 following an inspirational collaboration with his hero\, George Van Eps. This instrument allows him a greater harmonic richness and range\, showcased across numerous recordings for the Concord Jazz label. \nAlden’s influence extends into popular culture and diverse musical genres:\n• Film: He played all the guitar solos and coached actor Sean Penn for the 1999 Woody Allen film Sweet and Lowdown.\n• Directing: In 2004\, he served as the musical director for the 50th-anniversary tour of the Newport Jazz Festival.\n• Collaborations: He has performed with a wide array of musicians\, ranging from violinists Mark O’Connor and Nigel Kennedy to rock icon Steve Miller.\nHis technical skill has earned him high praise from peers across genres\, with country legend Vince Gill calling him “the real deal” and fingerstyle virtuoso Leo Kottke describing one of his albums as “the best recording of the seven-string guitar I’ve ever heard” \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/howard-alden/
+ATTACH;FMTTYPE=image/jpeg:https://bluellamaclub.com/wp-content/uploads/2026/02/Howard-Alden.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260415T190000
+DTEND;TZID=America/Detroit:20260415T213000
+DTSTAMP:20260315T133426
+CREATED:20260211T153247Z
+LAST-MODIFIED:20260211T153247Z
+UID:10000264-1776279600-1776288600@bluellamaclub.com
+SUMMARY:Jonathan Barahal Taylor Quartet
+DESCRIPTION:Wed | Apr 15	\n\n	Sets at 7pm and 8:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n\n			About the Artist	\n	Jonathan Barahal Taylor is a Percussionist\, Composer\, and Improviser based in Detroit. An avid collaborator\, He co-leads a number of diverse projects\, Including the art-rock quartet saatjak\, Teiku\, which reimagines aurally transmitted ancestral Jewish melodies in a Creative Music context\, Root Beneath Bones\, a solo project for drums and electronics\, and Mover\, which performs a constantly shifting modular suite of Taylor’s compositions and graphic scores. \nTaylor has played with some of the most revered names in Jazz and Creative Music\, Including Wadada Leo Smith\, John Lindberg\, Tomeka Reid\, Angelica Sanchez\, Dave Liebman\, Michael Formanek\, Karl Berger\, and Jaribu Shahid\, and has performed at the DC Jazz Festival\, EdgeFest\, The Jazz Gallery In New York\, the Detroit Jazz Festival\, The Toronto Jazz Festival\, The International Association of Schools of Jazz Conference in Cape Town\, South Africa\, and in 2019 toured Japan with the art-rock band Throwaway. He attended the Banff Centre’s International Workshop for Jazz and Creative music under the direction of Vijay Iyer and Tyshawn Sorey in 2013 and 2018\, and maintains studies in Tabla and Hindustani Music with Sri Souma Kanti Mukerjee\, disciple of the late master of the Benares Gharana\, Pt. Chhote Lal Mishra. He is a graduate of the University of Michigan where he earned a BFA in Jazz and Contemplative Studies\, studying with Geri Allen\, Andrew Bishop\, Ellen Rowe\, Evan Chambers\, Mark Kirschenmann\, Michael Gould\, Stephen Rush\, and Sean Dobbins. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/jonathan-barahal-taylor-quartet-2/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/11/jonathon-barahal.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260416T173000
+DTEND;TZID=America/Detroit:20260416T190000
+DTSTAMP:20260315T133426
+CREATED:20260216T181013Z
+LAST-MODIFIED:20260216T181013Z
+UID:10000265-1776360600-1776366000@bluellamaclub.com
+SUMMARY:Max Bowen
+DESCRIPTION:Thurs | Apr 16	\n\n	Set at 6pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Max Bowen is a jazz guitarist based in southeast Michigan. Born and raised in Ann Arbor\, Max is an alumnus of Community High School’s award-winning jazz program. After receiving a BA in Philosophy from Lawrence University\, Max lived in Milwaukee where he performed with the WAMI nominated Match Stick\, the hip-hop collective Ruby Yacht and his trio. As part of Ruby Yacht\, Max opened for Future Islands during their 2017 North American tour. Returning to Ann Arbor in fall 2017\, Max completed a Masters of Music at the University of Michigan studying under Miles Okazaki. \nSince re-settling in Michigan\, Max has performed and/or recorded with Detroit luminaries such as Vincent Chandler\, Marion Hayden\, Leonard King\, and Musique Noire. Additionally\, Max teaches guitar privately\, focusing on music theory and improvisation. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/max-bowen/
+ATTACH;FMTTYPE=image/webp:https://bluellamaclub.com/wp-content/uploads/2025/06/MaxBowenBNW.jpg-sqLg.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260416T190000
+DTEND;TZID=America/Detroit:20260416T220000
+DTSTAMP:20260315T133426
+CREATED:20260209T173902Z
+LAST-MODIFIED:20260216T180848Z
+UID:10000261-1776366000-1776376800@bluellamaclub.com
+SUMMARY:El Khat
+DESCRIPTION:THURS | Apr 16	\n\n	Doors 8 | Show 8:30pm\n$85 Dinner & Show\n$40 Cover Only\n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	In 2019\, El Khat began honing their sound in garages and warehouses. Experimenting with DIY\, self-made instruments as an expression of a minimalist life philosophy-while remaining loyal to traditional Yemeni percussive roots-the three-piece developed a unique Arabic-Yemeni style. Although their detachment from any nation or flag is a driving force behind the group\, the heart of their music and heritage remains deeply rooted in Yemeni culture. The constant divisions created by war and migration have given rise to a reassembled identity\, one that resonates strongly throughout El Khat’s music. \nWith three albums behind and a fourth to be released in 2026\, El Khat continue to forge a sound that bridges past and present-keeping Yemeni culture alive while reimagining its future. \nEl Khat are:\nEyal el Wahab- Seer\, kearat\, pahit (self-made instruments)\, lead vocal\nLo tan Yaish- drum kit (self-made instruments)\, backing vocal\nYefet Hassan- Organ\, Percussion\, (self-made instruments)\, backing vocal\n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/el-khat/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2026/02/El-Khat-1.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260417T190000
+DTEND;TZID=America/Detroit:20260417T213000
+DTSTAMP:20260315T133426
+CREATED:20260129T153930Z
+LAST-MODIFIED:20260303T164426Z
+UID:10000232-1776452400-1776461400@bluellamaclub.com
+SUMMARY:Tiffany Gridiron Quintet
+DESCRIPTION:Fri | Apr 17	\n\n	Sets 7pm & 9pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Tiffany Gridiron is a gifted jazz vocalist and songwriter who radiates joy and generosity on stage\, even when singing the most haunting of songs. Her sultry vocals and playful approach have excited audiences in the United States\, Japan\, Finland and South Korea.   \nTiffany’s love of singing began as a child in her family church where both of her parents served as musicians. In her early twenties\, inspired by the debut album of Jill Scott\, Tiffany sought out voice lessons that serendipitously put her in contact with the amazing jazz vocalist and educator Sunny Wilkinson. Through jazz standards\, Sunny introduced Tiffany to a world of poetry and improvisation that would profoundly impact the rest of her life. Studying works of  Billie Holiday\, Ella Fitzgerald\, Sarah Vaughn and many other vocal legends helped Tiffany to find her own voice and style.  \nTiffany recorded five CDs of jazz standards\, released by SONY RECORDS in Japan that have featured such greats as pianists Hank Jones\, Tadataka Unno\, drummer Omar Hakim\, and many others.   \nIn 2019\, Tiffany’s longtime friend and collaborator Kris Johnson approached her about producing a project where her gifts as a songwriter could be featured.  The result was “From My Heart to Yours”\, Tiffany’s  most personal album to date. Released in September of 2023 on all digital platforms\, five of the album’s eight songs feature lyrics penned by Tiffany Gridiron and co-composed by Kris Johnson. Kris also arranged\, played trumpet and served as producer on the project\, with Brendon Davis (piano)\, Jonathan Muir-Cotton (bass)\, Nate Winn (drums)\, and Vivienne Smith (background vocals) also adding their breathtaking artistry to this material.  \nYou can now catch Tiffany at venues in the Midwest and East coast\, performing her originals\, jazz standards\, and other songs that explore the nuances of  the human condition. Her deep appreciation for music as a tool for healing\, inspires Tiffany  to use her voice to nurture connections between people and hearts. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/tiffany-gridiron-quintet/
+ATTACH;FMTTYPE=image/webp:https://bluellamaclub.com/wp-content/uploads/2025/06/TiffanyGridironBNW.jpg-sqLg.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260418T190000
+DTEND;TZID=America/Detroit:20260418T213000
+DTSTAMP:20260315T133426
+CREATED:20260217T195901Z
+LAST-MODIFIED:20260304T150641Z
+UID:10000238-1776538800-1776547800@bluellamaclub.com
+SUMMARY:Walter Smith III Trio
+DESCRIPTION:Sat | Apr 18	\n\n	Sets 7pm & 9pm \n$95 Dinner & Show\n$50 Cover Only\n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	From an early age\, Walter began taking music very seriously. “My first gig was playing at a McDonald’s in Houston with another saxophone player. I took a solo on “Blue Bossa.” It was terrible. People clapped\, and I figured if I could get away with that and get applause\, how could I fail?” \nAlthough it may appear Smith is a new voice on the scene\, he is widely recognized as an adept performer\, accomplished composer\, and inspired educator. Smith’s recent release\, return to casual\, garnered critical acclaim from audiences and critics alike. “return to casual [is] Smith’s deeply poised first album as a leader for Blue Note… The whole enterprise rings of cool sophistication in a small-group style that Smith and his contemporaries helped define… In that sense\, return to casual is not just a homecoming of sorts\, but also an emphatic confirmation.” In September of 2024\, Smith released his sophomore album for Blue Note Records\, “three of us are from Houston and Reuben is not”\, featuring a new offering of original music. \nSmith has developed under the wings of many of the music’s greats. Walter is/has been a member of several influential groups (recording and/or touring)\, including the Roy Haynes Fountain of Youth Band\, Terence Blanchard Quintet\, Eric Harland’s “Voyager”\, Bill Stewart Trio\, Jason Moran’s In My Mind: Monk at Town Hall\, Ambrose Akinmusire Quintet\, the Christian McBride “Situation”\, Marquis Hill “New Gospel Revisited”\, Gerald Clayton Quintet\, Christian Scott group\, and the Sean Jones Quintet to name a few. \nSmith has performed worldwide\, participating in virtually every international festival and famed venues such as Carnegie Hall\, the Village Vanguard\, and the Kennedy Center. In addition\, he has shared the stage and/or appeared on recordings with many important artists including Mulgrew Miller\, Billy Childs\, Terri Lyne Carrington\, Joe Lovano\, Herbie Hancock\, Maria Schneider\, Ron Carter\, Ralph Peterson\, and a host of others. To date\, Walter has appeared on over 100 recordings that have been released worldwide. \nOriginally from Houston\, TX\, Smith now resides in Boston\, MA\, and is Chair of Woodwinds at Berklee College of Music\, helping to prepare the next generation of young artists. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/walter-smith-trio/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2026/01/walter-smith.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260419T180000
+DTEND;TZID=America/Detroit:20260419T203000
+DTSTAMP:20260315T133426
+CREATED:20260129T154021Z
+LAST-MODIFIED:20260225T172221Z
+UID:10000239-1776621600-1776630600@bluellamaclub.com
+SUMMARY:Sarah D'Angelo & Cliff Monear
+DESCRIPTION:Sun | Apr 19	\n\n	Sets 6pm and 7:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Vocalist/clarinetist Sarah D’Angelo is a relative new-comer to Detroit’s jazz scene but she is quickly making new fans out of everyone who experiences her passionate and intelligent singing. Sarah’s warm personality and bright smile light up the stage and make an instant connection with audiences. Sarah always includes in her performances a bit of her excellent clarinet playing\, a talent and skill which makes her presentation even more special. \nCliff Monear is a jazz pianist based in Michigan\, known for his performances\, teaching\, and work with Steinway & Sons. He is the exclusive Steinway & Sons representative for the Michigan jazz community. He performs with his group\, The Cliff Monear Trio\, and also as a soloist and with other musicians. He teaches at Wayne State University. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/sarah-dangelo-cliff-monear-3/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/07/CliffMonearCliffMonear.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260422T190000
+DTEND;TZID=America/Detroit:20260422T213000
+DTSTAMP:20260315T133426
+CREATED:20260130T145514Z
+LAST-MODIFIED:20260130T145514Z
+UID:10000258-1776884400-1776893400@bluellamaclub.com
+SUMMARY:Aguankó
+DESCRIPTION:Wed | Apr 22	\n\n	Sets at 7pm and 8:30pm | $25 Cover \n			\n							RESERVE TABLE\n					\n			\n\n			About the Artist	\n	Aguanko is a Latin jazz septet from the Detroit area\, led by percussionist and composer Alberto Nacif. The band’s music is deeply rooted in Cuban jazz and features original compositions that blend jazz with Son-Salsa rhythms. Nacif\, who was born in Oaxaca\, Mexico\, began playing percussion at a young age and has studied with renowned Cuban masters. Aguanko has gained national and international recognition for their music\, including performances with prominent jazz musicians and multiple award nominations. \n\n				\n	\n			\n							RESERVE TABLE
+URL:https://bluellamaclub.com/event/aguanko-4/
+ATTACH;FMTTYPE=image/png:https://bluellamaclub.com/wp-content/uploads/2025/08/aguanko.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Detroit:20260423T190000
+DTEND;TZID=America/Detroit:20260423T220000
+DTSTAMP:20260315T133426
+CREATED:20260129T154111Z
+LAST-MODIFIED:20260203T182133Z
+UID:10000251-1776970800-1776981600@bluellamaclub.com
+SUMMARY:Sean Dobbins: Tribute to Stevie Wonder
+DESCRIPTION:Thurs | Apr 23\nSets at 7pm & 8:30pm | $25 Cover \n RESERVE TABLE   \nAbout the Artist\nSean Dobbins got his start as sought-after Detroit area jazz sideman at a young age\, when he would regularly play with Blue Note artist Louis Smith. As Sean’s Career progressed\, he found himself the recipient of many awards and accolades including the “Woody Herman Jazz Award”\, an award for outstanding musicianship\, as well as the Louis Armstrong Scholarship. Due to Sean’s great talent both as a player and an educator\, he has been the focus of countless news articles\, jazz radio programs\, and documentaries. \nThough still young by jazz standards\, Dobbins has amassed an impressive list of playing companions. He has performed/toured/recorded with Johnny Basset\, Benny Golson\, Dr. Lonnie Smith\, Frank Morgan\, Joey DeFrancesco\, George Cables\, James “Blood” Ulmer\, Marcus Belgrave\, Larry Willis\, Rodney Whittaker\, Claude Black\, Johnny O’Neal\, Paul Keller\, Tad Weed\, Kurt Krahnke\, Jon Hendricks\, David “Fathead” Newman\, Donald Walden\, Cyrus Chesnut\, Barry Harris\, David Baker\, Randy Johnston\, Marion Hayden\, Mose Allison\, and a host of other great musicians. \nSean’s sound can best be described as hard-driving\, solid rhythm with refreshing melodic sensibility. Some of Sean’s influences include Art Blakey\, Jeff Hamilton\, Jeff “Tain” Watts\, Ed Thigpen\, Sonny Payne\, as well as Detroit area greats Gerald Cleaver and the one and only Elvin Jones. \n\n RESERVE TABLE
+URL:https://bluellamaclub.com/event/sean-dobbins-5/
+ATTACH;FMTTYPE=image/webp:https://bluellamaclub.com/wp-content/uploads/2025/06/SeanDobbinsBNW.jpg-sqLg.webp
+END:VEVENT
+END:VCALENDAR
