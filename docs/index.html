@@ -11,6 +11,12 @@
       --text: #1a1a18; --muted: #6b6b65; --accent: #2d6a4f;
       --accent-light: #d8f3dc; --arts: #6b4c9e; --arts-light: #ede7f6;
       --community: #d4691e; --community-light: #fef3e2;
+      --city-a2: #1565c0; --city-a2-light: #e3f2fd;
+      --washtenaw: #00695c; --washtenaw-light: #e0f2f1;
+      --ypsilanti: #b71c1c; --ypsilanti-light: #ffebee;
+      --um: #ffcb05; --um-text: #00274c; --um-light: #fffde7;
+      --um-athletics: #00274c; --um-athletics-light: #e8eaf6;
+      --emu: #215732; --emu-light: #e8f5e9;
     }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -33,6 +39,12 @@
     .tab-btn.active { background: var(--accent-light); border-color: var(--accent); color: var(--accent); }
     .tab-btn.active.arts-tab { background: var(--arts-light); border-color: var(--arts); color: var(--arts); }
     .tab-btn.active.community-tab { background: var(--community-light); border-color: var(--community); color: var(--community); }
+    .tab-btn.active.city-a2-tab { background: var(--city-a2-light); border-color: var(--city-a2); color: var(--city-a2); }
+    .tab-btn.active.washtenaw-tab { background: var(--washtenaw-light); border-color: var(--washtenaw); color: var(--washtenaw); }
+    .tab-btn.active.ypsilanti-tab { background: var(--ypsilanti-light); border-color: var(--ypsilanti); color: var(--ypsilanti); }
+    .tab-btn.active.um-tab { background: var(--um); border-color: var(--um); color: var(--um-text); }
+    .tab-btn.active.um-athletics-tab { background: var(--um-athletics-light); border-color: var(--um-athletics); color: var(--um-athletics); }
+    .tab-btn.active.emu-tab { background: var(--emu-light); border-color: var(--emu); color: var(--emu); }
     .layout { display: grid; grid-template-columns: 260px 1fr; gap: 1.5rem; max-width: 1100px; margin: 0 auto; padding: 1.5rem; align-items: start; }
     .sidebar { position: sticky; top: 60px; }
     .calendar-widget { background: var(--surface); border: 1px solid var(--border); border-radius: 0.75rem; padding: 1rem; }
@@ -84,6 +96,13 @@
     .badge { display: inline-block; padding: 0.2rem 0.6rem; border-radius: 2rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.02em; }
     .badge.arts { background: var(--arts-light); color: var(--arts); }
     .badge.community { background: var(--community-light); color: var(--community); }
+    .badge.city-a2 { background: var(--city-a2-light); color: var(--city-a2); }
+    .badge.washtenaw { background: var(--washtenaw-light); color: var(--washtenaw); }
+    .badge.ypsilanti { background: var(--ypsilanti-light); color: var(--ypsilanti); }
+    .badge.um { background: var(--um); color: var(--um-text); }
+    .badge.um-athletics { background: var(--um-athletics-light); color: var(--um-athletics); }
+    .badge.emu { background: var(--emu-light); color: var(--emu); }
+    .badge.meeting { background: #fff3e0; color: #e65100; border: 1px solid #ffcc80; }
     .badge.tag { background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
     .event-link-btn {
       display: inline-block; margin-top: 0.5rem; padding: 0.3rem 0.75rem; font-size: 0.78rem;
@@ -97,6 +116,7 @@
     }
     .state-message h2 { font-size: 1.1rem; margin-bottom: 0.5rem; color: var(--text); }
     .state-message.error h2 { color: #c0392b; }
+    .tab-select { display: none; }
     @media (max-width: 720px) {
       .layout { grid-template-columns: 1fr; padding: 1rem; gap: 1rem; }
       .sidebar { display: none; }
@@ -104,6 +124,13 @@
       .nav-title { font-size: 0.95rem; }
       .tab-btn { padding: 0.3rem 0.75rem; font-size: 0.8rem; }
       .event-card { padding: 0.875rem 1rem; }
+      .nav-tabs { display: none; }
+      .tab-select {
+        display: block; padding: 0.4rem 0.75rem;
+        border: 1px solid var(--border); border-radius: 0.375rem;
+        font-size: 0.875rem; background: var(--surface); color: var(--text);
+        cursor: pointer;
+      }
     }
 
   </style>
@@ -116,7 +143,24 @@
     <button class="tab-btn active" data-category="all">All</button>
     <button class="tab-btn arts-tab" data-category="arts_culture">Arts &amp; Culture</button>
     <button class="tab-btn community-tab" data-category="community">Community</button>
+    <button class="tab-btn city-a2-tab" data-category="city_ann_arbor">City of A2</button>
+    <button class="tab-btn washtenaw-tab" data-category="washtenaw_county">Washtenaw Co.</button>
+    <button class="tab-btn ypsilanti-tab" data-category="ypsilanti">Ypsilanti</button>
+    <button class="tab-btn um-tab" data-category="university_of_michigan">U-M</button>
+    <button class="tab-btn um-athletics-tab" data-category="um_athletics">U-M Athletics</button>
+    <button class="tab-btn emu-tab" data-category="eastern_michigan">EMU</button>
   </div>
+  <select class="tab-select" id="tab-select" aria-label="Filter by category">
+    <option value="all">All</option>
+    <option value="arts_culture">Arts &amp; Culture</option>
+    <option value="community">Community</option>
+    <option value="city_ann_arbor">City of A2</option>
+    <option value="washtenaw_county">Washtenaw County</option>
+    <option value="ypsilanti">Ypsilanti</option>
+    <option value="university_of_michigan">U-M</option>
+    <option value="um_athletics">U-M Athletics</option>
+    <option value="eastern_michigan">EMU</option>
+  </select>
 </nav>
 
 <main class="layout">
@@ -170,15 +214,31 @@
   }
 
   function categoryLabel(cat) {
-    if (cat === "arts_culture") return "Arts \u0026 Culture";
-    if (cat === "community") return "Community";
-    return cat;
+    var labels = {
+      arts_culture: "Arts \u0026 Culture",
+      community: "Community",
+      city_ann_arbor: "City of A2",
+      washtenaw_county: "Washtenaw Co.",
+      ypsilanti: "Ypsilanti",
+      university_of_michigan: "U-M",
+      um_athletics: "U-M Athletics",
+      eastern_michigan: "EMU"
+    };
+    return labels[cat] || cat;
   }
 
   function categoryClass(cat) {
-    if (cat === "arts_culture") return "arts";
-    if (cat === "community") return "community";
-    return "";
+    var classes = {
+      arts_culture: "arts",
+      community: "community",
+      city_ann_arbor: "city-a2",
+      washtenaw_county: "washtenaw",
+      ypsilanti: "ypsilanti",
+      university_of_michigan: "um",
+      um_athletics: "um-athletics",
+      eastern_michigan: "emu"
+    };
+    return classes[cat] || "";
   }
 
   // Safe DOM element builder - no innerHTML used
@@ -250,7 +310,10 @@
 
       var badgeList = [];
       if (catCls) badgeList.push(el("span", {className: "badge " + catCls, textContent: catLbl}));
-      (ev.tags || []).forEach(function(t) {
+      if ((ev.tags || []).indexOf("public_meeting") !== -1) {
+        badgeList.push(el("span", {className: "badge meeting", textContent: "Meeting"}));
+      }
+      (ev.tags || []).filter(function(t) { return t !== "public_meeting"; }).forEach(function(t) {
         badgeList.push(el("span", {className: "badge tag", textContent: t}));
       });
       var badges = el("div", {className: "badges"}, badgeList);
@@ -337,9 +400,22 @@
         activeCategory = btn.dataset.category;
         document.querySelectorAll(".tab-btn").forEach(function(b) { b.classList.remove("active"); });
         btn.classList.add("active");
+        var sel = document.getElementById("tab-select");
+        if (sel) sel.value = activeCategory;
         renderEvents();
       });
     });
+
+    var tabSelect = document.getElementById("tab-select");
+    if (tabSelect) {
+      tabSelect.addEventListener("change", function() {
+        activeCategory = tabSelect.value;
+        document.querySelectorAll(".tab-btn").forEach(function(b) {
+          b.classList[b.dataset.category === activeCategory ? "add" : "remove"]("active");
+        });
+        renderEvents();
+      });
+    }
   }
 
   function initCalNav() {
