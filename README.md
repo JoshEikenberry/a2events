@@ -2,7 +2,7 @@
 
 A daily-updating public events calendar for Ann Arbor, Ypsilanti, and Washtenaw County. Aggregates events from 11 local venues and listing sites, deduplicates them, and publishes a static site updated every morning.
 
-**Live site:** `https://<username>.github.io/<repo>/`
+**Live site:** `https://josheikenberry.github.io/a2events/`
 
 ---
 
