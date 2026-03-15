@@ -1,0 +1,86 @@
+{
+  "data": {
+    "eventListings": {
+      "data": [
+        {
+          "id": "12401001",
+          "event": {
+            "title": "Blind Pig Saturday Electronic Night",
+            "date": "2026-03-21T00:00:00.000",
+            "startTime": "2026-03-21T22:00:00.000",
+            "venue": {
+              "name": "The Blind Pig",
+              "address": "208 S First St, Ann Arbor, MI 48104, USA"
+            },
+            "contentUrl": "/events/2401001",
+            "images": [
+              {
+                "filename": "https://images.ra.co/abc123def456abc123def456abc123def456abc1.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "id": "12401002",
+          "event": {
+            "title": "Necto Fridays: Deep House Sessions",
+            "date": "2026-03-27T00:00:00.000",
+            "startTime": "2026-03-27T21:00:00.000",
+            "venue": {
+              "name": "Necto Nightclub",
+              "address": "516 E Liberty St, Ann Arbor, MI 48104, United States"
+            },
+            "contentUrl": "/events/2401002",
+            "images": [
+              {
+                "filename": "https://images.ra.co/def456abc123def456abc123def456abc123def4.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "id": "12401003",
+          "event": {
+            "title": "Underground Techno Collective",
+            "date": "2026-04-04T00:00:00.000",
+            "startTime": "2026-04-04T23:00:00.000",
+            "venue": {
+              "name": "The Blind Pig",
+              "address": "208 S First St, Ann Arbor, MI 48104, USA"
+            },
+            "contentUrl": "/events/2401003",
+            "images": []
+          }
+        },
+        {
+          "id": "12401004",
+          "event": {
+            "title": "Detroit Techno Exports Live",
+            "date": "2020-01-01T00:00:00.000",
+            "startTime": "2020-01-01T22:00:00.000",
+            "venue": {
+              "name": "Some Old Venue",
+              "address": "123 Main St, Ann Arbor, MI 48104, USA"
+            },
+            "contentUrl": "/events/2401004",
+            "images": []
+          }
+        },
+        {
+          "id": "12401005",
+          "event": {
+            "title": "No URL Event",
+            "date": "2026-03-28T00:00:00.000",
+            "startTime": "2026-03-28T22:00:00.000",
+            "venue": {
+              "name": "Mystery Venue",
+              "address": "Ann Arbor, MI 48104"
+            },
+            "contentUrl": "",
+            "images": []
+          }
+        }
+      ]
+    }
+  }
+}
