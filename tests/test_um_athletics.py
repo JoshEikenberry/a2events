@@ -46,6 +46,15 @@ def test_url_fallback_for_events_without_url():
         events = scrape()
         for e in events:
             assert e["url"].startswith("http"), f"Empty or invalid URL: {e['url']}"
+        # Events from VEVENTs with URL fields should have event-specific URLs
+        explicit_url_events = [e for e in events if "/events/" in e["url"]]
+        assert len(explicit_url_events) >= 1, "Expected at least one event with an explicit event URL"
+        # Events from the no-URL VEVENT should use the fallback (schedule page)
+        fallback_events = [e for e in events if e["title"] == "Women's Basketball vs Penn State"]
+        assert len(fallback_events) >= 1, "Expected at least one no-URL event to be present"
+        for e in fallback_events:
+            assert e["url"].startswith("https://mgoblue.com/sports/"), \
+                f"Expected fallback schedule URL, got: {e['url']}"
 
 
 def test_events_have_sport_tag():

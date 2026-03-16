@@ -5,14 +5,14 @@ BEGIN:VEVENT
 SUMMARY:Football vs Michigan State
 DTSTART:20260320T190000Z
 DTEND:20260320T220000Z
-URL:https://mgoblue.com/sports/football/schedule
+URL:https://mgoblue.com/events/football/2026/3/20/football-vs-michigan-state
 LOCATION:Michigan Stadium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Men's Hockey vs Ohio State
 DTSTART:20260325T200000Z
 DTEND:20260325T230000Z
-URL:https://mgoblue.com/sports/mens-ice-hockey/schedule
+URL:https://mgoblue.com/events/hockey/2026/3/25/mens-hockey-vs-ohio-state
 LOCATION:Yost Ice Arena
 END:VEVENT
 BEGIN:VEVENT
