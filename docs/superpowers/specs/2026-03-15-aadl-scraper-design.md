@@ -43,8 +43,11 @@ h2.no-margin > a          → title text + href="/node/XXXXX"
 ```
 
 **Date/time format:** `"Monday March 16, 2026: 10:30am to 11:00am"`
-- Date parsed from the portion before the colon
-- Time parsed from the portion after the colon (take start time only)
+- Date parsed from the portion before the first `: ` (e.g. `"Monday March 16, 2026"`)
+- Time: take the start time from after the `: `, before ` to ` (e.g. `"10:30am"`); parse with `dateutil` and format as `"10:30 AM"` using `strftime("%I:%M %p").lstrip("0")` — matching the convention in other scrapers
+- If the line has no `: `, treat the whole line as a date and leave time as `""`
+
+**Venue extraction:** text after the `<br>` in `.node-body p`. If no `<br>` is present, venue falls back to `""`.
 
 **Venue:** text after the `<br>` in the `.node-body p` element.
 
@@ -90,13 +93,15 @@ This avoids fetching all ~16 pages when only the first few fall within the 30-da
 - At least 1 event with a venue
 - At least 1 event with an event-type tag
 
-**Tests (5):**
+**Tests (7):**
 
-1. `test_returns_list` — `scrape()` returns a list (mocked HTTP)
+1. `test_returns_list` — `scrape()` returns a list (mocked HTTP, single page)
 2. `test_source_and_category` — all events have `source="aadl"`, `category="community"`
 3. `test_in_window_filtering` — out-of-window event from fixture is excluded
 4. `test_required_fields` — all events have non-empty `title`, `date`, `url`, `source`, `category`
 5. `test_event_type_tag` — event with type label produces a normalized tag in `tags`
+6. `test_url_fallback` — event with missing href in fixture produces `url=FALLBACK_URL`
+7. `test_pagination_stops` — mock two pages: page 0 has in-window events, page 1 returns empty (0 rows); verify scraper fetches exactly 2 pages and stops
 
 ---
 
