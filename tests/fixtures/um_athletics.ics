@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//test//test//EN
+BEGIN:VEVENT
+SUMMARY:Football vs Michigan State
+DTSTART:20260320T190000Z
+DTEND:20260320T220000Z
+URL:https://mgoblue.com/sports/football/schedule
+LOCATION:Michigan Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men's Hockey vs Ohio State
+DTSTART:20260325T200000Z
+DTEND:20260325T230000Z
+URL:https://mgoblue.com/sports/mens-ice-hockey/schedule
+LOCATION:Yost Ice Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's Basketball vs Penn State
+DTSTART:20260322T140000Z
+DTEND:20260322T160000Z
+LOCATION:Crisler Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baseball vs Indiana
+DTSTART:20260620T130000Z
+DTEND:20260620T160000Z
+URL:https://mgoblue.com/sports/baseball/schedule
+LOCATION:Ray Fisher Stadium
+END:VEVENT
+END:VCALENDAR
