@@ -22,6 +22,12 @@ SCRAPER_NAMES = [
     "resident_advisor",
     "observer",
     "eventbrite",
+    "city_ann_arbor",
+    "washtenaw_county",
+    "ypsilanti",
+    "eastern_michigan",
+    "um_events",
+    "um_athletics",
 ]
 
 
