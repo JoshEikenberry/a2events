@@ -10,7 +10,7 @@ import logging
 import re
 from datetime import datetime, timezone, timedelta
 
-from scrapers.base import RateLimitedSession, make_event, is_in_window, parse_date
+from scrapers.base import RateLimitedSession, make_event, is_in_window, parse_date, WINDOW_DAYS
 
 logger = logging.getLogger(__name__)
 
@@ -19,26 +19,20 @@ CATEGORY = "washtenaw_county"
 FALLBACK_URL = "https://www.washtenaw.org/calendar"
 PORTAL_BASE = "https://washtenawcomi.portal.civicclerk.com/event"
 
-# Date window: fetch events from today through 30 days out
-_WINDOW_DAYS = 30
-
 MEETING_KEYWORDS = re.compile(
-    r"\b(council|commission|board|meeting|hearing)\b", re.IGNORECASE
+    r"\b(council|commission|board|committee|meeting|hearing)\b", re.IGNORECASE
 )
 
 
-def _build_api_url() -> str:
+def _build_api_params() -> dict:
     today = datetime.now(timezone.utc).date()
-    end = today + timedelta(days=_WINDOW_DAYS)
+    end = today + timedelta(days=WINDOW_DAYS)
     start_str = today.isoformat() + "T00:00:00Z"
     end_str = end.isoformat() + "T23:59:59Z"
-    filter_param = (
-        f"startDateTime ge {start_str} and startDateTime le {end_str}"
-    )
-    return (
-        "https://washtenawcomi.api.civicclerk.com/v1/Events"
-        f"?$filter={filter_param}&$orderby=startDateTime asc"
-    )
+    return {
+        "$filter": f"startDateTime ge {start_str} and startDateTime le {end_str}",
+        "$orderby": "startDateTime asc",
+    }
 
 
 def _parse_venue(event_location: dict | None) -> str:
@@ -57,10 +51,12 @@ def _parse_venue(event_location: dict | None) -> str:
 def scrape() -> list[dict]:
     """Fetch and parse Washtenaw County public meeting events from the CivicClerk API."""
     session = RateLimitedSession()
-    api_url = _build_api_url()
 
     try:
-        response = session.get(api_url)
+        response = session.get(
+            "https://washtenawcomi.api.civicclerk.com/v1/Events",
+            params=_build_api_params(),
+        )
         data = json.loads(response.text)
     except Exception as exc:
         logger.error("Failed to fetch Washtenaw County calendar: %s", exc)

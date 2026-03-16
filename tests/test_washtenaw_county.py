@@ -5,7 +5,7 @@ from scrapers.base import is_in_window
 
 FIXTURE = (Path(__file__).parent / "fixtures" / "washtenaw_county.html").read_text()
 
-MEETING_KEYWORDS = ["council", "commission", "board", "meeting", "hearing"]
+MEETING_KEYWORDS = ["council", "commission", "board", "committee", "meeting", "hearing"]
 
 
 def _mock_session(text):
