@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082272+00:00"
+    "scraped_at": "2026-03-16T04:22:43.070635+00:00"
   },
   {
     "id": "washtenaw_county-2026-03-18-board-of-commissioners-working-session",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082348+00:00"
+    "scraped_at": "2026-03-16T04:22:43.070769+00:00"
   },
   {
     "id": "washtenaw_county-2026-03-18-board-of-commissioners-meeting",
@@ -54,7 +54,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082404+00:00"
+    "scraped_at": "2026-03-16T04:22:43.070888+00:00"
   },
   {
     "id": "washtenaw_county-2026-03-24-wcers-regular-board-meeting",
@@ -73,7 +73,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082455+00:00"
+    "scraped_at": "2026-03-16T04:22:43.071003+00:00"
   },
   {
     "id": "washtenaw_county-2026-03-24-agricultural-lands-preservation-advisory-committee",
@@ -92,7 +92,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082506+00:00"
+    "scraped_at": "2026-03-16T04:22:43.071135+00:00"
   },
   {
     "id": "washtenaw_county-2026-03-25-continuum-of-care-board-march-meeting-in-person",
@@ -111,7 +111,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082557+00:00"
+    "scraped_at": "2026-03-16T04:22:43.071255+00:00"
   },
   {
     "id": "washtenaw_county-2026-04-02-historic-district-commission",
@@ -130,7 +130,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082606+00:00"
+    "scraped_at": "2026-03-16T04:22:43.071372+00:00"
   },
   {
     "id": "washtenaw_county-2026-04-06-natural-areas-technical-advisory-committee",
@@ -149,7 +149,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082654+00:00"
+    "scraped_at": "2026-03-16T04:22:43.071489+00:00"
   },
   {
     "id": "washtenaw_county-2026-04-07-coalition-for-action-on-remediation-of-dioxane-meeting",
@@ -168,7 +168,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082704+00:00"
+    "scraped_at": "2026-03-16T04:22:43.071601+00:00"
   },
   {
     "id": "washtenaw_county-2026-04-08-materials-management-planning-committee",
@@ -187,7 +187,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082752+00:00"
+    "scraped_at": "2026-03-16T04:22:43.071708+00:00"
   },
   {
     "id": "washtenaw_county-2026-04-09-brownfield-redevelopment-authority",
@@ -204,7 +204,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082798+00:00"
+    "scraped_at": "2026-03-16T04:22:43.071814+00:00"
   },
   {
     "id": "washtenaw_county-2026-04-14-parks-recreation-commission",
@@ -223,6 +223,25 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-16T03:05:19.082845+00:00"
+    "scraped_at": "2026-03-16T04:22:43.071921+00:00"
+  },
+  {
+    "id": "washtenaw_county-2026-04-15-board-of-public-works-april-2026-meeting",
+    "title": "Board of Public Works April 2026 Meeting",
+    "date": "2026-04-15",
+    "time": "8:30 AM",
+    "venue": "705 N Zeeb Rd, Conference Room 2010, Ann Arbor, MI",
+    "address": "",
+    "category": "washtenaw_county",
+    "tags": [
+      "public_meeting"
+    ],
+    "description": "",
+    "url": "https://washtenawcomi.portal.civicclerk.com/event/4018",
+    "source": "washtenaw_county",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-03-16T04:22:43.072027+00:00"
   }
 ]
