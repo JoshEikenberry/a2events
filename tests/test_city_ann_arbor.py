@@ -9,22 +9,26 @@ FIXTURE_PATH = Path(__file__).parent / "fixtures" / "city_ann_arbor.json"
 FIXTURE_DATA = json.loads(FIXTURE_PATH.read_text(encoding="utf-8"))
 
 
-def _mock_response(json_data):
-    """Build a mock requests.Response returning json_data."""
+def _mock_session(json_data):
+    """Build a mock RateLimitedSession whose .get() returns json_data."""
+    sess = MagicMock()
     resp = MagicMock()
     resp.json.return_value = json_data
     resp.raise_for_status.return_value = None
-    return resp
+    sess.get.return_value = resp
+    return sess
 
 
 def test_scrape_returns_list():
-    with patch("scrapers.city_ann_arbor.requests.get", return_value=_mock_response(FIXTURE_DATA)):
+    with patch("scrapers.city_ann_arbor.RateLimitedSession") as cls:
+        cls.return_value = _mock_session(FIXTURE_DATA)
         from scrapers.city_ann_arbor import scrape
         assert isinstance(scrape(), list)
 
 
 def test_events_source_and_category():
-    with patch("scrapers.city_ann_arbor.requests.get", return_value=_mock_response(FIXTURE_DATA)):
+    with patch("scrapers.city_ann_arbor.RateLimitedSession") as cls:
+        cls.return_value = _mock_session(FIXTURE_DATA)
         from scrapers.city_ann_arbor import scrape
         for e in scrape():
             assert e["source"] == "city_ann_arbor"
@@ -32,7 +36,8 @@ def test_events_source_and_category():
 
 
 def test_events_in_window():
-    with patch("scrapers.city_ann_arbor.requests.get", return_value=_mock_response(FIXTURE_DATA)):
+    with patch("scrapers.city_ann_arbor.RateLimitedSession") as cls:
+        cls.return_value = _mock_session(FIXTURE_DATA)
         from scrapers.city_ann_arbor import scrape
         events = scrape()
         assert len(events) >= 1, "Fixture must contain at least one in-window event"
@@ -41,7 +46,8 @@ def test_events_in_window():
 
 
 def test_events_have_required_fields():
-    with patch("scrapers.city_ann_arbor.requests.get", return_value=_mock_response(FIXTURE_DATA)):
+    with patch("scrapers.city_ann_arbor.RateLimitedSession") as cls:
+        cls.return_value = _mock_session(FIXTURE_DATA)
         from scrapers.city_ann_arbor import scrape
         events = scrape()
         assert len(events) >= 1, "Fixture must contain at least one in-window event"
@@ -54,7 +60,8 @@ def test_events_have_required_fields():
 
 
 def test_public_meeting_tag():
-    with patch("scrapers.city_ann_arbor.requests.get", return_value=_mock_response(FIXTURE_DATA)):
+    with patch("scrapers.city_ann_arbor.RateLimitedSession") as cls:
+        cls.return_value = _mock_session(FIXTURE_DATA)
         from scrapers.city_ann_arbor import scrape
         events = scrape()
         assert len(events) >= 1, "Fixture must contain at least one in-window event"

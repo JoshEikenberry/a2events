@@ -1,10 +1,9 @@
 """Scraper for City of Ann Arbor public calendar (a2gov.org via Trumba API)."""
 import logging
 import re
+from datetime import datetime
 
-import requests
-
-from scrapers.base import make_event, is_in_window, parse_date
+from scrapers.base import make_event, is_in_window, parse_date, RateLimitedSession
 
 logger = logging.getLogger(__name__)
 
@@ -25,8 +24,8 @@ def _is_meeting(title: str) -> bool:
 def scrape() -> list[dict]:
     """Fetch and parse City of Ann Arbor events from the Trumba JSON API."""
     try:
-        response = requests.get(TRUMBA_JSON_URL, timeout=15)
-        response.raise_for_status()
+        session = RateLimitedSession()
+        response = session.get(TRUMBA_JSON_URL)
         data = response.json()
     except Exception as exc:
         logger.error("Failed to fetch City of Ann Arbor calendar: %s", exc)
@@ -63,12 +62,8 @@ def scrape() -> list[dict]:
                 time_part = start_dt_str.split("T", 1)[1]
                 # Only include time if it's not midnight (allDay events)
                 if not item.get("allDay") and time_part and time_part != "00:00:00":
-                    try:
-                        from datetime import datetime
-                        dt = datetime.strptime(time_part, "%H:%M:%S")
-                        time_str = dt.strftime("%-I:%M %p").lstrip("0") or dt.strftime("%I:%M %p")
-                    except ValueError:
-                        time_str = time_part
+                    dt = datetime.strptime(time_part, "%H:%M:%S")
+                    time_str = dt.strftime("%I:%M %p").lstrip("0")
 
             url = (item.get("permaLinkUrl") or "").strip() or FALLBACK_URL
 
