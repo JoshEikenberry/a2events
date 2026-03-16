@@ -91,15 +91,19 @@ def scrape() -> list[dict]:
                 continue
 
             # Extract time
+            # CivicClerk appends Z but times are actually local Eastern — strip it
             time_str = ""
-            if "T" in start_dt_str:
-                time_part = start_dt_str.split("T", 1)[1].rstrip("Z")
-                if time_part and time_part != "00:00:00":
-                    try:
-                        dt = datetime.strptime(time_part, "%H:%M:%S")
-                        time_str = dt.strftime("%I:%M %p").lstrip("0")
-                    except ValueError:
-                        time_str = time_part
+            raw_dt = start_dt_str
+            if raw_dt:
+                raw_dt_local = raw_dt.rstrip("Z")
+                if "T" in raw_dt_local:
+                    time_part = raw_dt_local.split("T", 1)[1]
+                    if time_part and time_part != "00:00:00":
+                        try:
+                            dt = datetime.fromisoformat(raw_dt_local)
+                            time_str = dt.strftime("%I:%M %p").lstrip("0")
+                        except (ValueError, TypeError):
+                            pass
 
             event_id = item.get("id")
             if event_id:
