@@ -11,6 +11,8 @@ CATEGORY = "ypsilanti"
 EVENTS_URL = "https://www.cityofypsilanti.com/calendar"
 FALLBACK_URL = EVENTS_URL
 
+# Plain substring match (no \b word boundaries): the live site has titles like
+# "Administrative Hearings Bureau" where word boundaries fail on the trailing space in HTML.
 MEETING_KEYWORDS = re.compile(
     r"council|commission|board|meeting|hearing", re.IGNORECASE
 )
