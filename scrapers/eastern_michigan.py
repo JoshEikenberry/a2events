@@ -14,7 +14,6 @@ logger = logging.getLogger(__name__)
 SOURCE = "eastern_michigan"
 CATEGORY = "eastern_michigan"
 EVENTS_URL = "https://www.emich.edu/events/"
-FALLBACK_URL = EVENTS_URL
 
 
 def scrape() -> list[dict]:
@@ -24,7 +23,7 @@ def scrape() -> list[dict]:
         response = session.get(EVENTS_URL)
         soup = BeautifulSoup(response.text, "lxml")
     except Exception as exc:
-        logger.warning("eastern_michigan: failed to fetch events page: %s", exc)
+        logger.error("eastern_michigan: failed to fetch events page: %s", exc)
         return []
 
     events = []
@@ -52,11 +51,11 @@ def scrape() -> list[dict]:
 
             # Build URL from link href
             link_el = item.select_one(".lw_events_event_title a[href]")
-            url = link_el["href"] if link_el else FALLBACK_URL
+            url = link_el["href"] if link_el else EVENTS_URL
             if url and not url.startswith("http"):
                 url = "https://www.emich.edu" + url
             if not url:
-                url = FALLBACK_URL
+                url = EVENTS_URL
 
             # Venue from Localist location field
             venue_el = item.select_one(
