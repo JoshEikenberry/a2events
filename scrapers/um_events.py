@@ -54,7 +54,7 @@ def scrape() -> list[dict]:
             if not date_parsed or not is_in_window(date_parsed.isoformat()):
                 continue
 
-            url = (item.get("permalink") or item.get("website") or "").strip()
+            url = (item.get("permalink") or "").strip()
             if not url:
                 url = FALLBACK_URL
             if not url.startswith("http"):
