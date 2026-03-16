@@ -1,7 +1,6 @@
 """Scraper for University of Michigan events (events.umich.edu)."""
 import logging
-import requests
-from scrapers.base import make_event, is_in_window, parse_date
+from scrapers.base import make_event, is_in_window, parse_date, RateLimitedSession
 
 logger = logging.getLogger(__name__)
 
@@ -19,13 +18,8 @@ def scrape() -> list[dict]:
       event_title, date_start, time_start, location_name, description, permalink
     """
     try:
-        resp = requests.get(
-            API_URL,
-            params={"filter": "upcoming", "range": 30},
-            timeout=15,
-            headers={"User-Agent": "Mozilla/5.0 (compatible; A2EventsBot/1.0)"},
-        )
-        resp.raise_for_status()
+        session = RateLimitedSession()
+        resp = session.get(API_URL, params={"filter": "upcoming", "range": 30})
         data = resp.json()
     except Exception as exc:
         logger.error("Failed to fetch U-M events: %s", exc)

@@ -6,23 +6,25 @@ from scrapers.base import is_in_window
 FIXTURE = json.loads((Path(__file__).parent / "fixtures" / "um_events.json").read_text())
 
 
-def _mock_get(fixture_data):
-    mock_resp = MagicMock()
-    mock_resp.json.return_value = fixture_data
-    mock_resp.raise_for_status = MagicMock()
-    return mock_resp
+def _mock_session(json_data):
+    sess = MagicMock()
+    resp = MagicMock()
+    resp.json.return_value = json_data
+    resp.raise_for_status = MagicMock()
+    sess.get.return_value = resp
+    return sess
 
 
 def test_scrape_returns_list():
-    with patch("scrapers.um_events.requests.get") as mock_get:
-        mock_get.return_value = _mock_get(FIXTURE)
+    with patch("scrapers.um_events.RateLimitedSession") as cls:
+        cls.return_value = _mock_session(FIXTURE)
         from scrapers.um_events import scrape
         assert isinstance(scrape(), list)
 
 
 def test_events_source_and_category():
-    with patch("scrapers.um_events.requests.get") as mock_get:
-        mock_get.return_value = _mock_get(FIXTURE)
+    with patch("scrapers.um_events.RateLimitedSession") as cls:
+        cls.return_value = _mock_session(FIXTURE)
         from scrapers.um_events import scrape
         for e in scrape():
             assert e["source"] == "um_events"
@@ -30,8 +32,8 @@ def test_events_source_and_category():
 
 
 def test_events_in_window():
-    with patch("scrapers.um_events.requests.get") as mock_get:
-        mock_get.return_value = _mock_get(FIXTURE)
+    with patch("scrapers.um_events.RateLimitedSession") as cls:
+        cls.return_value = _mock_session(FIXTURE)
         from scrapers.um_events import scrape
         events = scrape()
         assert len(events) >= 1, "Fixture must contain at least one in-window event"
@@ -40,8 +42,8 @@ def test_events_in_window():
 
 
 def test_events_have_required_fields():
-    with patch("scrapers.um_events.requests.get") as mock_get:
-        mock_get.return_value = _mock_get(FIXTURE)
+    with patch("scrapers.um_events.RateLimitedSession") as cls:
+        cls.return_value = _mock_session(FIXTURE)
         from scrapers.um_events import scrape
         events = scrape()
         assert len(events) >= 1, "Fixture must contain at least one in-window event"
