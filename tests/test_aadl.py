@@ -1,6 +1,6 @@
 """Tests for the AADL (Ann Arbor District Library) events scraper."""
 from pathlib import Path
-from unittest.mock import patch, MagicMock, call
+from unittest.mock import patch, MagicMock
 
 from scrapers.base import is_in_window
 from scrapers.aadl import FALLBACK_URL
