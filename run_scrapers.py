@@ -28,6 +28,7 @@ SCRAPER_NAMES = [
     "eastern_michigan",
     "um_events",
     "um_athletics",
+    "aadl",
 ]
 
 
