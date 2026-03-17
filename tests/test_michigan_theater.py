@@ -1,4 +1,5 @@
 """Tests for the Michigan Theater (Marquee Arts) scraper."""
+import datetime
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 
@@ -6,6 +7,11 @@ from scrapers.base import is_in_window
 
 FIXTURE_PATH = Path(__file__).parent / "fixtures" / "michigan_theater.html"
 FIXTURE = FIXTURE_PATH.read_text(encoding="utf-8")
+
+# The fixture was captured on this date. Pinning "today" to the capture date
+# keeps in-window/out-of-window assertions correct forever, without needing
+# to update fixture dates as time passes.
+FIXTURE_DATE = datetime.date(2026, 4, 5)
 
 
 def _make_mock_session(text):
@@ -17,8 +23,15 @@ def _make_mock_session(text):
     return mock_sess
 
 
+def _patch_today():
+    """Patch scrapers.base.date.today() to return FIXTURE_DATE."""
+    mock_date = MagicMock(wraps=datetime.date)
+    mock_date.today.return_value = FIXTURE_DATE
+    return patch("scrapers.base.date", mock_date)
+
+
 def test_scrape_returns_list():
-    with patch("scrapers.michigan_theater.RateLimitedSession") as cls:
+    with _patch_today(), patch("scrapers.michigan_theater.RateLimitedSession") as cls:
         cls.return_value = _make_mock_session(FIXTURE)
         from scrapers.michigan_theater import scrape
         assert isinstance(scrape(), list)
@@ -26,7 +39,7 @@ def test_scrape_returns_list():
 
 def test_scrape_returns_events():
     """Fixture has 4 in-window events (3 Michigan Theater + 1 State Theatre with 3 showings)."""
-    with patch("scrapers.michigan_theater.RateLimitedSession") as cls:
+    with _patch_today(), patch("scrapers.michigan_theater.RateLimitedSession") as cls:
         cls.return_value = _make_mock_session(FIXTURE)
         from scrapers.michigan_theater import scrape
         events = scrape()
@@ -35,7 +48,7 @@ def test_scrape_returns_events():
 
 
 def test_scrape_source_and_category():
-    with patch("scrapers.michigan_theater.RateLimitedSession") as cls:
+    with _patch_today(), patch("scrapers.michigan_theater.RateLimitedSession") as cls:
         cls.return_value = _make_mock_session(FIXTURE)
         from scrapers.michigan_theater import scrape
         events = scrape()
@@ -45,7 +58,7 @@ def test_scrape_source_and_category():
 
 
 def test_scrape_events_in_window():
-    with patch("scrapers.michigan_theater.RateLimitedSession") as cls:
+    with _patch_today(), patch("scrapers.michigan_theater.RateLimitedSession") as cls:
         cls.return_value = _make_mock_session(FIXTURE)
         from scrapers.michigan_theater import scrape
         for e in scrape():
@@ -54,7 +67,7 @@ def test_scrape_events_in_window():
 
 def test_scrape_event_fields():
     """Each event must have required fields with non-empty values."""
-    with patch("scrapers.michigan_theater.RateLimitedSession") as cls:
+    with _patch_today(), patch("scrapers.michigan_theater.RateLimitedSession") as cls:
         cls.return_value = _make_mock_session(FIXTURE)
         from scrapers.michigan_theater import scrape
         events = scrape()
@@ -69,8 +82,8 @@ def test_scrape_event_fields():
 
 
 def test_scrape_out_of_window_excluded():
-    """The fixture has one event in May 2026 that is outside the 30-day window."""
-    with patch("scrapers.michigan_theater.RateLimitedSession") as cls:
+    """The fixture has one event on 2026-05-09 (34 days after FIXTURE_DATE), outside window."""
+    with _patch_today(), patch("scrapers.michigan_theater.RateLimitedSession") as cls:
         cls.return_value = _make_mock_session(FIXTURE)
         from scrapers.michigan_theater import scrape
         events = scrape()
@@ -83,7 +96,7 @@ def test_scrape_out_of_window_excluded():
 
 def test_scrape_venue_populated():
     """Venue field should come from the event data (fixture has MT and State Theatre)."""
-    with patch("scrapers.michigan_theater.RateLimitedSession") as cls:
+    with _patch_today(), patch("scrapers.michigan_theater.RateLimitedSession") as cls:
         cls.return_value = _make_mock_session(FIXTURE)
         from scrapers.michigan_theater import scrape
         events = scrape()
@@ -94,7 +107,7 @@ def test_scrape_venue_populated():
 
 def test_scrape_url_is_ticket_link():
     """URLs should point to the tix.marquee-arts.org ticket system."""
-    with patch("scrapers.michigan_theater.RateLimitedSession") as cls:
+    with _patch_today(), patch("scrapers.michigan_theater.RateLimitedSession") as cls:
         cls.return_value = _make_mock_session(FIXTURE)
         from scrapers.michigan_theater import scrape
         events = scrape()
@@ -106,7 +119,7 @@ def test_scrape_url_is_ticket_link():
 
 def test_scrape_multiple_showings_produce_multiple_events():
     """The Bride has 3 showings on the same day; each should be a separate event."""
-    with patch("scrapers.michigan_theater.RateLimitedSession") as cls:
+    with _patch_today(), patch("scrapers.michigan_theater.RateLimitedSession") as cls:
         cls.return_value = _make_mock_session(FIXTURE)
         from scrapers.michigan_theater import scrape
         events = scrape()
