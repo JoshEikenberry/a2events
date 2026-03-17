@@ -12,48 +12,51 @@ SOURCE = "um_athletics"
 CATEGORY = "um_athletics"
 
 # Map sport tag → (iCal URL, fallback schedule page URL)
-# sport_id values are global_sport_id from the Sidearm Sports platform embedded JS state.
-# schedule_id values are the season-specific scheduleId values from the same state.
+# sportId values are global_sport_id from the Sidearm Sports platform embedded JS state.
+# scheduleId values are the season-specific scheduleId values from the same state.
+# The old /calendar.ashx/calendar.ics endpoint was replaced by /api/v2/Calendar/subscribe
+# (Sidearm Sports platform migration, March 2026).
 # Verified via mgoblue.com schedule pages (March 2026).
+_CAL = "https://mgoblue.com/api/v2/Calendar/subscribe?type=ics"
 SPORTS: dict[str, tuple[str, str]] = {
     "football": (
-        "https://mgoblue.com/calendar.ashx/calendar.ics?sport_id=5&schedule_id=1894",
+        f"{_CAL}&sportId=5&scheduleId=1894",
         "https://mgoblue.com/sports/football/schedule",
     ),
     "mens-basketball": (
-        "https://mgoblue.com/calendar.ashx/calendar.ics?sport_id=7&schedule_id=1872",
+        f"{_CAL}&sportId=7&scheduleId=1872",
         "https://mgoblue.com/sports/mens-basketball/schedule",
     ),
     "womens-basketball": (
-        "https://mgoblue.com/calendar.ashx/calendar.ics?sport_id=267&schedule_id=1881",
+        f"{_CAL}&sportId=267&scheduleId=1881",
         "https://mgoblue.com/sports/womens-basketball/schedule",
     ),
     "mens-hockey": (
-        "https://mgoblue.com/calendar.ashx/calendar.ics?sport_id=13&schedule_id=1866",
+        f"{_CAL}&sportId=13&scheduleId=1866",
         "https://mgoblue.com/sports/mens-ice-hockey/schedule",
     ),
     "womens-hockey": (
-        "https://mgoblue.com/calendar.ashx/calendar.ics?sport_id=476&schedule_id=1882",
+        f"{_CAL}&sportId=476&scheduleId=1882",
         "https://mgoblue.com/sports/womens-ice-hockey/schedule",
     ),
     "baseball": (
-        "https://mgoblue.com/calendar.ashx/calendar.ics?sport_id=1&schedule_id=1880",
+        f"{_CAL}&sportId=1&scheduleId=1880",
         "https://mgoblue.com/sports/baseball/schedule",
     ),
     "softball": (
-        "https://mgoblue.com/calendar.ashx/calendar.ics?sport_id=17&schedule_id=1885",
+        f"{_CAL}&sportId=17&scheduleId=1885",
         "https://mgoblue.com/sports/softball/schedule",
     ),
     "mens-soccer": (
-        "https://mgoblue.com/calendar.ashx/calendar.ics?sport_id=253&schedule_id=281",
+        f"{_CAL}&sportId=253&scheduleId=281",
         "https://mgoblue.com/sports/mens-soccer/schedule",
     ),
     "womens-soccer": (
-        "https://mgoblue.com/calendar.ashx/calendar.ics?sport_id=224&schedule_id=395",
+        f"{_CAL}&sportId=224&scheduleId=395",
         "https://mgoblue.com/sports/womens-soccer/schedule",
     ),
     "volleyball": (
-        "https://mgoblue.com/calendar.ashx/calendar.ics?sport_id=436&schedule_id=443",
+        f"{_CAL}&sportId=436&scheduleId=443",
         "https://mgoblue.com/sports/volleyball/schedule",
     ),
 }
