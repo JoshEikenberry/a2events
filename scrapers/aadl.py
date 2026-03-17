@@ -26,16 +26,18 @@ def _normalize_tag(label: str) -> str:
     return re.sub(r"[&\s_]+", "_", label.lower().strip()).strip("_")
 
 
-def _parse_page(html: str) -> tuple[list[dict], int]:
+def _parse_page(html: str) -> tuple[list[dict], int, int]:
     """Parse events from one page of feed HTML.
 
-    Returns (in_window_events, total_rows_on_page).
+    Returns (in_window_events, total_rows_on_page, dates_parsed).
     total_rows == 0 means no more pages exist.
+    dates_parsed > 0 with len(in_window_events) == 0 means all dates were past the window.
     """
     soup = BeautifulSoup(html, "lxml")
     rows = soup.select(".views-row.search-result")
     total = len(rows)
     events = []
+    dates_parsed = 0
 
     for row in rows:
         # --- Title and URL ---
@@ -59,6 +61,7 @@ def _parse_page(html: str) -> tuple[list[dict], int]:
         # Split on <br>: text before = date/time, text after = venue
         br = body_p.find("br")
         if br:
+            # previous_siblings yields reverse-DOM order; reverse to restore reading order
             before = [
                 s.get_text() if hasattr(s, "get_text") else str(s)
                 for s in reversed(list(br.previous_siblings))
@@ -85,6 +88,7 @@ def _parse_page(html: str) -> tuple[list[dict], int]:
             logger.warning("aadl: unparseable date %r for %r, skipping", date_part, title)
             continue
 
+        dates_parsed += 1
         date_str = parsed_date.isoformat()
         if not is_in_window(date_str):
             continue
@@ -122,7 +126,7 @@ def _parse_page(html: str) -> tuple[list[dict], int]:
         except ValueError as exc:
             logger.warning("aadl: skipping %r: %s", title, exc)
 
-    return events, total
+    return events, total, dates_parsed
 
 
 def scrape() -> list[dict]:
@@ -139,15 +143,16 @@ def scrape() -> list[dict]:
             logger.error("aadl: failed to fetch page %d: %s", page, exc)
             break
 
-        events, total_rows = _parse_page(response.text)
+        events, total_rows, dates_parsed = _parse_page(response.text)
         all_events.extend(events)
 
         # No more pages
         if total_rows == 0:
             break
 
-        # All rows on this page were past the window — stop early (dates are ascending)
-        if len(events) == 0:
+        # Stop early only when we've confirmed we've passed the 30-day horizon
+        # (dates_parsed > 0 means it's a date issue, not a parse/HTML error)
+        if len(events) == 0 and dates_parsed > 0:
             break
 
         page += 1
