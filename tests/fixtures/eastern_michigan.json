@@ -1,0 +1,35 @@
+{
+  "groupedByDay": {
+    "2026-3-17": [
+      {
+        "id": 1001,
+        "title": "Earth Day Campus Cleanup",
+        "location": "Student Center",
+        "start_date": "2026-03-17 00:00:00",
+        "start_time": "10:00am",
+        "is_canceled": false,
+        "description": "Annual campus cleanup event."
+      },
+      {
+        "id": 1002,
+        "title": "Cancelled Lecture",
+        "location": "Pray-Harrold",
+        "start_date": "2026-03-17 00:00:00",
+        "start_time": "2:00pm",
+        "is_canceled": true,
+        "description": "This event was cancelled."
+      }
+    ],
+    "2026-3-19": [
+      {
+        "id": 1003,
+        "title": "Spring Arts Festival",
+        "location": "Sill Hall",
+        "start_date": "2026-03-19 00:00:00",
+        "start_time": "6:00pm",
+        "is_canceled": false,
+        "description": "Annual arts festival."
+      }
+    ]
+  }
+}
