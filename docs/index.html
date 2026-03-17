@@ -261,6 +261,18 @@
     return classes[cat] || "";
   }
 
+  var HUMANIZE_MAP = {
+    "writing_publishing": "Writing & Publishing",
+    "lectures_panel_discussions": "Lectures & Panels"
+  };
+
+  function humanizeTag(tag) {
+    if (HUMANIZE_MAP[tag]) return HUMANIZE_MAP[tag];
+    return tag.split("_").map(function(w) {
+      return w.charAt(0).toUpperCase() + w.slice(1).toLowerCase();
+    }).join(" ");
+  }
+
   // Safe DOM element builder - no innerHTML used
   function el(tag, props, children) {
     var node = document.createElement(tag);
