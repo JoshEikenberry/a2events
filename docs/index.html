@@ -307,7 +307,14 @@
 
   function getFiltered() {
     return allEvents.filter(function(ev) {
-      if (activeCategory !== "all" && ev.category !== activeCategory) return false;
+      if (activeTags.size > 0) {
+        var evTags = ev.tags || [];
+        var hasMatch = false;
+        activeTags.forEach(function(t) { if (evTags.indexOf(t) !== -1) hasMatch = true; });
+        if (!hasMatch) return false;
+      } else {
+        if (activeCategory !== "all" && ev.category !== activeCategory) return false;
+      }
       if (selectedDay && ev.date !== selectedDay) return false;
       return true;
     });
@@ -319,9 +326,17 @@
     var filtered = getFiltered();
 
     if (filtered.length === 0) {
+      var emptyMsg;
+      if (activeTags.size > 0 && selectedDay) {
+        emptyMsg = "No events found for the selected tags on this day.";
+      } else if (activeTags.size > 0) {
+        emptyMsg = "No events found for the selected tags.";
+      } else {
+        emptyMsg = "Try changing the category or selecting a different day.";
+      }
       list.appendChild(el("div", {className: "state-message"}, [
         el("h2", {textContent: "No events found"}),
-        el("p", {textContent: "Try changing the category or selecting a different day."})
+        el("p", {textContent: emptyMsg})
       ]));
       return;
     }
@@ -444,6 +459,11 @@
   function initTabs() {
     document.querySelectorAll(".tab-btn").forEach(function(btn) {
       btn.addEventListener("click", function() {
+        activeTags.clear();
+        document.querySelectorAll(".tag-pill.active").forEach(function(p) {
+          p.classList.remove("active");
+          p.setAttribute("aria-pressed", "false");
+        });
         activeCategory = btn.dataset.category;
         document.querySelectorAll(".tab-btn").forEach(function(b) { b.classList.remove("active"); });
         btn.classList.add("active");
@@ -456,6 +476,11 @@
     var tabSelect = document.getElementById("tab-select");
     if (tabSelect) {
       tabSelect.addEventListener("change", function() {
+        activeTags.clear();
+        document.querySelectorAll(".tag-pill.active").forEach(function(p) {
+          p.classList.remove("active");
+          p.setAttribute("aria-pressed", "false");
+        });
         activeCategory = tabSelect.value;
         document.querySelectorAll(".tab-btn").forEach(function(b) {
           b.classList[b.dataset.category === activeCategory ? "add" : "remove"]("active");
