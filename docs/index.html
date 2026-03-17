@@ -483,6 +483,55 @@
     });
   }
 
+  function initTagRow() {
+    var nav = document.querySelector("nav");
+    var row = el("div", {className: "tag-row"});
+    row.appendChild(el("span", {className: "tag-row-label", textContent: "Tags:"}));
+
+    buildTagCounts().forEach(function(tag) {
+      var btn = el("button", {
+        className: "tag-pill",
+        textContent: humanizeTag(tag),
+        "aria-pressed": "false"
+      });
+      btn.addEventListener("click", function() {
+        var isActive = activeTags.has(tag);
+        if (isActive) {
+          activeTags.delete(tag);
+          btn.classList.remove("active");
+          btn.setAttribute("aria-pressed", "false");
+          if (activeTags.size === 0) {
+            activeCategory = "all";
+            document.querySelectorAll(".tab-btn").forEach(function(b) {
+              b.classList[b.dataset.category === "all" ? "add" : "remove"]("active");
+            });
+            var sel = document.getElementById("tab-select");
+            if (sel) sel.value = "all";
+          }
+        } else {
+          activeTags.add(tag);
+          btn.classList.add("active");
+          btn.setAttribute("aria-pressed", "true");
+          activeCategory = "all";
+          document.querySelectorAll(".tab-btn").forEach(function(b) { b.classList.remove("active"); });
+          var sel = document.getElementById("tab-select");
+          if (sel) sel.value = "all";
+        }
+        renderEvents();
+      });
+      row.appendChild(btn);
+    });
+
+    nav.appendChild(row);
+
+    if (window.ResizeObserver) {
+      new ResizeObserver(function() {
+        var sidebar = document.querySelector(".sidebar");
+        if (sidebar) sidebar.style.top = nav.offsetHeight + "px";
+      }).observe(nav);
+    }
+  }
+
   function init() {
     initTabs();
     initCalNav();
@@ -499,6 +548,7 @@
         allEvents = events.slice().sort(function(a, b) {
           return a.date < b.date ? -1 : a.date > b.date ? 1 : 0;
         });
+        initTagRow();
         renderCalendar();
         renderEvents();
       })
