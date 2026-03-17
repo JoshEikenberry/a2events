@@ -273,6 +273,8 @@
     }).join(" ");
   }
 
+  var TAG_BLOCKLIST = ["observer_editor", "public_event", "community_listing"];
+
   function buildTagCounts() {
     var counts = {};
     allEvents.forEach(function(ev) {
@@ -281,7 +283,7 @@
       });
     });
     return Object.keys(counts)
-      .filter(function(t) { return counts[t] >= 5; })
+      .filter(function(t) { return counts[t] >= 5 && TAG_BLOCKLIST.indexOf(t) === -1; })
       .sort(function(a, b) {
         if (counts[b] !== counts[a]) return counts[b] - counts[a];
         return a < b ? -1 : a > b ? 1 : 0;
