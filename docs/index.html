@@ -273,6 +273,21 @@
     }).join(" ");
   }
 
+  function buildTagCounts() {
+    var counts = {};
+    allEvents.forEach(function(ev) {
+      (ev.tags || []).forEach(function(t) {
+        counts[t] = (counts[t] || 0) + 1;
+      });
+    });
+    return Object.keys(counts)
+      .filter(function(t) { return counts[t] >= 5; })
+      .sort(function(a, b) {
+        if (counts[b] !== counts[a]) return counts[b] - counts[a];
+        return a < b ? -1 : a > b ? 1 : 0;
+      });
+  }
+
   // Safe DOM element builder - no innerHTML used
   function el(tag, props, children) {
     var node = document.createElement(tag);
