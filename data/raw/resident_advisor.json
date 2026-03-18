@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "resident_advisor-2026-03-21-disco-boutique-x-haus-head",
+    "title": "Disco Boutique x Haus Head",
+    "date": "2026-03-21",
+    "time": "8:00 PM",
+    "venue": "The Rabbit Hole Ann Arbor",
+    "address": "210 S 1st st, Ann Arbor MI 48104",
+    "category": "arts_culture",
+    "tags": [
+      "music",
+      "electronic"
+    ],
+    "description": "",
+    "url": "https://ra.co/events/2396719",
+    "source": "resident_advisor",
+    "also_listed_at": [],
+    "image_url": "https://images.ra.co/7dee98e083f86e3472aa4e3dd3567c6c1d2ecc6a.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-03-18T06:56:36.262924+00:00"
+  }
+]
