@@ -79,3 +79,63 @@ def test_build_item_title_no_venue():
 def test_build_item_title_none_venue():
     event = make_event(title="Mystery Event", venue=None)
     assert generate_rss.build_item_title(event) == "Mystery Event"
+
+
+# ── build_item_description ────────────────────────────────────────────────────
+
+def test_build_item_description_full():
+    event = make_event(
+        date=TOMORROW,
+        time="8:00 PM",
+        venue="The Ark",
+        address="316 S Main St, Ann Arbor, MI",
+        description="A great show.",
+    )
+    result = generate_rss.build_item_description(event)
+    assert "8:00 PM" in result
+    assert "The Ark" in result
+    assert "316 S Main St" in result
+    assert "A great show." in result
+    assert "<strong>" in result
+
+
+def test_build_item_description_no_venue_no_address():
+    event = make_event(venue="", address="", description="A show.")
+    result = generate_rss.build_item_description(event)
+    # no venue line at all
+    assert "·" not in result
+    assert "A show." in result
+
+
+def test_build_item_description_venue_no_address():
+    event = make_event(venue="The Ark", address="")
+    result = generate_rss.build_item_description(event)
+    assert "The Ark" in result
+    assert "·" not in result
+
+
+def test_build_item_description_address_no_venue():
+    event = make_event(venue="", address="316 S Main St, Ann Arbor, MI")
+    result = generate_rss.build_item_description(event)
+    assert "316 S Main St" in result
+    assert "·" not in result
+
+
+def test_build_item_description_no_description():
+    event = make_event(description="")
+    result = generate_rss.build_item_description(event)
+    # no trailing empty paragraph
+    assert result.count("<p>") == 1
+
+
+def test_build_item_description_no_time():
+    event = make_event(time="")
+    result = generate_rss.build_item_description(event)
+    assert "—" not in result
+
+
+def test_build_item_description_none_fields():
+    event = make_event(venue=None, address=None, description=None, time=None)
+    result = generate_rss.build_item_description(event)
+    assert isinstance(result, str)
+    assert len(result) > 0

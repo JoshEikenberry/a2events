@@ -37,3 +37,37 @@ def build_item_title(event: dict) -> str:
     title = event.get("title", "")
     venue = (event.get("venue") or "").strip()
     return f"{title} @ {venue}" if venue else title
+
+
+def build_item_description(event: dict) -> str:
+    """Build HTML description block for an RSS item."""
+    date_str = event.get("date", "")
+    time_str = (event.get("time") or "").strip()
+    venue = (event.get("venue") or "").strip()
+    address = (event.get("address") or "").strip()
+    description = (event.get("description") or "").strip()
+
+    header = f"<strong>{format_date_long(date_str)}"
+    if time_str:
+        header += f" — {time_str}"
+    header += "</strong>"
+
+    if venue and address:
+        venue_line = f"{venue} · {address}"
+    elif venue:
+        venue_line = venue
+    elif address:
+        venue_line = address
+    else:
+        venue_line = ""
+
+    first_para = f"<p>{header}"
+    if venue_line:
+        first_para += f"<br>\n{venue_line}"
+    first_para += "</p>"
+
+    parts = [first_para]
+    if description:
+        parts.append(f"<p>{description}</p>")
+
+    return "\n".join(parts)
