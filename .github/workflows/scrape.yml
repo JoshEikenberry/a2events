@@ -26,11 +26,14 @@ jobs:
       - name: Merge events
         run: python merge.py
 
+      - name: Generate RSS feeds
+        run: python generate_rss.py
+
       - name: Commit and push data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ docs/events.json
+          git add data/ docs/events.json docs/feed*.xml
           git diff --staged --quiet || git commit -m "chore: update events [skip ci]"
           git push
 
