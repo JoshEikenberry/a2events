@@ -1,7 +1,7 @@
 import json
 import sys
 from calendar import month_name
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from email.utils import formatdate
 from pathlib import Path
 
@@ -71,3 +71,41 @@ def build_item_description(event: dict) -> str:
         parts.append(f"<p>{description}</p>")
 
     return "\n".join(parts)
+
+
+def load_events(path: Path) -> list[dict]:
+    """Load events list from events.json. Exits non-zero on any failure."""
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return data["events"]
+    except FileNotFoundError:
+        print(f"ERROR: {path} not found", file=sys.stderr)
+        sys.exit(1)
+    except json.JSONDecodeError as e:
+        print(f"ERROR: {path} contains invalid JSON: {e}", file=sys.stderr)
+        sys.exit(1)
+    except KeyError:
+        print(f"ERROR: {path} has no 'events' key", file=sys.stderr)
+        sys.exit(1)
+
+
+def filter_events(
+    events: list[dict],
+    category: str | None = None,
+    window_days: int = WINDOW_DAYS,
+) -> list[dict]:
+    """Return events within the rolling window, optionally filtered by category."""
+    today = date.today()
+    cutoff = today + timedelta(days=window_days)
+    result = []
+    for event in events:
+        try:
+            event_date = date.fromisoformat(event["date"])
+        except (ValueError, KeyError):
+            continue
+        if not (today <= event_date <= cutoff):
+            continue
+        if category is not None and event.get("category") != category:
+            continue
+        result.append(event)
+    return result

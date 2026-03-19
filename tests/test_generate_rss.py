@@ -139,3 +139,85 @@ def test_build_item_description_none_fields():
     result = generate_rss.build_item_description(event)
     assert isinstance(result, str)
     assert len(result) > 0
+
+
+# ── filter_events ─────────────────────────────────────────────────────────────
+
+def test_filter_events_includes_today():
+    events = [make_event(date=TODAY, category="arts_culture")]
+    result = generate_rss.filter_events(events)
+    assert len(result) == 1
+
+
+def test_filter_events_includes_in_window():
+    events = [make_event(date=IN_WINDOW)]
+    result = generate_rss.filter_events(events)
+    assert len(result) == 1
+
+
+def test_filter_events_excludes_outside_window():
+    events = [make_event(date=OUTSIDE_WINDOW)]
+    result = generate_rss.filter_events(events)
+    assert len(result) == 0
+
+
+def test_filter_events_excludes_past():
+    events = [make_event(date=YESTERDAY)]
+    result = generate_rss.filter_events(events)
+    assert len(result) == 0
+
+
+def test_filter_events_by_category():
+    events = [
+        make_event(date=TOMORROW, category="arts_culture"),
+        make_event(date=TOMORROW, category="community"),
+    ]
+    result = generate_rss.filter_events(events, category="arts_culture")
+    assert len(result) == 1
+    assert result[0]["category"] == "arts_culture"
+
+
+def test_filter_events_no_category_returns_all():
+    events = [
+        make_event(date=TOMORROW, category="arts_culture"),
+        make_event(date=TOMORROW, category="community"),
+    ]
+    result = generate_rss.filter_events(events, category=None)
+    assert len(result) == 2
+
+
+def test_filter_events_includes_possible_duplicates():
+    events = [make_event(date=TOMORROW, possible_duplicate=True)]
+    result = generate_rss.filter_events(events)
+    assert len(result) == 1
+
+
+# ── load_events ───────────────────────────────────────────────────────────────
+
+def test_load_events_missing_file(tmp_path):
+    with pytest.raises(SystemExit):
+        generate_rss.load_events(tmp_path / "nonexistent.json")
+
+
+def test_load_events_malformed_json(tmp_path):
+    bad = tmp_path / "events.json"
+    bad.write_text("not json", encoding="utf-8")
+    with pytest.raises(SystemExit):
+        generate_rss.load_events(bad)
+
+
+def test_load_events_missing_events_key(tmp_path):
+    bad = tmp_path / "events.json"
+    bad.write_text('{"generated_at": "2026-03-18"}', encoding="utf-8")
+    with pytest.raises(SystemExit):
+        generate_rss.load_events(bad)
+
+
+def test_load_events_valid(tmp_path):
+    events_file = tmp_path / "events.json"
+    events_file.write_text(
+        '{"generated_at": "2026-03-18T06:00:00Z", "event_count": 1, "events": []}',
+        encoding="utf-8",
+    )
+    result = generate_rss.load_events(events_file)
+    assert result == []
