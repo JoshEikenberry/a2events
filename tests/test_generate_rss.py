@@ -298,6 +298,8 @@ def test_build_feed_valid_xml(tmp_path):
     generate_rss.write_feed(root, out)
     # Should parse without error using stdlib ET
     ET.parse(str(out))
+    content = out.read_bytes()
+    assert b"<![CDATA[" in content
 
 
 def test_write_feed_xml_declaration(tmp_path):

@@ -7,7 +7,7 @@ from pathlib import Path
 
 from lxml import etree
 
-SITE_URL = "https://CHANGEME.github.io/a2events/"
+SITE_URL = "https://josheikenbery.github.io/a2events/"
 EVENTS_PATH = Path("docs/events.json")
 OUTPUT_DIR = Path("docs")
 WINDOW_DAYS = 30
