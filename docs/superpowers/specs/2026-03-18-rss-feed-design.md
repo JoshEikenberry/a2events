@@ -72,13 +72,13 @@ Other categories present in `events.json` (e.g. `city_ann_arbor`, `university_of
 
 ## RSS 2.0 Format
 
-Generated using Python stdlib `xml.etree.ElementTree`. No new dependencies.
+Generated using `lxml.etree` (already in `requirements.txt` for scraper use). lxml is chosen over stdlib `xml.etree.ElementTree` to support `etree.CDATA()`, which wraps HTML description content in proper `<![CDATA[...]]>` sections for RSS readers. No new dependencies are added.
 
 Output begins with the standard XML declaration:
 ```xml
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 ```
-(`ElementTree.write(..., xml_declaration=True, encoding='unicode')` produces this automatically.)
+(`ElementTree.write(..., xml_declaration=True, encoding='utf-8', pretty_print=True)` produces this automatically — lxml normalizes the encoding attribute to uppercase.)
 
 ### Channel-level fields (per feed)
 
