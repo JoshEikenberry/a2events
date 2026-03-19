@@ -230,3 +230,89 @@ def test_load_events_valid(tmp_path):
     )
     result = generate_rss.load_events(events_file)
     assert result == []
+
+
+# ── build_feed / write_feed ───────────────────────────────────────────────────
+
+def sample_events_list():
+    return [
+        make_event(
+            id="ark-tomorrow-show",
+            title="Tomorrow Show",
+            date=TOMORROW,
+            category="arts_culture",
+        ),
+        make_event(
+            id="eventbrite-today-meeting",
+            title="Today Meeting",
+            date=TODAY,
+            category="community",
+            venue="City Hall",
+            address="301 E Huron St",
+        ),
+    ]
+
+
+def test_build_feed_item_count():
+    events = sample_events_list()
+    root = generate_rss.build_feed(events, title="Test Feed", site_url="https://example.com/")
+    items = root.findall(".//item")
+    assert len(items) == 2
+
+
+def test_build_feed_sorted_by_date():
+    events = sample_events_list()  # TOMORROW first in list, TODAY second
+    root = generate_rss.build_feed(events, title="Test Feed", site_url="https://example.com/")
+    items = root.findall(".//item")
+    # TODAY should sort before TOMORROW - verify by checking guids in order
+    guids = [item.findtext("guid") for item in items]
+    assert guids[0] == "eventbrite-today-meeting"
+    assert guids[1] == "ark-tomorrow-show"
+
+
+def test_build_feed_item_fields():
+    events = [make_event()]
+    root = generate_rss.build_feed(events, title="Test Feed", site_url="https://example.com/")
+    item = root.find(".//item")
+    assert item.findtext("title") == "Test Event @ The Ark"
+    assert item.findtext("link") == "https://theark.org/events/test"
+    assert item.findtext("guid") == "ark-2026-03-15-test-event"
+    assert item.find("guid").get("isPermaLink") == "false"
+    assert item.findtext("category") == "arts_culture"
+
+
+def test_build_feed_channel_fields():
+    events = []
+    root = generate_rss.build_feed(events, title="My Feed", site_url="https://example.com/")
+    channel = root.find("channel")
+    assert channel.findtext("title") == "My Feed"
+    assert channel.findtext("link") == "https://example.com/"
+    assert channel.findtext("ttl") == "1440"
+    assert channel.findtext("lastBuildDate") is not None
+
+
+def test_build_feed_valid_xml(tmp_path):
+    events = sample_events_list()
+    root = generate_rss.build_feed(events, title="Test Feed", site_url="https://example.com/")
+    out = tmp_path / "feed.xml"
+    generate_rss.write_feed(root, out)
+    # Should parse without error using stdlib ET
+    ET.parse(str(out))
+
+
+def test_write_feed_xml_declaration(tmp_path):
+    events = []
+    root = generate_rss.build_feed(events, title="Test", site_url="https://example.com/")
+    out = tmp_path / "feed.xml"
+    generate_rss.write_feed(root, out)
+    content = out.read_text(encoding="utf-8")
+    assert content.startswith("<?xml")
+
+
+def test_build_feed_pubdate_format():
+    events = [make_event(date="2026-03-15")]
+    root = generate_rss.build_feed(events, title="Test", site_url="https://example.com/")
+    pub_date = root.findtext(".//pubDate")
+    assert "Mar" in pub_date
+    assert "2026" in pub_date
+    assert "00:00:00" in pub_date

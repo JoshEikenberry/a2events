@@ -109,3 +109,54 @@ def filter_events(
             continue
         result.append(event)
     return result
+
+
+def build_feed(events: list[dict], title: str, site_url: str) -> etree._Element:
+    """Build an lxml RSS 2.0 Element from a list of events."""
+    rss = etree.Element("rss", version="2.0")
+    channel = etree.SubElement(rss, "channel")
+
+    etree.SubElement(channel, "title").text = title
+    etree.SubElement(channel, "link").text = site_url
+    etree.SubElement(channel, "description").text = (
+        "Upcoming events in Ann Arbor, Ypsilanti, and Washtenaw County"
+    )
+    etree.SubElement(channel, "lastBuildDate").text = formatdate(
+        datetime.now(timezone.utc).timestamp(), usegmt=True
+    )
+    etree.SubElement(channel, "ttl").text = "1440"
+
+    sorted_events = sorted(events, key=lambda e: e.get("date", ""))
+    for event in sorted_events:
+        item = etree.SubElement(channel, "item")
+        etree.SubElement(item, "title").text = build_item_title(event)
+        etree.SubElement(item, "link").text = event.get("url", "")
+        etree.SubElement(item, "description").text = etree.CDATA(
+            build_item_description(event)
+        )
+        etree.SubElement(item, "pubDate").text = format_rfc822(event["date"])
+        guid = etree.SubElement(item, "guid")
+        guid.set("isPermaLink", "false")
+        guid.text = event.get("id", "")
+        etree.SubElement(item, "category").text = event.get("category", "")
+
+    return rss
+
+
+def write_feed(root: etree._Element, path: Path) -> None:
+    """Write RSS feed XML to file with declaration and pretty-printing."""
+    tree = etree.ElementTree(root)
+    tree.write(str(path), xml_declaration=True, encoding="utf-8", pretty_print=True)
+
+
+def main() -> None:
+    events = load_events(EVENTS_PATH)
+    for filename, config in FEEDS.items():
+        filtered = filter_events(events, category=config["category"])
+        feed = build_feed(filtered, title=config["title"], site_url=SITE_URL)
+        write_feed(feed, OUTPUT_DIR / filename)
+        print(f"Wrote {len(filtered)} events to {filename}")
+
+
+if __name__ == "__main__":
+    main()
