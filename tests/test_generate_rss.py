@@ -192,25 +192,34 @@ def test_filter_events_includes_possible_duplicates():
     assert len(result) == 1
 
 
+def test_filter_events_skips_event_missing_date_key():
+    events = [{"title": "No Date Event", "category": "arts_culture", "url": "https://example.com"}]
+    result = generate_rss.filter_events(events)
+    assert len(result) == 0
+
+
 # ── load_events ───────────────────────────────────────────────────────────────
 
 def test_load_events_missing_file(tmp_path):
-    with pytest.raises(SystemExit):
+    with pytest.raises(SystemExit) as exc_info:
         generate_rss.load_events(tmp_path / "nonexistent.json")
+    assert exc_info.value.code != 0
 
 
 def test_load_events_malformed_json(tmp_path):
     bad = tmp_path / "events.json"
     bad.write_text("not json", encoding="utf-8")
-    with pytest.raises(SystemExit):
+    with pytest.raises(SystemExit) as exc_info:
         generate_rss.load_events(bad)
+    assert exc_info.value.code != 0
 
 
 def test_load_events_missing_events_key(tmp_path):
     bad = tmp_path / "events.json"
     bad.write_text('{"generated_at": "2026-03-18"}', encoding="utf-8")
-    with pytest.raises(SystemExit):
+    with pytest.raises(SystemExit) as exc_info:
         generate_rss.load_events(bad)
+    assert exc_info.value.code != 0
 
 
 def test_load_events_valid(tmp_path):
