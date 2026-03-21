@@ -76,6 +76,33 @@
     }
     .clear-day-btn:hover { background: var(--bg); color: var(--text); }
     .clear-day-btn.visible { display: block; }
+    .rss-widget {
+      margin-top: 0.75rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 0.75rem;
+      padding: 1rem;
+    }
+    .rss-widget-title {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      margin-bottom: 0.5rem;
+    }
+    .rss-link {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.3rem 0.4rem;
+      border-radius: 0.375rem;
+      text-decoration: none;
+      color: var(--text);
+      font-size: 0.85rem;
+      transition: background 0.15s ease;
+    }
+    .rss-link:hover { background: var(--bg); }
     .tag-row {
       flex-basis: 100%; width: 100%;
       display: flex; align-items: center; flex-wrap: wrap;
@@ -192,6 +219,36 @@
       </div>
       <div class="calendar-grid" id="cal-grid"></div>
       <button class="clear-day-btn" id="clear-day-btn">Clear day filter</button>
+    </div>
+    <div class="rss-widget">
+      <p class="rss-widget-title">RSS Feeds</p>
+      <a class="rss-link" href="./feed.xml" target="_blank" rel="noopener noreferrer">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="14" height="14" rx="2.5" fill="#f26522"/>
+          <circle cx="3.5" cy="10.5" r="1.5" fill="white"/>
+          <path d="M2 6.5A5.5 5.5 0 0 1 7.5 12" stroke="white" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+          <path d="M2 3A9 9 0 0 1 11 12" stroke="white" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+        </svg>
+        All Events
+      </a>
+      <a class="rss-link" href="./feed-arts-culture.xml" target="_blank" rel="noopener noreferrer">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="14" height="14" rx="2.5" fill="#f26522"/>
+          <circle cx="3.5" cy="10.5" r="1.5" fill="white"/>
+          <path d="M2 6.5A5.5 5.5 0 0 1 7.5 12" stroke="white" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+          <path d="M2 3A9 9 0 0 1 11 12" stroke="white" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+        </svg>
+        Arts &amp; Culture
+      </a>
+      <a class="rss-link" href="./feed-community.xml" target="_blank" rel="noopener noreferrer">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="14" height="14" rx="2.5" fill="#f26522"/>
+          <circle cx="3.5" cy="10.5" r="1.5" fill="white"/>
+          <path d="M2 6.5A5.5 5.5 0 0 1 7.5 12" stroke="white" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+          <path d="M2 3A9 9 0 0 1 11 12" stroke="white" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+        </svg>
+        Community
+      </a>
     </div>
   </aside>
 

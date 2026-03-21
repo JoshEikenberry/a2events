@@ -1,6 +1,7 @@
 requests==2.31.0
 beautifulsoup4==4.12.3
 lxml==5.1.0
+cssselect==1.2.0
 rapidfuzz==3.6.1
 playwright==1.41.2
 icalendar==5.0.11
