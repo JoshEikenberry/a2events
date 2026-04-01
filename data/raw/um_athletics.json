@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:28.019669+00:00"
+    "scraped_at": "2026-04-01T07:14:41.353712+00:00"
   },
   {
     "id": "um_athletics-2026-04-05-michigan-mens-basketball-vs-arizona",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:29.403765+00:00"
+    "scraped_at": "2026-04-01T07:14:42.624348+00:00"
   },
   {
     "id": "um_athletics-2026-04-10-michigan-ice-hockey-vs-denver",
@@ -54,26 +54,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:32.448628+00:00"
+    "scraped_at": "2026-04-01T07:14:45.646624+00:00"
   },
   {
-    "id": "um_athletics-2026-03-31-michigan-baseball-at-eastern-michigan",
-    "title": "Michigan Baseball at Eastern Michigan",
-    "date": "2026-03-31",
+    "id": "um_athletics-2026-04-02-michigan-baseball-vs-oregon",
+    "title": "Michigan Baseball vs Oregon",
+    "date": "2026-04-02",
     "time": "7:00 PM",
-    "venue": "Ypsilanti, Mich.",
+    "venue": "Ann Arbor, Mich.",
     "address": "",
     "category": "um_athletics",
     "tags": [
       "baseball"
     ],
-    "description": "Michigan Baseball at Eastern Michigan\nTV: ESPN+\nStreaming Video: https://www.espn.com/search/_/q/eastern michigan/o/watch\n https://mgoblue.com/calendar.aspx?game_id=29825&amp;sport_id=1",
-    "url": "https://mgoblue.com/calendar.aspx?game_id=29825&amp;sport_id=1",
+    "description": "Michigan Baseball vs Oregon\nTV: B1G+\n https://mgoblue.com/calendar.aspx?game_id=30457&amp;sport_id=1",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=30457&amp;sport_id=1",
     "source": "um_athletics",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.390586+00:00"
+    "scraped_at": "2026-04-01T07:14:48.619849+00:00"
   },
   {
     "id": "um_athletics-2026-04-03-michigan-baseball-vs-oregon-backyard-baseball-night",
@@ -92,13 +92,13 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.390651+00:00"
+    "scraped_at": "2026-04-01T07:14:48.619915+00:00"
   },
   {
     "id": "um_athletics-2026-04-04-michigan-baseball-vs-oregon-bark-in-the-park",
     "title": "Michigan Baseball vs Oregon- Bark in the Park",
     "date": "2026-04-04",
-    "time": "6:00 PM",
+    "time": "4:00 PM",
     "venue": "Ann Arbor, Mich.",
     "address": "",
     "category": "um_athletics",
@@ -111,26 +111,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.390710+00:00"
+    "scraped_at": "2026-04-01T07:14:48.619975+00:00"
   },
   {
-    "id": "um_athletics-2026-04-05-michigan-baseball-vs-oregon",
-    "title": "Michigan Baseball vs Oregon",
-    "date": "2026-04-05",
-    "time": "4:00 PM",
-    "venue": "Ann Arbor, Mich.",
+    "id": "um_athletics-2026-04-06-michigan-baseball-at-eastern-michigan",
+    "title": "Michigan Baseball at Eastern Michigan",
+    "date": "2026-04-06",
+    "time": "7:00 PM",
+    "venue": "Ypsilanti, Mich.",
     "address": "",
     "category": "um_athletics",
     "tags": [
       "baseball"
     ],
-    "description": "Michigan Baseball vs Oregon\nTV: B1G+\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://mgoblue.com/calendar.aspx?game_id=29828&amp;sport_id=1",
-    "url": "https://mgoblue.com/calendar.aspx?game_id=29828&amp;sport_id=1",
+    "description": "Michigan Baseball at Eastern Michigan\nTV: ESPN+\nStreaming Video: https://www.espn.com/search/_/q/eastern michigan/o/watch\n https://mgoblue.com/calendar.aspx?game_id=30456&amp;sport_id=1",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=30456&amp;sport_id=1",
     "source": "um_athletics",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.390765+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620030+00:00"
   },
   {
     "id": "um_athletics-2026-04-07-michigan-baseball-vs-central-michigan-free-admission",
@@ -149,7 +149,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.390819+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620086+00:00"
   },
   {
     "id": "um_athletics-2026-04-10-michigan-baseball-at-michigan-state",
@@ -168,7 +168,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.390873+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620140+00:00"
   },
   {
     "id": "um_athletics-2026-04-11-michigan-baseball-at-michigan-state",
@@ -187,7 +187,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.390926+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620194+00:00"
   },
   {
     "id": "um_athletics-2026-04-12-michigan-baseball-at-michigan-state",
@@ -206,7 +206,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.390978+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620246+00:00"
   },
   {
     "id": "um_athletics-2026-04-14-michigan-baseball-at-toledo",
@@ -225,7 +225,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.391030+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620298+00:00"
   },
   {
     "id": "um_athletics-2026-04-15-michigan-baseball-vs-eastern-michigan-free-admission",
@@ -244,7 +244,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.391111+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620351+00:00"
   },
   {
     "id": "um_athletics-2026-04-17-michigan-baseball-vs-northwestern-flashback-friday",
@@ -263,7 +263,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.391169+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620404+00:00"
   },
   {
     "id": "um_athletics-2026-04-18-michigan-baseball-vs-northwestern",
@@ -282,7 +282,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.391222+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620455+00:00"
   },
   {
     "id": "um_athletics-2026-04-19-michigan-baseball-vs-northwestern-superhero-day",
@@ -301,7 +301,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.391275+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620508+00:00"
   },
   {
     "id": "um_athletics-2026-04-21-michigan-baseball-vs-dayton-free-admission",
@@ -320,7 +320,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.391328+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620561+00:00"
   },
   {
     "id": "um_athletics-2026-04-22-michigan-baseball-vs-bowling-green-free-admission",
@@ -339,7 +339,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.391382+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620613+00:00"
   },
   {
     "id": "um_athletics-2026-04-24-michigan-baseball-vs-washington-community-heroes-night",
@@ -358,7 +358,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.391437+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620666+00:00"
   },
   {
     "id": "um_athletics-2026-04-25-michigan-baseball-vs-washington-nine-innings-of-winnings",
@@ -377,7 +377,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.391490+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620719+00:00"
   },
   {
     "id": "um_athletics-2026-04-26-michigan-baseball-vs-washington-bark-in-the-park",
@@ -396,12 +396,31 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:35.391544+00:00"
+    "scraped_at": "2026-04-01T07:14:48.620802+00:00"
   },
   {
-    "id": "um_athletics-2026-03-31-michigan-softball-vs-oakland",
+    "id": "um_athletics-2026-05-01-michigan-baseball-at-maryland",
+    "title": "Michigan Baseball at Maryland",
+    "date": "2026-05-01",
+    "time": "10:00 PM",
+    "venue": "College Park, Md.",
+    "address": "",
+    "category": "um_athletics",
+    "tags": [
+      "baseball"
+    ],
+    "description": "Michigan Baseball at Maryland\nTV: B1G+\n https://mgoblue.com/calendar.aspx?game_id=29843&amp;sport_id=1",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=29843&amp;sport_id=1",
+    "source": "um_athletics",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-01T07:14:48.620855+00:00"
+  },
+  {
+    "id": "um_athletics-2026-04-01-michigan-softball-vs-oakland",
     "title": "Michigan Softball vs Oakland",
-    "date": "2026-03-31",
+    "date": "2026-04-01",
     "time": "8:00 PM",
     "venue": "Ann Arbor, Mich.",
     "address": "",
@@ -409,13 +428,13 @@
     "tags": [
       "softball"
     ],
-    "description": "Michigan Softball vs Oakland\nTV: B1G+\nStreaming Video: https://www.bigtenplus.com/en-int/livestream/oakland-at-michigan/2081238\n https://mgoblue.com/calendar.aspx?game_id=30007&amp;sport_id=17",
-    "url": "https://mgoblue.com/calendar.aspx?game_id=30007&amp;sport_id=17",
+    "description": "Michigan Softball vs Oakland\nTV: B1G+\nStreaming Video: https://www.bigtenplus.com/en-int/livestream/oakland-at-michigan/2140409\n https://mgoblue.com/calendar.aspx?game_id=30455&amp;sport_id=17",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=30455&amp;sport_id=17",
     "source": "um_athletics",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.893743+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127065+00:00"
   },
   {
     "id": "um_athletics-2026-04-04-michigan-softball-at-northwestern",
@@ -434,7 +453,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.893809+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127128+00:00"
   },
   {
     "id": "um_athletics-2026-04-05-michigan-softball-at-northwestern",
@@ -453,7 +472,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.893868+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127185+00:00"
   },
   {
     "id": "um_athletics-2026-04-05-michigan-softball-at-northwestern",
@@ -472,7 +491,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.893934+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127239+00:00"
   },
   {
     "id": "um_athletics-2026-04-10-michigan-softball-vs-ohio-state-maize-out",
@@ -491,7 +510,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.893991+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127295+00:00"
   },
   {
     "id": "um_athletics-2026-04-11-michigan-softball-vs-ohio-state-backyard-softball",
@@ -510,7 +529,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894065+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127351+00:00"
   },
   {
     "id": "um_athletics-2026-04-12-michigan-softball-vs-ohio-state-bark-in-the-park",
@@ -529,7 +548,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894131+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127405+00:00"
   },
   {
     "id": "um_athletics-2026-04-14-michigan-softball-at-central-michigan",
@@ -548,7 +567,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894187+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127458+00:00"
   },
   {
     "id": "um_athletics-2026-04-15-michigan-softball-vs-bowling-green-free-admission",
@@ -567,7 +586,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894242+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127512+00:00"
   },
   {
     "id": "um_athletics-2026-04-17-michigan-softball-at-wisconsin",
@@ -586,7 +605,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894296+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127564+00:00"
   },
   {
     "id": "um_athletics-2026-04-18-michigan-softball-at-wisconsin",
@@ -605,7 +624,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894348+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127616+00:00"
   },
   {
     "id": "um_athletics-2026-04-19-michigan-softball-at-wisconsin",
@@ -624,7 +643,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894400+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127666+00:00"
   },
   {
     "id": "um_athletics-2026-04-21-michigan-softball-vs-toledo-student-tailgate-pregame",
@@ -643,7 +662,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894455+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127719+00:00"
   },
   {
     "id": "um_athletics-2026-04-24-michigan-softball-vs-indiana-pink-game-presented-by-weiser-family-center-for-breast-cancer-at-the-rogel-cancer-center",
@@ -662,7 +681,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894515+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127806+00:00"
   },
   {
     "id": "um_athletics-2026-04-25-michigan-softball-vs-indiana-fan-appreciation-day-presented-by-genentech",
@@ -681,7 +700,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894572+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127864+00:00"
   },
   {
     "id": "um_athletics-2026-04-26-michigan-softball-vs-indiana-senior-day",
@@ -700,6 +719,25 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-03-31T07:07:36.894625+00:00"
+    "scraped_at": "2026-04-01T07:14:50.127916+00:00"
+  },
+  {
+    "id": "um_athletics-2026-05-01-michigan-softball-at-michigan-state",
+    "title": "Michigan Softball at Michigan State",
+    "date": "2026-05-01",
+    "time": "9:00 PM",
+    "venue": "East Lansing, Mich.",
+    "address": "",
+    "category": "um_athletics",
+    "tags": [
+      "softball"
+    ],
+    "description": "Michigan Softball at Michigan State\n https://mgoblue.com/calendar.aspx?game_id=30022&amp;sport_id=17",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=30022&amp;sport_id=17",
+    "source": "um_athletics",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-01T07:14:50.127967+00:00"
   }
 ]
