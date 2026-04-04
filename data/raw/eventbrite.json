@@ -1,5 +1,22 @@
 [
   {
+    "id": "eventbrite-2026-05-04-ann-arbor-career-fair",
+    "title": "Ann Arbor Career Fair",
+    "date": "2026-05-04",
+    "time": "09:30",
+    "venue": "Ann Arbor",
+    "address": "Ann Arbor",
+    "category": "community",
+    "tags": [],
+    "description": "Meet with Ann Arbor Employers",
+    "url": "https://www.eventbrite.com/e/ann-arbor-career-fair-tickets-1002605027627",
+    "source": "eventbrite",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-04T06:55:01.912694+00:00"
+  },
+  {
     "id": "eventbrite-2026-04-10-michigan-engineering-north-campus-tour-full-waitlist-only",
     "title": "Michigan Engineering North Campus Tour (Full - Waitlist Only)",
     "date": "2026-04-10",
@@ -14,24 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602207+00:00"
-  },
-  {
-    "id": "eventbrite-2026-04-03-michigan-engineering-north-campus-tour-full-waitlist-only",
-    "title": "Michigan Engineering North Campus Tour (Full - Waitlist Only)",
-    "date": "2026-04-03",
-    "time": "10:00",
-    "venue": "Ann Arbor",
-    "address": "Ann Arbor",
-    "category": "community",
-    "tags": [],
-    "description": "Join us on a walking tour for an up-close look at North Campus and the Michigan Engineering facilities.",
-    "url": "https://www.eventbrite.com/e/michigan-engineering-north-campus-tour-full-waitlist-only-tickets-1977721927524",
-    "source": "eventbrite",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602271+00:00"
+    "scraped_at": "2026-04-04T06:55:01.912763+00:00"
   },
   {
     "id": "eventbrite-2026-04-17-michigan-engineering-north-campus-tour-full-waitlist-only",
@@ -48,7 +48,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602323+00:00"
+    "scraped_at": "2026-04-04T06:55:01.912816+00:00"
   },
   {
     "id": "eventbrite-2026-04-16-michigan-engineering-north-campus-tour-full-waitlist-only",
@@ -65,24 +65,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602372+00:00"
-  },
-  {
-    "id": "eventbrite-2026-04-11-under-the-lights",
-    "title": "UNDER THE LIGHTS",
-    "date": "2026-04-11",
-    "time": "18:00",
-    "venue": "Ann Arbor",
-    "address": "Ann Arbor",
-    "category": "community",
-    "tags": [],
-    "description": "GREAT ENERGETIC EVENT FEATURING TALENTED ARTISTS!!!",
-    "url": "https://www.eventbrite.com/e/under-the-lights-tickets-1976730665633",
-    "source": "eventbrite",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602416+00:00"
+    "scraped_at": "2026-04-04T06:55:01.912867+00:00"
   },
   {
     "id": "eventbrite-2026-04-09-michigan-engineering-north-campus-tour-full-waitlist-only",
@@ -99,7 +82,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602496+00:00"
+    "scraped_at": "2026-04-04T06:55:01.912946+00:00"
   },
   {
     "id": "eventbrite-2026-04-04-speed-dating-ann-arbor-singles-24-39",
@@ -116,7 +99,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602541+00:00"
+    "scraped_at": "2026-04-04T06:55:01.912991+00:00"
   },
   {
     "id": "eventbrite-2026-04-16-phil-wickham-world-vision-volunteers-ypsilanti-mi",
@@ -133,7 +116,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602585+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913059+00:00"
   },
   {
     "id": "eventbrite-2026-04-18-momos-back-at-sandhill-crane-winery-saturday-april-18th",
@@ -150,7 +133,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602631+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913115+00:00"
   },
   {
     "id": "eventbrite-2026-04-11-dreaming-dirty-in-michigan-2026",
@@ -167,7 +150,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602672+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913160+00:00"
   },
   {
     "id": "eventbrite-2026-04-08-venue-connect-meaningful-conversations-with-women-leaders",
@@ -184,7 +167,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602715+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913205+00:00"
   },
   {
     "id": "eventbrite-2026-04-10-astronomicon-9",
@@ -201,7 +184,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602756+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913246+00:00"
   },
   {
     "id": "eventbrite-2026-04-17-michigan-fashion-media-summit-2026",
@@ -218,7 +201,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602798+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913288+00:00"
   },
   {
     "id": "eventbrite-2026-04-18-literati-presents-emma-straub",
@@ -235,7 +218,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602857+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913329+00:00"
   },
   {
     "id": "eventbrite-2026-04-12-runway-of-dreams-2026-adaptive-fashion-show-university-of-michigan",
@@ -252,7 +235,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602912+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913373+00:00"
   },
   {
     "id": "eventbrite-2026-04-16-how-to-be-a-great-boss-workshop-ann-arbor-mi",
@@ -269,7 +252,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.602958+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913416+00:00"
   },
   {
     "id": "eventbrite-2026-04-19-plant-bingo-at-ypsilanti-aubrees-pizzeria-upstairs-80-houseplants-won",
@@ -286,7 +269,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603003+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913461+00:00"
   },
   {
     "id": "eventbrite-2026-04-12-doula-diaries-a-labor-of-love-collective-monologue-panel-discussion",
@@ -303,7 +286,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603048+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913506+00:00"
   },
   {
     "id": "eventbrite-2026-04-24-daft-disko-ann-arbor",
@@ -320,7 +303,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603089+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913547+00:00"
   },
   {
     "id": "eventbrite-2026-04-11-kiwanisone-mi-district-div-5-6",
@@ -337,7 +320,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603132+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913590+00:00"
   },
   {
     "id": "eventbrite-2026-04-22-level-up-presents-unapologetically-ambitious",
@@ -354,7 +337,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603173+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913632+00:00"
   },
   {
     "id": "eventbrite-2026-04-09-49-thursday-murder-mystery-book-club-at-booksweet",
@@ -371,24 +354,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603216+00:00"
-  },
-  {
-    "id": "eventbrite-2026-04-03-spring-easter-egg-hunt",
-    "title": "Spring Easter Egg Hunt!",
-    "date": "2026-04-03",
-    "time": "12:00",
-    "venue": "Ann Arbor",
-    "address": "Ann Arbor",
-    "category": "community",
-    "tags": [],
-    "description": "Join us for our Spring Break Staycation! Each day we have fun activities and our pool is open from 12pm-1:30pm for free family swim!",
-    "url": "https://www.eventbrite.com/e/spring-easter-egg-hunt-tickets-1983198931390",
-    "source": "eventbrite",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603257+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913675+00:00"
   },
   {
     "id": "eventbrite-2026-04-26-426-different-eras-a-historical-fiction-book-club-at-booksweet",
@@ -405,7 +371,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603302+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913720+00:00"
   },
   {
     "id": "eventbrite-2026-04-12-festifools-2026-back-to-the-foolture",
@@ -422,7 +388,24 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603345+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913762+00:00"
+  },
+  {
+    "id": "eventbrite-2026-04-07-recess-book-club",
+    "title": "Recess Book Club",
+    "date": "2026-04-07",
+    "time": "18:00",
+    "venue": "Ann Arbor",
+    "address": "Ann Arbor",
+    "category": "community",
+    "tags": [],
+    "description": "Monthly book club meetup. Come hang out, chat about books, and unwind with fellow readers in a relaxed, no-pressure vibe.",
+    "url": "https://www.eventbrite.com/e/recess-book-club-tickets-1984179773114",
+    "source": "eventbrite",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-04T06:55:01.913802+00:00"
   },
   {
     "id": "eventbrite-2026-04-10-struggle-to-strength-book-signing",
@@ -439,7 +422,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603441+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913896+00:00"
   },
   {
     "id": "eventbrite-2026-04-17-tom-chapin-in-concert",
@@ -456,7 +439,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603509+00:00"
+    "scraped_at": "2026-04-04T06:55:01.913964+00:00"
   },
   {
     "id": "eventbrite-2026-04-15-seek-phys-fun-day-estabrook-april-15-2026",
@@ -473,7 +456,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603552+00:00"
+    "scraped_at": "2026-04-04T06:55:01.914006+00:00"
   },
   {
     "id": "eventbrite-2026-04-10-foolmoon-2026-fools-of-a-feather",
@@ -490,24 +473,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603621+00:00"
-  },
-  {
-    "id": "eventbrite-2026-04-03-jes\u00fas-jael-argentine-tango-classmilongaann-arbor-mi-apr-32026",
-    "title": "Jes\u00fas & Jael Argentine Tango class/milonga~Ann Arbor, MI Apr 3,2026",
-    "date": "2026-04-03",
-    "time": "19:00",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [],
-    "description": "\u00a1Prep\u00e1rate para bailar tango con Jes\u00fas & Jael en Ann Arbor, una noche llena de pasi\u00f3n y ritmo!",
-    "url": "https://www.eventbrite.com/e/jesus-jael-argentine-tango-classmilongaann-arbor-mi-apr-32026-tickets-1983183803141",
-    "source": "eventbrite",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603750+00:00"
+    "scraped_at": "2026-04-04T06:55:01.914100+00:00"
   },
   {
     "id": "eventbrite-2026-04-04-bangers-before-bed-a-matinee-dance-party-ann-arbor-21",
@@ -524,7 +490,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603867+00:00"
+    "scraped_at": "2026-04-04T06:55:01.914281+00:00"
   },
   {
     "id": "eventbrite-2026-04-11-books-in-the-barn",
@@ -541,7 +507,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603917+00:00"
+    "scraped_at": "2026-04-04T06:55:01.914322+00:00"
   },
   {
     "id": "eventbrite-2026-04-10-exploring-non-linear-career-paths-lunch-conversation-w-lindsey-kilbride",
@@ -558,7 +524,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.603994+00:00"
+    "scraped_at": "2026-04-04T06:55:01.914397+00:00"
   },
   {
     "id": "eventbrite-2026-04-28-psychic-dinner-party-in-dexter-michigan",
@@ -575,7 +541,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.604065+00:00"
+    "scraped_at": "2026-04-04T06:55:01.914468+00:00"
   },
   {
     "id": "eventbrite-2026-04-11-using-the-ride-with-kids",
@@ -592,7 +558,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.604136+00:00"
+    "scraped_at": "2026-04-04T06:55:01.914536+00:00"
   },
   {
     "id": "eventbrite-2026-04-12-from-silk-to-symphony-qingyun-chinese-music-ensemble-annual-concert",
@@ -609,6 +575,23 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-03T07:03:09.604180+00:00"
+    "scraped_at": "2026-04-04T06:55:01.914579+00:00"
+  },
+  {
+    "id": "eventbrite-2026-04-25-matt-watroba",
+    "title": "Matt Watroba",
+    "date": "2026-04-25",
+    "time": "19:30",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [],
+    "description": "Matt Watroba brings a very special set of talents to the stage whenever he appears on stage!",
+    "url": "https://www.eventbrite.com/e/matt-watroba-tickets-1980333611140",
+    "source": "eventbrite",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-04T06:55:01.914618+00:00"
   }
 ]
