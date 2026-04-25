@@ -1,22 +1,5 @@
 [
   {
-    "id": "hill_auditorium-2026-04-24-ian-fink",
-    "title": "Ian Fink",
-    "date": "2026-04-24",
-    "time": "",
-    "venue": "Hill Auditorium",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [],
-    "description": "",
-    "url": "https://ums.org/performance/ian-fink/",
-    "source": "hill_auditorium",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-24T07:54:19.946684+00:00"
-  },
-  {
     "id": "hill_auditorium-2026-04-25-beyond-this-point-musician-minus-instrument",
     "title": "Beyond This Point: Musician Minus Instrument",
     "date": "2026-04-25",
@@ -31,24 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-24T07:54:19.947014+00:00"
-  },
-  {
-    "id": "hill_auditorium-2026-04-24-the-ever-fonky-lowdown-jazz-at-lincoln-center-orchestra-with-wynton-marsalis-and-wendell-pierce",
-    "title": "The Ever Fonky Lowdown Jazz at Lincoln Center Orchestra with Wynton Marsalis and Wendell Pierce",
-    "date": "2026-04-24",
-    "time": "",
-    "venue": "Hill Auditorium",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [],
-    "description": "",
-    "url": "https://ums.org/performance/the-ever-fonky-lowdown/",
-    "source": "hill_auditorium",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-24T07:54:19.953737+00:00"
+    "scraped_at": "2026-04-25T07:06:59.277741+00:00"
   },
   {
     "id": "hill_auditorium-2026-04-25-jazz-at-lincoln-center-orchestra-with-wynton-marsalis",
@@ -65,7 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-24T07:54:19.953956+00:00"
+    "scraped_at": "2026-04-25T07:06:59.286269+00:00"
   },
   {
     "id": "hill_auditorium-2026-04-30-the-butterfly-who-flew-into-the-rave-oli-mathiesen-company-ltd-feat-detroits-suburban-knight",
@@ -82,6 +48,6 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-24T07:54:19.954164+00:00"
+    "scraped_at": "2026-04-25T07:06:59.286517+00:00"
   }
 ]
