@@ -1,41 +1,5 @@
 [
   {
-    "id": "ypsilanti-2026-04-27-recycling-a-week",
-    "title": "Recycling \"A\" Week",
-    "date": "2026-04-27",
-    "time": "12:01 AM",
-    "venue": "",
-    "address": "",
-    "category": "ypsilanti",
-    "tags": [],
-    "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4324&month=4&year=2026&day=27&calType=0",
-    "source": "ypsilanti",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-27T08:13:46.393104+00:00"
-  },
-  {
-    "id": "ypsilanti-2026-04-27-human-relations-commission-meeting",
-    "title": "Human Relations Commission Meeting",
-    "date": "2026-04-27",
-    "time": "6:00 PM\u2009-\u20099:00 PM",
-    "venue": "City Hall",
-    "address": "",
-    "category": "ypsilanti",
-    "tags": [
-      "public_meeting"
-    ],
-    "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4733&month=4&year=2026&day=27&calType=0",
-    "source": "ypsilanti",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-27T08:13:46.393540+00:00"
-  },
-  {
     "id": "ypsilanti-2026-04-30-administrative-hearings-bureau",
     "title": "Administrative Hearings Bureau",
     "date": "2026-04-30",
@@ -47,28 +11,11 @@
       "public_meeting"
     ],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4798&month=4&year=2026&day=27&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4798&month=4&year=2026&day=28&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-04-27T08:13:46.394028+00:00"
-  },
-  {
-    "id": "ypsilanti-2026-04-27-university-musical-society-programming",
-    "title": "University Musical Society Programming",
-    "date": "2026-04-27",
-    "time": "8:00 AM\u2009-\u200911:30 PM",
-    "venue": "Freighthouse",
-    "address": "",
-    "category": "ypsilanti",
-    "tags": [],
-    "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4748&month=4&year=2026&day=27&calType=0",
-    "source": "ypsilanti",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-27T08:13:46.394427+00:00"
+    "scraped_at": "2026-04-28T08:15:42.541924+00:00"
   }
 ]
