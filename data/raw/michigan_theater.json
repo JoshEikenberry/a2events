@@ -1,5 +1,480 @@
 [
   {
+    "id": "michigan_theater-2026-05-16-and-damn-he-could-play",
+    "title": "...And Damn, He Could Play",
+    "date": "2026-05-16",
+    "time": "12:15pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1007555~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/anddamnhecouldplay%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907337+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-a-sad-and-beautiful-world",
+    "title": "A Sad And Beautiful World",
+    "date": "2026-05-16",
+    "time": "2:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006146~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/asadandbeautifulworld%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907400+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-dog-of-god",
+    "title": "Dog Of God",
+    "date": "2026-05-16",
+    "time": "9:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006159~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dogofgod%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907449+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-everybody-to-kenmure-street",
+    "title": "Everybody To Kenmure Street",
+    "date": "2026-05-16",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006177~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everybodytokenmurestreet%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907497+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-fiume-o-morte",
+    "title": "Fiume O Morte!",
+    "date": "2026-05-16",
+    "time": "2:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006152~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fiumeomorte%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907557+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-fucktoys",
+    "title": "Fucktoys",
+    "date": "2026-05-16",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006157~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fucktoys%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907606+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-if-i-go-will-they-miss-me",
+    "title": "If I Go Will They Miss Me",
+    "date": "2026-05-16",
+    "time": "4:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006154~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/ifigowilltheymissme%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907651+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-in-excess",
+    "title": "In Excess",
+    "date": "2026-05-16",
+    "time": "4:15pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006134~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/inexcess%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907692+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-midwest-beyond-shorts",
+    "title": "Midwest & Beyond Shorts",
+    "date": "2026-05-16",
+    "time": "2:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1007372~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/midwestandbeyondshorts%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907734+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-peter-asher-everywhere-man",
+    "title": "Peter Asher: Everywhere Man",
+    "date": "2026-05-16",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006156~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everywhereman%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907774+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-renoir",
+    "title": "Renoir",
+    "date": "2026-05-16",
+    "time": "11:30am",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006174~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/renoir%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907812+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-16-thanks-for-nothing",
+    "title": "Thanks For Nothing",
+    "date": "2026-05-16",
+    "time": "11:45am",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006172~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thanksfornothing%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907851+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-a-sad-and-beautiful-world",
+    "title": "A Sad And Beautiful World",
+    "date": "2026-05-15",
+    "time": "6:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006143~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/asadandbeautifulworld%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907919+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-dead-deer-high",
+    "title": "Dead Deer High",
+    "date": "2026-05-15",
+    "time": "2:45pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006135~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/deaddeerhigh%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.907960+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-15",
+    "time": "3:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009475~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908001+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-dog-of-god",
+    "title": "Dog Of God",
+    "date": "2026-05-15",
+    "time": "9:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006158~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dogofgod%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908040+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-fiume-o-morte",
+    "title": "Fiume O Morte!",
+    "date": "2026-05-15",
+    "time": "9:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006153~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fiumeomorte%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908078+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-if-i-go-will-they-miss-me",
+    "title": "If I Go Will They Miss Me",
+    "date": "2026-05-15",
+    "time": "12:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006155~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/ifigowilltheymissme%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908118+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-in-excess",
+    "title": "In Excess",
+    "date": "2026-05-15",
+    "time": "12:15pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006133~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/inexcess%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908157+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-last-one-for-the-road",
+    "title": "Last One For The Road",
+    "date": "2026-05-15",
+    "time": "12:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006163~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/lastonefortheroad%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908197+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-power-ballad",
+    "title": "Power Ballad",
+    "date": "2026-05-15",
+    "time": "6:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1004873~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/power_ballad_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908258+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-public-access",
+    "title": "Public Access",
+    "date": "2026-05-15",
+    "time": "8:45pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006150~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/publicaccess%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908301+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-renoir",
+    "title": "Renoir",
+    "date": "2026-05-15",
+    "time": "5:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006173~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/renoir%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908339+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-thanks-for-nothing",
+    "title": "Thanks For Nothing",
+    "date": "2026-05-15",
+    "time": "3:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006168~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thanksfornothing%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908378+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-15-this-is-ballroom",
+    "title": "This Is Ballroom",
+    "date": "2026-05-15",
+    "time": "3:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006165~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thisisballroom%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908417+00:00"
+  },
+  {
     "id": "michigan_theater-2026-05-09-ann-arbor-concert-band-favorites-20",
     "title": "Ann Arbor Concert Band: \"Favorites 2.0\"",
     "date": "2026-05-09",
@@ -16,7 +491,159 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/a2cbupdatedmith-1080x450%20-%20may%209_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.956863+00:00"
+    "scraped_at": "2026-04-29T08:08:02.908460+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-17-aanikoobijigan-ancestorgreat-grandparentgreat-grandchild",
+    "title": "Aanikoobijigan [ancestor/great-grandparent/great-grandchild]",
+    "date": "2026-05-17",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1004872~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aanikoobijigan_1080x450(2)_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908502+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-17-dead-deer-high",
+    "title": "Dead Deer High",
+    "date": "2026-05-17",
+    "time": "11:45am",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006136~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/deaddeerhigh%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908541+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-17-everybody-to-kenmure-street",
+    "title": "Everybody To Kenmure Street",
+    "date": "2026-05-17",
+    "time": "12:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006178~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everybodytokenmurestreet%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908580+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-17-joybubbles",
+    "title": "Joybubbles",
+    "date": "2026-05-17",
+    "time": "12:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006160~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/joybubbles%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908618+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-17-last-one-for-the-road",
+    "title": "Last One For The Road",
+    "date": "2026-05-17",
+    "time": "3:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006164~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/lastonefortheroad%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908658+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-17-michigan-made-shorts",
+    "title": "Michigan-Made Shorts",
+    "date": "2026-05-17",
+    "time": "2:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1007347~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/michiganmadeshorts%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908697+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-17-public-access",
+    "title": "Public Access",
+    "date": "2026-05-17",
+    "time": "3:15pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006151~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/publicaccess%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908734+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-17-this-is-ballroom",
+    "title": "This Is Ballroom",
+    "date": "2026-05-17",
+    "time": "12:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006166~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thisisballroom%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908773+00:00"
   },
   {
     "id": "michigan_theater-2026-05-03-american-dream",
@@ -35,7 +662,45 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/americandream%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.956928+00:00"
+    "scraped_at": "2026-04-29T08:08:02.908814+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-03-the-christophers",
+    "title": "The Christophers",
+    "date": "2026-05-03",
+    "time": "1:50pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009418~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thechristophers%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908853+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-03-the-christophers",
+    "title": "The Christophers",
+    "date": "2026-05-03",
+    "time": "7:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009419~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thechristophers%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908860+00:00"
   },
   {
     "id": "michigan_theater-2026-05-03-the-devil-wears-prada-2",
@@ -54,7 +719,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.956978+00:00"
+    "scraped_at": "2026-04-29T08:08:02.908899+00:00"
   },
   {
     "id": "michigan_theater-2026-05-03-the-devil-wears-prada-2",
@@ -73,7 +738,45 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.956987+00:00"
+    "scraped_at": "2026-04-29T08:08:02.908911+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-03-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-03",
+    "time": "7:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009387~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908917+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-03-the-drama",
+    "title": "The Drama",
+    "date": "2026-05-03",
+    "time": "7:50pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009410~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.908958+00:00"
   },
   {
     "id": "michigan_theater-2026-05-03-the-head-and-the-heart-15th-anniversary-tour",
@@ -92,7 +795,26 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/head_and_heart_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957040+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909000+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-03-mother-mary",
+    "title": "Mother Mary",
+    "date": "2026-05-03",
+    "time": "5:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009427~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909040+00:00"
   },
   {
     "id": "michigan_theater-2026-05-03-the-pianists-choice",
@@ -111,7 +833,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aajff_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957083+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909080+00:00"
   },
   {
     "id": "michigan_theater-2026-05-03-power-to-the-people-john-yoko-live-in-nyc",
@@ -130,7 +852,45 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/powertothepeople_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957129+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909123+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-03-project-hail-mary",
+    "title": "Project Hail Mary",
+    "date": "2026-05-03",
+    "time": "1:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009372~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909162+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-03-project-hail-mary",
+    "title": "Project Hail Mary",
+    "date": "2026-05-03",
+    "time": "4:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009373~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909170+00:00"
   },
   {
     "id": "michigan_theater-2026-05-03-tovah-50-years-on-broadway-the-life-of-tovah-feldshuh",
@@ -149,32 +909,13 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aajff_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957175+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909212+00:00"
   },
   {
-    "id": "michigan_theater-2026-04-28-borderland-the-line-within-screening-director-qa",
-    "title": "Borderland: The Line Within - Screening + Director Q&A",
-    "date": "2026-04-28",
-    "time": "6:30pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=993627~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/victims%20of%20ice%20fundraiser%20banner_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957306+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-04-28-the-christophers",
-    "title": "The Christophers",
-    "date": "2026-04-28",
-    "time": "6:30pm",
+    "id": "michigan_theater-2026-05-29-backrooms",
+    "title": "Backrooms",
+    "date": "2026-05-29",
+    "time": "12:00pm",
     "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
@@ -182,18 +923,18 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1008010~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009355~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thechristophers%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/backrooms%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957347+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909333+00:00"
   },
   {
-    "id": "michigan_theater-2026-04-28-the-drama",
-    "title": "The Drama",
-    "date": "2026-04-28",
-    "time": "6:45pm",
+    "id": "michigan_theater-2026-05-29-tuner",
+    "title": "Tuner",
+    "date": "2026-05-29",
+    "time": "12:00pm",
     "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
@@ -201,69 +942,12 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1007997~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009353~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/tuner%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957387+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-04-28-la-dolce-vita",
-    "title": "La Dolce Vita",
-    "date": "2026-04-28",
-    "time": "7:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1007136~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/ladolcevita%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957425+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-04-28-mother-mary",
-    "title": "Mother Mary",
-    "date": "2026-04-28",
-    "time": "7:00pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1007985~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957464+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-04-28-project-hail-mary",
-    "title": "Project Hail Mary",
-    "date": "2026-04-28",
-    "time": "6:15pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1007970~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957503+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909373+00:00"
   },
   {
     "id": "michigan_theater-2026-04-29-the-christophers",
@@ -282,7 +966,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thechristophers%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957541+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909439+00:00"
   },
   {
     "id": "michigan_theater-2026-04-29-mother-mary",
@@ -301,7 +985,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957579+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909478+00:00"
   },
   {
     "id": "michigan_theater-2026-04-29-power-to-the-people-john-yoko-live-in-nyc",
@@ -320,7 +1004,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/powertothepeople_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957622+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909518+00:00"
   },
   {
     "id": "michigan_theater-2026-04-29-project-hail-mary",
@@ -339,7 +1023,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957662+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909556+00:00"
   },
   {
     "id": "michigan_theater-2026-04-29-twin-peaks-season-one-episode-5-6",
@@ -358,7 +1042,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/twinpeaks%20episode5-6%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957704+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909597+00:00"
   },
   {
     "id": "michigan_theater-2026-04-30-the-christophers",
@@ -377,7 +1061,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thechristophers%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957742+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909636+00:00"
   },
   {
     "id": "michigan_theater-2026-04-30-the-devil-wears-prada-2",
@@ -396,7 +1080,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957780+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909674+00:00"
   },
   {
     "id": "michigan_theater-2026-04-30-the-devil-wears-prada-2",
@@ -415,7 +1099,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957794+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909681+00:00"
   },
   {
     "id": "michigan_theater-2026-04-30-the-drama",
@@ -434,7 +1118,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957833+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909719+00:00"
   },
   {
     "id": "michigan_theater-2026-04-30-mother-mary",
@@ -453,7 +1137,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957898+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909756+00:00"
   },
   {
     "id": "michigan_theater-2026-04-30-mother-mary",
@@ -472,7 +1156,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957906+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909767+00:00"
   },
   {
     "id": "michigan_theater-2026-04-30-project-hail-mary",
@@ -491,7 +1175,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957945+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909807+00:00"
   },
   {
     "id": "michigan_theater-2026-04-30-project-hail-mary",
@@ -510,7 +1194,64 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957953+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909814+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-the-christophers",
+    "title": "The Christophers",
+    "date": "2026-05-01",
+    "time": "3:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009415~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thechristophers%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909852+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-01",
+    "time": "3:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009379~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909891+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-01",
+    "time": "6:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009380~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909899+00:00"
   },
   {
     "id": "michigan_theater-2026-05-01-the-devil-wears-prada-2",
@@ -529,7 +1270,235 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.957992+00:00"
+    "scraped_at": "2026-04-29T08:08:02.909906+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-01",
+    "time": "9:10pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009381~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909912+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-the-drama",
+    "title": "The Drama",
+    "date": "2026-05-01",
+    "time": "3:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009405~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909950+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-the-drama",
+    "title": "The Drama",
+    "date": "2026-05-01",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009406~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909956+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-the-drama",
+    "title": "The Drama",
+    "date": "2026-05-01",
+    "time": "9:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009407~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909962+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-mother-mary",
+    "title": "Mother Mary",
+    "date": "2026-05-01",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009422~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.909999+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-mother-mary",
+    "title": "Mother Mary",
+    "date": "2026-05-01",
+    "time": "9:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009423~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910006+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-project-hail-mary",
+    "title": "Project Hail Mary",
+    "date": "2026-05-01",
+    "time": "3:10pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009368~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910044+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-01-project-hail-mary",
+    "title": "Project Hail Mary",
+    "date": "2026-05-01",
+    "time": "9:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009369~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910051+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-the-christophers",
+    "title": "The Christophers",
+    "date": "2026-05-02",
+    "time": "3:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009416~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thechristophers%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910088+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-the-christophers",
+    "title": "The Christophers",
+    "date": "2026-05-02",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009417~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thechristophers%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910094+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-02",
+    "time": "3:50pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009383~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910132+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-02",
+    "time": "6:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009385~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910140+00:00"
   },
   {
     "id": "michigan_theater-2026-05-02-the-devil-wears-prada-2",
@@ -548,7 +1517,140 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958032+00:00"
+    "scraped_at": "2026-04-29T08:08:02.910147+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-02",
+    "time": "9:10pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009386~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910153+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-the-drama",
+    "title": "The Drama",
+    "date": "2026-05-02",
+    "time": "3:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009408~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910190+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-the-drama",
+    "title": "The Drama",
+    "date": "2026-05-02",
+    "time": "9:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009409~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910197+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-mother-mary",
+    "title": "Mother Mary",
+    "date": "2026-05-02",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009424~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910256+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-mother-mary",
+    "title": "Mother Mary",
+    "date": "2026-05-02",
+    "time": "9:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009426~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910264+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-project-hail-mary",
+    "title": "Project Hail Mary",
+    "date": "2026-05-02",
+    "time": "3:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009370~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910311+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-02-project-hail-mary",
+    "title": "Project Hail Mary",
+    "date": "2026-05-02",
+    "time": "8:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009371~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910318+00:00"
   },
   {
     "id": "michigan_theater-2026-05-02-university-of-michigan-biology-health-society-commencement",
@@ -567,7 +1669,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/bhs_banner_thumb.png",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958075+00:00"
+    "scraped_at": "2026-04-29T08:08:02.910362+00:00"
   },
   {
     "id": "michigan_theater-2026-05-02-university-of-michigan-neuroscience-commencement",
@@ -586,7 +1688,45 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/neuro_banner_thumb.png",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958116+00:00"
+    "scraped_at": "2026-04-29T08:08:02.910494+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-05-the-christophers",
+    "title": "The Christophers",
+    "date": "2026-05-05",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009420~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thechristophers%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910538+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-05-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-05",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009391~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910580+00:00"
   },
   {
     "id": "michigan_theater-2026-05-05-ftvm-423-student-film-screening",
@@ -605,7 +1745,45 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/ftvm_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958158+00:00"
+    "scraped_at": "2026-04-29T08:08:02.910620+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-05-mother-mary",
+    "title": "Mother Mary",
+    "date": "2026-05-05",
+    "time": "7:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009428~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910658+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-05-project-hail-mary",
+    "title": "Project Hail Mary",
+    "date": "2026-05-05",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009375~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910697+00:00"
   },
   {
     "id": "michigan_theater-2026-05-05-titicut-follies",
@@ -624,13 +1802,13 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/titicut%20follies%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958201+00:00"
+    "scraped_at": "2026-04-29T08:08:02.910736+00:00"
   },
   {
-    "id": "michigan_theater-2026-05-11-girls-like-us",
-    "title": "Girls Like Us",
-    "date": "2026-05-11",
-    "time": "6:30pm",
+    "id": "michigan_theater-2026-05-07-the-christophers",
+    "title": "The Christophers",
+    "date": "2026-05-07",
+    "time": "6:15pm",
     "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
@@ -638,37 +1816,18 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1003429~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009421~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aajff_1080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thechristophers%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958239+00:00"
+    "scraped_at": "2026-04-29T08:08:02.910774+00:00"
   },
   {
-    "id": "michigan_theater-2026-05-12-harlan-county-usa",
-    "title": "Harlan County USA",
-    "date": "2026-05-12",
-    "time": "7:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1008411~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/harlancountryusa%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958310+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-05-12-stay-forte-a-film-by-doron-eran",
-    "title": "Stay Forte: A Film by Doron Eran",
-    "date": "2026-05-12",
-    "time": "6:30pm",
+    "id": "michigan_theater-2026-05-07-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-07",
+    "time": "3:10pm",
     "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
@@ -676,37 +1835,75 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1003431~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009394~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aajff_1080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958351+00:00"
+    "scraped_at": "2026-04-29T08:08:02.910813+00:00"
   },
   {
-    "id": "michigan_theater-2026-05-19-hoop-dreams",
-    "title": "Hoop Dreams",
-    "date": "2026-05-19",
+    "id": "michigan_theater-2026-05-07-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-07",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009396~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910821+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-07-the-drama",
+    "title": "The Drama",
+    "date": "2026-05-07",
+    "time": "3:50pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009413~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910859+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-07-the-drama",
+    "title": "The Drama",
+    "date": "2026-05-07",
     "time": "7:00pm",
-    "venue": "Michigan Theater",
+    "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
     "tags": [
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1008413~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009414~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/hoopdreams%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958445+00:00"
+    "scraped_at": "2026-04-29T08:08:02.910866+00:00"
   },
   {
-    "id": "michigan_theater-2026-05-08-iron-wine",
-    "title": "Iron & Wine",
-    "date": "2026-05-08",
-    "time": "8:00pm",
+    "id": "michigan_theater-2026-05-07-i-swear",
+    "title": "I Swear",
+    "date": "2026-05-07",
+    "time": "6:30pm",
     "venue": "Michigan Theater",
     "address": "",
     "category": "arts_culture",
@@ -714,12 +1911,12 @@
       "film"
     ],
     "description": "",
-    "url": "https://www.ticketmaster.com/event/08006388E92C7228",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009365~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iron_wine_1080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iswear%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958539+00:00"
+    "scraped_at": "2026-04-29T08:08:02.910904+00:00"
   },
   {
     "id": "michigan_theater-2026-05-07-the-last-spy",
@@ -738,7 +1935,45 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aajff_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958577+00:00"
+    "scraped_at": "2026-04-29T08:08:02.910942+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-07-mother-mary",
+    "title": "Mother Mary",
+    "date": "2026-05-07",
+    "time": "3:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009429~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mothermary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.910980+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-07-project-hail-mary",
+    "title": "Project Hail Mary",
+    "date": "2026-05-07",
+    "time": "3:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009377~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911019+00:00"
   },
   {
     "id": "michigan_theater-2026-05-07-the-road-home",
@@ -757,7 +1992,45 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/road_home_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958614+00:00"
+    "scraped_at": "2026-04-29T08:08:02.911056+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-04-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-04",
+    "time": "6:50pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009389~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911094+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-04-the-drama",
+    "title": "The Drama",
+    "date": "2026-05-04",
+    "time": "6:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009411~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911132+00:00"
   },
   {
     "id": "michigan_theater-2026-05-04-mt-community-film-club-star-wars-and-sci-fi-cinema",
@@ -774,7 +2047,26 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/sci-fi%20cinema%20film%20club%20banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958767+00:00"
+    "scraped_at": "2026-04-29T08:08:02.911173+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-04-project-hail-mary",
+    "title": "Project Hail Mary",
+    "date": "2026-05-04",
+    "time": "6:10pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009374~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911211+00:00"
   },
   {
     "id": "michigan_theater-2026-05-04-sapiro-v-ford-the-jew-who-sued-henry-ford",
@@ -793,13 +2085,51 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aajff_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958811+00:00"
+    "scraped_at": "2026-04-29T08:08:02.911280+00:00"
   },
   {
-    "id": "michigan_theater-2026-05-20-cozy-craft-club-the-parent-trap",
-    "title": "Cozy\u00a0Craft\u00a0Club - The Parent Trap",
-    "date": "2026-05-20",
-    "time": "7:00pm",
+    "id": "michigan_theater-2026-05-06-the-devil-wears-prada-2",
+    "title": "The Devil Wears Prada 2",
+    "date": "2026-05-06",
+    "time": "6:10pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009392~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dwp2_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911323+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-06-the-drama",
+    "title": "The Drama",
+    "date": "2026-05-06",
+    "time": "6:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009412~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedrama%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911362+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-06-i-swear",
+    "title": "I Swear",
+    "date": "2026-05-06",
+    "time": "6:30pm",
     "venue": "Michigan Theater",
     "address": "",
     "category": "arts_culture",
@@ -807,12 +2137,31 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1003723~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009364~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/the%20parent%20trap%20-%20cozy%20craft%20banner_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iswear%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958912+00:00"
+    "scraped_at": "2026-04-29T08:08:02.911407+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-06-project-hail-mary",
+    "title": "Project Hail Mary",
+    "date": "2026-05-06",
+    "time": "6:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009376~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/projecthailmary%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911447+00:00"
   },
   {
     "id": "michigan_theater-2026-05-06-the-sea",
@@ -831,7 +2180,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aajff_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958953+00:00"
+    "scraped_at": "2026-04-29T08:08:02.911486+00:00"
   },
   {
     "id": "michigan_theater-2026-05-06-twin-peaks-season-one-episode-7-8",
@@ -850,6 +2199,291 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/twinpeaks%20episode%207-8%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-04-28T08:15:03.958996+00:00"
+    "scraped_at": "2026-04-29T08:08:02.911528+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-08-everyone-is-lying-to-you-for-money",
+    "title": "Everyone Is Lying To You For Money",
+    "date": "2026-05-08",
+    "time": "12:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009367~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everyoneislyingtoyouformoney%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911600+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-08-iron-wine",
+    "title": "Iron & Wine",
+    "date": "2026-05-08",
+    "time": "8:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://www.ticketmaster.com/event/08006388E92C7228",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iron_wine_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911639+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-08-our-hero-balthazar",
+    "title": "Our Hero, Balthazar",
+    "date": "2026-05-08",
+    "time": "12:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009363~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/ourherobalthazaar%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911679+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-11-girls-like-us",
+    "title": "Girls Like Us",
+    "date": "2026-05-11",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1003429~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aajff_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911718+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-12-harlan-county-usa",
+    "title": "Harlan County USA",
+    "date": "2026-05-12",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1008411~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/harlancountryusa%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911784+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-12-stay-forte-a-film-by-doron-eran",
+    "title": "Stay Forte: A Film by Doron Eran",
+    "date": "2026-05-12",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1003431~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aajff_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911825+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-19-hoop-dreams",
+    "title": "Hoop Dreams",
+    "date": "2026-05-19",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1008413~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/hoopdreams%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911920+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-21-i-love-boosters",
+    "title": "I Love Boosters",
+    "date": "2026-05-21",
+    "time": "7:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009457~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iloveboosters%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911958+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-22-i-love-boosters",
+    "title": "I Love Boosters",
+    "date": "2026-05-22",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009458~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iloveboosters%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.911997+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-23-i-love-boosters",
+    "title": "I Love Boosters",
+    "date": "2026-05-23",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009459~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iloveboosters%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.912035+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-24-i-love-boosters",
+    "title": "I Love Boosters",
+    "date": "2026-05-24",
+    "time": "4:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009460~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iloveboosters%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.912073+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-25-i-love-boosters",
+    "title": "I Love Boosters",
+    "date": "2026-05-25",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1009461~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iloveboosters%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.912110+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-20-cozy-craft-club-the-parent-trap",
+    "title": "Cozy\u00a0Craft\u00a0Club - The Parent Trap",
+    "date": "2026-05-20",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1003723~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/the%20parent%20trap%20-%20cozy%20craft%20banner_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.912393+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-13-peter-asher-everywhere-man",
+    "title": "Peter Asher: Everywhere Man",
+    "date": "2026-05-13",
+    "time": "7:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1006132~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everywhereman%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.912436+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-05-14-sons-of-detroit",
+    "title": "Sons of Detroit",
+    "date": "2026-05-14",
+    "time": "7:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1004874~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/sonsofdetroit_1080x450_thumb.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-04-29T08:08:02.912475+00:00"
   }
 ]
