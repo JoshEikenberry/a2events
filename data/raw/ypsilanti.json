@@ -1,24 +1,5 @@
 [
   {
-    "id": "ypsilanti-2026-05-05-regular-city-council-meeting",
-    "title": "Regular City Council Meeting",
-    "date": "2026-05-05",
-    "time": "7:00 PM\u2009-\u200910:00 PM",
-    "venue": "City Hall",
-    "address": "",
-    "category": "ypsilanti",
-    "tags": [
-      "public_meeting"
-    ],
-    "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4306&month=5&year=2026&day=5&calType=0",
-    "source": "ypsilanti",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.945944+00:00"
-  },
-  {
     "id": "ypsilanti-2026-05-07-administrative-hearings-bureau",
     "title": "Administrative Hearings Bureau",
     "date": "2026-05-07",
@@ -30,12 +11,12 @@
       "public_meeting"
     ],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4799&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4799&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.946318+00:00"
+    "scraped_at": "2026-05-06T08:17:01.838416+00:00"
   },
   {
     "id": "ypsilanti-2026-05-11-recycling-a-week",
@@ -47,12 +28,31 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4325&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4325&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.946683+00:00"
+    "scraped_at": "2026-05-06T08:17:01.838864+00:00"
+  },
+  {
+    "id": "ypsilanti-2026-05-12-special-city-council-meeting",
+    "title": "Special City Council Meeting",
+    "date": "2026-05-12",
+    "time": "6:00 PM\u2009-\u200910:00 PM",
+    "venue": "City Hall",
+    "address": "",
+    "category": "ypsilanti",
+    "tags": [
+      "public_meeting"
+    ],
+    "description": "",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4864&month=5&year=2026&day=6&calType=0",
+    "source": "ypsilanti",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-05-06T08:17:01.839289+00:00"
   },
   {
     "id": "ypsilanti-2026-05-14-administrative-hearings-bureau",
@@ -66,12 +66,12 @@
       "public_meeting"
     ],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4800&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4800&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.947000+00:00"
+    "scraped_at": "2026-05-06T08:17:01.839697+00:00"
   },
   {
     "id": "ypsilanti-2026-05-18-recycling-b-week",
@@ -83,12 +83,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4425&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4425&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.947331+00:00"
+    "scraped_at": "2026-05-06T08:17:01.840148+00:00"
   },
   {
     "id": "ypsilanti-2026-05-18-parks-arts-commission-meeting",
@@ -102,12 +102,12 @@
       "public_meeting"
     ],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4269&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4269&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.947657+00:00"
+    "scraped_at": "2026-05-06T08:17:01.840548+00:00"
   },
   {
     "id": "ypsilanti-2026-05-19-regular-city-council-meeting",
@@ -121,12 +121,12 @@
       "public_meeting"
     ],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4296&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4296&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.947977+00:00"
+    "scraped_at": "2026-05-06T08:17:01.840944+00:00"
   },
   {
     "id": "ypsilanti-2026-05-21-administrative-hearings-bureau",
@@ -140,12 +140,12 @@
       "public_meeting"
     ],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4801&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4801&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.948283+00:00"
+    "scraped_at": "2026-05-06T08:17:01.841359+00:00"
   },
   {
     "id": "ypsilanti-2026-05-21-human-relations-commission-meeting-town-hall",
@@ -159,12 +159,12 @@
       "public_meeting"
     ],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4856&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4856&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.948673+00:00"
+    "scraped_at": "2026-05-06T08:17:01.841798+00:00"
   },
   {
     "id": "ypsilanti-2026-05-25-recycling-a-week",
@@ -176,12 +176,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4326&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4326&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.949009+00:00"
+    "scraped_at": "2026-05-06T08:17:01.842241+00:00"
   },
   {
     "id": "ypsilanti-2026-05-28-administrative-hearings-bureau",
@@ -195,12 +195,12 @@
       "public_meeting"
     ],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4802&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4802&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.949313+00:00"
+    "scraped_at": "2026-05-06T08:17:01.842653+00:00"
   },
   {
     "id": "ypsilanti-2026-05-28-ypac-ypsilanti-police-advisory-commission",
@@ -214,12 +214,12 @@
       "public_meeting"
     ],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4724&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4724&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.949642+00:00"
+    "scraped_at": "2026-05-06T08:17:01.843069+00:00"
   },
   {
     "id": "ypsilanti-2026-05-06-freighthouse-workday",
@@ -231,12 +231,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4619&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4619&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.949954+00:00"
+    "scraped_at": "2026-05-06T08:17:01.843465+00:00"
   },
   {
     "id": "ypsilanti-2026-05-09-ypsi-artisans-market",
@@ -248,12 +248,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4837&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4837&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.950246+00:00"
+    "scraped_at": "2026-05-06T08:17:01.843855+00:00"
   },
   {
     "id": "ypsilanti-2026-05-13-rain-garden-workshop",
@@ -265,12 +265,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4838&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4838&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.950556+00:00"
+    "scraped_at": "2026-05-06T08:17:01.844264+00:00"
   },
   {
     "id": "ypsilanti-2026-05-14-private-rental",
@@ -282,12 +282,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4618&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4618&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.950855+00:00"
+    "scraped_at": "2026-05-06T08:17:01.844642+00:00"
   },
   {
     "id": "ypsilanti-2026-05-15-private-rental",
@@ -299,12 +299,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4620&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4620&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.951150+00:00"
+    "scraped_at": "2026-05-06T08:17:01.845055+00:00"
   },
   {
     "id": "ypsilanti-2026-05-16-private-rental",
@@ -316,12 +316,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4749&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4749&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.951445+00:00"
+    "scraped_at": "2026-05-06T08:17:01.845440+00:00"
   },
   {
     "id": "ypsilanti-2026-05-17-ypsi-flea-swap",
@@ -333,12 +333,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4755&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4755&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.951764+00:00"
+    "scraped_at": "2026-05-06T08:17:01.845819+00:00"
   },
   {
     "id": "ypsilanti-2026-05-18-freighthouse-closed-for-deep-cleaning",
@@ -350,12 +350,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4750&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4750&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.952068+00:00"
+    "scraped_at": "2026-05-06T08:17:01.846228+00:00"
   },
   {
     "id": "ypsilanti-2026-05-19-freighthouse-closed-for-deep-cleaning",
@@ -367,12 +367,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4751&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4751&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.952365+00:00"
+    "scraped_at": "2026-05-06T08:17:01.846613+00:00"
   },
   {
     "id": "ypsilanti-2026-05-20-freighthouse-closed-for-deep-cleaning",
@@ -384,12 +384,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4752&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4752&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.952677+00:00"
+    "scraped_at": "2026-05-06T08:17:01.847029+00:00"
   },
   {
     "id": "ypsilanti-2026-05-21-freighthouse-closed-for-deep-cleaning",
@@ -401,12 +401,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4753&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4753&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.952972+00:00"
+    "scraped_at": "2026-05-06T08:17:01.847423+00:00"
   },
   {
     "id": "ypsilanti-2026-05-22-freighthouse-closed-for-deep-cleaning",
@@ -418,12 +418,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4754&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4754&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.953264+00:00"
+    "scraped_at": "2026-05-06T08:17:01.847807+00:00"
   },
   {
     "id": "ypsilanti-2026-05-30-private-rental",
@@ -435,12 +435,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4839&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4839&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.953590+00:00"
+    "scraped_at": "2026-05-06T08:17:01.848210+00:00"
   },
   {
     "id": "ypsilanti-2026-05-31-private-rental",
@@ -452,12 +452,12 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4756&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4756&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.953899+00:00"
+    "scraped_at": "2026-05-06T08:17:01.848588+00:00"
   },
   {
     "id": "ypsilanti-2026-05-31-private-rental",
@@ -469,11 +469,11 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4853&month=5&year=2026&day=5&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4853&month=5&year=2026&day=6&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-05T08:01:45.954191+00:00"
+    "scraped_at": "2026-05-06T08:17:01.848987+00:00"
   }
 ]
