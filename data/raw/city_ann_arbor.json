@@ -1,94 +1,5 @@
 [
   {
-    "id": "city_ann_arbor-2026-05-06-ann-arbor-farmers-market-wednesday-market",
-    "title": "Ann Arbor Farmers Market Wednesday Market",
-    "date": "2026-05-06",
-    "time": "7:00 AM",
-    "venue": "Ann Arbor Farmers Market",
-    "address": "",
-    "category": "city_ann_arbor",
-    "tags": [],
-    "description": "",
-    "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3devent%26eventid%3d194454739",
-    "source": "city_ann_arbor",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.938258+00:00"
-  },
-  {
-    "id": "city_ann_arbor-2026-05-06-downtown-development-authority",
-    "title": "Downtown Development Authority",
-    "date": "2026-05-06",
-    "time": "10:30 AM",
-    "venue": "Larcom City Hall, 301 E Huron, City Council Chambers, 2nd Floor",
-    "address": "",
-    "category": "city_ann_arbor",
-    "tags": [],
-    "description": "DDA Executive Committee<br /><a href=\"http://a2gov.legistar.com/Calendar.aspx\" target=\"_blank\" rel=\"noopener\">View city council, boards and commissions meeting agendas.</a>",
-    "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3devent%26eventid%3d201145631",
-    "source": "city_ann_arbor",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.938430+00:00"
-  },
-  {
-    "id": "city_ann_arbor-2026-05-06-downtown-development-authority",
-    "title": "Downtown Development Authority",
-    "date": "2026-05-06",
-    "time": "11:00 AM",
-    "venue": "Larcom City Hall, 301 E. Huron, City Council Chambers, 2nd Floor, Ann Arbor, MI 48104",
-    "address": "",
-    "category": "city_ann_arbor",
-    "tags": [],
-    "description": "RESCHEDULED FROM MAY 13, 2026 DDA Board Meeting<br /><a href=\"http://a2gov.legistar.com/Calendar.aspx\" target=\"_blank\" rel=\"noopener\">View city council, boards and commissions meeting agendas.</a>",
-    "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3devent%26eventid%3d198847254",
-    "source": "city_ann_arbor",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.938559+00:00"
-  },
-  {
-    "id": "city_ann_arbor-2026-05-06-cable-communications-commission",
-    "title": "Cable Communications Commission",
-    "date": "2026-05-06",
-    "time": "4:00 PM",
-    "venue": "Electronic Meeting",
-    "address": "",
-    "category": "city_ann_arbor",
-    "tags": [
-      "public_meeting"
-    ],
-    "description": "Electronic Meeting<br /><br />This meeting is audio only. To listen or speak at public comment, call: 206-337-9723 or 213-338-8477 or 877-853-5247. Enter meeting ID: 922 8058 3983<br /><br />This meeting will be held virtually.<br /><a href=\"https://www.a2gov.org/city-clerk/electronic-meetings/\" target=\"_blank\" rel=\"noopener\">View detailed procedures for public participation, how to contact the body, and procedures for persons with disabilities to participate.</a>",
-    "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3devent%26eventid%3d195431945",
-    "source": "city_ann_arbor",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.938684+00:00"
-  },
-  {
-    "id": "city_ann_arbor-2026-05-06-ann-arbor-public-art-commission",
-    "title": "Ann Arbor Public Art Commission",
-    "date": "2026-05-06",
-    "time": "7:00 PM",
-    "venue": "Larcom City Hall, 301 E Huron St, Second floor, City Council Chambers",
-    "address": "",
-    "category": "city_ann_arbor",
-    "tags": [
-      "public_meeting"
-    ],
-    "description": "This meeting will air live on CTN Channel 16, ATT Channel 99, and online at a2gov.org/watchCTN. To speak at public comment, call 888-788-0099 or 877-853-5247 (Toll Free), enter Meeting ID: 932 8112 0347 and Passcode: 199831<br /><a href=\"http://a2gov.legistar.com/Calendar.aspx\" target=\"_blank\" rel=\"noopener\">View city council, boards and commissions meeting agendas.</a>",
-    "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3devent%26eventid%3d191707874",
-    "source": "city_ann_arbor",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.938803+00:00"
-  },
-  {
     "id": "city_ann_arbor-2026-05-07-storm-cleanup-central-neighborhood-parks",
     "title": "Storm Cleanup: Central Neighborhood Parks",
     "date": "2026-05-07",
@@ -103,7 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.938928+00:00"
+    "scraped_at": "2026-05-07T08:26:55.346898+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-08-bike-to-wherever-day",
@@ -120,7 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.939078+00:00"
+    "scraped_at": "2026-05-07T08:26:55.347107+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-08-adopt-a-park-gallup-park-butterfly-garden",
@@ -137,7 +48,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.939195+00:00"
+    "scraped_at": "2026-05-07T08:26:55.347247+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-09-ann-arbor-farmers-market-saturday-market-regular-hours",
@@ -154,7 +65,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.939309+00:00"
+    "scraped_at": "2026-05-07T08:26:55.347367+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-09-pulling-invasive-species-mary-beth-doyle-park",
@@ -171,7 +82,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.939421+00:00"
+    "scraped_at": "2026-05-07T08:26:55.347482+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-10-pulling-invasive-species-bluffs-nature-area",
@@ -188,7 +99,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.939530+00:00"
+    "scraped_at": "2026-05-07T08:26:55.347600+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-10-pulling-invasive-species-bird-hills-nature-area",
@@ -205,7 +116,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.939638+00:00"
+    "scraped_at": "2026-05-07T08:26:55.347717+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-12-elizabeth-dean-fund-committee",
@@ -222,7 +133,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.939745+00:00"
+    "scraped_at": "2026-05-07T08:26:55.347830+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-12-housing-board-of-appeals",
@@ -241,7 +152,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.939852+00:00"
+    "scraped_at": "2026-05-07T08:26:55.347939+00:00"
+  },
+  {
+    "id": "city_ann_arbor-2026-05-12-employees39-retirement-system-board-of-trustees",
+    "title": "Employees&#39; Retirement System Board of Trustees",
+    "date": "2026-05-12",
+    "time": "3:00 PM",
+    "venue": "Pension Office, 532 S. Maple",
+    "address": "",
+    "category": "city_ann_arbor",
+    "tags": [
+      "public_meeting"
+    ],
+    "description": "Administrative Policy Committee &#8211; Retirement System &amp; VEBA<br /><a href=\"http://a2gov.legistar.com/Calendar.aspx\" target=\"_blank\" rel=\"noopener\">View city council, boards and commissions meeting agendas.</a>",
+    "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3devent%26eventid%3d202896775",
+    "source": "city_ann_arbor",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-05-07T08:26:55.348076+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-12-council-administration-committee",
@@ -260,7 +190,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.939978+00:00"
+    "scraped_at": "2026-05-07T08:26:55.348183+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-12-budget-and-labor-committee",
@@ -277,7 +207,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.940100+00:00"
+    "scraped_at": "2026-05-07T08:26:55.348288+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-12-sustainability-commission",
@@ -296,7 +226,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.940206+00:00"
+    "scraped_at": "2026-05-07T08:26:55.348394+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-12-sustainability-commission",
@@ -315,7 +245,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.940314+00:00"
+    "scraped_at": "2026-05-07T08:26:55.348496+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-12-city-planning-commission",
@@ -334,7 +264,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.940423+00:00"
+    "scraped_at": "2026-05-07T08:26:55.348603+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-12-city-planning-commission",
@@ -353,7 +283,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.940529+00:00"
+    "scraped_at": "2026-05-07T08:26:55.348704+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-13-ann-arbor-farmers-market-wednesday-market",
@@ -370,7 +300,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.940646+00:00"
+    "scraped_at": "2026-05-07T08:26:55.348806+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-13-downtown-development-authority",
@@ -387,7 +317,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.940754+00:00"
+    "scraped_at": "2026-05-07T08:26:55.348908+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-13-human-rights-commission",
@@ -406,7 +336,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.940862+00:00"
+    "scraped_at": "2026-05-07T08:26:55.349035+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-14-renters-commission",
@@ -425,7 +355,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.940993+00:00"
+    "scraped_at": "2026-05-07T08:26:55.349139+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-14-historic-district-commission",
@@ -444,7 +374,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.941110+00:00"
+    "scraped_at": "2026-05-07T08:26:55.349255+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-14-historic-district-commission",
@@ -463,7 +393,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.941217+00:00"
+    "scraped_at": "2026-05-07T08:26:55.349383+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-15-park-workday",
@@ -480,7 +410,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.941326+00:00"
+    "scraped_at": "2026-05-07T08:26:55.349488+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-16-ann-arbor-farmers-market-saturday-market-regular-hours",
@@ -497,7 +427,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.941438+00:00"
+    "scraped_at": "2026-05-07T08:26:55.349593+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-16-huron-river-day-2026",
@@ -514,7 +444,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.941542+00:00"
+    "scraped_at": "2026-05-07T08:26:55.349702+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-16-2026-police-and-fire-open-house",
@@ -531,7 +461,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.941647+00:00"
+    "scraped_at": "2026-05-07T08:26:55.349805+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-17-pulling-invasive-species-hickory-nature-area",
@@ -548,7 +478,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.941752+00:00"
+    "scraped_at": "2026-05-07T08:26:55.349909+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-17-pulling-invasive-species-oakwoods-nature-area",
@@ -565,7 +495,24 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.941856+00:00"
+    "scraped_at": "2026-05-07T08:26:55.350041+00:00"
+  },
+  {
+    "id": "city_ann_arbor-2026-05-17-bird-walk-gallupfurstenberg-parks",
+    "title": "Bird Walk - Gallup/Furstenberg Parks",
+    "date": "2026-05-17",
+    "time": "6:00 PM",
+    "venue": "Gallup Park Canoe Livery",
+    "address": "",
+    "category": "city_ann_arbor",
+    "tags": [],
+    "description": "Join Natural Area Preservation for an evening bird walk! We&#8217;ll take a walk along the Huron River to see spring birds and their nests. Highlights usually include the Cliff Swallow colony under the Huron Parkway Bridge, Baltimore Oriole nests, woodpecker nests, and Wood Ducks and ducklings. &#160; Meet at the Gallup Park canoe livery. Be prepared for 1-2 miles of hiking on paved and unpaved trails. Families are welcome; no pets, please. Meet at the&#160;Gallup Park Canoe Livery. Be prepared for 1-2 miles of hiking on paved and unpaved trails. Families are welcome; no pets please. Preregister here.",
+    "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3devent%26eventid%3d202888419",
+    "source": "city_ann_arbor",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-05-07T08:26:55.350150+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-18-city-council",
@@ -584,7 +531,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.941958+00:00"
+    "scraped_at": "2026-05-07T08:26:55.350254+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-19-open-studio-drop-in-session-1-of-2-north-main-street-transportation-study",
@@ -601,7 +548,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.942111+00:00"
+    "scraped_at": "2026-05-07T08:26:55.350365+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-19-open-studio-drop-in-session-north-main-street-design-charrette-week",
@@ -618,7 +565,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.942223+00:00"
+    "scraped_at": "2026-05-07T08:26:55.350474+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-19-election-commission",
@@ -637,7 +584,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.942326+00:00"
+    "scraped_at": "2026-05-07T08:26:55.350575+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-19-park-advisory-commission",
@@ -656,7 +603,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.942430+00:00"
+    "scraped_at": "2026-05-07T08:26:55.350678+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-19-independent-community-police-oversight-commission",
@@ -675,7 +622,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.942534+00:00"
+    "scraped_at": "2026-05-07T08:26:55.350785+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-19-independent-community-police-oversight-commission",
@@ -694,7 +641,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.942638+00:00"
+    "scraped_at": "2026-05-07T08:26:55.350890+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-19-city-planning-commission",
@@ -713,7 +660,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.942740+00:00"
+    "scraped_at": "2026-05-07T08:26:55.351025+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-20-ann-arbor-farmers-market-wednesday-market",
@@ -730,7 +677,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.942844+00:00"
+    "scraped_at": "2026-05-07T08:26:55.351146+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-20-downtown-development-authority",
@@ -747,7 +694,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.942949+00:00"
+    "scraped_at": "2026-05-07T08:26:55.351249+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-20-commission-on-disability-issues",
@@ -766,7 +713,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.943081+00:00"
+    "scraped_at": "2026-05-07T08:26:55.351371+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-20-open-studio-drop-in-session-2-of-2-north-main-street-transportation-study",
@@ -783,7 +730,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.943193+00:00"
+    "scraped_at": "2026-05-07T08:26:55.351488+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-20-open-studio-drop-in-session-north-main-street-design-charrette-week",
@@ -800,7 +747,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.943302+00:00"
+    "scraped_at": "2026-05-07T08:26:55.351595+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-20-airport-advisory-committee",
@@ -817,7 +764,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.943405+00:00"
+    "scraped_at": "2026-05-07T08:26:55.351696+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-20-transportation-commission",
@@ -836,7 +783,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.943507+00:00"
+    "scraped_at": "2026-05-07T08:26:55.351797+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-21-employees39-retirement-system-board-of-trustees",
@@ -855,7 +802,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.943613+00:00"
+    "scraped_at": "2026-05-07T08:26:55.351902+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-21-retiree-health-care-benefit-plan-amp-trust-board-of-trustees-veba",
@@ -874,7 +821,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.943721+00:00"
+    "scraped_at": "2026-05-07T08:26:55.352031+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-21-building-board-of-appeals",
@@ -893,7 +840,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.943824+00:00"
+    "scraped_at": "2026-05-07T08:26:55.352137+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-21-monthly-clothing-swap",
@@ -910,7 +857,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.943926+00:00"
+    "scraped_at": "2026-05-07T08:26:55.352245+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-21-public-market-advisory-commission",
@@ -929,7 +876,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.944056+00:00"
+    "scraped_at": "2026-05-07T08:26:55.352347+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-21-renters-commission",
@@ -948,7 +895,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.944160+00:00"
+    "scraped_at": "2026-05-07T08:26:55.352447+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-21-public-open-house-north-main-street-design-charrette-week",
@@ -965,7 +912,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.944271+00:00"
+    "scraped_at": "2026-05-07T08:26:55.352554+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-21-housing-commission",
@@ -984,7 +931,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.944377+00:00"
+    "scraped_at": "2026-05-07T08:26:55.352653+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-23-ann-arbor-farmers-market-saturday-market-regular-hours",
@@ -1001,7 +948,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.944483+00:00"
+    "scraped_at": "2026-05-07T08:26:55.352757+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-23-pulling-invasive-species-argo-nature-area",
@@ -1018,7 +965,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.944590+00:00"
+    "scraped_at": "2026-05-07T08:26:55.352859+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-23-pulling-invasive-species-cedar-bend-nature-area",
@@ -1035,7 +982,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.944699+00:00"
+    "scraped_at": "2026-05-07T08:26:55.352961+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-26-neighborhood-traffic-calming-program-office-hours",
@@ -1052,7 +999,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.944808+00:00"
+    "scraped_at": "2026-05-07T08:26:55.353099+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-26-2026-sustainability-forum-building-social-resilience",
@@ -1069,7 +1016,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.944917+00:00"
+    "scraped_at": "2026-05-07T08:26:55.353204+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-27-ann-arbor-farmers-market-wednesday-market",
@@ -1086,7 +1033,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.945046+00:00"
+    "scraped_at": "2026-05-07T08:26:55.353306+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-27-zoning-board-of-appeals",
@@ -1105,7 +1052,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.945150+00:00"
+    "scraped_at": "2026-05-07T08:26:55.353407+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-27-city-planning-commission",
@@ -1124,7 +1071,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.945252+00:00"
+    "scraped_at": "2026-05-07T08:26:55.353507+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-28-gravel-road-study-phase-4-virtual-kick-off-meeting",
@@ -1143,7 +1090,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.945360+00:00"
+    "scraped_at": "2026-05-07T08:26:55.353610+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-30-ann-arbor-farmers-market-saturday-market-regular-hours",
@@ -1160,7 +1107,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.945469+00:00"
+    "scraped_at": "2026-05-07T08:26:55.353713+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-31-a2zero-week-2026",
@@ -1177,7 +1124,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.945557+00:00"
+    "scraped_at": "2026-05-07T08:26:55.353802+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-31-a2zero-week-dexter-ann-arbor-race",
@@ -1194,7 +1141,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.945658+00:00"
+    "scraped_at": "2026-05-07T08:26:55.353905+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-31-pulling-invasive-species-marshall-nature-area",
@@ -1211,7 +1158,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.945767+00:00"
+    "scraped_at": "2026-05-07T08:26:55.354032+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-31-a2zero-week-taste-of-ann-arbor",
@@ -1228,7 +1175,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.945879+00:00"
+    "scraped_at": "2026-05-07T08:26:55.354143+00:00"
   },
   {
     "id": "city_ann_arbor-2026-05-31-pulling-invasive-species-huron-hills-golf-course",
@@ -1245,7 +1192,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.946049+00:00"
+    "scraped_at": "2026-05-07T08:26:55.354246+00:00"
   },
   {
     "id": "city_ann_arbor-2026-06-01-city-council",
@@ -1264,7 +1211,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.946196+00:00"
+    "scraped_at": "2026-05-07T08:26:55.354346+00:00"
   },
   {
     "id": "city_ann_arbor-2026-06-02-a2zero-week-guided-tree-walk-kerrytown",
@@ -1281,7 +1228,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.946307+00:00"
+    "scraped_at": "2026-05-07T08:26:55.354449+00:00"
   },
   {
     "id": "city_ann_arbor-2026-06-02-city-planning-commission",
@@ -1300,7 +1247,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.946412+00:00"
+    "scraped_at": "2026-05-07T08:26:55.354550+00:00"
   },
   {
     "id": "city_ann_arbor-2026-06-03-ann-arbor-farmers-market-wednesday-market",
@@ -1317,7 +1264,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.946515+00:00"
+    "scraped_at": "2026-05-07T08:26:55.354652+00:00"
   },
   {
     "id": "city_ann_arbor-2026-06-03-downtown-development-authority",
@@ -1334,7 +1281,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.946623+00:00"
+    "scraped_at": "2026-05-07T08:26:55.354752+00:00"
   },
   {
     "id": "city_ann_arbor-2026-06-03-neighborhood-traffic-calming-program-office-hours",
@@ -1351,7 +1298,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.946729+00:00"
+    "scraped_at": "2026-05-07T08:26:55.354855+00:00"
   },
   {
     "id": "city_ann_arbor-2026-06-03-ann-arbor-public-art-commission",
@@ -1370,7 +1317,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.946833+00:00"
+    "scraped_at": "2026-05-07T08:26:55.354956+00:00"
   },
   {
     "id": "city_ann_arbor-2026-06-04-a2zero-week-guided-tree-walk-buhr-park",
@@ -1387,7 +1334,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.946937+00:00"
+    "scraped_at": "2026-05-07T08:26:55.355104+00:00"
   },
   {
     "id": "city_ann_arbor-2026-06-04-greenbelt-advisory-commission-gac",
@@ -1406,6 +1353,57 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:16:59.947078+00:00"
+    "scraped_at": "2026-05-07T08:26:55.355207+00:00"
+  },
+  {
+    "id": "city_ann_arbor-2026-06-06-ann-arbor-farmers-market-saturday-market-regular-hours",
+    "title": "Ann Arbor Farmers Market Saturday Market Regular Hours",
+    "date": "2026-06-06",
+    "time": "7:00 AM",
+    "venue": "Ann Arbor Farmers Market",
+    "address": "",
+    "category": "city_ann_arbor",
+    "tags": [],
+    "description": "",
+    "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3devent%26eventid%3d194454846",
+    "source": "city_ann_arbor",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-05-07T08:26:55.355310+00:00"
+  },
+  {
+    "id": "city_ann_arbor-2026-06-06-hickory-nature-area-invasive-species-pulling",
+    "title": "Hickory Nature Area - Invasive Species Pulling",
+    "date": "2026-06-06",
+    "time": "9:00 AM",
+    "venue": "",
+    "address": "",
+    "category": "city_ann_arbor",
+    "tags": [],
+    "description": "<p>Help restore Hickory Nature Area&#39;s natural areas by pulling invasive herbaceous plants! Create space for native plants to thrive and support a healthier ecosystem in one of Ann Arbor&#8217;s most beloved nature areas. Register here:&#160;<a href=\"https://cityofannarbor.volunteerhub.com/vv2/event/2f2f5e10-c5c3-4374-a5c3-244a41ede477\" target=\"_blank\" rel=\"noopener\">https://cityofannarbor.volunteerhub.com/vv2/event/2f2f5e10-c5c3-4374-a5c3-244a41ede477</a><br /><br />Meet at&#160;the entrance on the intersection of Crystal Way and Erie Drive,&#160;2817 Dillon Drive</p>",
+    "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3devent%26eventid%3d201718123",
+    "source": "city_ann_arbor",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-05-07T08:26:55.355412+00:00"
+  },
+  {
+    "id": "city_ann_arbor-2026-06-06-black-pond-woods-invasive-species-pulling",
+    "title": "Black Pond Woods - Invasive Species Pulling",
+    "date": "2026-06-06",
+    "time": "1:00 PM",
+    "venue": "",
+    "address": "",
+    "category": "city_ann_arbor",
+    "tags": [],
+    "description": "<p>Help restore Black Pond Woods Nature Area&#39;s natural areas by pulling invasive herbaceous plants! Create space for native plants to thrive and support a healthier ecosystem in one of Ann Arbor&#8217;s most beloved nature areas. 1905 Traver Road. Register here:&#160;<a href=\"https://cityofannarbor.volunteerhub.com/vv2/event/18c319f8-1950-420d-a64f-ca34f33bb924\" target=\"_blank\" rel=\"noopener\">https://cityofannarbor.volunteerhub.com/vv2/event/18c319f8-1950-420d-a64f-ca34f33bb924</a></p>",
+    "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3devent%26eventid%3d201718411",
+    "source": "city_ann_arbor",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-05-07T08:26:55.355522+00:00"
   }
 ]

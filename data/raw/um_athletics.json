@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:16.452463+00:00"
+    "scraped_at": "2026-05-07T08:27:11.649723+00:00"
   },
   {
     "id": "um_athletics-2026-05-09-michigan-baseball-at-minnesota",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:16.452529+00:00"
+    "scraped_at": "2026-05-07T08:27:11.649789+00:00"
   },
   {
     "id": "um_athletics-2026-05-10-michigan-baseball-at-minnesota",
@@ -54,7 +54,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:16.452588+00:00"
+    "scraped_at": "2026-05-07T08:27:11.649846+00:00"
   },
   {
     "id": "um_athletics-2026-05-12-n-michigan-baseball-vs-ohio-free-admission",
@@ -73,7 +73,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:16.452647+00:00"
+    "scraped_at": "2026-05-07T08:27:11.649903+00:00"
   },
   {
     "id": "um_athletics-2026-05-12-michigan-baseball-at-kent-state",
@@ -92,7 +92,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:16.452708+00:00"
+    "scraped_at": "2026-05-07T08:27:11.649956+00:00"
   },
   {
     "id": "um_athletics-2026-05-14-michigan-baseball-vs-ohio-state-maize-out",
@@ -111,7 +111,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:16.452768+00:00"
+    "scraped_at": "2026-05-07T08:27:11.650051+00:00"
   },
   {
     "id": "um_athletics-2026-05-15-michigan-baseball-vs-ohio-state-blue-out",
@@ -130,7 +130,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:16.452824+00:00"
+    "scraped_at": "2026-05-07T08:27:11.650109+00:00"
   },
   {
     "id": "um_athletics-2026-05-16-michigan-baseball-vs-ohio-state-senior-day-presented-by-genentech",
@@ -149,12 +149,12 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:16.452883+00:00"
+    "scraped_at": "2026-05-07T08:27:11.650166+00:00"
   },
   {
-    "id": "um_athletics-2026-05-06-michigan-softball-vs-ohio-state",
-    "title": "Michigan Softball vs Ohio State",
-    "date": "2026-05-06",
+    "id": "um_athletics-2026-05-07-michigan-softball-vs-nebraska",
+    "title": "Michigan Softball vs Nebraska",
+    "date": "2026-05-07",
     "time": "5:30 PM",
     "venue": "College Park, Md.",
     "address": "",
@@ -162,13 +162,13 @@
     "tags": [
       "softball"
     ],
-    "description": "Michigan Softball vs Ohio State\nTV: Big Ten Network\nStreaming Video: https://www.foxsports.com/live/btn\n https://mgoblue.com/calendar.aspx?game_id=30274&amp;sport_id=17",
-    "url": "https://mgoblue.com/calendar.aspx?game_id=30274&amp;sport_id=17",
+    "description": "Michigan Softball vs Nebraska\nTV: Big Ten Network\nStreaming Video: https://foxsports.com/live/btn\n https://mgoblue.com/calendar.aspx?game_id=30488&amp;sport_id=17",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=30488&amp;sport_id=17",
     "source": "um_athletics",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:17.889851+00:00"
+    "scraped_at": "2026-05-07T08:27:13.145177+00:00"
   },
   {
     "id": "um_athletics-2026-05-15-michigan-softball-vs-ncaa-regional",
@@ -187,7 +187,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:17.889910+00:00"
+    "scraped_at": "2026-05-07T08:27:13.145234+00:00"
   },
   {
     "id": "um_athletics-2026-05-22-michigan-softball-vs-ncaa-super-regional",
@@ -206,7 +206,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:17.889976+00:00"
+    "scraped_at": "2026-05-07T08:27:13.145284+00:00"
   },
   {
     "id": "um_athletics-2026-05-28-michigan-softball-vs-ncaa-womens-college-world-series",
@@ -225,6 +225,6 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-06T08:17:17.890037+00:00"
+    "scraped_at": "2026-05-07T08:27:13.145333+00:00"
   }
 ]
