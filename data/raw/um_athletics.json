@@ -1,24 +1,5 @@
 [
   {
-    "id": "um_athletics-2026-05-10-michigan-baseball-at-minnesota",
-    "title": "Michigan Baseball at Minnesota",
-    "date": "2026-05-10",
-    "time": "6:00 PM",
-    "venue": "Minneapolis, Minn.",
-    "address": "",
-    "category": "um_athletics",
-    "tags": [
-      "baseball"
-    ],
-    "description": "Michigan Baseball at Minnesota\nTV: B1G+\nStreaming Video: https://www.bigtenplus.com/en-int/livestream/michigan-at-minnesota/2121499\n https://mgoblue.com/calendar.aspx?game_id=29849&amp;sport_id=1",
-    "url": "https://mgoblue.com/calendar.aspx?game_id=29849&amp;sport_id=1",
-    "source": "um_athletics",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-10T08:02:59.782383+00:00"
-  },
-  {
     "id": "um_athletics-2026-05-12-n-michigan-baseball-vs-ohio-free-admission",
     "title": "[N] Michigan Baseball vs Ohio- Free Admission",
     "date": "2026-05-12",
@@ -35,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-10T08:02:59.782451+00:00"
+    "scraped_at": "2026-05-11T09:32:19.212558+00:00"
   },
   {
     "id": "um_athletics-2026-05-12-michigan-baseball-at-kent-state",
@@ -54,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-10T08:02:59.782510+00:00"
+    "scraped_at": "2026-05-11T09:32:19.212602+00:00"
   },
   {
     "id": "um_athletics-2026-05-14-michigan-baseball-vs-ohio-state-maize-out",
@@ -73,7 +54,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-10T08:02:59.782569+00:00"
+    "scraped_at": "2026-05-11T09:32:19.212639+00:00"
   },
   {
     "id": "um_athletics-2026-05-15-michigan-baseball-vs-ohio-state-blue-out",
@@ -92,7 +73,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-10T08:02:59.782625+00:00"
+    "scraped_at": "2026-05-11T09:32:19.212673+00:00"
   },
   {
     "id": "um_athletics-2026-05-16-michigan-baseball-vs-ohio-state-senior-day-presented-by-genentech",
@@ -111,26 +92,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-10T08:02:59.782683+00:00"
+    "scraped_at": "2026-05-11T09:32:19.212706+00:00"
   },
   {
-    "id": "um_athletics-2026-05-15-michigan-softball-vs-ncaa-regional",
-    "title": "Michigan Softball vs NCAA Regional",
+    "id": "um_athletics-2026-05-15-michigan-softball-vs-kansas",
+    "title": "Michigan Softball vs Kansas",
     "date": "2026-05-15",
-    "time": "",
-    "venue": "Campus Sites",
+    "time": "10:00 PM",
+    "venue": "Norman, Okla.",
     "address": "",
     "category": "um_athletics",
     "tags": [
       "softball"
     ],
-    "description": "Michigan Softball vs NCAA Regional\n https://mgoblue.com/calendar.aspx?game_id=30275&amp;sport_id=17",
+    "description": "Michigan Softball vs Kansas\n https://mgoblue.com/calendar.aspx?game_id=30275&amp;sport_id=17",
     "url": "https://mgoblue.com/calendar.aspx?game_id=30275&amp;sport_id=17",
     "source": "um_athletics",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-10T08:03:01.275627+00:00"
+    "scraped_at": "2026-05-11T09:32:20.713322+00:00"
   },
   {
     "id": "um_athletics-2026-05-22-michigan-softball-vs-ncaa-super-regional",
@@ -149,7 +130,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-10T08:03:01.275684+00:00"
+    "scraped_at": "2026-05-11T09:32:20.713361+00:00"
   },
   {
     "id": "um_athletics-2026-05-28-michigan-softball-vs-ncaa-womens-college-world-series",
@@ -168,6 +149,6 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-05-10T08:03:01.275735+00:00"
+    "scraped_at": "2026-05-11T09:32:20.713395+00:00"
   }
 ]
