@@ -1,4 +1,5 @@
 import json
+import re
 import sys
 from calendar import month_name
 from datetime import date, datetime, timedelta, timezone
@@ -6,6 +7,12 @@ from email.utils import formatdate
 from pathlib import Path
 
 from lxml import etree
+
+_INVALID_XML_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
+
+
+def _sanitize(text: str) -> str:
+    return _INVALID_XML_RE.sub("", text) if text else text
 
 SITE_URL = "https://josheikenbery.github.io/a2events/"
 EVENTS_PATH = Path("docs/events.json")
@@ -129,10 +136,10 @@ def build_feed(events: list[dict], title: str, site_url: str) -> etree._Element:
     sorted_events = sorted(events, key=lambda e: e.get("date", ""))
     for event in sorted_events:
         item = etree.SubElement(channel, "item")
-        etree.SubElement(item, "title").text = build_item_title(event)
+        etree.SubElement(item, "title").text = _sanitize(build_item_title(event))
         etree.SubElement(item, "link").text = event.get("url", "")
         etree.SubElement(item, "description").text = etree.CDATA(
-            build_item_description(event)
+            _sanitize(build_item_description(event))
         )
         etree.SubElement(item, "pubDate").text = format_rfc822(event["date"])
         guid = etree.SubElement(item, "guid")
