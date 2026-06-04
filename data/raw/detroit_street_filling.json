@@ -1,499 +1,5 @@
 [
   {
-    "id": "detroit_street_filling-2026-05-13-happy-hour-kat-steih-friends",
-    "title": "Happy Hour: Kat Steih & Friends",
-    "date": "2026-05-13",
-    "time": "9:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/hhkatsteih5-13",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1760727260274-AZWBBG7W0SL5XBKV9N96/image0+%286%29.jpeg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673054+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-13-karaoke-night",
-    "title": "Karaoke Night",
-    "date": "2026-05-13",
-    "time": "11:00 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/maykaraoke",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1775244022548-7ZRUI71E4H3SV2L9DZ5H/KARAOKE+%281920+x+1080+px%29+%282%29.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673122+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-14-happy-hour-sage-advice",
-    "title": "Happy Hour: Sage Advice",
-    "date": "2026-05-14",
-    "time": "9:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/hhsageadvice5-14",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1763847496547-98TZQF9CMAF7E02SYHQO/Screenshot+2025-11-22+at+4.37.58%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673178+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-14-lgbtq-night-dyke-night",
-    "title": "LGBTQ Night: Dyke Night",
-    "date": "2026-05-14",
-    "time": "11:00 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/febdykenight-98de4",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777321651265-6EH2YWOO7PKBI0N5B0UI/Screenshot+2025-06-06+at+12.31.20%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673230+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-15-happy-hour-nick-james",
-    "title": "Happy Hour: Nick James",
-    "date": "2026-05-15",
-    "time": "9:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/hhnickjames5-15",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1761244001588-G7JQB0YMHXSVM66QVE1R/Screenshot+2025-10-23+at+2.26.30%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673278+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-15-bluegrass-friday-front-porch",
-    "title": "BLUEGRASS FRIDAY: Front Porch",
-    "date": "2026-05-15",
-    "time": "11:00 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/bluegrassfrontporch",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1774035496936-P1DQQ3AN7JKAWRB42MLU/20250808-4826K-FrontPorch-0057-WM.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673326+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-16-the-handstanders",
-    "title": "The Handstanders",
-    "date": "2026-05-16",
-    "time": "10:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/handstanders",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1774641325620-CTLPKKSNPTJEVIUCZEI5/IMG_3424.JPG",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673373+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-17-rochelle-clark-the-familiars",
-    "title": "Rochelle Clark & The Familiars",
-    "date": "2026-05-17",
-    "time": "1:00 AM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/rochelleclark5-16",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1756574134678-PDB4MDPXEAV7LDTVGLXI/Screenshot+2025-08-30+at+1.15.08%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673434+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-20-happy-hour-deveaux-gauger",
-    "title": "Happy Hour: Deveaux Gauger",
-    "date": "2026-05-20",
-    "time": "9:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/hhdeveauxgauger5-20",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1749226821192-AOA9O3CLXJAYRIOAM4X5/Screenshot+2025-06-06+at+12.20.05%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673487+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-20-earthwork-music-collective-ft-jordan-hamilton-mark-lavengood-ben-traverse",
-    "title": "Earthwork Music Collective ft. Jordan Hamilton, Mark Lavengood, Ben Traverse",
-    "date": "2026-05-20",
-    "time": "11:00 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/mayearthworkcollective",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1773777153955-RKTX72DEFMSGNPV9UYCQ/Screenshot+2026-03-17+at+3.37.17%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673566+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-21-happy-hour-davey-o",
-    "title": "Happy Hour: Davey O.",
-    "date": "2026-05-21",
-    "time": "9:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/hhdaveyo5-21",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1759517589791-SSNYBMUVJJ9ZHWU3CM0K/Davey+at+Daryl%27s+House.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673626+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-21-lgbtq-night-zooeys-birthday-drag-show",
-    "title": "LGBTQ Night: Zooey\u2019s Birthday Drag Show",
-    "date": "2026-05-21",
-    "time": "11:00 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/maybirthdaydrag",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777664190404-TPRPNY5AHLSELUHBEUO8/Screenshot+2026-05-01+at+3.36.16%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673690+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-22-happy-hour-shannon-lee-the-silver-linings",
-    "title": "Happy Hour: Shannon Lee & the Silver Linings",
-    "date": "2026-05-22",
-    "time": "9:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/hhshannonlee",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1774117375947-RAPCRFL5NP9V89BG8DJY/Screenshot+2026-03-21+at+2.22.36%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673743+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-22-bluegrass-friday-pontiac-trail-blazers-ft-mike-harrington",
-    "title": "Bluegrass Friday: Pontiac Trail Blazers ft. Mike Harrington",
-    "date": "2026-05-22",
-    "time": "11:00 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/bluegrass5-22",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1700949234564-XJ5TZT18L09Z799CTIUI/Screen+Shot+2023-11-25+at+4.52.47+PM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673793+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-23-bruce-sagan-brad-battey",
-    "title": "Bruce Sagan & Brad Battey",
-    "date": "2026-05-23",
-    "time": "10:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/saganbattey",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1774121946239-HJY2POIQWQ39ARL17U31/Bruce%2BBrad+harpas.JPG",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673842+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-24-ryan-racine-valhalla-afternoon-release",
-    "title": "Ryan Racine \u201cValhalla Afternoon\u201d Release",
-    "date": "2026-05-24",
-    "time": "1:00 AM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/ryanracinevalhalla",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1776447472689-59DH9311ND3JDZHW3BP2/Screenshot+2026-04-17+at+1.12.47%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673891+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-27-happy-hour-steve-dougherty",
-    "title": "Happy Hour: Steve Dougherty",
-    "date": "2026-05-27",
-    "time": "9:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/hhstevedougherty",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777663269323-VES2VL1MUGPJ10GKU91F/Screenshot+2026-05-01+at+3.21.00%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673939+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-27-open-mic-wednesday-w-annie-bacon-forrest-hejkal",
-    "title": "OPEN MIC WEDNESDAY W/ Annie Bacon & Forrest Hejkal",
-    "date": "2026-05-27",
-    "time": "11:00 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/openmic5-27",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1740350739662-JJBJMJY5EKN9J70CPGU3/Copy+of+open+mic+32.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.673990+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-28-happy-hour-john-richard-paul",
-    "title": "Happy Hour: John Richard paul",
-    "date": "2026-05-28",
-    "time": "9:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/hhjrpaul",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1776448560366-L6VT4WVASE0MDHV7HF1B/Screenshot+2026-04-17+at+1.55.49%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674037+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-28-lgbtq-night-trivia-with-terry-mcclymonds",
-    "title": "LGBTQ Night: Trivia with Terry McClymonds",
-    "date": "2026-05-28",
-    "time": "11:00 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/terrytriviamay",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1747242863620-8M0CGFSQ4L7M9ADPPETO/Think+You%E2%80%99re+Smart+%2812+x+8+in%29.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674085+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-29-happy-hour-gretchen-pleuss",
-    "title": "Happy Hour: Gretchen Pleuss",
-    "date": "2026-05-29",
-    "time": "9:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/hhgretchenpleuss5-29",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1761245971921-X4M0ZDCK51U4A9WL6T33/IMG_1145.JPG",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674130+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-29-bluegrass-friday-pontiac-trail-blazers-ft-keith-billik",
-    "title": "BLUEGRASS FRIDAY: PONTIAC TRAIL BLAZERs ft. Keith Billik",
-    "date": "2026-05-29",
-    "time": "11:00 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/bluegrassmay2026",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1700949401901-5JX3YZBLOFR1NTK6D0GM/Screen+Shot+2023-11-25+at+4.46.48+PM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674178+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-30-ajde-aman",
-    "title": "Ajde Aman",
-    "date": "2026-05-30",
-    "time": "10:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/ajdeaman",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1774387937062-AA86IYLRBXEEW6DNCM9B/for+sara+dont+delete+%29+%2843%29.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674222+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-05-31-jo-serrapere",
-    "title": "jo serrapere",
-    "date": "2026-05-31",
-    "time": "1:00 AM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/joserrapere",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1778098593437-F9LP4Z7B7PRH6KORZSUE/Untitled+copy+5.jpeg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674266+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-06-03-happy-hour-lily-bowen",
-    "title": "Happy Hour: Lily Bowen",
-    "date": "2026-06-03",
-    "time": "9:30 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/hhlilybowen6-3",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1766433958757-BJQBQPR4OZSBHE0W8WF1/IMG_4740.jpeg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674311+00:00"
-  },
-  {
-    "id": "detroit_street_filling-2026-06-03-poetry-open-mic-w-forrest-hejkal-cat-h-bradley",
-    "title": "Poetry Open Mic W/ Forrest Hejkal & cat h. bradley",
-    "date": "2026-06-03",
-    "time": "11:00 PM",
-    "venue": "Detroit Street Filling Station / North Star Lounge",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "music"
-    ],
-    "description": "",
-    "url": "https://www.nstarlounge.com/events/poetryopenmicjune",
-    "source": "detroit_street_filling",
-    "also_listed_at": [],
-    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1772832059971-7Y2YNTFPN2NX114F3HMX/Screenshot+2026-03-06+at+4.20.20%E2%80%AFPM.png",
-    "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674361+00:00"
-  },
-  {
     "id": "detroit_street_filling-2026-06-04-happy-hour-lauren-brabson",
     "title": "Happy Hour: Lauren Brabson",
     "date": "2026-06-04",
@@ -510,7 +16,7 @@
     "also_listed_at": [],
     "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777490396839-1KS79M83NI8TQQ2LP342/Screenshot+2026-04-29+at+3.19.44%E2%80%AFPM.png",
     "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674406+00:00"
+    "scraped_at": "2026-06-04T02:46:59.348937+00:00"
   },
   {
     "id": "detroit_street_filling-2026-06-04-lgbtq-night-queer-open-mic",
@@ -529,7 +35,7 @@
     "also_listed_at": [],
     "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1733354458406-L2676JK9DL25YR0XLI8Q/Screen+Shot+2024-12-04+at+6.20.15+PM.png",
     "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674451+00:00"
+    "scraped_at": "2026-06-04T02:46:59.349002+00:00"
   },
   {
     "id": "detroit_street_filling-2026-06-05-happy-hour-patrick-clinton",
@@ -548,7 +54,26 @@
     "also_listed_at": [],
     "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1749834618874-2SHO5ZBD6LYWE29OTIPY/Screenshot+2025-06-13+at+1.10.02%E2%80%AFPM.png",
     "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674495+00:00"
+    "scraped_at": "2026-06-04T02:46:59.349049+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-05-bluegrass-friday-mark-lavengood-band",
+    "title": "Bluegrass Friday: Mark LAvengood Band",
+    "date": "2026-06-05",
+    "time": "11:00 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/marklavengoodband",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779130700188-9URILCNXA7S7NOMJJJA6/Screenshot+2026-05-18+at+2.58.07%E2%80%AFPM.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349089+00:00"
   },
   {
     "id": "detroit_street_filling-2026-06-06-fred-thomas-wsg-agnes-su",
@@ -567,7 +92,7 @@
     "also_listed_at": [],
     "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777666501044-I46DAGI6DVA0T6YOB0IF/for+sara+dont+delete+%29+%2847%29.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674562+00:00"
+    "scraped_at": "2026-06-04T02:46:59.349127+00:00"
   },
   {
     "id": "detroit_street_filling-2026-06-07-little-spoon-river",
@@ -586,7 +111,7 @@
     "also_listed_at": [],
     "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1748629522697-NB10II0J6UFK9RW1OJA3/_DSC6196+%281%29.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674615+00:00"
+    "scraped_at": "2026-06-04T02:46:59.349164+00:00"
   },
   {
     "id": "detroit_street_filling-2026-06-10-happy-hour-coley-roberts",
@@ -605,7 +130,7 @@
     "also_listed_at": [],
     "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777492872453-FGTZPKAFWT18LJ7P74ZO/image0+%289%29.jpeg",
     "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674663+00:00"
+    "scraped_at": "2026-06-04T02:46:59.349203+00:00"
   },
   {
     "id": "detroit_street_filling-2026-06-10-earthwork-music-collective-ft-audra-kubat-graham-parsons-saltbreaker-yali-rivlin",
@@ -624,7 +149,7 @@
     "also_listed_at": [],
     "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1773779943474-IVPJ9L8XNH4WJ2H8DEDJ/for+sara+dont+delete+%29+%2841%29.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674713+00:00"
+    "scraped_at": "2026-06-04T02:46:59.349251+00:00"
   },
   {
     "id": "detroit_street_filling-2026-06-11-happy-hour-laura-mcandrew",
@@ -643,7 +168,7 @@
     "also_listed_at": [],
     "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777495629174-BTIKGJV54F57L7X6UVE7/Resized_20260327_201031.jpeg",
     "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674760+00:00"
+    "scraped_at": "2026-06-04T02:46:59.349289+00:00"
   },
   {
     "id": "detroit_street_filling-2026-06-11-lgbtq-night-dyke-night",
@@ -662,6 +187,500 @@
     "also_listed_at": [],
     "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777321651265-6EH2YWOO7PKBI0N5B0UI/Screenshot+2025-06-06+at+12.31.20%E2%80%AFPM.png",
     "possible_duplicate": false,
-    "scraped_at": "2026-05-12T08:32:14.674807+00:00"
+    "scraped_at": "2026-06-04T02:46:59.349329+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-12-happy-hour-anna-lees-co",
+    "title": "Happy Hour: Anna lee\u2019s Co.",
+    "date": "2026-06-12",
+    "time": "9:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/hhannaleeco",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777495327186-OHYII8BZUP2WE286L0ZC/Anna+Lee%27s+Co+-+Promo+Cropped.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349369+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-12-bluegrass-friday-pontiac-trail-blazers-ft-bubba-wilson",
+    "title": "Bluegrass Friday: Pontiac Trail Blazers ft. Bubba Wilson",
+    "date": "2026-06-12",
+    "time": "11:00 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/bluegrass6-12",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777667064530-LIGZ614CVQ8TMQKACTKZ/for+sara+dont+delete+%29+%2848%29.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349407+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-13-the-cinematic-trio",
+    "title": "The Cinematic Trio",
+    "date": "2026-06-13",
+    "time": "10:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/cinematictrio6-13",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777323551004-ZC9JWKQPHLKFG9MOZLXX/DED1AC14-0B22-4AD6-BBAB-7B33420E03F9_1_201_a.jpeg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349466+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-14-delta-88",
+    "title": "Delta 88",
+    "date": "2026-06-14",
+    "time": "1:00 AM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/delta88-6-13",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1702252927726-8WOWTR59JVZJHNOEUVBY/D88photo.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349499+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-17-flick-adamson-bennett",
+    "title": "Flick, Adamson, & Bennett",
+    "date": "2026-06-17",
+    "time": "10:00 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/flickadamsonbennett",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777497259385-S9CHW4DKLNAY3X95EYHG/FAB-trio-for-north-star-crop.jpeg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349537+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-18-bill-edwards",
+    "title": "Bill Edwards",
+    "date": "2026-06-18",
+    "time": "12:30 AM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/billedwards",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777500733783-E4MGHKT5H8YZB8MV746S/Screenshot+2026-04-29+at+6.12.02%E2%80%AFPM.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349570+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-18-happy-hour-kathy-wieland",
+    "title": "Happy Hour: Kathy Wieland",
+    "date": "2026-06-18",
+    "time": "9:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/hhkathywieland6-18",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1754256525076-Y2NZI9FHEUDMIAKVISSN/Resized_20241018_182201+%281%29.jpeg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349602+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-18-lgbtq-night-pride-month-drag-bingo",
+    "title": "LGBTQ Night: Pride Month Drag Bingo",
+    "date": "2026-06-18",
+    "time": "11:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/junedragbingo",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779565090809-0ITWT6Q8SMZ1KZPBSFXZ/Screenshot+2026-05-23+at+3.37.58%E2%80%AFPM.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349635+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-19-happy-hour-the-glen-leven-band",
+    "title": "Happy Hour: The Glen Leven Band",
+    "date": "2026-06-19",
+    "time": "9:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/hhglenlevenband6-19",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1743961767182-WTACB7FBAEEIFESFPUZ8/The+Glen+Leven+Band%2C+Frank+Weir+Photo.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349668+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-19-bluegrass-friday-pontiac-trail-blazers-ft-joshua-elwood",
+    "title": "Bluegrass Friday: Pontiac Trail Blazers ft. Joshua Elwood",
+    "date": "2026-06-19",
+    "time": "11:00 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/bluegrass6-19",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777759015172-9YUIHSGVV8ET0RLKBKQF/for+sara+dont+delete+%29+%2849%29.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349702+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-20-rj-redline-band",
+    "title": "RJ Redline Band",
+    "date": "2026-06-20",
+    "time": "10:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/rjredlineband",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779211759851-K74EBACL6S0XH048MLDY/RJ+Redline+Band+-+Photo.JPG",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349734+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-21-misty-lyn-trio",
+    "title": "Misty Lyn Trio",
+    "date": "2026-06-21",
+    "time": "1:00 AM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/mistylyntrio",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779126665958-TZ81YRVV4OF2OEMJQ3GQ/IMG_9946.jpeg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349767+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-24-happy-hour-jessey-adams",
+    "title": "Happy Hour: Jessey Adams",
+    "date": "2026-06-24",
+    "time": "9:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/hhjesseyadams",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1777670456558-MUBQOHDYLT9ATQPFMZSB/508.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349800+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-24-open-mic-wednesday-w-annie-bacon-forrest-hejkal",
+    "title": "Open Mic Wednesday w/ Annie Bacon & Forrest Hejkal",
+    "date": "2026-06-24",
+    "time": "11:00 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/openmic6-24",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1740350739662-JJBJMJY5EKN9J70CPGU3/Copy+of+open+mic+32.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349838+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-25-happy-hour-joseph-groele",
+    "title": "Happy Hour: Joseph Groele",
+    "date": "2026-06-25",
+    "time": "9:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/hhjosephgroele6-25",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1753619492481-WZ04HZ6P1EBH0S3UN4VC/JGroele_NorthStar.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349870+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-25-lgbtq-night-trivia-with-terry-mcclymonds",
+    "title": "LGBTQ Night: Trivia with Terry McClymonds",
+    "date": "2026-06-25",
+    "time": "11:00 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/terrytriviajune",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1747242863620-8M0CGFSQ4L7M9ADPPETO/Think+You%E2%80%99re+Smart+%2812+x+8+in%29.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349904+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-26-happy-hour-so-say-we-all",
+    "title": "Happy Hour: So Say We All!",
+    "date": "2026-06-26",
+    "time": "9:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/hhsosayweall6-26",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779126388038-Y8K2OI9XMD6HVTC7WZ71/SSWA2.jpeg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349937+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-26-bluegrass-friday-pontiac-trail-blazers-ft-ani-mari",
+    "title": "Bluegrass Friday: Pontiac Trail Blazers ft. Ani Mari",
+    "date": "2026-06-26",
+    "time": "11:00 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/bluegrass6-26",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779223699163-EJI2L20J4MZ2H59S4WFG/for+sara+dont+delete+%29+%2850%29.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.349971+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-27-annie-rod-capps-quartet",
+    "title": "Annie & Rod Capps Quartet",
+    "date": "2026-06-27",
+    "time": "10:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/cappsquartet6-27",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779209154804-E40J0WXCOZOTZMOBRVLA/CappsQuartet-By+JenProuty.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.350004+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-06-28-north-star-all-stars",
+    "title": "North Star All-stars",
+    "date": "2026-06-28",
+    "time": "1:00 AM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/nslallstars",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779220000445-SYM5BO9IXABVUJDI4BU9/Screenshot+2026-05-19+at+3.42.49%E2%80%AFPM.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.350036+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-07-01-happy-hour-jon-letts",
+    "title": "Happy Hour: Jon Letts",
+    "date": "2026-07-01",
+    "time": "9:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/hhjonletts7-1",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779221505836-7YR7OGPNVFWXPLT5GI6C/IMG_8863.jpeg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.350067+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-07-01-poetry-open-mic-w-forrest-hejkal-cat-h-bradley",
+    "title": "Poetry Open Mic W/ Forrest Hejkal & cat h. bradley",
+    "date": "2026-07-01",
+    "time": "11:00 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/poetryopenmicjuly",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1772832059971-7Y2YNTFPN2NX114F3HMX/Screenshot+2026-03-06+at+4.20.20%E2%80%AFPM.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.350102+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-07-02-happy-hour-trippytea",
+    "title": "Happy Hour: trippytea",
+    "date": "2026-07-02",
+    "time": "9:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/hhtrippytea",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779224463418-KA9CNTKAIQUZEWEQU667/Snapchat-1118419096_Original.jpeg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.350133+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-07-02-lgbtq-night-queer-open-mic",
+    "title": "LGBTQ Night: Queer Open Mic",
+    "date": "2026-07-02",
+    "time": "11:00 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/queeropenmicjuly",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1733354458406-L2676JK9DL25YR0XLI8Q/Screen+Shot+2024-12-04+at+6.20.15+PM.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.350164+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-07-03-happy-hour-our-two-cents-the-gold-standard",
+    "title": "Happy Hour: Our Two Cents & the Gold Standard",
+    "date": "2026-07-03",
+    "time": "9:30 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/hhtwocentsgoldstandard",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1779412986972-V51HZCXHA4KGLO3S1NWO/DSC_0027+crop.jpeg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.350200+00:00"
+  },
+  {
+    "id": "detroit_street_filling-2026-07-03-bluegrass-friday-pontiac-trail-blazers-ft-wesley-fritzemeier",
+    "title": "Bluegrass Friday: Pontiac Trail Blazers ft. Wesley Fritzemeier",
+    "date": "2026-07-03",
+    "time": "11:00 PM",
+    "venue": "Detroit Street Filling Station / North Star Lounge",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "",
+    "url": "https://www.nstarlounge.com/events/bluegrass7-3",
+    "source": "detroit_street_filling",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1704913168190-WBBQQ5AVZAU2QBYFEU5F/Screen+Shot+2024-01-10+at+1.58.22+PM.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-04T02:46:59.350234+00:00"
   }
 ]
