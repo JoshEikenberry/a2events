@@ -1,25 +1,5 @@
 [
   {
-    "id": "resident_advisor-2026-06-06-open-haus",
-    "title": "Open Haus",
-    "date": "2026-06-06",
-    "time": "8:00 PM",
-    "venue": "The Rabbit Hole Ann Arbor",
-    "address": "210 S 1st st, Ann Arbor MI 48104",
-    "category": "arts_culture",
-    "tags": [
-      "music",
-      "electronic"
-    ],
-    "description": "",
-    "url": "https://ra.co/events/2453034",
-    "source": "resident_advisor",
-    "also_listed_at": [],
-    "image_url": "https://images.ra.co/7b5acdee5db9f4ebeee22267a727b223643be460.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:43.360543+00:00"
-  },
-  {
     "id": "resident_advisor-2026-06-20-house-music-for-all-3-year-anniversary",
     "title": "House Music For All 3 year anniversary",
     "date": "2026-06-20",
@@ -37,6 +17,6 @@
     "also_listed_at": [],
     "image_url": "https://images.ra.co/249f67759718bbe6c4febcb05a4b849949cec72b.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:43.362124+00:00"
+    "scraped_at": "2026-06-07T08:48:56.743373+00:00"
   }
 ]

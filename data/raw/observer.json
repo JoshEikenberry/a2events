@@ -1,65 +1,8 @@
 [
   {
-    "id": "observer-2026-06-06-the-third-place-music-fest",
-    "title": "The Third Place Music Fest",
-    "date": "2026-06-06",
-    "time": "Various Times",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/the-third-place-music-fest-4/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.005235+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-weekend-trail-rides-at-storm-breaker-stables-storm-breaker-stables",
-    "title": "Weekend Trail Rides at Storm Breaker Stables: Storm Breaker Stables",
-    "date": "2026-06-06",
-    "time": "",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "community_listing"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/weekend-trail-rides-at-storm-breaker-stables/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.005874+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-group-runs-ann-arbor-running-company-aarc",
-    "title": "Group Runs: Ann Arbor Running Company (AARC)",
-    "date": "2026-06-06",
-    "time": "7:00  am",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/group-runs-ann-arbor-running-company-aarc-85/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.006385+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-dexterchelsea-saturday-morning-breakfast-ride-ann-arbor-bicycle-touring-society",
-    "title": "\u201cDexter/Chelsea Saturday Morning Breakfast Ride\u201d: Ann Arbor Bicycle Touring Society",
-    "date": "2026-06-06",
+    "id": "observer-2026-06-07-ann-arbor-group-runs-fleet-feet",
+    "title": "Ann Arbor Group Runs: Fleet Feet",
+    "date": "2026-06-07",
     "time": "8:00  am",
     "venue": "",
     "address": "",
@@ -68,131 +11,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/dexter-chelsea-saturday-morning-breakfast-ride-ann-arbor-bicycle-touring-society-10/",
+    "url": "https://annarborobserver.com/mc-events/ann-arbor-group-runs-fleet-feet-63/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.006927+00:00"
+    "scraped_at": "2026-06-07T08:48:57.307124+00:00"
   },
   {
-    "id": "observer-2026-06-06-parkrun-usa",
-    "title": "parkrun USA",
-    "date": "2026-06-06",
-    "time": "8:00  am",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/parkrun-usa-15/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.007439+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-defiplate-games-iron-podium",
-    "title": "\u201cDefiPlate Games\u201d: Iron Podium",
-    "date": "2026-06-06",
-    "time": "8:30  am-9:30  am",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "community_listing"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/defiplate-games-iron-podium/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.008134+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-native-plant-expo-marketplace-washtenaw-county-conservation-district",
-    "title": "\u201cNative Plant Expo & Marketplace\u201d: Washtenaw County Conservation District",
-    "date": "2026-06-06",
-    "time": "9:00  am-1:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/native-plant-expo-marketplace-washtenaw-county-conservation-district/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.008867+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-29th-annual-ann-arbor-african-american-downtown-festival",
-    "title": "29th Annual Ann Arbor African American Downtown Festival",
-    "date": "2026-06-06",
-    "time": "9:00  am-8:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/29th-annual-ann-arbor-african-american-downtown-festival/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.009528+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-a2zero-week-city-of-ann-arbor",
-    "title": "A2Zero Week: City of Ann Arbor",
-    "date": "2026-06-06",
-    "time": "9:00  am-11:30  am",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/a2zero-week-city-of-ann-arbor-6/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.010158+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-drop-swap-first-united-methodist-church",
-    "title": "Drop & Swap: First United Methodist Church",
-    "date": "2026-06-06",
-    "time": "9:00  am-12:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/drop-swap-first-united-methodist-church/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.010762+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-equestrian-competition-cobblestone-farms-at-revel-run",
+    "id": "observer-2026-06-07-equestrian-competition-cobblestone-farms-at-revel-run",
     "title": "Equestrian Competition: Cobblestone Farms at Revel Run",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "time": "9:00  am-6:00  pm",
     "venue": "",
     "address": "",
@@ -201,18 +30,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/equestrian-competition-cobblestone-farms-at-revel-run/",
+    "url": "https://annarborobserver.com/mc-events/equestrian-competition-cobblestone-farms-at-revel-run-2/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.011395+00:00"
+    "scraped_at": "2026-06-07T08:48:57.307794+00:00"
   },
   {
-    "id": "observer-2026-06-06-venue-change-the-washtenaw-county-democratic-party-monthly-meeting",
-    "title": "VENUE CHANGE: The Washtenaw County Democratic Party Monthly Meeting",
-    "date": "2026-06-06",
-    "time": "9:15  am-12:00  pm",
+    "id": "observer-2026-06-07-yoga-for-pride-zion-well-yoga",
+    "title": "\u201cYoga for Pride\u201d: Zion Well Yoga",
+    "date": "2026-06-07",
+    "time": "9:30  am-12:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -220,93 +49,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/venue-change-the-washtenaw-county-democratic-party-monthly-meeting/",
+    "url": "https://annarborobserver.com/mc-events/yoga-for-pride-zion-well-yoga/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.012009+00:00"
+    "scraped_at": "2026-06-07T08:48:57.308480+00:00"
   },
   {
-    "id": "observer-2026-06-06-morning-music-929-northside-community-church",
-    "title": "\u201cMorning Music @9:29\u201d: Northside Community Church",
-    "date": "2026-06-06",
-    "time": "9:29  am",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/morning-music-929-northside-community-church-9/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.012512+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-sharon-mills-history-walk-washtenaw-county-parks-recreation-commission",
-    "title": "\u201cSharon Mills History Walk\u201d: Washtenaw County Parks & Recreation Commission",
-    "date": "2026-06-06",
-    "time": "10:00  am-1:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/sharon-mills-history-walk-washtenaw-county-parks-recreation-commission/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.013124+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-10th-annual-bridging-23-unity-walk-dispute-resolution-center-fundraiser",
-    "title": "10th Annual Bridging 23 Unity Walk: Dispute Resolution Center Fundraiser",
-    "date": "2026-06-06",
-    "time": "10:00  am-3:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/10th-annual-bridging-23-unity-walk-dispute-resolution-center-fundraiser/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.013755+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-annual-skills-and-showcase-competition-ann-arbor-figure-skating-club",
-    "title": "Annual Skills and Showcase Competition: Ann Arbor Figure Skating Club",
-    "date": "2026-06-06",
-    "time": "10:00  am-6:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/annual-skills-and-showcase-competition-ann-arbor-figure-skating-club/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.014348+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-annual-spring-sale-ann-arbor-potters-guild",
+    "id": "observer-2026-06-07-annual-spring-sale-ann-arbor-potters-guild",
     "title": "Annual Spring Sale: Ann Arbor Potters Guild",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "time": "10:00  am-5:00  pm",
     "venue": "",
     "address": "",
@@ -315,18 +68,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/annual-spring-sale-ann-arbor-potters-guild/",
+    "url": "https://annarborobserver.com/mc-events/annual-spring-sale-ann-arbor-potters-guild-2/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.015030+00:00"
+    "scraped_at": "2026-06-07T08:48:57.309153+00:00"
   },
   {
-    "id": "observer-2026-06-06-fairly-odd-finds-artist-market",
-    "title": "Fairly Odd Finds Artist Market",
-    "date": "2026-06-06",
-    "time": "10:00  am-6:00  pm",
+    "id": "observer-2026-06-07-peony-sale-u-m-matthaei-botanical-gardens",
+    "title": "Peony Sale: U-M Matthaei Botanical Gardens",
+    "date": "2026-06-07",
+    "time": "10:00  am-4:30  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -334,18 +87,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/fairly-odd-finds-artist-market/",
+    "url": "https://annarborobserver.com/mc-events/peony-sale-u-m-matthaei-botanical-gardens-2/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.015709+00:00"
+    "scraped_at": "2026-06-07T08:48:57.309808+00:00"
   },
   {
-    "id": "observer-2026-06-06-fiber-arts-drop-in-riverside-arts-center",
-    "title": "Fiber Arts Drop-in: Riverside Arts Center",
-    "date": "2026-06-06",
-    "time": "10:00  am-1:00  pm",
+    "id": "observer-2026-06-07-third-space-sundays",
+    "title": "Third Space Sundays",
+    "date": "2026-06-07",
+    "time": "10:40  am-11:30  am",
     "venue": "",
     "address": "",
     "category": "community",
@@ -353,18 +106,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/fiber-arts-drop-in-riverside-arts-center-3/",
+    "url": "https://annarborobserver.com/mc-events/third-space-sundays-12/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.016323+00:00"
+    "scraped_at": "2026-06-07T08:48:57.310419+00:00"
   },
   {
-    "id": "observer-2026-06-06-flea-craft-market-the-webster-township-historical-society",
-    "title": "Flea & Craft Market: The Webster Township Historical Society",
-    "date": "2026-06-06",
-    "time": "10:00  am-4:00  pm",
+    "id": "observer-2026-06-07-elemental-ecstatic-dance",
+    "title": "Elemental Ecstatic Dance",
+    "date": "2026-06-07",
+    "time": "10:45  am-1:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -372,36 +125,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/flea-craft-market-the-webster-township-historical-society/",
+    "url": "https://annarborobserver.com/mc-events/elemental-ecstatic-dance-23/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.016934+00:00"
+    "scraped_at": "2026-06-07T08:48:57.311093+00:00"
   },
   {
-    "id": "observer-2026-06-06-chime-concert-kerrytown-market-shops",
-    "title": "Chime Concert: Kerrytown Market & Shops",
-    "date": "2026-06-06",
-    "time": "10:30  am-11:00  am",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/chime-concert-kerrytown-market-shops-64/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.017543+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-investigate-labs-u-m-museum-of-natural-history",
+    "id": "observer-2026-06-07-investigate-labs-u-m-museum-of-natural-history",
     "title": "\u201cInvestigate Labs\u201d: U-M Museum of Natural History",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "time": "11:00  am-3:00  pm",
     "venue": "",
     "address": "",
@@ -410,17 +144,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/investigate-labs-u-m-museum-of-natural-history-148/",
+    "url": "https://annarborobserver.com/mc-events/investigate-labs-u-m-museum-of-natural-history-149/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.018165+00:00"
+    "scraped_at": "2026-06-07T08:48:57.311700+00:00"
   },
   {
-    "id": "observer-2026-06-06-the-wonder-of-peonies-walk-u-m-nichols-arboretum",
+    "id": "observer-2026-06-07-the-wonder-of-peonies-walk-u-m-nichols-arboretum",
     "title": "\u201cThe Wonder of Peonies Walk\u201d: U-M Nichols Arboretum",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "time": "11:00  am-12:00  pm",
     "venue": "",
     "address": "",
@@ -429,18 +163,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/the-wonder-of-peonies-walk-u-m-nichols-arboretum/",
+    "url": "https://annarborobserver.com/mc-events/the-wonder-of-peonies-walk-u-m-nichols-arboretum-2/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.018800+00:00"
+    "scraped_at": "2026-06-07T08:48:57.312310+00:00"
   },
   {
-    "id": "observer-2026-06-06-2026-yassoo-greek-festival-st-nicholas-greek-orthodox-church",
-    "title": "2026 Ya\u2019ssoo Greek Festival: St. Nicholas Greek Orthodox Church",
-    "date": "2026-06-06",
-    "time": "11:00  am-11:59  pm",
+    "id": "observer-2026-06-07-sunday-artisan-market",
+    "title": "Sunday Artisan Market",
+    "date": "2026-06-07",
+    "time": "11:00  am-4:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -448,18 +182,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/2026-yassoo-greek-festival-st-nicholas-greek-orthodox-church-2/",
+    "url": "https://annarborobserver.com/mc-events/sunday-artisan-market-10/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.019511+00:00"
+    "scraped_at": "2026-06-07T08:48:57.312970+00:00"
   },
   {
-    "id": "observer-2026-06-06-chelsea-pride-march-picnic-equality-chelsea",
-    "title": "Chelsea Pride March & Picnic: Equality Chelsea",
-    "date": "2026-06-06",
-    "time": "11:00  am-2:00  pm",
+    "id": "observer-2026-06-07-hac-ultimate",
+    "title": "H.A.C. Ultimate",
+    "date": "2026-06-07",
+    "time": "11:15  am",
     "venue": "",
     "address": "",
     "category": "community",
@@ -467,36 +201,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/chelsea-pride-march-picnic-equality-chelsea/",
+    "url": "https://annarborobserver.com/mc-events/h-a-c-ultimate-20/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.020152+00:00"
+    "scraped_at": "2026-06-07T08:48:57.313450+00:00"
   },
   {
-    "id": "observer-2026-06-06-peony-sale-u-m-matthaei-botanical-gardens",
-    "title": "Peony Sale: U-M Matthaei Botanical Gardens",
-    "date": "2026-06-06",
-    "time": "11:00  am-4:30  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/peony-sale-u-m-matthaei-botanical-gardens/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.020827+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-creature-encounters-adult-open-hours-the-creature-conservancy",
+    "id": "observer-2026-06-07-creature-encounters-adult-open-hours-the-creature-conservancy",
     "title": "\u201cCreature Encounters & Adult Open Hours\u201d: The Creature Conservancy",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "time": "12:00  pm-5:00  pm",
     "venue": "",
     "address": "",
@@ -505,17 +220,36 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/creature-encounters-adult-open-hours-the-creature-conservancy-46/",
+    "url": "https://annarborobserver.com/mc-events/creature-encounters-adult-open-hours-the-creature-conservancy-47/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.021525+00:00"
+    "scraped_at": "2026-06-07T08:48:57.314142+00:00"
   },
   {
-    "id": "observer-2026-06-06-critter-house-open-hours-leslie-science-nature-center",
+    "id": "observer-2026-06-07-2026-yassoo-greek-festival-st-nicholas-greek-orthodox-church",
+    "title": "2026 Ya\u2019ssoo Greek Festival: St. Nicholas Greek Orthodox Church",
+    "date": "2026-06-07",
+    "time": "12:00  pm-5:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/2026-yassoo-greek-festival-st-nicholas-greek-orthodox-church-3/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.314834+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-critter-house-open-hours-leslie-science-nature-center",
     "title": "Critter House Open Hours: Leslie Science & Nature Center",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "time": "12:00  pm-3:00  pm",
     "venue": "",
     "address": "",
@@ -524,55 +258,36 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/critter-house-open-hours-leslie-science-nature-center-50/",
+    "url": "https://annarborobserver.com/mc-events/critter-house-open-hours-leslie-science-nature-center-52/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.022206+00:00"
+    "scraped_at": "2026-06-07T08:48:57.315507+00:00"
   },
   {
-    "id": "observer-2026-06-06-marigolds-madder-root-a-natural-dye-workshop-waterloo-area-historical-society",
-    "title": "Marigolds & Madder Root ~ A Natural Dye Workshop: Waterloo Area Historical Society",
-    "date": "2026-06-06",
-    "time": "12:00  pm-3:30  pm",
+    "id": "observer-2026-06-07-open-board-games-sylvan-factory",
+    "title": "Open Board Games: Sylvan Factory",
+    "date": "2026-06-07",
+    "time": "12:00  pm-6:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
     "tags": [
-      "community_listing"
+      "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/marigolds-madder-root-a-natural-dye-workshop/",
+    "url": "https://annarborobserver.com/mc-events/open-board-games-sylvan-factory-24/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.022886+00:00"
+    "scraped_at": "2026-06-07T08:48:57.316105+00:00"
   },
   {
-    "id": "observer-2026-06-06-outdoor-gallery-and-sculpture-garden-stephenson-ceramics",
-    "title": "Outdoor Gallery and Sculpture Garden: Stephenson Ceramics",
-    "date": "2026-06-06",
-    "time": "12:00  pm-4:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "community_listing"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/outdoor-gallery-and-sculpture-garden/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.023545+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-megafauna-mystery-u-m-museum-of-natural-history-discovery-demos",
+    "id": "observer-2026-06-07-megafauna-mystery-u-m-museum-of-natural-history-discovery-demos",
     "title": "\u201cMegafauna Mystery\u201d: U-M Museum of Natural History Discovery Demos",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "time": "12:30  pm",
     "venue": "",
     "address": "",
@@ -581,56 +296,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/megafauna-mystery-u-m-museum-of-natural-history-discovery-demos/",
+    "url": "https://annarborobserver.com/mc-events/megafauna-mystery-u-m-museum-of-natural-history-discovery-demos-3/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.024051+00:00"
+    "scraped_at": "2026-06-07T08:48:57.316590+00:00"
   },
   {
-    "id": "observer-2026-06-06-pharmacology-for-everyone-the-past-present-and-future-of-anesthetic-agents-ann-arbor-district-library",
-    "title": "\u201cPharmacology for Everyone: The Past, Present, and Future of Anesthetic Agents\u201d: Ann Arbor District Library",
-    "date": "2026-06-06",
-    "time": "1:00  pm-2:30  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/pharmacology-for-everyone-the-past-present-and-future-of-anesthetic-agents-ann-arbor-district-library/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.024657+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-take-a-hike-aadlann-arbor-parks-recreationshades-of-the-outdoors",
-    "title": "\u201cTake a Hike\u201d: AADL/Ann Arbor Parks & Recreation/Shades of the Outdoors",
-    "date": "2026-06-06",
-    "time": "1:00  pm-3:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/take-a-hike-aadl-ann-arbor-parks-recreation-shades-of-the-outdoors/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.025249+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-nucleate-2026-homes-brewery",
-    "title": "Nucleate 2026: HOMES Brewery",
-    "date": "2026-06-06",
-    "time": "1:00  pm-6:00  pm",
+    "id": "observer-2026-06-07-ann-arbor-ann-arbor-indivisible",
+    "title": "Ann Arbor: Ann Arbor Indivisible",
+    "date": "2026-06-07",
+    "time": "12:30  pm-2:30  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -638,36 +315,36 @@
       "community_listing"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/nucleate-2026/",
+    "url": "https://annarborobserver.com/mc-events/ann-arbor/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.025997+00:00"
+    "scraped_at": "2026-06-07T08:48:57.317272+00:00"
   },
   {
-    "id": "observer-2026-06-06-nucleate-beer-festival-homes-breweryhabitat-for-humanity-of-huron-valley-fundraiser",
-    "title": "Nucleate Beer Festival: HOMES Brewery/Habitat for Humanity of Huron Valley Fundraiser",
-    "date": "2026-06-06",
-    "time": "1:00  pm-6:00  pm",
+    "id": "observer-2026-06-07-weekly-meeting-ann-arbor-indivisible",
+    "title": "Weekly Meeting: Ann Arbor Indivisible",
+    "date": "2026-06-07",
+    "time": "12:30  pm-2:30  pm",
     "venue": "",
     "address": "",
     "category": "community",
     "tags": [
-      "observer_editor"
+      "community_listing"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/nucleate-beer-festival-homes-brewery-habitat-for-humanity-of-huron-valley-fundraiser/",
+    "url": "https://annarborobserver.com/mc-events/weekly-meeting/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.026682+00:00"
+    "scraped_at": "2026-06-07T08:48:57.318007+00:00"
   },
   {
-    "id": "observer-2026-06-06-u-m-museum-of-natural-history-planetarium-dome-theater",
-    "title": "U-M Museum of Natural History Planetarium & Dome Theater",
-    "date": "2026-06-06",
+    "id": "observer-2026-06-07-chesstastic-ann-arbor-district-library",
+    "title": "\u201cChesstastic\u201d: Ann Arbor District Library",
+    "date": "2026-06-07",
     "time": "1:00  pm-3:00  pm",
     "venue": "",
     "address": "",
@@ -676,17 +353,93 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/u-m-museum-of-natural-history-planetarium-dome-theater-56/",
+    "url": "https://annarborobserver.com/mc-events/chesstastic-ann-arbor-district-library-8/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.027363+00:00"
+    "scraped_at": "2026-06-07T08:48:57.318621+00:00"
   },
   {
-    "id": "observer-2026-06-06-museum-highlight-tours-u-m-museum-of-natural-history",
-    "title": "Museum Highlight Tours: U-M Museum of Natural History",
-    "date": "2026-06-06",
+    "id": "observer-2026-06-07-drop-in-knitting-spun",
+    "title": "Drop-in Knitting: Spun",
+    "date": "2026-06-07",
+    "time": "1:00  pm-3:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/drop-in-knitting-spun-71/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.319279+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-letterpress-open-lab-ann-arbor-district-library",
+    "title": "Letterpress Open Lab: Ann Arbor District Library",
+    "date": "2026-06-07",
+    "time": "1:00  pm-3:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/letterpress-open-lab-ann-arbor-district-library-18/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.319924+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-tour-kempf-house-museum",
+    "title": "Tour: Kempf House Museum",
+    "date": "2026-06-07",
+    "time": "1:00  pm-4:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/tour-kempf-house-museum-3/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.320544+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-u-m-museum-of-natural-history-planetarium-dome-theater",
+    "title": "U-M Museum of Natural History Planetarium & Dome Theater",
+    "date": "2026-06-07",
+    "time": "1:00  pm-3:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/u-m-museum-of-natural-history-planetarium-dome-theater-57/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.321251+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-the-adventures-of-robin-hood-michigan-theater",
+    "title": "\u201cThe Adventures of Robin Hood\u201d: Michigan Theater",
+    "date": "2026-06-07",
     "time": "1:30  pm",
     "venue": "",
     "address": "",
@@ -695,17 +448,74 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/museum-highlight-tours-u-m-museum-of-natural-history-15/",
+    "url": "https://annarborobserver.com/mc-events/the-adventures-of-robin-hood-michigan-theater/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.027876+00:00"
+    "scraped_at": "2026-06-07T08:48:57.321828+00:00"
   },
   {
-    "id": "observer-2026-06-06-fiddler-on-the-roof-the-encore-musical-theatre-company",
+    "id": "observer-2026-06-07-walking-with-whales-tour-u-m-museum-of-natural-history",
+    "title": "\u201cWalking with Whales Tour\u201d: U-M Museum of Natural History",
+    "date": "2026-06-07",
+    "time": "1:30  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/walking-with-whales-tour-u-m-museum-of-natural-history-22/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.322339+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-collage-making-jewel-heart-buddhist-center-fundraiser",
+    "title": "Collage Making: Jewel Heart Buddhist Center Fundraiser",
+    "date": "2026-06-07",
+    "time": "1:30  pm-3:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/collage-making-jewel-heart-buddhist-center-fundraiser/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.323019+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-beginning-birding-waterloo-natural-history-association",
+    "title": "\u201cBeginning Birding\u201d: Waterloo Natural History Association",
+    "date": "2026-06-07",
+    "time": "2:00  pm-3:30  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/beginning-birding-waterloo-natural-history-association/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.323720+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-fiddler-on-the-roof-the-encore-musical-theatre-company",
     "title": "\u201cFiddler on the Roof\u201d: The Encore Musical Theatre Company",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "time": "2:00  pm",
     "venue": "",
     "address": "",
@@ -714,17 +524,36 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/fiddler-on-the-roof-the-encore-musical-theatre-company-4/",
+    "url": "https://annarborobserver.com/mc-events/fiddler-on-the-roof-the-encore-musical-theatre-company-5/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.028441+00:00"
+    "scraped_at": "2026-06-07T08:48:57.324312+00:00"
   },
   {
-    "id": "observer-2026-06-06-i-am-groot-flowerpot-ann-arbor-district-library",
-    "title": "\u201cI Am Groot Flowerpot\u201d: Ann Arbor District Library",
-    "date": "2026-06-06",
+    "id": "observer-2026-06-07-the-last-wide-open-theatre-nova",
+    "title": "\u201cThe Last Wide Open\u201d: Theatre Nova",
+    "date": "2026-06-07",
+    "time": "2:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/the-last-wide-open-theatre-nova-11/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.324859+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-sunday-drop-in-tour-u-m-kelsey-museum-of-archaeology",
+    "title": "Sunday Drop-in Tour: U-M Kelsey Museum of Archaeology",
+    "date": "2026-06-07",
     "time": "2:00  pm-3:00  pm",
     "venue": "",
     "address": "",
@@ -733,18 +562,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/i-am-groot-flowerpot-ann-arbor-district-library/",
+    "url": "https://annarborobserver.com/mc-events/sunday-drop-in-tour-u-m-kelsey-museum-of-archaeology-21/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.029049+00:00"
+    "scraped_at": "2026-06-07T08:48:57.325492+00:00"
   },
   {
-    "id": "observer-2026-06-06-ice-cream-play-professional-youth-theatre-of-michigan",
-    "title": "\u201cIce Cream Play\u201d: Professional Youth Theatre of Michigan",
-    "date": "2026-06-06",
-    "time": "2:00  pm",
+    "id": "observer-2026-06-07-using-ai-to-take-your-screenplay-from-promise-to-production-the-2026-ann-arbor-black-film-festival",
+    "title": "\u201cUsing AI to Take Your Screenplay from Promise to Production\u201d: The 2026 Ann Arbor Black Film Festival",
+    "date": "2026-06-07",
+    "time": "2:30  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -752,36 +581,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/ice-cream-play-professional-youth-theatre-of-michigan/",
+    "url": "https://annarborobserver.com/mc-events/using-ai-to-take-your-screenplay-from-promise-to-production-the-2026-ann-arbor-black-film-festival/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.029532+00:00"
+    "scraped_at": "2026-06-07T08:48:57.326540+00:00"
   },
   {
-    "id": "observer-2026-06-06-mariposabutterfly-spinning-dot-theatre",
-    "title": "\u201cMariposa/Butterfly\u201d: Spinning Dot Theatre",
-    "date": "2026-06-06",
-    "time": "2:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/mariposa-butterfly-spinning-dot-theatre/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.030113+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-create-your-own-future-card-decks-ann-arbor-district-library",
-    "title": "\u201cCreate Your Own Future Card Decks\u201d: Ann Arbor District Library",
-    "date": "2026-06-06",
+    "id": "observer-2026-06-07-a-long-journey-called-home-becoming-a-pianist-st-andrews-episcopal-church",
+    "title": "\u201cA Long Journey Called Home: Becoming a Pianist\u201d: St. Andrew\u2019s Episcopal Church",
+    "date": "2026-06-07",
     "time": "3:00  pm-4:30  pm",
     "venue": "",
     "address": "",
@@ -790,55 +600,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/create-your-own-future-card-decks-ann-arbor-district-library/",
+    "url": "https://annarborobserver.com/mc-events/a-long-journey-called-home-becoming-a-pianist-st-andrews-episcopal-church/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.031206+00:00"
+    "scraped_at": "2026-06-07T08:48:57.327269+00:00"
   },
   {
-    "id": "observer-2026-06-06-the-last-wide-open-theatre-nova",
-    "title": "\u201cThe Last Wide Open\u201d: Theatre Nova",
-    "date": "2026-06-06",
-    "time": "3:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/the-last-wide-open-theatre-nova-10/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.031778+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-michigan-raptors-vs-ohio-legends",
-    "title": "Michigan Raptors vs. Ohio Legends",
-    "date": "2026-06-06",
-    "time": "3:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/michigan-raptors-vs-ohio-legends/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.032326+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-pittsfield-open-band-ann-arbor-community-for-traditional-music-and-dance",
-    "title": "Pittsfield Open Band: Ann Arbor Community for Traditional Music and Dance",
-    "date": "2026-06-06",
+    "id": "observer-2026-06-07-international-folk-dancing-ann-arbor-folkdancersann-arbor-community-for-traditional-music-and-dance",
+    "title": "International Folk Dancing: Ann Arbor Folkdancers/Ann Arbor Community for Traditional Music and Dance",
+    "date": "2026-06-07",
     "time": "3:00  pm-5:00  pm",
     "venue": "",
     "address": "",
@@ -847,17 +619,55 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/pittsfield-open-band-ann-arbor-community-for-traditional-music-and-dance-11/",
+    "url": "https://annarborobserver.com/mc-events/international-folk-dancing-ann-arbor-folkdancers-ann-arbor-community-for-traditional-music-and-dance-8/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.032957+00:00"
+    "scraped_at": "2026-06-07T08:48:57.327888+00:00"
   },
   {
-    "id": "observer-2026-06-06-a2-summer-streets-music-series-main-street-area-association",
+    "id": "observer-2026-06-07-ballet-in-bloom-iballet-2026-spring-gala-performance",
+    "title": "\u201cBallet in Bloom\u201d: iBallet 2026 Spring Gala Performance",
+    "date": "2026-06-07",
+    "time": "4:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/ballet-in-bloom-iballet-2026-spring-gala-performance/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.328463+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-the-birdcage-fathom-entertainment",
+    "title": "\u201cThe Birdcage\u201d: Fathom Entertainment",
+    "date": "2026-06-07",
+    "time": "4:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/the-birdcage-fathom-entertainment/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.329043+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-a2-summer-streets-music-series-main-street-area-association",
     "title": "A2 Summer Streets Music Series: Main Street Area Association",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "time": "4:00  pm-5:00  pm",
     "venue": "",
     "address": "",
@@ -866,18 +676,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/a2-summer-streets-music-series-main-street-area-association-3/",
+    "url": "https://annarborobserver.com/mc-events/a2-summer-streets-music-series-main-street-area-association-4/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.033556+00:00"
+    "scraped_at": "2026-06-07T08:48:57.329645+00:00"
   },
   {
-    "id": "observer-2026-06-06-the-pleasure-hounds-hearsay-brewing-theater",
-    "title": "The Pleasure Hounds: Hear.Say Brewing + Theater",
-    "date": "2026-06-06",
-    "time": "4:00  pm-7:00  pm",
+    "id": "observer-2026-06-07-les-\u00e9curies-du-roy-concert",
+    "title": "Les \u00c9curies du Roy Concert",
+    "date": "2026-06-07",
+    "time": "4:00  pm-6:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -885,36 +695,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/the-pleasure-hounds-hear-say-brewing-theater/",
+    "url": "https://annarborobserver.com/mc-events/les-ecuries-du-roy-concert/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.034222+00:00"
+    "scraped_at": "2026-06-07T08:48:57.330251+00:00"
   },
   {
-    "id": "observer-2026-06-06-local-history-showcase-the-2026-ann-arbor-black-film-festival",
-    "title": "\u201cLocal History Showcase\u201d: The 2026 Ann Arbor Black Film Festival",
-    "date": "2026-06-06",
-    "time": "4:15  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/local-history-showcase-the-2026-ann-arbor-black-film-festival/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.034775+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-magic-the-gathering-mtg-sylvan-factory",
-    "title": "Magic: The Gathering (MTG): Sylvan Factory",
-    "date": "2026-06-06",
+    "id": "observer-2026-06-07-sing-together-the-boychoir-of-ann-arbor",
+    "title": "\u201cSing Together\u201d: The Boychoir of Ann Arbor",
+    "date": "2026-06-07",
     "time": "5:00  pm",
     "venue": "",
     "address": "",
@@ -923,36 +714,55 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/magic-the-gathering-mtg-sylvan-factory-5/",
+    "url": "https://annarborobserver.com/mc-events/sing-together-the-boychoir-of-ann-arbor/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.035390+00:00"
+    "scraped_at": "2026-06-07T08:48:57.330758+00:00"
   },
   {
-    "id": "observer-2026-06-06-momentum-2026-cluster-museum-fundraiser",
-    "title": "\u201cMomentum 2026\u201d: Cluster Museum Fundraiser",
-    "date": "2026-06-06",
-    "time": "6:00  pm-9:00  pm",
+    "id": "observer-2026-06-07-phil-ogilvies-rhythm-kings-zal-gaz-grotto",
+    "title": "Phil Ogilvie's Rhythm Kings: Zal Gaz Grotto",
+    "date": "2026-06-07",
+    "time": "5:00  pm-8:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
     "tags": [
-      "free"
+      "community_listing"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/momentum-2026-cluster-museum-fundraiser/",
+    "url": "https://annarborobserver.com/mc-events/phil-ogilvies-rhythm-kings-21/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.036070+00:00"
+    "scraped_at": "2026-06-07T08:48:57.331406+00:00"
   },
   {
-    "id": "observer-2026-06-06-bury-your-gays-ann-arbor-district-library-2026-big-gay-read-author-event",
-    "title": "\u201cBury Your Gays\u201d: Ann Arbor District Library 2026 Big Gay Read Author Event",
-    "date": "2026-06-06",
+    "id": "observer-2026-06-07-ann-arbor-morris",
+    "title": "Ann Arbor Morris",
+    "date": "2026-06-07",
+    "time": "6:00  pm-8:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/ann-arbor-morris-20/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-07T08:48:57.331995+00:00"
+  },
+  {
+    "id": "observer-2026-06-07-extra-credit-hearsay-brewing-theater",
+    "title": "\u201cExtra Credit\u201d: Hear.Say Brewing + Theater",
+    "date": "2026-06-07",
     "time": "6:30  pm-7:30  pm",
     "venue": "",
     "address": "",
@@ -961,17 +771,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/bury-your-gays-ann-arbor-district-library-2026-big-gay-read-author-event/",
+    "url": "https://annarborobserver.com/mc-events/extra-credit-hear-say-brewing-theater-5/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.036681+00:00"
+    "scraped_at": "2026-06-07T08:48:57.332641+00:00"
   },
   {
-    "id": "observer-2026-06-06-loves-labors-lost-u-m-residential-collegenichols-arboretum",
+    "id": "observer-2026-06-07-loves-labors-lost-u-m-residential-collegenichols-arboretum",
     "title": "\u201cLove\u2019s Labor\u2019s Lost\u201d: U-M Residential College/Nichols Arboretum",
-    "date": "2026-06-06",
+    "date": "2026-06-07",
     "time": "6:30  pm",
     "venue": "",
     "address": "",
@@ -980,18 +790,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/loves-labors-lost-u-m-residential-college-nichols-arboretum-3/",
+    "url": "https://annarborobserver.com/mc-events/loves-labors-lost-u-m-residential-college-nichols-arboretum-4/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.037268+00:00"
+    "scraped_at": "2026-06-07T08:48:57.333224+00:00"
   },
   {
-    "id": "observer-2026-06-06-afc-ann-arbor-womens-team",
-    "title": "AFC Ann Arbor Women\u2019s Team",
-    "date": "2026-06-06",
-    "time": "7:00  pm",
+    "id": "observer-2026-06-07-the-fix-saving-america-from-the-corruption-of-a-mob-style-government-ann-arbor-district-libraryliterati-bookstore",
+    "title": "\u201cThe Fix: Saving America from the Corruption of a Mob-Style Government\u201d: Ann Arbor District Library/Literati Bookstore",
+    "date": "2026-06-07",
+    "time": "6:30  pm-7:30  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -999,55 +809,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/afc-ann-arbor-womens-team-3/",
+    "url": "https://annarborobserver.com/mc-events/the-fix-saving-america-from-the-corruption-of-a-mob-style-government-ann-arbor-district-library-literati-bookstore/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.038406+00:00"
+    "scraped_at": "2026-06-07T08:48:57.333822+00:00"
   },
   {
-    "id": "observer-2026-06-06-chad-kroeger-blind-pig",
-    "title": "Chad Kroeger: Blind Pig",
-    "date": "2026-06-06",
-    "time": "7:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/chad-kroeger-blind-pig/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.038970+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-pitch-a-friend-lowertown-bar-cafe-pitch-a-friend-ann-arbor",
-    "title": "Pitch-A-Friend @ Lowertown Bar & Cafe: Pitch-a-Friend Ann Arbor",
-    "date": "2026-06-06",
-    "time": "7:00  pm-8:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "community_listing"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/pitch-a-friend-lowertown-bar-cafe/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.039561+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-u-m-music-school-collaborative-piano-institute",
-    "title": "U-M Music School Collaborative Piano Institute.",
-    "date": "2026-06-06",
+    "id": "observer-2026-06-07-ballroom-dance-club-at-the-u-m",
+    "title": "Ballroom Dance Club at the U-M",
+    "date": "2026-06-07",
     "time": "7:00  pm-9:00  pm",
     "venue": "",
     "address": "",
@@ -1056,18 +828,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/u-m-music-school-collaborative-piano-institute/",
+    "url": "https://annarborobserver.com/mc-events/ballroom-dance-club-at-the-u-m-29/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.040197+00:00"
+    "scraped_at": "2026-06-07T08:48:57.334476+00:00"
   },
   {
-    "id": "observer-2026-06-06-adam-degi-ann-arbor-comedy-showcase",
-    "title": "Adam Degi: Ann Arbor Comedy Showcase",
-    "date": "2026-06-06",
-    "time": "7:15  pm",
+    "id": "observer-2026-06-07-traditional-irish-session-conor-oneills",
+    "title": "Traditional Irish Session: Conor O\u2019Neill\u2019s",
+    "date": "2026-06-07",
+    "time": "7:00  pm-9:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -1075,144 +847,11 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/adam-degi-ann-arbor-comedy-showcase-2/",
+    "url": "https://annarborobserver.com/mc-events/traditional-irish-session-conor-oneills-11/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.040762+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-drum-and-dance-jam-interfaith-center-for-spiritual-growth",
-    "title": "\u201cDrum and Dance Jam\u201d: Interfaith Center for Spiritual Growth",
-    "date": "2026-06-06",
-    "time": "7:30  pm-9:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/drum-and-dance-jam-interfaith-center-for-spiritual-growth-3/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.041368+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-vae-potpourri-2026-vocal-arts-ensemble",
-    "title": "\u201cVAE Potpourri 2026\u201d: Vocal Arts Ensemble",
-    "date": "2026-06-06",
-    "time": "7:30  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/vae-potpourri-2026-vocal-arts-ensemble/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.042019+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-first-saturday-contra-dance-ann-arbor-community-for-traditional-music-and-dance",
-    "title": "First Saturday Contra Dance: Ann Arbor Community for Traditional Music and Dance",
-    "date": "2026-06-06",
-    "time": "7:30  pm-10:30  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/first-saturday-contra-dance-ann-arbor-community-for-traditional-music-and-dance-5/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.042621+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-jive-colossus-rancho-tranquilico",
-    "title": "Jive Colossus: Rancho Tranquilico",
-    "date": "2026-06-06",
-    "time": "8:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/jive-colossus-rancho-tranquilico/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.043774+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-michelle-held-9-live-house-concert",
-    "title": "Michelle Held: 9 Live House Concert",
-    "date": "2026-06-06",
-    "time": "8:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/michelle-held-9-live-house-concert/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.044337+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-saturday-night-improv-double-header-hearsay-brewing-theater",
-    "title": "\u201cSaturday Night Improv: Double Header\u201d: Hear.Say Brewing + Theater",
-    "date": "2026-06-06",
-    "time": "8:30  pm-9:45  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/saturday-night-improv-double-header-hear-say-brewing-theater/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.045036+00:00"
-  },
-  {
-    "id": "observer-2026-06-06-university-lowbrow-astronomers",
-    "title": "University Lowbrow Astronomers",
-    "date": "2026-06-06",
-    "time": "8:30  pm-11:55  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/university-lowbrow-astronomers-5/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-06-06T08:28:44.045635+00:00"
+    "scraped_at": "2026-06-07T08:48:57.335061+00:00"
   }
 ]
