@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/58/22/83_Original.jpg?v=4",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.012612+00:00"
+    "scraped_at": "2026-06-24T08:57:51.401868+00:00"
   },
   {
     "id": "blind_pig-2026-06-26-the-atomic-cafe",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/51/74/83_Original.jpg?v=3",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.013275+00:00"
+    "scraped_at": "2026-06-24T08:57:51.402488+00:00"
   },
   {
     "id": "blind_pig-2026-06-27-todd-barry",
@@ -54,7 +54,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/45/34/33_Original.jpg?v=6",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.013951+00:00"
+    "scraped_at": "2026-06-24T08:57:51.403049+00:00"
   },
   {
     "id": "blind_pig-2026-06-29-blind-pig-comedy",
@@ -73,7 +73,26 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/50/67/23_Original.jpg?v=3",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.014596+00:00"
+    "scraped_at": "2026-06-24T08:57:51.403599+00:00"
+  },
+  {
+    "id": "blind_pig-2026-07-01-twenty-something-summer",
+    "title": "Twenty Something Summer",
+    "date": "2026-07-01",
+    "time": "8pm",
+    "venue": "The Blind Pig",
+    "address": "208 S. 1st St, Ann Arbor, MI",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "+$5 AT THE DOOR IF UNDER 21",
+    "url": "https://blindpigmusic.com/tm-event/twenty-something-summer-wipeout-cherry-blossom-club-plastic-guitar-tour/",
+    "source": "blind_pig",
+    "also_listed_at": [],
+    "image_url": "https://i.ticketweb.com/i/00/12/93/47/04_Original.jpg?v=3",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-24T08:57:51.404163+00:00"
   },
   {
     "id": "blind_pig-2026-07-02-follow-the-protocol",
@@ -92,7 +111,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/51/77/13_Original.jpg?v=4",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.015246+00:00"
+    "scraped_at": "2026-06-24T08:57:51.404737+00:00"
   },
   {
     "id": "blind_pig-2026-07-03-august-lily-dowds",
@@ -111,7 +130,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/12/91/76/94_Original.jpg?v=7",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.015926+00:00"
+    "scraped_at": "2026-06-24T08:57:51.405317+00:00"
   },
   {
     "id": "blind_pig-2026-07-06-blind-pig-comedy",
@@ -130,7 +149,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/12/92/70/84_Original.jpg?v=3",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.016553+00:00"
+    "scraped_at": "2026-06-24T08:57:51.405854+00:00"
   },
   {
     "id": "blind_pig-2026-07-07-the-heavy-heavy",
@@ -149,7 +168,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/42/85/53_Original.jpg?v=5",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.017188+00:00"
+    "scraped_at": "2026-06-24T08:57:51.406411+00:00"
   },
   {
     "id": "blind_pig-2026-07-08-will-conrad",
@@ -168,7 +187,26 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/51/78/63_Original.jpg?v=3",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.017847+00:00"
+    "scraped_at": "2026-06-24T08:57:51.406960+00:00"
+  },
+  {
+    "id": "blind_pig-2026-07-10-michigan-twang-americana-country-music-showcase",
+    "title": "Michigan Twang: Americana & Country Music Showcase",
+    "date": "2026-07-10",
+    "time": "5pm",
+    "venue": "The Blind Pig",
+    "address": "208 S. 1st St, Ann Arbor, MI",
+    "category": "arts_culture",
+    "tags": [
+      "music"
+    ],
+    "description": "+$5 AT THE DOOR IF UNDER 21",
+    "url": "https://blindpigmusic.com/tm-event/michigan-twang-americana-country-music-showcase-judy-banker-band-kira-blue-collin/",
+    "source": "blind_pig",
+    "also_listed_at": [],
+    "image_url": "https://i.ticketweb.com/i/00/12/93/32/04_Original.jpg?v=4",
+    "possible_duplicate": false,
+    "scraped_at": "2026-06-24T08:57:51.407522+00:00"
   },
   {
     "id": "blind_pig-2026-07-10-emo-night-brooklyn",
@@ -187,7 +225,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/49/81/93_Original.jpg?v=5",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.018492+00:00"
+    "scraped_at": "2026-06-24T08:57:51.408040+00:00"
   },
   {
     "id": "blind_pig-2026-07-11-hemmingway-lane",
@@ -206,7 +244,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/55/14/63_Original.jpg?v=3",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.019145+00:00"
+    "scraped_at": "2026-06-24T08:57:51.408607+00:00"
   },
   {
     "id": "blind_pig-2026-07-13-blind-pig-comedy",
@@ -225,7 +263,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/12/92/70/94_Original.jpg?v=3",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.019774+00:00"
+    "scraped_at": "2026-06-24T08:57:51.409130+00:00"
   },
   {
     "id": "blind_pig-2026-07-15-the-special-guests",
@@ -244,7 +282,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/12/92/63/94_Original.jpg?v=3",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.020408+00:00"
+    "scraped_at": "2026-06-24T08:57:51.409698+00:00"
   },
   {
     "id": "blind_pig-2026-07-16-loudfoxcult-cloverleaf-death-in-venice",
@@ -263,7 +301,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/51/44/33_Original.jpg?v=3",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.021050+00:00"
+    "scraped_at": "2026-06-24T08:57:51.410219+00:00"
   },
   {
     "id": "blind_pig-2026-07-17-broadway-rave",
@@ -282,7 +320,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/49/81/53_Original.jpg?v=4",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.021677+00:00"
+    "scraped_at": "2026-06-24T08:57:51.410768+00:00"
   },
   {
     "id": "blind_pig-2026-07-18-afroman-sold-out",
@@ -301,7 +339,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/42/88/73_Original.jpg?v=9",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.022293+00:00"
+    "scraped_at": "2026-06-24T08:57:51.411307+00:00"
   },
   {
     "id": "blind_pig-2026-07-19-homisui-jadyn-savage-wax-canvas-riptide",
@@ -320,7 +358,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/53/43/93_Original.jpg?v=7",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.022936+00:00"
+    "scraped_at": "2026-06-24T08:57:51.411830+00:00"
   },
   {
     "id": "blind_pig-2026-07-20-david-murphys-for-my-peeps",
@@ -339,7 +377,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/13/57/43/63_Original.jpg?v=7",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.023581+00:00"
+    "scraped_at": "2026-06-24T08:57:51.412381+00:00"
   },
   {
     "id": "blind_pig-2026-07-21-the-moth-storyslam",
@@ -358,7 +396,7 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/12/92/71/74_Original.jpg?v=4",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.024195+00:00"
+    "scraped_at": "2026-06-24T08:57:51.412903+00:00"
   },
   {
     "id": "blind_pig-2026-07-22-videogame-music-night",
@@ -377,6 +415,6 @@
     "also_listed_at": [],
     "image_url": "https://i.ticketweb.com/i/00/12/91/78/54_Original.jpg?v=4",
     "possible_duplicate": false,
-    "scraped_at": "2026-06-23T09:29:01.024852+00:00"
+    "scraped_at": "2026-06-24T08:57:51.413462+00:00"
   }
 ]
