@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/1969_1080x450%20(1)_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426225+00:00"
+    "scraped_at": "2026-07-13T08:57:32.155606+00:00"
   },
   {
     "id": "michigan_theater-2026-08-08-cat-video-fest-2026",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/catvideofest%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426339+00:00"
+    "scraped_at": "2026-07-13T08:57:32.155667+00:00"
   },
   {
     "id": "michigan_theater-2026-08-08-cat-video-fest-2026",
@@ -54,7 +54,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/catvideofest%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426351+00:00"
+    "scraped_at": "2026-07-13T08:57:32.155676+00:00"
   },
   {
     "id": "michigan_theater-2026-08-08-ponyo",
@@ -73,7 +73,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/ponyo%201080%20x%20450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426412+00:00"
+    "scraped_at": "2026-07-13T08:57:32.155713+00:00"
   },
   {
     "id": "michigan_theater-2026-08-04-american-movie",
@@ -92,316 +92,12 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/americanmovie%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426551+00:00"
+    "scraped_at": "2026-07-13T08:57:32.155803+00:00"
   },
   {
-    "id": "michigan_theater-2026-07-12-camp",
-    "title": "Camp",
-    "date": "2026-07-12",
-    "time": "8:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1023471~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/camp%201080x450.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426826+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-disclosure-day",
-    "title": "Disclosure Day",
-    "date": "2026-07-12",
-    "time": "1:50pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1023478~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/disclosure%20day%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426881+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-disclosure-day",
-    "title": "Disclosure Day",
-    "date": "2026-07-12",
-    "time": "4:15pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1023479~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/disclosure%20day%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426895+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-disclosure-day",
-    "title": "Disclosure Day",
-    "date": "2026-07-12",
-    "time": "7:40pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1023480~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/disclosure%20day%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426902+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-evil-dead-burn",
-    "title": "Evil Dead Burn",
-    "date": "2026-07-12",
-    "time": "2:10pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1019677~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/evildeadburn%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426952+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-evil-dead-burn",
-    "title": "Evil Dead Burn",
-    "date": "2026-07-12",
-    "time": "4:45pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1019678~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/evildeadburn%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426960+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-evil-dead-burn",
-    "title": "Evil Dead Burn",
-    "date": "2026-07-12",
-    "time": "6:45pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1019679~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/evildeadburn%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.426966+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-interstellar",
-    "title": "Interstellar",
-    "date": "2026-07-12",
-    "time": "1:30pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1021308~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/interstellar%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427008+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-the-invite",
-    "title": "The Invite",
-    "date": "2026-07-12",
-    "time": "1:40pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1020786~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theinvite%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427055+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-the-invite",
-    "title": "The Invite",
-    "date": "2026-07-12",
-    "time": "4:15pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1020787~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theinvite%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427062+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-the-invite",
-    "title": "The Invite",
-    "date": "2026-07-12",
-    "time": "7:30pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1020788~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theinvite%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427068+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-jackass-best-and-last",
-    "title": "Jackass: Best and Last",
-    "date": "2026-07-12",
-    "time": "2:00pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1023490~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/jackassbestandlast%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427111+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-jackass-best-and-last",
-    "title": "Jackass: Best and Last",
-    "date": "2026-07-12",
-    "time": "5:10pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1023491~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/jackassbestandlast%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427123+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-jackass-best-and-last",
-    "title": "Jackass: Best and Last",
-    "date": "2026-07-12",
-    "time": "7:50pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1023492~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/jackassbestandlast%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427130+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-rose-of-nevada",
-    "title": "Rose Of Nevada",
-    "date": "2026-07-12",
-    "time": "1:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1023319~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theroseofnevada%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427176+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-rose-of-nevada",
-    "title": "Rose Of Nevada",
-    "date": "2026-07-12",
-    "time": "5:15pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1022486~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theroseofnevada%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427184+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-rose-of-nevada",
-    "title": "Rose Of Nevada",
-    "date": "2026-07-12",
+    "id": "michigan_theater-2026-08-12-the-boy-and-the-heron",
+    "title": "The Boy and the Heron",
+    "date": "2026-08-12",
     "time": "7:00pm",
     "venue": "Michigan Theater",
     "address": "",
@@ -410,31 +106,12 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1022487~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1015121~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theroseofnevada%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theboyandtheheron_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427193+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-07-12-seeds",
-    "title": "Seeds",
-    "date": "2026-07-12",
-    "time": "4:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1021310~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/seeds%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427235+00:00"
+    "scraped_at": "2026-07-13T08:57:32.155935+00:00"
   },
   {
     "id": "michigan_theater-2026-08-07-cat-video-fest-2026",
@@ -453,7 +130,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/catvideofest%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427369+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156009+00:00"
   },
   {
     "id": "michigan_theater-2026-08-07-piranha",
@@ -472,7 +149,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/piranha%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427413+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156037+00:00"
   },
   {
     "id": "michigan_theater-2026-08-07-sheep-in-the-box",
@@ -491,7 +168,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/sheep_in_the_box_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427455+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156065+00:00"
   },
   {
     "id": "michigan_theater-2026-08-09-cat-video-fest-2026",
@@ -510,7 +187,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/catvideofest%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427496+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156093+00:00"
   },
   {
     "id": "michigan_theater-2026-08-09-steamboat-bill-jr-1928",
@@ -529,7 +206,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/steamboatbill_1080x450.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427548+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156122+00:00"
   },
   {
     "id": "michigan_theater-2026-07-14-cozy-craft-club-charlies-angels",
@@ -548,7 +225,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/charliesangels%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427591+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156151+00:00"
   },
   {
     "id": "michigan_theater-2026-07-14-disclosure-day",
@@ -567,7 +244,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/disclosure%20day%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427631+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156178+00:00"
   },
   {
     "id": "michigan_theater-2026-07-14-evil-dead-burn",
@@ -586,7 +263,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/evildeadburn%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427672+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156204+00:00"
   },
   {
     "id": "michigan_theater-2026-07-14-the-invite",
@@ -605,7 +282,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theinvite%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427711+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156231+00:00"
   },
   {
     "id": "michigan_theater-2026-07-14-jackass-best-and-last",
@@ -624,7 +301,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/jackassbestandlast%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427751+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156258+00:00"
   },
   {
     "id": "michigan_theater-2026-07-14-the-umbrellas-of-cherbourg",
@@ -643,7 +320,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/umbrellasofcherbourg%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427793+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156286+00:00"
   },
   {
     "id": "michigan_theater-2026-07-19-cool-hand-luke",
@@ -662,7 +339,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/coolhandluke%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427865+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156336+00:00"
   },
   {
     "id": "michigan_theater-2026-07-19-the-great-muppet-caper",
@@ -681,7 +358,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/greatmuppetcaper%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427905+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156365+00:00"
   },
   {
     "id": "michigan_theater-2026-07-19-the-odyssey-on-35mm",
@@ -700,7 +377,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427946+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156394+00:00"
   },
   {
     "id": "michigan_theater-2026-07-19-the-odyssey-on-35mm",
@@ -719,7 +396,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427957+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156400+00:00"
   },
   {
     "id": "michigan_theater-2026-07-19-the-odyssey-on-35mm",
@@ -738,7 +415,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.427963+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156421+00:00"
   },
   {
     "id": "michigan_theater-2026-07-17-the-descent",
@@ -757,7 +434,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/thedescent%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428003+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156452+00:00"
   },
   {
     "id": "michigan_theater-2026-07-17-gail-daughtry-and-the-celebrity-sex-pass",
@@ -776,7 +453,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/gaildaughtry%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428049+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156481+00:00"
   },
   {
     "id": "michigan_theater-2026-07-17-the-odyssey-on-35mm",
@@ -795,7 +472,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428091+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156509+00:00"
   },
   {
     "id": "michigan_theater-2026-07-17-the-odyssey-on-35mm",
@@ -814,7 +491,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428098+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156516+00:00"
   },
   {
     "id": "michigan_theater-2026-07-15-disclosure-day",
@@ -833,7 +510,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/disclosure%20day%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428165+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156542+00:00"
   },
   {
     "id": "michigan_theater-2026-07-15-evil-dead-burn",
@@ -852,7 +529,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/evildeadburn%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428204+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156568+00:00"
   },
   {
     "id": "michigan_theater-2026-07-15-grave-of-the-fireflies",
@@ -871,7 +548,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/graveofthefireflies_1080.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428248+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156601+00:00"
   },
   {
     "id": "michigan_theater-2026-07-15-the-invite",
@@ -890,7 +567,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theinvite%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428323+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156631+00:00"
   },
   {
     "id": "michigan_theater-2026-07-16-disclosure-day",
@@ -909,7 +586,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/disclosure%20day%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428371+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156658+00:00"
   },
   {
     "id": "michigan_theater-2026-07-16-disclosure-day",
@@ -928,7 +605,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/disclosure%20day%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428383+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156664+00:00"
   },
   {
     "id": "michigan_theater-2026-07-16-evil-dead-burn",
@@ -947,7 +624,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/evildeadburn%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428426+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156692+00:00"
   },
   {
     "id": "michigan_theater-2026-07-16-evil-dead-burn",
@@ -966,7 +643,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/evildeadburn%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428432+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156698+00:00"
   },
   {
     "id": "michigan_theater-2026-07-16-the-invite",
@@ -985,7 +662,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theinvite%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428471+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156725+00:00"
   },
   {
     "id": "michigan_theater-2026-07-16-the-invite",
@@ -1004,7 +681,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theinvite%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428477+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156730+00:00"
   },
   {
     "id": "michigan_theater-2026-07-16-jackass-best-and-last",
@@ -1023,7 +700,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/jackassbestandlast%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428517+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156758+00:00"
   },
   {
     "id": "michigan_theater-2026-07-16-jackass-best-and-last",
@@ -1042,7 +719,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/jackassbestandlast%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428525+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156764+00:00"
   },
   {
     "id": "michigan_theater-2026-07-16-the-odyssey-on-35mm",
@@ -1061,7 +738,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428572+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156792+00:00"
   },
   {
     "id": "michigan_theater-2026-07-16-rose-of-nevada",
@@ -1080,7 +757,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theroseofnevada%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428612+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156818+00:00"
   },
   {
     "id": "michigan_theater-2026-08-01-fucktoys",
@@ -1099,7 +776,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/fucktoys%201080x450.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428657+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156844+00:00"
   },
   {
     "id": "michigan_theater-2026-08-01-spider-man-brand-new-day",
@@ -1118,7 +795,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/spider-man_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428699+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156874+00:00"
   },
   {
     "id": "michigan_theater-2026-08-01-spider-man-brand-new-day",
@@ -1137,7 +814,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/spider-man_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428707+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156881+00:00"
   },
   {
     "id": "michigan_theater-2026-07-26-funny-girl",
@@ -1156,7 +833,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/funnygirl%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428746+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156909+00:00"
   },
   {
     "id": "michigan_theater-2026-07-26-nyicff-kid-flicks-pride",
@@ -1175,7 +852,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/pride_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428788+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156937+00:00"
   },
   {
     "id": "michigan_theater-2026-07-26-nyicff-hola-cine",
@@ -1194,7 +871,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/holacine_1080x450%20(1)_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428832+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156969+00:00"
   },
   {
     "id": "michigan_theater-2026-07-26-nyicff-big-kid-flicks",
@@ -1213,7 +890,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/bigkidflicks_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428873+00:00"
+    "scraped_at": "2026-07-13T08:57:32.156998+00:00"
   },
   {
     "id": "michigan_theater-2026-07-26-nyicff-little-kid-flicks",
@@ -1232,7 +909,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/littlekidflicks_1080x450_thumb.png",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428914+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157025+00:00"
   },
   {
     "id": "michigan_theater-2026-07-23-hadestown-the-musical",
@@ -1251,7 +928,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/hadestown%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.428985+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157074+00:00"
   },
   {
     "id": "michigan_theater-2026-07-23-history-of-the-world-part-i",
@@ -1270,7 +947,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/historyoftheworldpart1%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429026+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157103+00:00"
   },
   {
     "id": "michigan_theater-2026-07-23-the-odyssey-on-35mm",
@@ -1289,7 +966,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429071+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157130+00:00"
   },
   {
     "id": "michigan_theater-2026-07-24-hadestown-the-musical",
@@ -1308,7 +985,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/hadestown%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429117+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157157+00:00"
   },
   {
     "id": "michigan_theater-2026-07-24-hadestown-the-musical",
@@ -1327,7 +1004,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/hadestown%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429125+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157164+00:00"
   },
   {
     "id": "michigan_theater-2026-07-24-hadestown-the-musical",
@@ -1346,7 +1023,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/hadestown%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429132+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157170+00:00"
   },
   {
     "id": "michigan_theater-2026-07-24-her-private-hell",
@@ -1365,7 +1042,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/herprivatehell%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429174+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157197+00:00"
   },
   {
     "id": "michigan_theater-2026-07-24-motor-city",
@@ -1384,7 +1061,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/motorcity%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429216+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157223+00:00"
   },
   {
     "id": "michigan_theater-2026-07-25-hadestown-the-musical",
@@ -1403,7 +1080,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/hadestown%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429283+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157250+00:00"
   },
   {
     "id": "michigan_theater-2026-07-25-hadestown-the-musical",
@@ -1422,7 +1099,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/hadestown%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429293+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157258+00:00"
   },
   {
     "id": "michigan_theater-2026-07-25-hadestown-the-musical",
@@ -1441,7 +1118,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/hadestown%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429299+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157265+00:00"
   },
   {
     "id": "michigan_theater-2026-07-31-the-hills-have-eyes",
@@ -1460,7 +1137,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/thehillshaveeyes%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429406+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157334+00:00"
   },
   {
     "id": "michigan_theater-2026-07-31-sorry-to-bother-you",
@@ -1479,7 +1156,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/sorrytobotheryou%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429454+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157361+00:00"
   },
   {
     "id": "michigan_theater-2026-07-31-spider-man-brand-new-day",
@@ -1498,7 +1175,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/spider-man_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429496+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157389+00:00"
   },
   {
     "id": "michigan_theater-2026-07-31-spider-man-brand-new-day",
@@ -1517,7 +1194,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/spider-man_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429504+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157396+00:00"
   },
   {
     "id": "michigan_theater-2026-07-31-spider-man-brand-new-day",
@@ -1536,7 +1213,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/spider-man_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429511+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157413+00:00"
   },
   {
     "id": "michigan_theater-2026-08-02-the-michigan-theater-community-film-club-animation-august",
@@ -1555,7 +1232,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/animation%20august%20-%20film%20club%20banner%20(1)_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429809+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157629+00:00"
   },
   {
     "id": "michigan_theater-2026-08-02-network",
@@ -1574,7 +1251,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/network%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429849+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157657+00:00"
   },
   {
     "id": "michigan_theater-2026-08-02-spider-man-brand-new-day",
@@ -1593,7 +1270,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/spider-man_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429890+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157686+00:00"
   },
   {
     "id": "michigan_theater-2026-08-02-spider-man-brand-new-day",
@@ -1612,7 +1289,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/spider-man_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.429898+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157693+00:00"
   },
   {
     "id": "michigan_theater-2026-07-21-new-york-new-york",
@@ -1631,7 +1308,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/newyorknewyork%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430022+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157780+00:00"
   },
   {
     "id": "michigan_theater-2026-07-21-the-odyssey-on-35mm",
@@ -1650,7 +1327,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430062+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157807+00:00"
   },
   {
     "id": "michigan_theater-2026-07-21-the-odyssey-on-35mm",
@@ -1669,7 +1346,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430073+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157813+00:00"
   },
   {
     "id": "michigan_theater-2026-07-18-the-odyssey-on-35mm",
@@ -1688,7 +1365,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430143+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157861+00:00"
   },
   {
     "id": "michigan_theater-2026-07-18-the-odyssey-on-35mm",
@@ -1707,7 +1384,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430151+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157867+00:00"
   },
   {
     "id": "michigan_theater-2026-07-22-the-odyssey-on-35mm",
@@ -1726,7 +1403,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theodyssey%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430190+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157896+00:00"
   },
   {
     "id": "michigan_theater-2026-07-22-spirited-away",
@@ -1745,7 +1422,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/spirited-1080_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430230+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157923+00:00"
   },
   {
     "id": "michigan_theater-2026-08-11-the-player",
@@ -1764,7 +1441,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/theplayer%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430291+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157949+00:00"
   },
   {
     "id": "michigan_theater-2026-08-05-ponyo",
@@ -1783,7 +1460,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/ponyo%201080%20x%20450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430335+00:00"
+    "scraped_at": "2026-07-13T08:57:32.157975+00:00"
   },
   {
     "id": "michigan_theater-2026-07-29-princess-mononoke",
@@ -1802,7 +1479,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/princessmononoke_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430376+00:00"
+    "scraped_at": "2026-07-13T08:57:32.158001+00:00"
   },
   {
     "id": "michigan_theater-2026-08-06-spaceballs",
@@ -1821,7 +1498,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/spaceballs_1080_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430505+00:00"
+    "scraped_at": "2026-07-13T08:57:32.158087+00:00"
   },
   {
     "id": "michigan_theater-2026-07-30-spider-man-brand-new-day",
@@ -1840,7 +1517,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/spider-man_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430547+00:00"
+    "scraped_at": "2026-07-13T08:57:32.158115+00:00"
   },
   {
     "id": "michigan_theater-2026-07-20-yfc-2026-session-3-post-production-1-week",
@@ -1859,6 +1536,6 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/MT_3768/filmcampstill_postproduction_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-07-12T08:07:31.430891+00:00"
+    "scraped_at": "2026-07-13T08:57:32.158362+00:00"
   }
 ]
