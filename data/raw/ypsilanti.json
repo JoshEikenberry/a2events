@@ -1,41 +1,5 @@
 [
   {
-    "id": "ypsilanti-2026-07-30-administrative-hearings-bureau",
-    "title": "Administrative Hearings Bureau",
-    "date": "2026-07-30",
-    "time": "9:00 AM\u2009-\u200912:00 PM",
-    "venue": "City Hall",
-    "address": "",
-    "category": "ypsilanti",
-    "tags": [
-      "public_meeting"
-    ],
-    "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4811&month=7&year=2026&day=30&calType=0",
-    "source": "ypsilanti",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:18.417936+00:00"
-  },
-  {
-    "id": "ypsilanti-2026-07-30-early-voting",
-    "title": "Early Voting",
-    "date": "2026-07-30",
-    "time": "8:00 AM\u2009-\u20096:00 PM",
-    "venue": "Freighthouse",
-    "address": "",
-    "category": "ypsilanti",
-    "tags": [],
-    "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=3760&month=7&year=2026&day=30&calType=0",
-    "source": "ypsilanti",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:18.418244+00:00"
-  },
-  {
     "id": "ypsilanti-2026-07-31-early-voting",
     "title": "Early Voting",
     "date": "2026-07-31",
@@ -45,11 +9,11 @@
     "category": "ypsilanti",
     "tags": [],
     "description": "",
-    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=3761&month=7&year=2026&day=30&calType=0",
+    "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=3761&month=7&year=2026&day=31&calType=0",
     "source": "ypsilanti",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:18.418580+00:00"
+    "scraped_at": "2026-07-31T08:40:59.503513+00:00"
   }
 ]

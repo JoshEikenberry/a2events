@@ -1,9 +1,28 @@
 [
   {
-    "id": "observer-2026-07-30-cavanaugh-lake-ride-ann-arbor-bicycle-touring-society",
-    "title": "\u201cCavanaugh Lake Ride\u201d: Ann Arbor Bicycle Touring Society",
-    "date": "2026-07-30",
-    "time": "8:00  am",
+    "id": "observer-2026-07-31-birds-brews-brightworks-coworking",
+    "title": "Birds & Brews: BrightWorks Coworking",
+    "date": "2026-07-31",
+    "time": "8:00  am-9:00  am",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "community_listing"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/birds-brews/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.665850+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-dressage-shows-waterloo-hunt-club",
+    "title": "Dressage Shows: Waterloo Hunt Club",
+    "date": "2026-07-31",
+    "time": "8:00  am-5:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -11,17 +30,74 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/cavanaugh-lake-ride-ann-arbor-bicycle-touring-society-18/",
+    "url": "https://annarborobserver.com/mc-events/dressage-shows-waterloo-hunt-club-8/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.836685+00:00"
+    "scraped_at": "2026-07-31T08:40:48.666538+00:00"
   },
   {
-    "id": "observer-2026-07-30-investigate-labs-u-m-museum-of-natural-history",
+    "id": "observer-2026-07-31-joes-breakfast-club-ann-arbor-bicycle-touring-society",
+    "title": "\u201cJoe\u2019s Breakfast Club\u201d: Ann Arbor Bicycle Touring Society",
+    "date": "2026-07-31",
+    "time": "9:00  am",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/joes-breakfast-club-ann-arbor-bicycle-touring-society-14/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.667051+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-olson-park-gravel-ride-ann-arbor-bicycle-touring-society",
+    "title": "\u201cOlson Park Gravel Ride\u201d: Ann Arbor Bicycle Touring Society",
+    "date": "2026-07-31",
+    "time": "9:00  am",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/olson-park-gravel-ride-ann-arbor-bicycle-touring-society-5/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.667551+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-equestrian-competition-cobblestone-farms-at-revel-run",
+    "title": "Equestrian Competition: Cobblestone Farms at Revel Run",
+    "date": "2026-07-31",
+    "time": "9:00  am-5:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/equestrian-competition-cobblestone-farms-at-revel-run-3/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.668172+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-investigate-labs-u-m-museum-of-natural-history",
     "title": "\u201cInvestigate Labs\u201d: U-M Museum of Natural History",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "time": "11:00  am-3:00  pm",
     "venue": "",
     "address": "",
@@ -30,18 +106,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/investigate-labs-u-m-museum-of-natural-history-209/",
+    "url": "https://annarborobserver.com/mc-events/investigate-labs-u-m-museum-of-natural-history-210/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.837199+00:00"
+    "scraped_at": "2026-07-31T08:40:48.668782+00:00"
   },
   {
-    "id": "observer-2026-07-30-sonic-lunch-bank-of-ann-arbor",
-    "title": "Sonic Lunch: Bank of Ann Arbor",
-    "date": "2026-07-30",
-    "time": "11:30  am-1:30  pm",
+    "id": "observer-2026-07-31-foodie-fridays-washtenaw-county-parks-recreation-commission",
+    "title": "Foodie Fridays: Washtenaw County Parks & Recreation Commission",
+    "date": "2026-07-31",
+    "time": "11:00  am-7:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -49,18 +125,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/sonic-lunch-bank-of-ann-arbor-9/",
+    "url": "https://annarborobserver.com/mc-events/foodie-fridays-washtenaw-county-parks-recreation-commission-12/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.837662+00:00"
+    "scraped_at": "2026-07-31T08:40:48.669360+00:00"
   },
   {
-    "id": "observer-2026-07-30-duplicate-bridge-ann-arbor-senior-center",
-    "title": "Duplicate Bridge: Ann Arbor Senior Center",
-    "date": "2026-07-30",
-    "time": "12:00  pm-3:30  pm",
+    "id": "observer-2026-07-31-chime-concert-kerrytown-market-shops",
+    "title": "Chime Concert: Kerrytown Market & Shops",
+    "date": "2026-07-31",
+    "time": "12:00  pm-12:30  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -68,17 +144,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/duplicate-bridge-ann-arbor-senior-center-34/",
+    "url": "https://annarborobserver.com/mc-events/chime-concert-kerrytown-market-shops-81/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.838179+00:00"
+    "scraped_at": "2026-07-31T08:40:48.669976+00:00"
   },
   {
-    "id": "observer-2026-07-30-outdoor-gallery-and-sculpture-garden-stephenson-ceramics",
+    "id": "observer-2026-07-31-outdoor-gallery-and-sculpture-garden-stephenson-ceramics",
     "title": "Outdoor Gallery and Sculpture Garden: Stephenson Ceramics",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "time": "12:00  pm-4:00  pm",
     "venue": "",
     "address": "",
@@ -87,17 +163,17 @@
       "community_listing"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/outdoor-gallery-and-sculpture-garden-stephenson-ceramics-19/",
+    "url": "https://annarborobserver.com/mc-events/outdoor-gallery-and-sculpture-garden-stephenson-ceramics-20/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.838698+00:00"
+    "scraped_at": "2026-07-31T08:40:48.670665+00:00"
   },
   {
-    "id": "observer-2026-07-30-u-m-museum-of-natural-history-planetarium-dome-theater",
+    "id": "observer-2026-07-31-u-m-museum-of-natural-history-planetarium-dome-theater",
     "title": "U-M Museum of Natural History Planetarium & Dome Theater",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "time": "12:00  pm-3:00  pm",
     "venue": "",
     "address": "",
@@ -106,17 +182,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/u-m-museum-of-natural-history-planetarium-dome-theater-91/",
+    "url": "https://annarborobserver.com/mc-events/u-m-museum-of-natural-history-planetarium-dome-theater-92/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.839231+00:00"
+    "scraped_at": "2026-07-31T08:40:48.671340+00:00"
   },
   {
-    "id": "observer-2026-07-30-duplicate-bridge-ann-arbor-city-club",
+    "id": "observer-2026-07-31-duplicate-bridge-ann-arbor-city-club",
     "title": "Duplicate Bridge: Ann Arbor City Club",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "time": "1:00  pm-4:00  pm",
     "venue": "",
     "address": "",
@@ -125,17 +201,55 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/duplicate-bridge-ann-arbor-city-club-85/",
+    "url": "https://annarborobserver.com/mc-events/duplicate-bridge-ann-arbor-city-club-86/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.839736+00:00"
+    "scraped_at": "2026-07-31T08:40:48.672006+00:00"
   },
   {
-    "id": "observer-2026-07-30-emmas-weddings-purple-rose-theatre-company",
-    "title": "\u201cEmma\u2019s Wedding(s)\u201d: Purple Rose Theatre Company",
-    "date": "2026-07-30",
+    "id": "observer-2026-07-31-principles-of-tai-chi-movement-support-back-leg-strength-for-better-balance-imagine-fitness-and-yoga",
+    "title": "Principles of Tai Chi Movement: Support Back & Leg Strength for better balance: Imagine Fitness and Yoga",
+    "date": "2026-07-31",
+    "time": "1:00  pm-2:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "community_listing"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/principles-of-tai-chi-movement-support-back-leg-strength-for-better-balance-2/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.672677+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-glitter-pictures-ann-arbor-district-library",
+    "title": "\u201cGlitter Pictures\u201d: Ann Arbor District Library",
+    "date": "2026-07-31",
+    "time": "3:00  pm-4:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/glitter-pictures-ann-arbor-district-library/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.673266+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-6th-annual-river-rhythm-music-arts-festival",
+    "title": "6th Annual River Rhythm Music & Arts Festival.",
+    "date": "2026-07-31",
     "time": "3:00  pm",
     "venue": "",
     "address": "",
@@ -144,18 +258,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/emmas-weddings-purple-rose-theatre-company-35/",
+    "url": "https://annarborobserver.com/mc-events/6th-annual-river-rhythm-music-arts-festival/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.840201+00:00"
+    "scraped_at": "2026-07-31T08:40:48.673864+00:00"
   },
   {
-    "id": "observer-2026-07-30-a2-summer-streets-music-series-main-street-area-association",
-    "title": "A2 Summer Streets Music Series: Main Street Area Association",
-    "date": "2026-07-30",
-    "time": "4:00  pm",
+    "id": "observer-2026-07-31-u-m-clements-library-tour",
+    "title": "U-M Clements Library Tour",
+    "date": "2026-07-31",
+    "time": "4:00  pm-5:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -163,18 +277,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/a2-summer-streets-music-series-main-street-area-association-22/",
+    "url": "https://annarborobserver.com/mc-events/u-m-clements-library-tour-6/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.840602+00:00"
+    "scraped_at": "2026-07-31T08:40:48.674454+00:00"
   },
   {
-    "id": "observer-2026-07-30-gallery-night-kerrytown-area-galleries-and-businesses",
-    "title": "\u201cGallery Night\u201d: Kerrytown Area Galleries and Businesses",
-    "date": "2026-07-30",
-    "time": "5:00  pm-8:00  pm",
+    "id": "observer-2026-07-31-ann-arbor-taco-fest",
+    "title": "Ann Arbor Taco Fest",
+    "date": "2026-07-31",
+    "time": "5:00  pm-10:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -182,18 +296,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/gallery-night-kerrytown-area-galleries-and-businesses/",
+    "url": "https://annarborobserver.com/mc-events/ann-arbor-taco-fest/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.841162+00:00"
+    "scraped_at": "2026-07-31T08:40:48.675141+00:00"
   },
   {
-    "id": "observer-2026-07-30-open-lab-ann-arbor-district-library",
-    "title": "Open Lab: Ann Arbor District Library",
-    "date": "2026-07-30",
-    "time": "5:00  pm-7:30  pm",
+    "id": "observer-2026-07-31-creative-pours-ann-arbor-art-center",
+    "title": "\u201cCreative Pours\u201d: Ann Arbor Art Center",
+    "date": "2026-07-31",
+    "time": "5:30  pm-7:30  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -201,37 +315,37 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/open-lab-ann-arbor-district-library-19/",
+    "url": "https://annarborobserver.com/mc-events/creative-pours-ann-arbor-art-center/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.841661+00:00"
+    "scraped_at": "2026-07-31T08:40:48.675815+00:00"
   },
   {
-    "id": "observer-2026-07-30-depot-town-cruise-nights-ypsilanti-auto-museum",
-    "title": "Depot Town Cruise Nights: Ypsilanti Auto Museum",
-    "date": "2026-07-30",
+    "id": "observer-2026-07-31-friday-night-live-music-at-lake-forest-golf-club-lake-forest-golf-club",
+    "title": "Friday Night Live Music at Lake Forest Golf Club: Lake Forest Golf Club",
+    "date": "2026-07-31",
     "time": "5:30  pm-8:30  pm",
     "venue": "",
     "address": "",
     "category": "community",
     "tags": [
-      "observer_editor"
+      "community_listing"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/depot-town-cruise-nights-ypsilanti-auto-museum-9/",
+    "url": "https://annarborobserver.com/mc-events/friday-night-live-music-at-lake-forest-golf-club-4/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.842159+00:00"
+    "scraped_at": "2026-07-31T08:40:48.676503+00:00"
   },
   {
-    "id": "observer-2026-07-30-hills-of-ann-arbor-ann-arbor-bicycle-touring-society",
-    "title": "\u201cHills of Ann Arbor\u201d: Ann Arbor Bicycle Touring Society",
-    "date": "2026-07-30",
-    "time": "6:00  pm",
+    "id": "observer-2026-07-31-community-craft-night-ann-arbor-district-library-2026-big-gay-read",
+    "title": "\u201cCommunity Craft Night\u201d: Ann Arbor District Library 2026 Big Gay Read",
+    "date": "2026-07-31",
+    "time": "6:00  pm-7:30  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -239,18 +353,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/hills-of-ann-arbor-ann-arbor-bicycle-touring-society-19/",
+    "url": "https://annarborobserver.com/mc-events/community-craft-night-ann-arbor-district-library-2026-big-gay-read/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.842565+00:00"
+    "scraped_at": "2026-07-31T08:40:48.677090+00:00"
   },
   {
-    "id": "observer-2026-07-30-repairsday-thursday-all-hands-active",
-    "title": "\u201cRepairsday Thursday\u201d: All Hands Active",
-    "date": "2026-07-30",
-    "time": "6:00  pm-8:00  pm",
+    "id": "observer-2026-07-31-dd-adventurers-league-sylvan-factory",
+    "title": "D&D Adventurers League: Sylvan Factory",
+    "date": "2026-07-31",
+    "time": "6:00  pm-10:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -258,18 +372,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/repairsday-thursday-all-hands-active-28/",
+    "url": "https://annarborobserver.com/mc-events/dd-adventurers-league-sylvan-factory-29/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.843071+00:00"
+    "scraped_at": "2026-07-31T08:40:48.677749+00:00"
   },
   {
-    "id": "observer-2026-07-30-aim-high-flyers-ann-arbor-district-library",
-    "title": "AIM High Flyers: Ann Arbor District Library",
-    "date": "2026-07-30",
-    "time": "6:00  pm-7:00  pm",
+    "id": "observer-2026-07-31-magic-the-gathering-mtg-sylvan-factory",
+    "title": "Magic: The Gathering (MTG): Sylvan Factory",
+    "date": "2026-07-31",
+    "time": "6:30  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -277,18 +391,18 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/aim-high-flyers-ann-arbor-district-library/",
+    "url": "https://annarborobserver.com/mc-events/magic-the-gathering-mtg-sylvan-factory-43/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.843541+00:00"
+    "scraped_at": "2026-07-31T08:40:48.678343+00:00"
   },
   {
-    "id": "observer-2026-07-30-bad-decisions-track-club",
-    "title": "Bad Decisions Track Club",
-    "date": "2026-07-30",
-    "time": "6:00  pm",
+    "id": "observer-2026-07-31-music-in-the-park-dexter-area-chamber-of-commerce",
+    "title": "Music in the Park: Dexter Area Chamber of Commerce",
+    "date": "2026-07-31",
+    "time": "6:30  pm-9:00  pm",
     "venue": "",
     "address": "",
     "category": "community",
@@ -296,55 +410,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/bad-decisions-track-club-24/",
+    "url": "https://annarborobserver.com/mc-events/music-in-the-park-dexter-area-chamber-of-commerce-10/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.843933+00:00"
+    "scraped_at": "2026-07-31T08:40:48.678937+00:00"
   },
   {
-    "id": "observer-2026-07-30-group-runs-ann-arbor-running-company-aarc",
-    "title": "Group Runs: Ann Arbor Running Company (AARC)",
-    "date": "2026-07-30",
-    "time": "6:00  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/group-runs-ann-arbor-running-company-aarc-100/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.844312+00:00"
-  },
-  {
-    "id": "observer-2026-07-30-sounds-sights-on-thursday-nights-chelsea-area-festivals-events",
-    "title": "\u201cSounds & Sights on Thursday Nights\u201d: Chelsea Area Festivals & Events",
-    "date": "2026-07-30",
-    "time": "6:30  pm-8:30  pm",
-    "venue": "",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "observer_editor"
-    ],
-    "description": "",
-    "url": "https://annarborobserver.com/mc-events/sounds-sights-on-thursday-nights-chelsea-area-festivals-events-10/",
-    "source": "observer",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.844767+00:00"
-  },
-  {
-    "id": "observer-2026-07-30-salty-summer-sounds-live-music-series-saline-main-street",
-    "title": "\u201cSalty Summer Sounds Live Music Series\u201d: Saline Main Street",
-    "date": "2026-07-30",
+    "id": "observer-2026-07-31-music-discovery-night-all-hands-active",
+    "title": "\u201cMusic Discovery Night\u201d: All Hands Active",
+    "date": "2026-07-31",
     "time": "7:00  pm-9:00  pm",
     "venue": "",
     "address": "",
@@ -353,17 +429,36 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/salty-summer-sounds-live-music-series-saline-main-street-6/",
+    "url": "https://annarborobserver.com/mc-events/music-discovery-night-all-hands-active-4/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.845240+00:00"
+    "scraped_at": "2026-07-31T08:40:48.679560+00:00"
   },
   {
-    "id": "observer-2026-07-30-the-sound-of-music-father-gabriel-richard-high-school-dramalums",
+    "id": "observer-2026-07-31-sorry-to-bother-you-michigan-theater",
+    "title": "\u201cSorry to Bother You\u201d: Michigan Theater",
+    "date": "2026-07-31",
+    "time": "7:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/sorry-to-bother-you-michigan-theater/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.680115+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-the-sound-of-music-father-gabriel-richard-high-school-dramalums",
     "title": "\u201cThe Sound of Music\u201d: Father Gabriel Richard High School Dramalums",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "time": "7:00  pm",
     "venue": "",
     "address": "",
@@ -372,17 +467,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/the-sound-of-music-father-gabriel-richard-high-school-dramalums/",
+    "url": "https://annarborobserver.com/mc-events/the-sound-of-music-father-gabriel-richard-high-school-dramalums-2/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.845670+00:00"
+    "scraped_at": "2026-07-31T08:40:48.680673+00:00"
   },
   {
-    "id": "observer-2026-07-30-live-trivia-bl\u00f8m-mead-cider",
-    "title": "Live Trivia: Bl\u00f8m Mead + Cider",
-    "date": "2026-07-30",
+    "id": "observer-2026-07-31-john-e-lawrence-summer-jazz-concert-series",
+    "title": "John E. Lawrence Summer Jazz Concert Series",
+    "date": "2026-07-31",
     "time": "7:00  pm",
     "venue": "",
     "address": "",
@@ -391,17 +486,17 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/live-trivia-blom-mead-cider-51/",
+    "url": "https://annarborobserver.com/mc-events/john-e-lawrence-summer-jazz-concert-series/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.846118+00:00"
+    "scraped_at": "2026-07-31T08:40:48.681226+00:00"
   },
   {
-    "id": "observer-2026-07-30-comedy-jamm-ann-arbor-comedy-showcase",
-    "title": "\u201cComedy Jamm\u201d: Ann Arbor Comedy Showcase",
-    "date": "2026-07-30",
+    "id": "observer-2026-07-31-drew-thomas-ann-arbor-comedy-showcase",
+    "title": "Drew Thomas: Ann Arbor Comedy Showcase",
+    "date": "2026-07-31",
     "time": "7:15  pm",
     "venue": "",
     "address": "",
@@ -410,11 +505,106 @@
       "observer_editor"
     ],
     "description": "",
-    "url": "https://annarborobserver.com/mc-events/comedy-jamm-ann-arbor-comedy-showcase-23/",
+    "url": "https://annarborobserver.com/mc-events/drew-thomas-ann-arbor-comedy-showcase/",
     "source": "observer",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-07-30T08:14:08.846543+00:00"
+    "scraped_at": "2026-07-31T08:40:48.681785+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-cluster-film-series-haptic-visions-film-shorts-cluster-museum",
+    "title": "Cluster Film Series: Haptic Visions (Film Shorts): Cluster Museum",
+    "date": "2026-07-31",
+    "time": "7:30  pm-9:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "community_listing"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/cluster-film-series-haptic-visions-film-shorts/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.682425+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-friday-night-improv-hearsay-brewing-theater",
+    "title": "Friday Night Improv: Hear.Say Brewing + Theater",
+    "date": "2026-07-31",
+    "time": "7:30  pm-9:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/friday-night-improv-hear-say-brewing-theater-21/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.683090+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-athena-theatre-nova",
+    "title": "\u201cAthena\u201d: Theatre Nova",
+    "date": "2026-07-31",
+    "time": "8:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/athena-theatre-nova-9/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.683649+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-emmas-weddings-purple-rose-theatre-company",
+    "title": "\u201cEmma\u2019s Wedding(s)\u201d: Purple Rose Theatre Company",
+    "date": "2026-07-31",
+    "time": "8:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/emmas-weddings-purple-rose-theatre-company-37/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.684196+00:00"
+  },
+  {
+    "id": "observer-2026-07-31-jennifer-westwood-the-handsome-devils-rancho-tranquilico",
+    "title": "Jennifer Westwood & the Handsome Devils: Rancho Tranquilico",
+    "date": "2026-07-31",
+    "time": "8:00  pm",
+    "venue": "",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "observer_editor"
+    ],
+    "description": "",
+    "url": "https://annarborobserver.com/mc-events/jennifer-westwood-the-handsome-devils-rancho-tranquilico/",
+    "source": "observer",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-07-31T08:40:48.684744+00:00"
   }
 ]
