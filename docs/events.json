@@ -1,361 +1,7 @@
 {
-  "generated_at": "2026-08-09T06:45:07.370487+00:00",
-  "event_count": 463,
+  "generated_at": "2026-08-10T07:20:45.633479+00:00",
+  "event_count": 458,
   "events": [
-    {
-      "id": "city_ann_arbor-2026-08-09-volunteers-needed-rain-garden-aquatic-planting-day",
-      "title": "Volunteers needed: Rain Garden Aquatic Planting Day",
-      "date": "2026-08-09",
-      "time": "10:00 AM",
-      "venue": "",
-      "address": "",
-      "category": "city_ann_arbor",
-      "tags": [],
-      "description": "Join us for this planting workday where we will be adding native plants to the pond in West Park. We plan to plant along the shoreline and within the bottom of the pond. We&#8217;ll use a new, fun way of planting aquatic plants where we wrap the roots of the plant with a biodegradable sack holding a rock and then toss the plant into the water. The rock will let the roots sink down where it will take root. Bring sturdy boots or tall rubber boots, if you have them, but we will be able to plant by standing on dry land.&#160; Register here:&#160;<a href=\"https://cityofannarbor.volunteerhub.com/vv2/event/e9c1166a-a7c4-4ad0-87d4-a4838760814d\" target=\"_blank\" rel=\"noopener\">https://cityofannarbor.volunteerhub.com/vv2/event/e9c1166a-a7c4-4ad0-87d4-a4838760814d</a>",
-      "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D199965490",
-      "source": "city_ann_arbor",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.543488+00:00"
-    },
-    {
-      "id": "city_ann_arbor-2026-08-09-west-park-rain-garden-aquatic-planting",
-      "title": "West Park Rain Garden Aquatic Planting",
-      "date": "2026-08-09",
-      "time": "10:00 AM",
-      "venue": "",
-      "address": "",
-      "category": "city_ann_arbor",
-      "tags": [],
-      "description": "Join us for this planting workday where we will be adding native plants to the pond in West Park. We plan to plant along the shoreline and within the bottom of the pond. We&#8217;ll use a new, fun way of planting aquatic plants where we wrap the roots of the plant with a biodegradable sack holding a rock and then toss the plant into the water. The rock will let the roots sink down where it will take root. Bring sturdy boots or tall rubber boots, if you have them, but we will be able to plant by standing on dry land.&#160;&#160;Register here: <a href=\"https://cityofannarbor.volunteerhub.com/vv2/event/e9c1166a-a7c4-4ad0-87d4-a4838760814d\" target=\"_blank\" rel=\"noopener\">https://cityofannarbor.volunteerhub.com/vv2/event/e9c1166a-a7c4-4ad0-87d4-a4838760814d</a>",
-      "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D205226578",
-      "source": "city_ann_arbor",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.543558+00:00"
-    },
-    {
-      "id": "aadl-2026-08-09-spy-academy",
-      "title": "Spy Academy!",
-      "date": "2026-08-09",
-      "time": "12:00 PM",
-      "venue": "Malletts Creek Branch: Program Room Grade K\u20135",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "crafts"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/668224",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.275264+00:00"
-    },
-    {
-      "id": "aadl-2026-08-09-make-your-own-flag",
-      "title": "Make Your Own Flag",
-      "date": "2026-08-09",
-      "time": "12:00 PM",
-      "venue": "Pittsfield Branch: Program Room Grade K\u20135",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "crafts"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/668659",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.275546+00:00"
-    },
-    {
-      "id": "aadl-2026-08-09-arts-crafts-supply-swap",
-      "title": "Arts & Crafts Supply Swap",
-      "date": "2026-08-09",
-      "time": "12:00 PM",
-      "venue": "Downtown Library: Lower Level Program Room Preschool\u2013Adult",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "crafts"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/664499",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.275801+00:00"
-    },
-    {
-      "id": "detroit_street_filling-2026-08-09-agawdilim",
-      "title": "AgawDilim",
-      "date": "2026-08-09",
-      "time": "1:00 AM",
-      "venue": "Detroit Street Filling Station / North Star Lounge",
-      "address": "",
-      "category": "arts_culture",
-      "tags": [
-        "music"
-      ],
-      "description": "",
-      "url": "https://www.nstarlounge.com/events/agawdilim8-8",
-      "source": "detroit_street_filling",
-      "also_listed_at": [],
-      "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1782684799198-ATZCYAQF1TZ12X435H8P/ADSC_0276.jpg",
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854433+00:00"
-    },
-    {
-      "id": "aadl-2026-08-09-chesstastic",
-      "title": "Chesstastic",
-      "date": "2026-08-09",
-      "time": "1:00 PM",
-      "venue": "Traverwood Branch: Program Room Grade K\u2013Adult",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "public_event"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/665645",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.276018+00:00"
-    },
-    {
-      "id": "michigan_theater-2026-08-09-steamboat-bill-jr-1928",
-      "title": "Steamboat Bill, Jr. (1928)",
-      "date": "2026-08-09",
-      "time": "1:30pm",
-      "venue": "Michigan Theater",
-      "address": "",
-      "category": "arts_culture",
-      "tags": [
-        "film"
-      ],
-      "description": "",
-      "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1023781~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-      "source": "michigan_theater",
-      "also_listed_at": [],
-      "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/steamboatbill_1080x450.jpg",
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190115+00:00"
-    },
-    {
-      "id": "michigan_theater-2026-08-09-cookie-queens",
-      "title": "Cookie Queens",
-      "date": "2026-08-09",
-      "time": "2:00pm",
-      "venue": "State Theatre",
-      "address": "",
-      "category": "arts_culture",
-      "tags": [
-        "film"
-      ],
-      "description": "",
-      "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1028364~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-      "source": "michigan_theater",
-      "also_listed_at": [],
-      "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/cookiequeens%201080x450_thumb.jpg",
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189843+00:00"
-    },
-    {
-      "id": "aadl-2026-08-09-drag-bingo",
-      "title": "Drag Bingo",
-      "date": "2026-08-09",
-      "time": "3:00 PM",
-      "venue": "Downtown Library: 4th Floor Program Room All Ages",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "public_event"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/665899",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.276229+00:00"
-    },
-    {
-      "id": "aadl-2026-08-09-underwater-landscape-in-a-jar",
-      "title": "Underwater Landscape in a Jar",
-      "date": "2026-08-09",
-      "time": "3:00 PM",
-      "venue": "Downtown Library: Secret Lab",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "crafts"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/668330",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.276460+00:00"
-    },
-    {
-      "id": "michigan_theater-2026-08-09-cat-video-fest-2026",
-      "title": "Cat Video Fest 2026",
-      "date": "2026-08-09",
-      "time": "4:00pm",
-      "venue": "Michigan Theater",
-      "address": "",
-      "category": "arts_culture",
-      "tags": [
-        "film"
-      ],
-      "description": "",
-      "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1019857~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-      "source": "michigan_theater",
-      "also_listed_at": [],
-      "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/catvideofest%201080x450_thumb.jpg",
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189810+00:00"
-    },
-    {
-      "id": "michigan_theater-2026-08-09-ice-cream-man",
-      "title": "Ice Cream Man",
-      "date": "2026-08-09",
-      "time": "4:45pm",
-      "venue": "State Theatre",
-      "address": "",
-      "category": "arts_culture",
-      "tags": [
-        "film"
-      ],
-      "description": "",
-      "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1028370~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-      "source": "michigan_theater",
-      "also_listed_at": [],
-      "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/icecreamman%201080x450_thumb.jpg",
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189911+00:00"
-    },
-    {
-      "id": "blue_llama-2026-08-09-jordan-anderson-trio",
-      "title": "Jordan Anderson Trio",
-      "date": "2026-08-09",
-      "time": "6:00 PM",
-      "venue": "Blue Llama Jazz Club",
-      "address": "",
-      "category": "arts_culture",
-      "tags": [
-        "music",
-        "jazz"
-      ],
-      "description": "Sun | Aug 9\t\n\n\tSets 6pm and 7:30pm | $25 Cover \n\t\t\t\n\t\t\t\t\t\t\tRESERVE TABLE\n\t\t\t\t\t\n\t\t\t\n\n\t\t\tAbout the Artist\t\n\tKnown for his dynamic bandstand presence and creative approach to improvisation, Jordan Anderson is a musical force of his generation. Born in Minneapolis, Minnesota, Jordan began piano lessons at the age of 7 and by his early teens he sought tutelage from some of Twin Cities\u2019 leading voices in Black American Music, most notably Detroit\u2019s own Solomon Parham. He took his talents to the University of Michigan, furthering his pianistic skills Benny Green and Andy Milne. After completing his Masters of Fine Arts in jazz studies at Michigan State University, Jordan moved to Detroit where he can be found performing in a variety of styles ranging from straight-ahead jazz to house and hip-hop. \nHe is a frequent member of groups led by notable Detroit musicians such as Vincent Chandler, Allen Dennard, Russ Macklem, and Kasan Belgrave to name a few. Within these ensembles, Jordan can be found playing piano, keyboards, synth bass and organ. In October 2024, Jordan recorded his debut record \u2013 a trio project of straight-ahead and contemporary original material. The album is set for\nrelease in spring 2025. Jordan was a winner of the Rubato International Piano Competition in August 2023.\nHe is also a prolific educator in Michigan and had the distinct honor of holding the jazz piano chair for Interlochen\u2019s summer jazz camp in 2022 and 2023. Most recently, Jordan has been selected as a mentor-fellow for Stanford\u2019s summer jazz workshop 2024-2025. \n\n\t\t\t\t\n\t\n\t\t\t\n\t\t\t\t\t\t\tRESERVE TABLE",
-      "url": "https://bluellamaclub.com/event/jordan-anderson-trio-2/",
-      "source": "blue_llama",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.588896+00:00"
-    },
-    {
-      "id": "michigan_theater-2026-08-09-a-sad-and-beautiful-world",
-      "title": "A Sad and Beautiful World",
-      "date": "2026-08-09",
-      "time": "6:00pm",
-      "venue": "Michigan Theater",
-      "address": "",
-      "category": "arts_culture",
-      "tags": [
-        "film"
-      ],
-      "description": "",
-      "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1025582~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-      "source": "michigan_theater",
-      "also_listed_at": [],
-      "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/asadandbeautifulworld%201080x450_thumb.jpg",
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189986+00:00"
-    },
-    {
-      "id": "ark-2026-08-09-north-ingalls-and-ananda-murari",
-      "title": "North Ingalls and Ananda Murari",
-      "date": "2026-08-09",
-      "time": "7:30 PM",
-      "venue": "The Ark, 316 S. Main, Ann Arbor, MI, 48104, United States",
-      "address": "",
-      "category": "arts_culture",
-      "tags": [
-        "music"
-      ],
-      "description": "Ticket prices on our website reflect all-in pricing for purchases made online or by phone.\u00a0 This means the price you see includes the ticket price plus MUTO\u2019s ticket processing fee. Tickets may be purchased with no included fees in person at The Ark during box office hours. \nNorth Ingalls is a four-piece indie folk-groove sound. All members of North Ingalls hail from the University of Michigan (Go Blue!) and met through the School of Music. \nThe members of North Ingalls enjoy blending various genres to fuel their unique sound. With folk at the forefront, it is mixed in with jazz, R&B, and rock to create the music you hear from them today. They are constantly expanding their ears, finding new music and new sounds to draw inspiration from to feed their passion. \nThe theme of love is at the heart of their music, with tunes that touch upon the ups and downs of relationships, friendships, and kinships. The band has gained a devoted following for its deeply honest and detailed narrative lyrics that explore the raw feelings and experiences that arise between two connected hearts. Brought to life by emotionally raw vocals and a rich, full-bodied sound, North Ingalls\u2019 original music strikes a compelling chord with every generation. \nAnanda Murari is a Southeast Michigan artist creating eclectic devotional folk shaped by a decade of monastic living. After spending years immersed in spiritual study and simple living, he returned to songwriting with a renewed sense of wonder\u2014carrying the quiet clarity of the forest, the humility of service, and the soft ache of becoming human again. \nDrawing from folk, jazz, and Indian tribal traditions, Ananda\u2019s music blends storytelling, fables, and philosophical reflections into a sound that feels both earthy and transcendent. His songs explore life\u2019s intimate truths\u2014the winding road of love, the struggle of the heart, the slow work of self-discovery, and the strange beauty in being broken open. \nWith roots in devotional tradition and a voice shaped by forests, philosophy, and lived experience, Ananda crafts folk music meant for seekers\u2014songs for anyone walking the long road home.",
-      "url": "https://theark.org/event/north-ingalls-and-ananda-murari/",
-      "source": "ark",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.807726+00:00"
-    },
-    {
-      "id": "michigan_theater-2026-08-09-i-want-your-sex",
-      "title": "I Want Your Sex",
-      "date": "2026-08-09",
-      "time": "7:40pm",
-      "venue": "State Theatre",
-      "address": "",
-      "category": "arts_culture",
-      "tags": [
-        "film"
-      ],
-      "description": "",
-      "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1027719~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-      "source": "michigan_theater",
-      "also_listed_at": [],
-      "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iwantyoursex%201080x450_thumb.jpg",
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189878+00:00"
-    },
-    {
-      "id": "ypsilanti-2026-08-09-ypsi-flea-swap",
-      "title": "Ypsi Flea & Swap",
-      "date": "2026-08-09",
-      "time": "8:00 AM\u2009-\u20095:00 PM",
-      "venue": "Freighthouse",
-      "address": "",
-      "category": "ypsilanti",
-      "tags": [],
-      "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4840&month=8&year=2026&day=9&calType=0",
-      "source": "ypsilanti",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.298575+00:00"
-    },
-    {
-      "id": "city_ann_arbor-2026-08-09-stapp-nature-area-invasive-shrub-cutting",
-      "title": "Stapp Nature Area Invasive Shrub Cutting",
-      "date": "2026-08-09",
-      "time": "9:00 AM",
-      "venue": "",
-      "address": "",
-      "category": "city_ann_arbor",
-      "tags": [],
-      "description": "At this event, you&#8217;ll help&#160;<strong><strong>protect Ann Arbor&#8217;s biodiversity and public lands</strong></strong>&#160;by cutting and removing invasive shrubs with&#160;<strong><strong>hand saws and loppers</strong></strong>. This work creates more space for native plants to thrive, providing food and habitat for birds, pollinators, and other wildlife. Register here: <a href=\"https://cityofannarbor.volunteerhub.com/vv2/event/7d9ed757-fe92-4389-b3d1-8c3559e8b6db\" target=\"_blank\" rel=\"noopener\">https://cityofannarbor.volunteerhub.com/vv2/event/7d9ed757-fe92-4389-b3d1-8c3559e8b6db</a><br /><br /><ul><li value=\"1\"><strong><strong>Meeting Point:</strong></strong>&#160;Please meet at&#160;<a href=\"https://nap.a2gov.org/StappTraverwood\" target=\"_blank\" rel=\"noopener\">Stapp Nature Area entrance on Traverwood Dr. (south of the library)&#160;</a></li></ul>",
-      "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D205226570",
-      "source": "city_ann_arbor",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.543364+00:00"
-    },
     {
       "id": "aadl-2026-08-10-preschool-storytimes",
       "title": "Preschool Storytimes",
@@ -373,7 +19,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:51.276678+00:00"
+      "scraped_at": "2026-08-10T07:20:28.657475+00:00"
     },
     {
       "id": "aadl-2026-08-10-preschool-artstart",
@@ -392,7 +38,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:51.276897+00:00"
+      "scraped_at": "2026-08-10T07:20:28.657779+00:00"
     },
     {
       "id": "aadl-2026-08-10-baby-playgroups",
@@ -411,7 +57,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.277107+00:00"
+      "scraped_at": "2026-08-10T07:20:28.658062+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-10-honors-college-high-credit-workshop",
@@ -428,7 +74,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.708667+00:00"
+      "scraped_at": "2026-08-10T07:20:06.991603+00:00"
     },
     {
       "id": "ypsilanti-2026-08-10-recycling-b-week",
@@ -440,12 +86,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4431&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4431&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.295912+00:00"
+      "scraped_at": "2026-08-10T07:20:06.301641+00:00"
     },
     {
       "id": "aadl-2026-08-10-introductory-woodcarving-alligators-two-ways",
@@ -464,7 +110,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.277331+00:00"
+      "scraped_at": "2026-08-10T07:20:28.658315+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-10-wccmh-quality-finance-committee",
@@ -483,7 +129,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:28.721883+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411144+00:00"
     },
     {
       "id": "aadl-2026-08-10-mermaid-crafts",
@@ -502,7 +148,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.277539+00:00"
+      "scraped_at": "2026-08-10T07:20:28.658561+00:00"
     },
     {
       "id": "aadl-2026-08-10-fabulous-fingerprint-necklaces",
@@ -521,7 +167,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.277750+00:00"
+      "scraped_at": "2026-08-10T07:20:28.658805+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-10-wccmh-millage-advisory-committee",
@@ -540,7 +186,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:28.721948+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411217+00:00"
     },
     {
       "id": "aadl-2026-08-10-summer-game-mixer",
@@ -559,7 +205,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.277959+00:00"
+      "scraped_at": "2026-08-10T07:20:28.659065+00:00"
     },
     {
       "id": "aadl-2026-08-10-esl-conversation-groups",
@@ -578,7 +224,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.278167+00:00"
+      "scraped_at": "2026-08-10T07:20:28.659329+00:00"
     },
     {
       "id": "aadl-2026-08-10-emerging-writers-workshop-all-about-romance",
@@ -597,7 +243,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.278388+00:00"
+      "scraped_at": "2026-08-10T07:20:28.659578+00:00"
     },
     {
       "id": "ark-2026-08-10-the-high-kings",
@@ -616,7 +262,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.807825+00:00"
+      "scraped_at": "2026-08-10T07:19:49.336630+00:00"
     },
     {
       "id": "blind_pig-2026-08-10-blind-pig-comedy",
@@ -635,7 +281,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/97/42/44_Original.jpg?v=3",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.378779+00:00"
+      "scraped_at": "2026-08-10T07:19:53.470894+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-10-board-of-canvassers-august-10-2026",
@@ -654,7 +300,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.721805+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411050+00:00"
     },
     {
       "id": "aadl-2026-08-11-preschool-storytimes",
@@ -673,7 +319,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:51.278602+00:00"
+      "scraped_at": "2026-08-10T07:20:28.659817+00:00"
     },
     {
       "id": "aadl-2026-08-11-baby-playgroups",
@@ -692,7 +338,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.279015+00:00"
+      "scraped_at": "2026-08-10T07:20:28.660303+00:00"
     },
     {
       "id": "aadl-2026-08-11-frog-and-toad-celebration",
@@ -711,7 +357,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.279222+00:00"
+      "scraped_at": "2026-08-10T07:20:28.660536+00:00"
     },
     {
       "id": "aadl-2026-08-11-collage-making",
@@ -730,7 +376,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:51.279443+00:00"
+      "scraped_at": "2026-08-10T07:20:28.660770+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-11-parks-recreation-commission",
@@ -749,7 +395,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722072+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411351+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-11-info-session-for-nursing-rn2bsn-completion-program",
@@ -766,7 +412,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.708716+00:00"
+      "scraped_at": "2026-08-10T07:20:06.991668+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-11-employees39-retirement-system-board-of-trustees",
@@ -785,7 +431,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.543627+00:00"
+      "scraped_at": "2026-08-10T07:20:03.722828+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-11-council-administration-committee",
@@ -804,7 +450,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.543692+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723025+00:00"
     },
     {
       "id": "aadl-2026-08-11-letterpress-open-lab",
@@ -823,7 +469,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.776386+00:00"
+      "scraped_at": "2026-08-10T07:20:28.661013+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-11-budget-and-labor-committee",
@@ -840,7 +486,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.543763+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723109+00:00"
     },
     {
       "id": "aadl-2026-08-11-aadl-welcomes-aging-services-and-medicare-fraud-prevention-with-jewish-family-services",
@@ -859,7 +505,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.776623+00:00"
+      "scraped_at": "2026-08-10T07:20:28.661247+00:00"
     },
     {
       "id": "michigan_theater-2026-08-11-spider-man-brand-new-day",
@@ -878,7 +524,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/spider-man_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191402+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382256+00:00"
     },
     {
       "id": "michigan_theater-2026-08-11-the-odyssey-on-35mm",
@@ -897,7 +543,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/theodyssey%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191308+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382193+00:00"
     },
     {
       "id": "michigan_theater-2026-08-11-sheep-in-the-box",
@@ -916,7 +562,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/sheep_in_the_box_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191374+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382235+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-11-truemu-night-with-the-detroit-tigers",
@@ -933,7 +579,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.708755+00:00"
+      "scraped_at": "2026-08-10T07:20:06.991716+00:00"
     },
     {
       "id": "michigan_theater-2026-08-11-i-want-your-sex",
@@ -952,7 +598,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iwantyoursex%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191268+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382172+00:00"
     },
     {
       "id": "michigan_theater-2026-08-11-the-player",
@@ -971,7 +617,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/theplayer%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191336+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382213+00:00"
     },
     {
       "id": "ark-2026-08-11-fink",
@@ -990,7 +636,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.807877+00:00"
+      "scraped_at": "2026-08-10T07:19:49.336699+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-11-board-of-canvassers-august-11-2026",
@@ -1009,7 +655,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722012+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411285+00:00"
     },
     {
       "id": "aadl-2026-08-12-preschool-storytimes",
@@ -1028,7 +674,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:52.777283+00:00"
+      "scraped_at": "2026-08-10T07:20:28.661713+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-12-g-fours",
@@ -1047,7 +693,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1782764761379-TDF6Y29CKVXQWH6LDUHH/G-Fours.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854501+00:00"
+      "scraped_at": "2026-08-10T07:19:54.788890+00:00"
     },
     {
       "id": "aadl-2026-08-12-unicorn-flower-pots",
@@ -1066,7 +712,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.777498+00:00"
+      "scraped_at": "2026-08-10T07:20:28.662186+00:00"
     },
     {
       "id": "aadl-2026-08-12-painting-with-pasta",
@@ -1085,7 +731,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.777707+00:00"
+      "scraped_at": "2026-08-10T07:20:30.602411+00:00"
     },
     {
       "id": "aadl-2026-08-12-preschool-artstart",
@@ -1104,7 +750,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:52.777916+00:00"
+      "scraped_at": "2026-08-10T07:20:30.602696+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-12-how2college-transfer-series-opportunities-at-emu",
@@ -1121,7 +767,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.708793+00:00"
+      "scraped_at": "2026-08-10T07:20:06.991758+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-12-emu-soccer-vs-duquesne",
@@ -1138,7 +784,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.708829+00:00"
+      "scraped_at": "2026-08-10T07:20:06.991797+00:00"
     },
     {
       "id": "aadl-2026-08-12-summer-bird-pastels",
@@ -1157,7 +803,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.778121+00:00"
+      "scraped_at": "2026-08-10T07:20:30.602957+00:00"
     },
     {
       "id": "aadl-2026-08-12-esl-conversation-groups",
@@ -1176,7 +822,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.778339+00:00"
+      "scraped_at": "2026-08-10T07:20:30.603208+00:00"
     },
     {
       "id": "michigan_theater-2026-08-12-spider-man-brand-new-day",
@@ -1195,7 +841,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/spider-man_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189568+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381371+00:00"
     },
     {
       "id": "aadl-2026-08-12-emerging-writers-write-in",
@@ -1214,7 +860,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.778546+00:00"
+      "scraped_at": "2026-08-10T07:20:30.603471+00:00"
     },
     {
       "id": "michigan_theater-2026-08-12-cookie-queens",
@@ -1233,7 +879,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/cookiequeens%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189463+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381305+00:00"
     },
     {
       "id": "michigan_theater-2026-08-12-the-odyssey-on-35mm",
@@ -1252,7 +898,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/theodyssey%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189528+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381349+00:00"
     },
     {
       "id": "michigan_theater-2026-08-12-ice-cream-man",
@@ -1271,7 +917,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/icecreamman%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189500+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381326+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-12-ann-arbor-farmers-market-wednesday-market",
@@ -1288,7 +934,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.543834+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723190+00:00"
     },
     {
       "id": "ark-2026-08-12-grammar-night-with-ann-curzan-and-rebecca-hector",
@@ -1307,7 +953,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.807921+00:00"
+      "scraped_at": "2026-08-10T07:19:49.336751+00:00"
     },
     {
       "id": "blue_llama-2026-08-12-jauron-perry-quartet",
@@ -1327,7 +973,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.588940+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506289+00:00"
     },
     {
       "id": "michigan_theater-2026-08-12-the-boy-and-the-heron",
@@ -1346,7 +992,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/theboyandtheheron_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189392+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381281+00:00"
     },
     {
       "id": "blind_pig-2026-08-12-sunfo",
@@ -1365,7 +1011,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/93/08/84_Original.jpg?v=6",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.379167+00:00"
+      "scraped_at": "2026-08-10T07:19:53.471364+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-12-washtenaw-county-food-policy-council-meeting-08122026",
@@ -1384,7 +1030,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722134+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411418+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-12-board-of-canvassers-august-12-2026",
@@ -1403,7 +1049,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722193+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411478+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-12-free-yoga-every-wednesday-in-august",
@@ -1420,7 +1066,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.543896+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723259+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-12-happy-hour-jordan-smith-hays",
@@ -1439,7 +1085,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1760721157303-JGE2KGJ6M3AFZIKKUYHY/MEnVic.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854473+00:00"
+      "scraped_at": "2026-08-10T07:19:54.788821+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-13-love-a-park-day-garden-homes",
@@ -1456,7 +1102,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.543955+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723333+00:00"
     },
     {
       "id": "aadl-2026-08-13-canceled-esl-conversation-groups",
@@ -1475,7 +1121,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.778755+00:00"
+      "scraped_at": "2026-08-10T07:20:30.603713+00:00"
     },
     {
       "id": "aadl-2026-08-13-paper-lanterns",
@@ -1494,7 +1140,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.779168+00:00"
+      "scraped_at": "2026-08-10T07:20:30.604201+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-13-lgbtq-night-dyke-night",
@@ -1513,7 +1159,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1785963287114-P5GENYRWMSI22PNE1KLV/Screenshot+2026-08-05+at+4.54.31%E2%80%AFPM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854552+00:00"
+      "scraped_at": "2026-08-10T07:19:54.788963+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-13-edining-studenttemporary-open-interviews",
@@ -1530,7 +1176,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.708872+00:00"
+      "scraped_at": "2026-08-10T07:20:06.991845+00:00"
     },
     {
       "id": "michigan_theater-2026-08-13-the-invite",
@@ -1549,7 +1195,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/theinvite%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190344+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381620+00:00"
     },
     {
       "id": "aadl-2026-08-13-open-lab-3d-printers-laser-engraver-3d-pens",
@@ -1568,7 +1214,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.780013+00:00"
+      "scraped_at": "2026-08-10T07:20:30.605169+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-13-renters-commission",
@@ -1587,7 +1233,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544017+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723400+00:00"
     },
     {
       "id": "michigan_theater-2026-08-13-ice-cream-man",
@@ -1606,7 +1252,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/icecreamman%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190308+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381599+00:00"
     },
     {
       "id": "michigan_theater-2026-08-13-the-odyssey",
@@ -1625,7 +1271,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/theodyssey%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190372+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381641+00:00"
     },
     {
       "id": "aadl-2026-08-13-nerd-nite",
@@ -1644,7 +1290,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.780219+00:00"
+      "scraped_at": "2026-08-10T07:20:30.605404+00:00"
     },
     {
       "id": "blue_llama-2026-08-13-aguank\u00f3",
@@ -1664,7 +1310,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.588974+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506343+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-13-historic-district-commission",
@@ -1683,7 +1329,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544073+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723465+00:00"
     },
     {
       "id": "michigan_theater-2026-08-13-robin-hood-men-in-tights",
@@ -1702,7 +1348,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/robinhoodmenintights%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190430+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381663+00:00"
     },
     {
       "id": "ark-2026-08-13-raynes",
@@ -1721,7 +1367,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.807970+00:00"
+      "scraped_at": "2026-08-10T07:19:49.336791+00:00"
     },
     {
       "id": "blind_pig-2026-08-13-vlads-skeletal-circus",
@@ -1740,7 +1386,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/98/25/94_Original.jpg?v=4",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.379547+00:00"
+      "scraped_at": "2026-08-10T07:19:53.471829+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-13-brownfield-redevelopment-authority",
@@ -1757,7 +1403,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722278+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411548+00:00"
     },
     {
       "id": "ypsilanti-2026-08-13-administrative-hearings-bureau",
@@ -1771,12 +1417,12 @@
         "public_meeting"
       ],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4813&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4813&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.296217+00:00"
+      "scraped_at": "2026-08-10T07:20:06.301950+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-13-happy-hour-lila-fetter",
@@ -1795,7 +1441,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1782763709704-7TSNVJ0DIA8QL6OB9646/IMG_1329.jpeg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854528+00:00"
+      "scraped_at": "2026-08-10T07:19:54.788930+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-14-gallup-park-butterfly-garden-workday",
@@ -1812,7 +1458,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544131+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723525+00:00"
     },
     {
       "id": "aadl-2026-08-14-baby-playgroups",
@@ -1831,7 +1477,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:52.780440+00:00"
+      "scraped_at": "2026-08-10T07:20:30.605637+00:00"
     },
     {
       "id": "aadl-2026-08-14-esl-conversation-groups",
@@ -1850,7 +1496,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.357413+00:00"
+      "scraped_at": "2026-08-10T07:20:30.605879+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-14-bluegrass-friday-hidden-blazers",
@@ -1869,7 +1515,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1784829656258-OTFIBA2ENFAI4UYHVBN8/for+sara+dont+delete+%29+%2858%29.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854601+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789022+00:00"
     },
     {
       "id": "aadl-2026-08-14-canceled-preschool-storytimes",
@@ -1888,7 +1534,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.357658+00:00"
+      "scraped_at": "2026-08-10T07:20:30.606111+00:00"
     },
     {
       "id": "aadl-2026-08-14-parent-child-drawing-workshop",
@@ -1907,7 +1553,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.357877+00:00"
+      "scraped_at": "2026-08-10T07:20:30.606339+00:00"
     },
     {
       "id": "aadl-2026-08-14-paper-penguin-friends",
@@ -1926,7 +1572,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.358091+00:00"
+      "scraped_at": "2026-08-10T07:20:30.606572+00:00"
     },
     {
       "id": "blue_llama-2026-08-14-swing-happy-hour-kerrytown-stompers",
@@ -1946,7 +1592,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589006+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506382+00:00"
     },
     {
       "id": "aadl-2026-08-14-gel-plate-printing-lab",
@@ -1965,7 +1611,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.358314+00:00"
+      "scraped_at": "2026-08-10T07:20:30.606801+00:00"
     },
     {
       "id": "blue_llama-2026-08-14-allen-dennard-quintet",
@@ -1985,7 +1631,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589035+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506417+00:00"
     },
     {
       "id": "blind_pig-2026-08-14-sunfest-2026",
@@ -2004,7 +1650,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/13/59/39/93_Original.jpg?v=4",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.379938+00:00"
+      "scraped_at": "2026-08-10T07:19:53.472296+00:00"
     },
     {
       "id": "ark-2026-08-14-west-texas-exiles",
@@ -2023,7 +1669,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808007+00:00"
+      "scraped_at": "2026-08-10T07:19:49.336828+00:00"
     },
     {
       "id": "michigan_theater-2026-08-14-henry-cho-the-empty-nest-tour",
@@ -2042,7 +1688,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/henrycho_aa,mi_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190984+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382012+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-14-happy-hour-the-steve-taylor-three",
@@ -2061,7 +1707,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1747511571888-K9BC7CKRDJ56HTNK7MAY/Elevator+2.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854577+00:00"
+      "scraped_at": "2026-08-10T07:19:54.788993+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-15-love-a-park-day-cranbrook-park",
@@ -2078,7 +1724,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544258+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723654+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-15-sculpture-plaza-adopt-a-park-workday",
@@ -2095,7 +1741,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544321+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723716+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-15-ani-mari-tour-kickoff-7-vinyl-release-party",
@@ -2114,7 +1760,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1782762268199-0LYNMVHSPHSLI24UD4D1/ani+mari+for+wheelhouse.jpeg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854639+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789059+00:00"
     },
     {
       "id": "aadl-2026-08-15-anime-arbor-cosplay-photo-area",
@@ -2135,7 +1781,7 @@
       ],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:54.358534+00:00"
+      "scraped_at": "2026-08-10T07:20:30.607048+00:00"
     },
     {
       "id": "aadl-2026-08-15-anime-arbor-drop-in-mascot-keychains",
@@ -2156,7 +1802,7 @@
       ],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:54.358746+00:00"
+      "scraped_at": "2026-08-10T07:20:32.173770+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-15-volunteers-needed-party-in-the-park",
@@ -2173,7 +1819,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544380+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723780+00:00"
     },
     {
       "id": "aadl-2026-08-15-anime-arbor-special-guest-talk-with-re-zero-voice-actor-kayli-mills",
@@ -2194,7 +1840,7 @@
       ],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.359386+00:00"
+      "scraped_at": "2026-08-10T07:20:32.174554+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-15-party-in-the-park",
@@ -2211,7 +1857,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544437+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723840+00:00"
     },
     {
       "id": "michigan_theater-2026-08-15-a-chinese-ghost-story",
@@ -2230,7 +1876,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/achineseghoststory%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190143+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381505+00:00"
     },
     {
       "id": "aadl-2026-08-15-anime-arbor-from-construction-to-contests-all-about-cosplay",
@@ -2249,7 +1895,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:54.359805+00:00"
+      "scraped_at": "2026-08-10T07:20:32.175048+00:00"
     },
     {
       "id": "aadl-2026-08-15-anime-arbor-cosplay-contest-awards-ceremony",
@@ -2268,7 +1914,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:54.360012+00:00"
+      "scraped_at": "2026-08-10T07:20:32.175283+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-15-ann-arbor-farmers-market-saturday-market-regular-hours",
@@ -2285,7 +1931,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544191+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723590+00:00"
     },
     {
       "id": "blue_llama-2026-08-15-kevin-jones-and-tenth-world",
@@ -2305,7 +1951,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589064+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506450+00:00"
     },
     {
       "id": "ark-2026-08-15-george-bedard",
@@ -2324,7 +1970,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808042+00:00"
+      "scraped_at": "2026-08-10T07:19:49.336882+00:00"
     },
     {
       "id": "blind_pig-2026-08-15-bloody-run",
@@ -2343,7 +1989,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/95/84/54_Original.jpg?v=5",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.380323+00:00"
+      "scraped_at": "2026-08-10T07:19:53.472715+00:00"
     },
     {
       "id": "michigan_theater-2026-08-16-the-spongebob-squarepants-movie",
@@ -2362,26 +2008,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/spongebobmovie%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.192046+00:00"
-    },
-    {
-      "id": "aadl-2026-08-16-the-iron-crafter",
-      "title": "THE IRON CRAFTER",
-      "date": "2026-08-16",
-      "time": "12:00 PM",
-      "venue": "Downtown Library: Lower Level Grade K\u2013Adult",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "crafts"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/667984",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.360218+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382639+00:00"
     },
     {
       "id": "aadl-2026-08-16-stage-combat-demonstration-with-theatrica-gladiatoria",
@@ -2400,7 +2027,26 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.360440+00:00"
+      "scraped_at": "2026-08-10T07:20:32.175523+00:00"
+    },
+    {
+      "id": "aadl-2026-08-16-the-iron-crafter",
+      "title": "THE IRON CRAFTER",
+      "date": "2026-08-16",
+      "time": "12:00 PM",
+      "venue": "Downtown Library: Lower Level Grade K\u2013Adult",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "crafts"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/667984",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:32.175768+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-16-summer-classes-end",
@@ -2417,7 +2063,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.708908+00:00"
+      "scraped_at": "2026-08-10T07:20:06.991909+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-16-emu-soccer-at-detroit-mercy",
@@ -2434,7 +2080,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.708943+00:00"
+      "scraped_at": "2026-08-10T07:20:06.991952+00:00"
     },
     {
       "id": "aadl-2026-08-16-hand-sewing-marathon-adorable-felt-ice-cream-cones",
@@ -2453,7 +2099,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.360647+00:00"
+      "scraped_at": "2026-08-10T07:20:32.176024+00:00"
     },
     {
       "id": "aadl-2026-08-16-canceled-triviatime-with-katie-and-abbie-pixar",
@@ -2472,7 +2118,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.360853+00:00"
+      "scraped_at": "2026-08-10T07:20:32.176267+00:00"
     },
     {
       "id": "michigan_theater-2026-08-16-woodstock",
@@ -2491,7 +2137,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/woodstock%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.192074+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382659+00:00"
     },
     {
       "id": "blue_llama-2026-08-16-braxton-cook",
@@ -2511,7 +2157,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589092+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506481+00:00"
     },
     {
       "id": "ark-2026-08-16-american-patchwork-quartet",
@@ -2530,7 +2176,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808137+00:00"
+      "scraped_at": "2026-08-10T07:19:49.336921+00:00"
     },
     {
       "id": "ypsilanti-2026-08-16-freighthouse-closed-for-maintenence",
@@ -2542,12 +2188,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4759&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4759&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.298793+00:00"
+      "scraped_at": "2026-08-10T07:20:06.304417+00:00"
     },
     {
       "id": "aadl-2026-08-17-baby-playgroups",
@@ -2566,7 +2212,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.361060+00:00"
+      "scraped_at": "2026-08-10T07:20:32.176499+00:00"
     },
     {
       "id": "aadl-2026-08-17-preschool-storytimes",
@@ -2585,7 +2231,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.361273+00:00"
+      "scraped_at": "2026-08-10T07:20:32.176735+00:00"
     },
     {
       "id": "aadl-2026-08-17-location-change-tiny-window-greenhouse",
@@ -2604,7 +2250,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:54.361481+00:00"
+      "scraped_at": "2026-08-10T07:20:32.177021+00:00"
     },
     {
       "id": "aadl-2026-08-17-chicken-storytime-craft",
@@ -2623,7 +2269,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.907806+00:00"
+      "scraped_at": "2026-08-10T07:20:32.177257+00:00"
     },
     {
       "id": "ypsilanti-2026-08-17-recycling-a-week",
@@ -2635,12 +2281,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4332&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4332&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.296477+00:00"
+      "scraped_at": "2026-08-10T07:20:06.302223+00:00"
     },
     {
       "id": "aadl-2026-08-17-esl-conversation-groups",
@@ -2659,7 +2305,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.908068+00:00"
+      "scraped_at": "2026-08-10T07:20:32.177482+00:00"
     },
     {
       "id": "aadl-2026-08-17-sewing-lab-sleeve-insertion",
@@ -2678,7 +2324,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.908318+00:00"
+      "scraped_at": "2026-08-10T07:20:32.177710+00:00"
     },
     {
       "id": "aadl-2026-08-17-beginner-needle-felting-cat-roll",
@@ -2697,7 +2343,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.908547+00:00"
+      "scraped_at": "2026-08-10T07:20:32.177953+00:00"
     },
     {
       "id": "ypsilanti-2026-08-17-parks-arts-commission-meeting",
@@ -2711,12 +2357,12 @@
         "public_meeting"
       ],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4272&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4272&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.296709+00:00"
+      "scraped_at": "2026-08-10T07:20:06.302466+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-17-city-council",
@@ -2735,7 +2381,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544493+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723921+00:00"
     },
     {
       "id": "ypsilanti-2026-08-17-freighthouse-closed-for-maintenence",
@@ -2747,12 +2393,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4760&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4760&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.299009+00:00"
+      "scraped_at": "2026-08-10T07:20:06.304646+00:00"
     },
     {
       "id": "blind_pig-2026-08-17-blind-pig-comedy",
@@ -2771,7 +2417,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/97/42/64_Original.jpg?v=5",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.380717+00:00"
+      "scraped_at": "2026-08-10T07:19:53.473184+00:00"
     },
     {
       "id": "aadl-2026-08-18-preschool-storytimes",
@@ -2790,7 +2436,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:55.908775+00:00"
+      "scraped_at": "2026-08-10T07:20:32.178184+00:00"
     },
     {
       "id": "aadl-2026-08-18-pool-noodle-pom-pom-launcher",
@@ -2809,7 +2455,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.908996+00:00"
+      "scraped_at": "2026-08-10T07:20:32.178416+00:00"
     },
     {
       "id": "aadl-2026-08-18-printmaking-with-found-objects",
@@ -2828,7 +2474,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.909455+00:00"
+      "scraped_at": "2026-08-10T07:20:33.851037+00:00"
     },
     {
       "id": "aadl-2026-08-18-baby-playgroups",
@@ -2847,7 +2493,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.909676+00:00"
+      "scraped_at": "2026-08-10T07:20:33.851299+00:00"
     },
     {
       "id": "aadl-2026-08-18-summer-painting",
@@ -2866,7 +2512,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.909894+00:00"
+      "scraped_at": "2026-08-10T07:20:33.851545+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-18-park-advisory-commission",
@@ -2885,7 +2531,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544548+00:00"
+      "scraped_at": "2026-08-10T07:20:03.723980+00:00"
     },
     {
       "id": "aadl-2026-08-18-letterpress-open-lab",
@@ -2904,7 +2550,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.910113+00:00"
+      "scraped_at": "2026-08-10T07:20:33.851787+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-18-honors-undergraduate-research-workshop",
@@ -2921,7 +2567,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.068668+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238236+00:00"
     },
     {
       "id": "blind_pig-2026-08-18-the-moth-storyslam",
@@ -2940,7 +2586,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/96/15/14_Original.jpg?v=5",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.381066+00:00"
+      "scraped_at": "2026-08-10T07:19:53.473586+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-18-city-planning-commission",
@@ -2959,7 +2605,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544605+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724035+00:00"
     },
     {
       "id": "ypsilanti-2026-08-18-regular-city-council-meeting",
@@ -2973,12 +2619,12 @@
         "public_meeting"
       ],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4299&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4299&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.296933+00:00"
+      "scraped_at": "2026-08-10T07:20:06.302703+00:00"
     },
     {
       "id": "michigan_theater-2026-08-18-sullivans-travels",
@@ -2997,7 +2643,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/sullivanstravels%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.192136+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382700+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-18-buhr-park-stewardship-workday-with-adopt-a-park",
@@ -3014,7 +2660,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544663+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724092+00:00"
     },
     {
       "id": "ypsilanti-2026-08-18-freighthouse-closed-for-maintenence",
@@ -3026,12 +2672,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4761&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4761&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.299224+00:00"
+      "scraped_at": "2026-08-10T07:20:06.304891+00:00"
     },
     {
       "id": "ark-2026-08-18-devon-allmans-20-years-strong-tour",
@@ -3050,7 +2696,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808177+00:00"
+      "scraped_at": "2026-08-10T07:19:49.336988+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-19-materials-management-planning-committee",
@@ -3069,7 +2715,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722401+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411677+00:00"
     },
     {
       "id": "aadl-2026-08-19-preschool-storytimes",
@@ -3088,7 +2734,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.910603+00:00"
+      "scraped_at": "2026-08-10T07:20:33.852287+00:00"
     },
     {
       "id": "aadl-2026-08-19-open-lab-sewing-machines-silhouette-cutters-heat-press",
@@ -3107,7 +2753,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.911037+00:00"
+      "scraped_at": "2026-08-10T07:20:33.852758+00:00"
     },
     {
       "id": "aadl-2026-08-19-aadl-at-the-farmers-market",
@@ -3126,7 +2772,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:55.911243+00:00"
+      "scraped_at": "2026-08-10T07:20:33.853007+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-19-downtown-development-authority",
@@ -3143,7 +2789,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544837+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724265+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-19-earthwork-music-collective-ft-erik-odaly-chris-good-ben-traverse",
@@ -3162,7 +2808,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1785524446863-8OP27L662IL57I97UT7N/for+sara+dont+delete+%29+%2861%29.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854700+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789134+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-19-occupational-therapy-zoom-group-advising-session",
@@ -3179,7 +2825,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.068717+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238300+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-19-gallup-river-cleanup",
@@ -3196,7 +2842,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544892+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724319+00:00"
     },
     {
       "id": "aadl-2026-08-19-diy-stamps",
@@ -3215,7 +2861,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.911462+00:00"
+      "scraped_at": "2026-08-10T07:20:33.853240+00:00"
     },
     {
       "id": "aadl-2026-08-19-hexbug-adventures",
@@ -3234,7 +2880,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.911664+00:00"
+      "scraped_at": "2026-08-10T07:20:33.853473+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-19-continuum-of-care-board-august-meeting",
@@ -3253,7 +2899,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722460+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411738+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-19-commission-on-disability-issues",
@@ -3272,7 +2918,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544948+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724373+00:00"
     },
     {
       "id": "aadl-2026-08-19-handmade-felt-food-apples",
@@ -3291,7 +2937,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.911866+00:00"
+      "scraped_at": "2026-08-10T07:20:33.853700+00:00"
     },
     {
       "id": "aadl-2026-08-19-smell-tell-meet-the-myrtle-family-explorations-in-plant-scents",
@@ -3310,7 +2956,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:55.912071+00:00"
+      "scraped_at": "2026-08-10T07:20:33.853940+00:00"
     },
     {
       "id": "aadl-2026-08-19-esl-conversation-groups",
@@ -3329,7 +2975,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.544630+00:00"
+      "scraped_at": "2026-08-10T07:20:33.854168+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-19-ann-arbor-farmers-market-wednesday-market",
@@ -3346,7 +2992,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:27.544720+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724153+00:00"
     },
     {
       "id": "blue_llama-2026-08-19-third-coast-swing",
@@ -3366,7 +3012,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589119+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506513+00:00"
     },
     {
       "id": "michigan_theater-2026-08-19-my-neighbor-totoro",
@@ -3385,7 +3031,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/myneighbortotoro_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191860+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382516+00:00"
     },
     {
       "id": "ypsilanti-2026-08-19-freighthouse-closed-for-maintenence",
@@ -3397,12 +3043,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4762&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4762&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.299454+00:00"
+      "scraped_at": "2026-08-10T07:20:06.305128+00:00"
     },
     {
       "id": "ark-2026-08-19-chastity-brown",
@@ -3421,7 +3067,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808211+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337027+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-19-board-of-public-works-august-2026-meeting",
@@ -3440,7 +3086,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722342+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411614+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-19-free-yoga-every-wednesday-in-august",
@@ -3457,7 +3103,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.544776+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724209+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-19-happy-hour-ukulele-jake",
@@ -3476,7 +3122,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1783892874884-1RQCVUEJ6LDZZSQVVALX/Prospect+Park+Ukulele+Pic+Profile.JPEG",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854665+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789098+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-20-love-a-park-day-leslie-park",
@@ -3493,7 +3139,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545125+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724542+00:00"
     },
     {
       "id": "aadl-2026-08-20-esl-conversation-groups",
@@ -3512,7 +3158,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.544860+00:00"
+      "scraped_at": "2026-08-10T07:20:33.854397+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-20-lgbtq-night-drag-bingo",
@@ -3531,26 +3177,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1764629320276-2D880HDMGP1SKW9TW0HI/drag+bingo.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854751+00:00"
-    },
-    {
-      "id": "aadl-2026-08-20-rubber-band-powered-car",
-      "title": "Rubber Band Powered Car",
-      "date": "2026-08-20",
-      "time": "12:00 PM",
-      "venue": "Downtown Library: Secret Lab Grade K\u20135",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "crafts"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/668192",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.545517+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789194+00:00"
     },
     {
       "id": "aadl-2026-08-20-sesame-street-party",
@@ -3569,7 +3196,26 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.545724+00:00"
+      "scraped_at": "2026-08-10T07:20:33.855109+00:00"
+    },
+    {
+      "id": "aadl-2026-08-20-rubber-band-powered-car",
+      "title": "Rubber Band Powered Car",
+      "date": "2026-08-20",
+      "time": "12:00 PM",
+      "venue": "Downtown Library: Secret Lab Grade K\u20135",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "crafts"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/668192",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:33.855340+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-20-emu-marching-band-leadership-camp",
@@ -3586,7 +3232,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.068758+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238345+00:00"
     },
     {
       "id": "aadl-2026-08-20-zingermans-summer-game-food-tasting",
@@ -3605,7 +3251,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.545929+00:00"
+      "scraped_at": "2026-08-10T07:20:35.604905+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-20-building-board-of-appeals",
@@ -3624,7 +3270,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545182+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724594+00:00"
     },
     {
       "id": "aadl-2026-08-20-introductory-woodcarving-alligators-two-ways",
@@ -3643,7 +3289,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.546140+00:00"
+      "scraped_at": "2026-08-10T07:20:35.605181+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-20-public-market-advisory-commission",
@@ -3662,7 +3308,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:27.545239+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724647+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-20-renters-commission",
@@ -3681,7 +3327,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:27.545307+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724699+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-20-housing-commission",
@@ -3700,7 +3346,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545364+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724750+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-20-honors-college-high-credit-workshop",
@@ -3717,7 +3363,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.068798+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238386+00:00"
     },
     {
       "id": "blue_llama-2026-08-20-newks-time-a-tribute-to-sonny-rollins",
@@ -3737,7 +3383,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589151+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506548+00:00"
     },
     {
       "id": "michigan_theater-2026-08-20-silent-movie",
@@ -3756,7 +3402,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/silentmovie%201080x450.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.192108+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382679+00:00"
     },
     {
       "id": "blind_pig-2026-08-20-headband-henny",
@@ -3775,7 +3421,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/91/91/84_Original.jpg?v=6",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.381451+00:00"
+      "scraped_at": "2026-08-10T07:19:53.474027+00:00"
     },
     {
       "id": "ypsilanti-2026-08-20-freighthouse-closed-for-maintenence",
@@ -3787,12 +3433,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4763&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4763&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.299671+00:00"
+      "scraped_at": "2026-08-10T07:20:06.305355+00:00"
     },
     {
       "id": "ark-2026-08-20-the-trews-acoustic-trio",
@@ -3811,7 +3457,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808253+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337063+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-20-employees39-retirement-system-board-of-trustees",
@@ -3830,7 +3476,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:27.545006+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724430+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-20-retiree-health-care-benefit-plan-amp-trust-board-of-trustees-veba",
@@ -3849,7 +3495,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:27.545068+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724487+00:00"
     },
     {
       "id": "ypsilanti-2026-08-20-administrative-hearings-bureau",
@@ -3863,12 +3509,12 @@
         "public_meeting"
       ],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4814&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4814&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.297150+00:00"
+      "scraped_at": "2026-08-10T07:20:06.302958+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-20-happy-hour-alex-wand-nelle-anderson",
@@ -3887,7 +3533,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1783886787358-RD946KYADF3FMZ9DVHNM/Screenshot+2026-07-12+at+4.05.40%E2%80%AFPM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854726+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789166+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-21-older-persons-millage-review-committee",
@@ -3906,7 +3552,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722519+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411796+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-21-junior-lifeguard-day",
@@ -3923,7 +3569,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545477+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724857+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-21-volunteering-with-the-farms-at-trinity-health",
@@ -3940,7 +3586,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.068881+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238464+00:00"
     },
     {
       "id": "aadl-2026-08-21-baby-playgroups",
@@ -3959,7 +3605,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.546356+00:00"
+      "scraped_at": "2026-08-10T07:20:35.605433+00:00"
     },
     {
       "id": "aadl-2026-08-21-esl-conversation-groups",
@@ -3978,7 +3624,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.546559+00:00"
+      "scraped_at": "2026-08-10T07:20:35.605672+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-21-bluegrass-friday-pontiac-trail-blazers-ft-grant-flick",
@@ -3997,7 +3643,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1668371984112-67RQNELRWU1Z01PLKHVM/GrantPTB.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854801+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789250+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-21-emu-marching-band-leadership-camp",
@@ -4014,7 +3660,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.068837+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238425+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-21-dissertation-defense-centia-thomas",
@@ -4031,7 +3677,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.068918+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238502+00:00"
     },
     {
       "id": "aadl-2026-08-21-preschool-storytimes",
@@ -4050,7 +3696,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.546766+00:00"
+      "scraped_at": "2026-08-10T07:20:35.605951+00:00"
     },
     {
       "id": "aadl-2026-08-21-handsewn-felt-envelopes",
@@ -4069,7 +3715,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.546979+00:00"
+      "scraped_at": "2026-08-10T07:20:35.606202+00:00"
     },
     {
       "id": "aadl-2026-08-21-decorate-your-shield",
@@ -4088,7 +3734,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.547189+00:00"
+      "scraped_at": "2026-08-10T07:20:35.606437+00:00"
     },
     {
       "id": "blind_pig-2026-08-21-michigan-twang-americana-country-music-showcase",
@@ -4107,7 +3753,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/13/59/56/83_Original.jpg?v=3",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.381828+00:00"
+      "scraped_at": "2026-08-10T07:19:53.474454+00:00"
     },
     {
       "id": "aadl-2026-08-21-summer-game-skate",
@@ -4126,7 +3772,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.547408+00:00"
+      "scraped_at": "2026-08-10T07:20:35.606667+00:00"
     },
     {
       "id": "michigan_theater-2026-08-21-the-big-cheese",
@@ -4145,7 +3791,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thebigcheese%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189155+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381147+00:00"
     },
     {
       "id": "blue_llama-2026-08-21-la-tanya-hall-quartet",
@@ -4165,7 +3811,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589182+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506579+00:00"
     },
     {
       "id": "michigan_theater-2026-08-21-the-fast-and-the-furious-25th-anniversary",
@@ -4184,7 +3830,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thefastandthefurious%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189197+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381173+00:00"
     },
     {
       "id": "ypsilanti-2026-08-21-freighthouse-closed-for-maintenence",
@@ -4196,12 +3842,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4764&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4764&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.299891+00:00"
+      "scraped_at": "2026-08-10T07:20:06.305577+00:00"
     },
     {
       "id": "ark-2026-08-21-damn-tall-buildings",
@@ -4220,7 +3866,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808329+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337093+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-21-love-a-park-day-south-maple-park",
@@ -4237,7 +3883,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545422+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724803+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-21-happy-hour-shiny-shiny-black",
@@ -4256,7 +3902,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1782766541496-2PHPDNJLEQXQWUSWAAS7/Screenshot+2026-06-29+at+4.55.31%E2%80%AFPM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854775+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789220+00:00"
     },
     {
       "id": "michigan_theater-2026-08-21-i-know-what-you-did-last-summer",
@@ -4275,7 +3921,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iknowwhatyoudidlastsummer%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189233+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381198+00:00"
     },
     {
       "id": "blind_pig-2026-08-21-off-campus-dance-night",
@@ -4294,7 +3940,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/91/90/24_Original.jpg?v=3",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.382175+00:00"
+      "scraped_at": "2026-08-10T07:19:53.474846+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-22-warren-flick",
@@ -4313,7 +3959,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1765220034212-ZT0MZJTIJK91RYC14SAP/Warren+%26+Flick+Photo+2.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854824+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789277+00:00"
     },
     {
       "id": "aadl-2026-08-22-japanese-storytime",
@@ -4332,7 +3978,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.547619+00:00"
+      "scraped_at": "2026-08-10T07:20:35.606911+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-22-school-of-social-work-welcome-back-gathering",
@@ -4349,7 +3995,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.068991+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238579+00:00"
     },
     {
       "id": "michigan_theater-2026-08-22-my-neighbor-totoro",
@@ -4368,7 +4014,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/myneighbortotoro_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190591+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381752+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-22-emu-soccer-vs-north-dakota",
@@ -4385,7 +4031,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.069026+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238617+00:00"
     },
     {
       "id": "aadl-2026-08-22-nature-journaling-cloud-identification",
@@ -4404,7 +4050,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.547826+00:00"
+      "scraped_at": "2026-08-10T07:20:35.607150+00:00"
     },
     {
       "id": "aadl-2026-08-22-craft-stick-bird-feeders",
@@ -4423,7 +4069,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.548031+00:00"
+      "scraped_at": "2026-08-10T07:20:35.607386+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-22-emu-marching-band-camp-season-132",
@@ -4440,7 +4086,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.068954+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238542+00:00"
     },
     {
       "id": "aadl-2026-08-22-super-smash-bros-ultimate-tournament",
@@ -4459,7 +4105,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.548235+00:00"
+      "scraped_at": "2026-08-10T07:20:35.607626+00:00"
     },
     {
       "id": "aadl-2026-08-22-crochet-coaster-citrus-slices",
@@ -4478,7 +4124,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.548456+00:00"
+      "scraped_at": "2026-08-10T07:20:35.607859+00:00"
     },
     {
       "id": "aadl-2026-08-22-hands-on-filmmaking-workshop-with-caitlin-reid",
@@ -4497,7 +4143,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:57.548676+00:00"
+      "scraped_at": "2026-08-10T07:20:35.608110+00:00"
     },
     {
       "id": "michigan_theater-2026-08-22-the-fast-and-the-furious-25th-anniversary",
@@ -4516,7 +4162,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thefastandthefurious%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190553+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381730+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-22-ann-arbor-farmers-market-saturday-market-regular-hours",
@@ -4533,7 +4179,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545534+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724928+00:00"
     },
     {
       "id": "blue_llama-2026-08-22-sean-dobbins-organ-trio-ft-tiffany-gridiron",
@@ -4553,7 +4199,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589213+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506612+00:00"
     },
     {
       "id": "michigan_theater-2026-08-22-nt-live-les-liasons-dangereuses",
@@ -4572,7 +4218,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/lesliasonsdengerusesntlive%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190621+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381776+00:00"
     },
     {
       "id": "ypsilanti-2026-08-22-freighthouse-closed-for-maintenence",
@@ -4584,12 +4230,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4765&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4765&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.300110+00:00"
+      "scraped_at": "2026-08-10T07:20:06.305803+00:00"
     },
     {
       "id": "ark-2026-08-22-rodney-crowell",
@@ -4608,7 +4254,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808365+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337125+00:00"
     },
     {
       "id": "blind_pig-2026-08-22-liam-kelley",
@@ -4627,7 +4273,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/13/59/34/23_Original.jpg?v=3",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.382563+00:00"
+      "scraped_at": "2026-08-10T07:19:53.475276+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-22-love-a-park-day-south-maple-park",
@@ -4644,7 +4290,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545592+00:00"
+      "scraped_at": "2026-08-10T07:20:03.724984+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-23-emu-marching-band-camp-season-132",
@@ -4661,7 +4307,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:31.069062+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238659+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-23-schmaltz",
@@ -4680,7 +4326,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1708035796344-1M5UC7H9JSNSCUV2IJ3N/Screen+Shot+2024-02-15+at+5.22.42+PM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854846+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789304+00:00"
     },
     {
       "id": "aadl-2026-08-23-make-your-own-trading-card-game-cards",
@@ -4699,7 +4345,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.145296+00:00"
+      "scraped_at": "2026-08-10T07:20:35.608341+00:00"
     },
     {
       "id": "aadl-2026-08-23-all-ages-mario-kart-tournament",
@@ -4718,7 +4364,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.145531+00:00"
+      "scraped_at": "2026-08-10T07:20:35.608570+00:00"
     },
     {
       "id": "michigan_theater-2026-08-23-the-good-the-bad-and-the-ugly",
@@ -4737,7 +4383,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thegoodthebad&theugly%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190772+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381888+00:00"
     },
     {
       "id": "aadl-2026-08-23-the-sounds-and-stories-of-africa-with-fishmonger-stories",
@@ -4756,7 +4402,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.145749+00:00"
+      "scraped_at": "2026-08-10T07:20:35.608807+00:00"
     },
     {
       "id": "aadl-2026-08-23-paper-bag-monsters",
@@ -4775,7 +4421,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.145961+00:00"
+      "scraped_at": "2026-08-10T07:20:35.609085+00:00"
     },
     {
       "id": "blue_llama-2026-08-23-sunny-wilkinson-jazz-quartet",
@@ -4795,7 +4441,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589242+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506642+00:00"
     },
     {
       "id": "michigan_theater-2026-08-23-the-fast-and-the-furious-25th-anniversary",
@@ -4814,7 +4460,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thefastandthefurious%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.190736+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381850+00:00"
     },
     {
       "id": "ark-2026-08-23-tray-wellington-band",
@@ -4833,7 +4479,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808397+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337154+00:00"
     },
     {
       "id": "ypsilanti-2026-08-23-freighthouse-closed-for-maintenence",
@@ -4845,12 +4491,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4766&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4766&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.300341+00:00"
+      "scraped_at": "2026-08-10T07:20:06.306041+00:00"
     },
     {
       "id": "aadl-2026-08-24-baby-playgroups",
@@ -4869,7 +4515,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.146169+00:00"
+      "scraped_at": "2026-08-10T07:20:35.609314+00:00"
     },
     {
       "id": "aadl-2026-08-24-preschool-storytimes",
@@ -4888,7 +4534,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.146408+00:00"
+      "scraped_at": "2026-08-10T07:20:35.609540+00:00"
     },
     {
       "id": "aadl-2026-08-24-mischievous-yarn-monsters",
@@ -4907,7 +4553,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.146618+00:00"
+      "scraped_at": "2026-08-10T07:20:37.085443+00:00"
     },
     {
       "id": "aadl-2026-08-24-very-hungry-caterpillar-paper-crafts",
@@ -4926,7 +4572,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.146822+00:00"
+      "scraped_at": "2026-08-10T07:20:37.085715+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-24-emu-marching-band-camp-season-132",
@@ -4943,7 +4589,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:32.537629+00:00"
+      "scraped_at": "2026-08-10T07:20:08.238697+00:00"
     },
     {
       "id": "ypsilanti-2026-08-24-recycling-b-week",
@@ -4955,12 +4601,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4432&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4432&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.297401+00:00"
+      "scraped_at": "2026-08-10T07:20:06.303212+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-24-council-policy-agenda-committee",
@@ -4979,7 +4625,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545650+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725038+00:00"
     },
     {
       "id": "aadl-2026-08-24-hanging-geometric-shapes",
@@ -4998,7 +4644,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.147029+00:00"
+      "scraped_at": "2026-08-10T07:20:37.085994+00:00"
     },
     {
       "id": "ypsilanti-2026-08-24-human-relations-commission-meeting",
@@ -5012,12 +4658,12 @@
         "public_meeting"
       ],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4859&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4859&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.297627+00:00"
+      "scraped_at": "2026-08-10T07:20:06.303455+00:00"
     },
     {
       "id": "aadl-2026-08-24-emerging-writers-monthly-meet-up",
@@ -5036,7 +4682,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.147236+00:00"
+      "scraped_at": "2026-08-10T07:20:37.086238+00:00"
     },
     {
       "id": "aadl-2026-08-24-canceled-aadl-board-meeting-august-24-2026",
@@ -5055,7 +4701,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.147461+00:00"
+      "scraped_at": "2026-08-10T07:20:37.086478+00:00"
     },
     {
       "id": "ypsilanti-2026-08-24-freighthouse-closed-for-maintenence",
@@ -5067,12 +4713,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4767&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4767&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.300558+00:00"
+      "scraped_at": "2026-08-10T07:20:06.306270+00:00"
     },
     {
       "id": "ark-2026-08-24-the-arks-open-stage",
@@ -5091,7 +4737,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808452+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337182+00:00"
     },
     {
       "id": "blind_pig-2026-08-24-blind-pig-comedy",
@@ -5110,7 +4756,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/97/42/74_Original.jpg?v=4",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.382907+00:00"
+      "scraped_at": "2026-08-10T07:19:53.475673+00:00"
     },
     {
       "id": "aadl-2026-08-25-preschool-storytimes",
@@ -5129,7 +4775,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:59.147669+00:00"
+      "scraped_at": "2026-08-10T07:20:37.086717+00:00"
     },
     {
       "id": "aadl-2026-08-25-baby-playgroups",
@@ -5148,7 +4794,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.148083+00:00"
+      "scraped_at": "2026-08-10T07:20:37.087293+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-25-emu-marching-band-camp-season-132",
@@ -5165,7 +4811,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:32.537677+00:00"
+      "scraped_at": "2026-08-10T07:20:09.663256+00:00"
     },
     {
       "id": "aadl-2026-08-25-bug-crafts",
@@ -5184,7 +4830,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.148299+00:00"
+      "scraped_at": "2026-08-10T07:20:37.087563+00:00"
     },
     {
       "id": "aadl-2026-08-25-octopus-mobiles",
@@ -5203,7 +4849,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.148505+00:00"
+      "scraped_at": "2026-08-10T07:20:37.087804+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-25-university-day-for-all-faculty-and-staff",
@@ -5220,26 +4866,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:32.537719+00:00"
-    },
-    {
-      "id": "aadl-2026-08-25-riso-lab",
-      "title": "Riso Lab",
-      "date": "2026-08-25",
-      "time": "5:00 PM",
-      "venue": "Downtown Library: Secret Lab Grade K\u2013Adult",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "crafts"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/666395",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.148708+00:00"
+      "scraped_at": "2026-08-10T07:20:09.663320+00:00"
     },
     {
       "id": "aadl-2026-08-25-colorful-pajaki-chandeliers",
@@ -5258,7 +4885,26 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.148908+00:00"
+      "scraped_at": "2026-08-10T07:20:37.088065+00:00"
+    },
+    {
+      "id": "aadl-2026-08-25-riso-lab",
+      "title": "Riso Lab",
+      "date": "2026-08-25",
+      "time": "5:00 PM",
+      "venue": "Downtown Library: Secret Lab Grade K\u2013Adult",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "crafts"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/666395",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:37.088301+00:00"
     },
     {
       "id": "aadl-2026-08-25-tomato-bonanza-with-chef-keegan-rodgers",
@@ -5277,7 +4923,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.149121+00:00"
+      "scraped_at": "2026-08-10T07:20:37.088535+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-25-independent-community-police-oversight-commission",
@@ -5296,7 +4942,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545710+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725095+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-25-agricultural-lands-preservation-advisory-committee",
@@ -5315,7 +4961,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722635+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411925+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-25-city-planning-commission",
@@ -5334,7 +4980,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545765+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725150+00:00"
     },
     {
       "id": "ypsilanti-2026-08-25-freighthouse-closed-for-maintenence",
@@ -5346,12 +4992,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4768&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4768&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.300772+00:00"
+      "scraped_at": "2026-08-10T07:20:06.306492+00:00"
     },
     {
       "id": "ark-2026-08-25-lost-mary",
@@ -5370,7 +5016,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808489+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337209+00:00"
     },
     {
       "id": "washtenaw_county-2026-08-25-wcers-regular-board-meeting",
@@ -5389,26 +5035,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722576+00:00"
-    },
-    {
-      "id": "aadl-2026-08-26-preschool-storytimes",
-      "title": "Preschool Storytimes",
-      "date": "2026-08-26",
-      "time": "10:30 AM",
-      "venue": "Malletts Creek Branch: Program Room Age 2\u20135 Years",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "preschool_storytimes"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/646056",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:59.149353+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411852+00:00"
     },
     {
       "id": "aadl-2026-08-26-korean-storytime",
@@ -5427,7 +5054,26 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.808714+00:00"
+      "scraped_at": "2026-08-10T07:20:37.088765+00:00"
+    },
+    {
+      "id": "aadl-2026-08-26-preschool-storytimes",
+      "title": "Preschool Storytimes",
+      "date": "2026-08-26",
+      "time": "10:30 AM",
+      "venue": "Malletts Creek Branch: Program Room Age 2\u20135 Years",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "preschool_storytimes"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/646056",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:37.089471+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-26-open-mic-wednesday-w-annie-bacon-forrest-hejkal",
@@ -5446,7 +5092,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1740350739662-JJBJMJY5EKN9J70CPGU3/Copy+of+open+mic+32.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854893+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789359+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-26-emu-marching-band-camp-season-132",
@@ -5463,7 +5109,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:32.537756+00:00"
+      "scraped_at": "2026-08-10T07:20:09.663368+00:00"
     },
     {
       "id": "aadl-2026-08-26-paper-plate-jellyfish",
@@ -5482,7 +5128,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.809395+00:00"
+      "scraped_at": "2026-08-10T07:20:37.089700+00:00"
     },
     {
       "id": "aadl-2026-08-26-nature-journaling-bark-and-leaf-study",
@@ -5501,7 +5147,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.809608+00:00"
+      "scraped_at": "2026-08-10T07:20:37.089959+00:00"
     },
     {
       "id": "aadl-2026-08-26-writing-workshop-weaving-romance-around-suspense",
@@ -5520,7 +5166,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.809817+00:00"
+      "scraped_at": "2026-08-10T07:20:37.090198+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-26-zoning-board-of-appeals",
@@ -5539,7 +5185,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545935+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725314+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-26-ann-arbor-farmers-market-wednesday-market",
@@ -5556,7 +5202,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545822+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725205+00:00"
     },
     {
       "id": "blue_llama-2026-08-26-aya-sekine-trio",
@@ -5576,7 +5222,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589287+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506671+00:00"
     },
     {
       "id": "michigan_theater-2026-08-26-howls-moving-castle",
@@ -5595,7 +5241,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/howlsmovingcastle(2)_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191156+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382106+00:00"
     },
     {
       "id": "blind_pig-2026-08-26-jay-webb",
@@ -5614,7 +5260,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/13/56/15/13_Original.jpg?v=6",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.383270+00:00"
+      "scraped_at": "2026-08-10T07:19:53.476096+00:00"
     },
     {
       "id": "ypsilanti-2026-08-26-freighthouse-closed-for-maintenence",
@@ -5626,12 +5272,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4769&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4769&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.300986+00:00"
+      "scraped_at": "2026-08-10T07:20:06.306713+00:00"
     },
     {
       "id": "ark-2026-08-26-river-shook",
@@ -5650,7 +5296,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808519+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337235+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-26-free-yoga-every-wednesday-in-august",
@@ -5667,7 +5313,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545879+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725262+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-26-happy-hour-saahnjoo",
@@ -5686,7 +5332,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1772830389219-561CMA691EFSU6C6UQM4/Bergeron_Sanju_2025-9558.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854868+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789330+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-27-lgbtq-night-trivia-with-terry-mcclymonds",
@@ -5705,7 +5351,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1747242863620-8M0CGFSQ4L7M9ADPPETO/Think+You%E2%80%99re+Smart+%2812+x+8+in%29.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854954+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789414+00:00"
     },
     {
       "id": "michigan_theater-2026-08-27-mavis-staples-2026-sonic-lunch-series",
@@ -5724,7 +5370,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mavis_staples_banner_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191703+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382417+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-27-emu-marching-band-camp-season-132",
@@ -5741,7 +5387,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:32.537794+00:00"
+      "scraped_at": "2026-08-10T07:20:09.663413+00:00"
     },
     {
       "id": "michigan_theater-2026-08-27-summer-of-soul",
@@ -5760,7 +5406,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/summerofsoul%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191741+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382439+00:00"
     },
     {
       "id": "aadl-2026-08-27-animal-mosaic",
@@ -5779,7 +5425,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.810466+00:00"
+      "scraped_at": "2026-08-10T07:20:38.836004+00:00"
     },
     {
       "id": "aadl-2026-08-27-sock-puppets",
@@ -5798,7 +5444,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.810670+00:00"
+      "scraped_at": "2026-08-10T07:20:38.836253+00:00"
     },
     {
       "id": "aadl-2026-08-27-open-lab-soldering-electronics-circuits",
@@ -5817,7 +5463,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.810882+00:00"
+      "scraped_at": "2026-08-10T07:20:38.836508+00:00"
     },
     {
       "id": "aadl-2026-08-27-nami-washtenaw-county-book-club-the-collected-schizophrenias-essays",
@@ -5836,7 +5482,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.811088+00:00"
+      "scraped_at": "2026-08-10T07:20:38.836758+00:00"
     },
     {
       "id": "blue_llama-2026-08-27-stephen-rush-trio",
@@ -5856,7 +5502,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589318+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506700+00:00"
     },
     {
       "id": "ypsilanti-2026-08-27-ypac-ypsilanti-police-advisory-commission",
@@ -5870,12 +5516,12 @@
         "public_meeting"
       ],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4727&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4727&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.298113+00:00"
+      "scraped_at": "2026-08-10T07:20:06.303932+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-27-emu-soccer-at-michigan-state",
@@ -5892,7 +5538,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:32.537831+00:00"
+      "scraped_at": "2026-08-10T07:20:09.663454+00:00"
     },
     {
       "id": "michigan_theater-2026-08-27-young-frankenstein",
@@ -5911,7 +5557,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youngfrankenstein%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191768+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382460+00:00"
     },
     {
       "id": "blind_pig-2026-08-27-fuzz-fest-11",
@@ -5930,7 +5576,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/96/93/24_Original.jpg?v=4",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.383679+00:00"
+      "scraped_at": "2026-08-10T07:19:53.476573+00:00"
     },
     {
       "id": "ypsilanti-2026-08-27-freighthouse-closed-for-maintenence",
@@ -5942,12 +5588,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4770&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4770&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.301202+00:00"
+      "scraped_at": "2026-08-10T07:20:06.306946+00:00"
     },
     {
       "id": "ark-2026-08-27-annie-rod-capps-band",
@@ -5966,7 +5612,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808551+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337263+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-27-local-development-finance-authority-ldfa",
@@ -5983,7 +5629,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.545993+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725368+00:00"
     },
     {
       "id": "ypsilanti-2026-08-27-administrative-hearings-bureau",
@@ -5997,12 +5643,12 @@
         "public_meeting"
       ],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4815&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4815&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.297845+00:00"
+      "scraped_at": "2026-08-10T07:20:06.303685+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-27-happy-hour-rachel-arnsdorf",
@@ -6021,7 +5667,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1783549959181-3UX4NSQMWJRCEHM3Z6XT/Screenshot+2026-07-08+at+6.32.22%E2%80%AFPM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854915+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789387+00:00"
     },
     {
       "id": "aadl-2026-08-28-baby-playgroups",
@@ -6040,7 +5686,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.811312+00:00"
+      "scraped_at": "2026-08-10T07:20:38.837009+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-28-bluegrass-friday-pontiac-trail-blazers-ft-tony-pace",
@@ -6059,7 +5705,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1732134189898-KR8U1K75LAL6I0G6UDLI/Screen+Shot+2024-11-20+at+3.22.17+PM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855027+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789467+00:00"
     },
     {
       "id": "aadl-2026-08-28-animal-paper-craft-lizards-and-coyotes",
@@ -6078,7 +5724,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.811524+00:00"
+      "scraped_at": "2026-08-10T07:20:38.837247+00:00"
     },
     {
       "id": "aadl-2026-08-28-smore-pals",
@@ -6097,7 +5743,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.811732+00:00"
+      "scraped_at": "2026-08-10T07:20:38.837483+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-28-emu-marching-band-camp-season-132",
@@ -6114,7 +5760,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:32.537868+00:00"
+      "scraped_at": "2026-08-10T07:20:09.663494+00:00"
     },
     {
       "id": "aadl-2026-08-28-preschool-storytimes",
@@ -6133,7 +5779,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.811939+00:00"
+      "scraped_at": "2026-08-10T07:20:38.837734+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-28-gallup-river-cleanup",
@@ -6150,7 +5796,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546050+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725419+00:00"
     },
     {
       "id": "aadl-2026-08-28-world-famous-trivia",
@@ -6169,7 +5815,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.812146+00:00"
+      "scraped_at": "2026-08-10T07:20:38.837982+00:00"
     },
     {
       "id": "blue_llama-2026-08-28-xavier-davis-quartet",
@@ -6189,7 +5835,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589347+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506729+00:00"
     },
     {
       "id": "michigan_theater-2026-08-28-singles-night-crazy-stupid-love",
@@ -6208,7 +5854,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/crazystupidlove%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.188986+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381022+00:00"
     },
     {
       "id": "michigan_theater-2026-08-28-2026-sundance-film-festival-short-film-tour",
@@ -6227,7 +5873,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/sundance2026%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.188883+00:00"
+      "scraped_at": "2026-08-10T07:19:50.380940+00:00"
     },
     {
       "id": "blind_pig-2026-08-28-fuzz-fest-11",
@@ -6246,7 +5892,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/96/97/04_Original.jpg?v=4",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.384080+00:00"
+      "scraped_at": "2026-08-10T07:19:53.477068+00:00"
     },
     {
       "id": "ypsilanti-2026-08-28-freighthouse-closed-for-maintenence",
@@ -6258,12 +5904,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4771&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4771&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.301432+00:00"
+      "scraped_at": "2026-08-10T07:20:06.307178+00:00"
     },
     {
       "id": "ark-2026-08-28-marty-oreilly",
@@ -6282,7 +5928,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808596+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337289+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-28-happy-hour-ralph-mckee-blues-trio",
@@ -6301,7 +5947,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1785858666896-PGUCC7MMKMZBWYYS5299/Mckee+image.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.854987+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789441+00:00"
     },
     {
       "id": "michigan_theater-2026-08-28-cabin-in-the-woods",
@@ -6320,7 +5966,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/cabininthewoods%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.188948+00:00"
+      "scraped_at": "2026-08-10T07:19:50.380989+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-29-bobby-pennock-trio",
@@ -6339,7 +5985,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1764356563483-AU9YYR60Z0ZRL844KE2A/BP+Trio+North+Star.JPG",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855061+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789490+00:00"
     },
     {
       "id": "aadl-2026-08-29-canceled-spanish-storytime",
@@ -6358,7 +6004,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.812366+00:00"
+      "scraped_at": "2026-08-10T07:20:38.838215+00:00"
     },
     {
       "id": "aadl-2026-08-29-letterpress-open-lab",
@@ -6377,7 +6023,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.812571+00:00"
+      "scraped_at": "2026-08-10T07:20:38.838444+00:00"
     },
     {
       "id": "aadl-2026-08-29-canceled-interactive-movie-experience-et-the-extra-terrestrial",
@@ -6396,7 +6042,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:00.812775+00:00"
+      "scraped_at": "2026-08-10T07:20:38.838672+00:00"
     },
     {
       "id": "aadl-2026-08-29-make-your-own-story-cubes",
@@ -6415,7 +6061,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.481937+00:00"
+      "scraped_at": "2026-08-10T07:20:38.838920+00:00"
     },
     {
       "id": "aadl-2026-08-29-sand-art",
@@ -6434,7 +6080,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.482194+00:00"
+      "scraped_at": "2026-08-10T07:20:38.839154+00:00"
     },
     {
       "id": "aadl-2026-08-29-dj-workshop",
@@ -6453,7 +6099,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.482453+00:00"
+      "scraped_at": "2026-08-10T07:20:38.839380+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-29-welcome-back-bash",
@@ -6470,7 +6116,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:32.537904+00:00"
+      "scraped_at": "2026-08-10T07:20:09.663532+00:00"
     },
     {
       "id": "michigan_theater-2026-08-29-nude-noir-a-celebration-of-the-human-form",
@@ -6489,7 +6135,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/nudenoir%20web%20header_thumb.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191891+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382539+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-29-emu-football-vs-sacramento-state",
@@ -6506,7 +6152,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:32.537942+00:00"
+      "scraped_at": "2026-08-10T07:20:09.663569+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-29-ann-arbor-farmers-market-saturday-market-regular-hours",
@@ -6523,7 +6169,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546107+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725473+00:00"
     },
     {
       "id": "blue_llama-2026-08-29-ben-paterson-organ-trio-ft-randy-napoleon",
@@ -6543,7 +6189,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589379+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506758+00:00"
     },
     {
       "id": "blind_pig-2026-08-29-fuzz-fest-11",
@@ -6562,7 +6208,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/96/97/94_Original.jpg?v=3",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.384492+00:00"
+      "scraped_at": "2026-08-10T07:19:53.477539+00:00"
     },
     {
       "id": "ypsilanti-2026-08-29-freighthouse-closed-for-maintenence",
@@ -6574,12 +6220,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4772&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4772&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.301651+00:00"
+      "scraped_at": "2026-08-10T07:20:06.307405+00:00"
     },
     {
       "id": "ark-2026-08-29-maddy-ringo",
@@ -6598,7 +6244,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808630+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337317+00:00"
     },
     {
       "id": "city_ann_arbor-2026-08-29-bluffs-nature-area-invasive-shrub-cutting",
@@ -6615,7 +6261,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546163+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725526+00:00"
     },
     {
       "id": "aadl-2026-08-30-arabic-storytime",
@@ -6634,7 +6280,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.482687+00:00"
+      "scraped_at": "2026-08-10T07:20:38.839606+00:00"
     },
     {
       "id": "aadl-2026-08-30-game-over-gala",
@@ -6653,7 +6299,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.482927+00:00"
+      "scraped_at": "2026-08-10T07:20:38.839829+00:00"
     },
     {
       "id": "detroit_street_filling-2026-08-30-my-salamander",
@@ -6672,7 +6318,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1784228774540-R5DPHQ81AEUCBRJVGOEP/mysalamander1.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855087+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789514+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-30-emu-soccer-at-robert-morris",
@@ -6689,7 +6335,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:32.537978+00:00"
+      "scraped_at": "2026-08-10T07:20:09.663608+00:00"
     },
     {
       "id": "michigan_theater-2026-08-30-lawrence-of-arabia",
@@ -6708,7 +6354,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/lawrenceofarabia%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191224+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382151+00:00"
     },
     {
       "id": "blue_llama-2026-08-30-alonso-umana-quartet",
@@ -6728,7 +6374,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589409+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506788+00:00"
     },
     {
       "id": "michigan_theater-2026-08-30-hundreds-of-beavers",
@@ -6747,7 +6393,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/hundredsofbeavers_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191188+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382127+00:00"
     },
     {
       "id": "ark-2026-08-30-biird",
@@ -6766,7 +6412,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808660+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337344+00:00"
     },
     {
       "id": "ypsilanti-2026-08-30-freighthouse-closed-for-maintenence",
@@ -6778,12 +6424,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4773&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4773&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.301864+00:00"
+      "scraped_at": "2026-08-10T07:20:06.307631+00:00"
     },
     {
       "id": "aadl-2026-08-31-baby-playgroups",
@@ -6802,7 +6448,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.483155+00:00"
+      "scraped_at": "2026-08-10T07:20:38.840067+00:00"
     },
     {
       "id": "aadl-2026-08-31-preschool-storytimes",
@@ -6821,7 +6467,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.483405+00:00"
+      "scraped_at": "2026-08-10T07:20:40.593770+00:00"
     },
     {
       "id": "eastern_michigan-2026-08-31-fall-classes-begin",
@@ -6838,7 +6484,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:34.101120+00:00"
+      "scraped_at": "2026-08-10T07:20:09.663646+00:00"
     },
     {
       "id": "ypsilanti-2026-08-31-recycling-a-week",
@@ -6850,31 +6496,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4333&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4333&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.298355+00:00"
-    },
-    {
-      "id": "aadl-2026-08-31-sewing-lab-flat-felled-seams",
-      "title": "Sewing Lab | Flat Felled Seams",
-      "date": "2026-08-31",
-      "time": "6:00 PM",
-      "venue": "Downtown Library: Secret Lab Grade 6\u2013Adult",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "crafts"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/645708",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.483652+00:00"
+      "scraped_at": "2026-08-10T07:20:06.304186+00:00"
     },
     {
       "id": "aadl-2026-08-31-joyful-movement-zumba-party",
@@ -6893,7 +6520,26 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.483885+00:00"
+      "scraped_at": "2026-08-10T07:20:40.594057+00:00"
+    },
+    {
+      "id": "aadl-2026-08-31-sewing-lab-flat-felled-seams",
+      "title": "Sewing Lab | Flat Felled Seams",
+      "date": "2026-08-31",
+      "time": "6:00 PM",
+      "venue": "Downtown Library: Secret Lab Grade 6\u2013Adult",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "crafts"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/645708",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:40.594307+00:00"
     },
     {
       "id": "ypsilanti-2026-08-31-freighthouse-closed-for-maintenence",
@@ -6905,12 +6551,12 @@
       "category": "ypsilanti",
       "tags": [],
       "description": "",
-      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4774&month=8&year=2026&day=9&calType=0",
+      "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4774&month=8&year=2026&day=10&calType=0",
       "source": "ypsilanti",
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:29.302079+00:00"
+      "scraped_at": "2026-08-10T07:20:06.307854+00:00"
     },
     {
       "id": "ark-2026-08-31-the-brudi-brothers",
@@ -6929,7 +6575,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808696+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337371+00:00"
     },
     {
       "id": "blind_pig-2026-08-31-blind-pig-comedy",
@@ -6948,7 +6594,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/97/42/94_Original.jpg?v=3",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.384838+00:00"
+      "scraped_at": "2026-08-10T07:19:53.477938+00:00"
     },
     {
       "id": "washtenaw_county-2026-09-01-coalition-for-action-on-remediation-of-dioxane-meeting",
@@ -6967,7 +6613,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:28.722695+00:00"
+      "scraped_at": "2026-08-10T07:20:05.411984+00:00"
     },
     {
       "id": "aadl-2026-09-01-baby-playgroups",
@@ -6986,7 +6632,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.484122+00:00"
+      "scraped_at": "2026-08-10T07:20:40.595053+00:00"
     },
     {
       "id": "eastern_michigan-2026-09-01-honors-college-kickstart",
@@ -7003,7 +6649,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:34.101172+00:00"
+      "scraped_at": "2026-08-10T07:20:11.123463+00:00"
     },
     {
       "id": "aadl-2026-09-01-intro-to-3d-printing",
@@ -7022,7 +6668,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.484836+00:00"
+      "scraped_at": "2026-08-10T07:20:40.595286+00:00"
     },
     {
       "id": "aadl-2026-09-01-folk-song-jam-along",
@@ -7041,7 +6687,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.485061+00:00"
+      "scraped_at": "2026-08-10T07:20:40.595515+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-01-city-planning-commission",
@@ -7060,7 +6706,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546218+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725578+00:00"
     },
     {
       "id": "michigan_theater-2026-09-01-the-piano",
@@ -7079,7 +6725,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thepiano%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191947+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382575+00:00"
     },
     {
       "id": "aadl-2026-09-02-preschool-storytimes",
@@ -7098,7 +6744,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.485296+00:00"
+      "scraped_at": "2026-08-10T07:20:40.595748+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-02-downtown-development-authority",
@@ -7115,7 +6761,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546344+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725682+00:00"
     },
     {
       "id": "detroit_street_filling-2026-09-02-poetry-open-mic-w-forrest-hejkal-cat-h-bradley",
@@ -7134,7 +6780,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1772832059971-7Y2YNTFPN2NX114F3HMX/Screenshot+2026-03-06+at+4.20.20%E2%80%AFPM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855139+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789567+00:00"
     },
     {
       "id": "eastern_michigan-2026-09-02-student-employment-fair",
@@ -7151,7 +6797,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:34.101210+00:00"
+      "scraped_at": "2026-08-10T07:20:11.123524+00:00"
     },
     {
       "id": "eastern_michigan-2026-09-02-commuter-cookout",
@@ -7168,7 +6814,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:34.101284+00:00"
+      "scraped_at": "2026-08-10T07:20:11.123567+00:00"
     },
     {
       "id": "aadl-2026-09-02-letterpress-open-lab",
@@ -7187,7 +6833,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.485981+00:00"
+      "scraped_at": "2026-08-10T07:20:40.596464+00:00"
     },
     {
       "id": "eastern_michigan-2026-09-02-honors-college-kickstart",
@@ -7204,7 +6850,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:34.101332+00:00"
+      "scraped_at": "2026-08-10T07:20:11.123608+00:00"
     },
     {
       "id": "aadl-2026-09-02-author-event-ukrainian-voices-from-the-war-two-documentary-translations",
@@ -7223,7 +6869,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.486211+00:00"
+      "scraped_at": "2026-08-10T07:20:40.596698+00:00"
     },
     {
       "id": "aadl-2026-09-02-last-call-hustle-class",
@@ -7242,7 +6888,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:02.486459+00:00"
+      "scraped_at": "2026-08-10T07:20:40.596943+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-02-ann-arbor-farmers-market-wednesday-market",
@@ -7259,7 +6905,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546288+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725630+00:00"
     },
     {
       "id": "blue_llama-2026-09-02-aris-chalin-piano-duo",
@@ -7279,7 +6925,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589437+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506819+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-02-ann-arbor-public-art-commission",
@@ -7298,7 +6944,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:27.546400+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725734+00:00"
     },
     {
       "id": "ark-2026-09-02-the-arks-open-stage",
@@ -7317,7 +6963,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808736+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337398+00:00"
     },
     {
       "id": "blind_pig-2026-09-02-frostisrad-walking-down-main-neon-coma-death-hex",
@@ -7336,7 +6982,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/13/60/35/83_Original.jpg?v=5",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.385187+00:00"
+      "scraped_at": "2026-08-10T07:19:53.478338+00:00"
     },
     {
       "id": "detroit_street_filling-2026-09-02-happy-hour-jeremy-siegrist",
@@ -7355,7 +7001,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1754598222382-07XBV6C4VQ774WESREJX/jeremy+promo.webp",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855111+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789539+00:00"
     },
     {
       "id": "aadl-2026-09-03-toddler-activity-course",
@@ -7374,7 +7020,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.933747+00:00"
+      "scraped_at": "2026-08-10T07:20:40.597174+00:00"
     },
     {
       "id": "aadl-2026-09-03-open-lab-button-makers-silhouette-cutting-machines-die-cutters-embossers",
@@ -7393,7 +7039,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.934210+00:00"
+      "scraped_at": "2026-08-10T07:20:40.597626+00:00"
     },
     {
       "id": "detroit_street_filling-2026-09-03-lgbtq-night-queer-open-mic",
@@ -7412,7 +7058,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1733354458406-L2676JK9DL25YR0XLI8Q/Screen+Shot+2024-12-04+at+6.20.15+PM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855187+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789615+00:00"
     },
     {
       "id": "eastern_michigan-2026-09-03-student-veteran-welcome-back-reception",
@@ -7429,7 +7075,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:34.101372+00:00"
+      "scraped_at": "2026-08-10T07:20:11.123648+00:00"
     },
     {
       "id": "eastern_michigan-2026-09-03-honors-college-welcome-back-popsicle-party",
@@ -7446,7 +7092,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:34.101409+00:00"
+      "scraped_at": "2026-08-10T07:20:11.123686+00:00"
     },
     {
       "id": "aadl-2026-09-03-sign-making-lab",
@@ -7465,7 +7111,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.934669+00:00"
+      "scraped_at": "2026-08-10T07:20:40.598091+00:00"
     },
     {
       "id": "aadl-2026-09-03-drop-in-euchre-open-play",
@@ -7484,7 +7130,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.934884+00:00"
+      "scraped_at": "2026-08-10T07:20:40.598317+00:00"
     },
     {
       "id": "aadl-2026-09-03-bug-art",
@@ -7503,7 +7149,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.935105+00:00"
+      "scraped_at": "2026-08-10T07:20:42.108557+00:00"
     },
     {
       "id": "aadl-2026-09-03-author-event-mid-century-modern-ann-arbor-the-architecture-of-alden-b-dow",
@@ -7522,7 +7168,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.935347+00:00"
+      "scraped_at": "2026-08-10T07:20:42.108825+00:00"
     },
     {
       "id": "blue_llama-2026-09-03-max-bowen",
@@ -7542,7 +7188,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589465+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506847+00:00"
     },
     {
       "id": "blind_pig-2026-09-03-greek",
@@ -7561,7 +7207,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/93/07/24_Original.jpg?v=6",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.385557+00:00"
+      "scraped_at": "2026-08-10T07:19:53.478725+00:00"
     },
     {
       "id": "ark-2026-09-03-voices-feat-ki5-friends",
@@ -7580,7 +7226,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808772+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337426+00:00"
     },
     {
       "id": "michigan_theater-2026-09-03-total-recall",
@@ -7599,7 +7245,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/totalrecall%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.192173+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382721+00:00"
     },
     {
       "id": "detroit_street_filling-2026-09-03-happy-hour-deacon-earl",
@@ -7618,7 +7264,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1784236302696-H7LSWLRA62TIFM5TESYH/Screenshot+2026-07-16+at+5.11.32%E2%80%AFPM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855164+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789591+00:00"
     },
     {
       "id": "eastern_michigan-2026-09-04-honors-college-kickstart",
@@ -7635,7 +7281,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:34.101446+00:00"
+      "scraped_at": "2026-08-10T07:20:11.123723+00:00"
     },
     {
       "id": "aadl-2026-09-04-baby-playgroups",
@@ -7654,7 +7300,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.935575+00:00"
+      "scraped_at": "2026-08-10T07:20:42.109085+00:00"
     },
     {
       "id": "detroit_street_filling-2026-09-04-bluegrass-friday-pontiac-trail-blazers-ft-madcat-ruth",
@@ -7673,7 +7319,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1707941985161-RC5K53UB7IIXVH6O1RNO/Screen+Shot+2024-02-14+at+3.15.07+PM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855236+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789668+00:00"
     },
     {
       "id": "michigan_theater-2026-09-04-american-doctor",
@@ -7692,7 +7338,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/americandoctor%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189022+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381052+00:00"
     },
     {
       "id": "aadl-2026-09-04-preschool-storytimes",
@@ -7711,7 +7357,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.935792+00:00"
+      "scraped_at": "2026-08-10T07:20:42.109331+00:00"
     },
     {
       "id": "aadl-2026-09-04-tech-take-apart",
@@ -7730,7 +7376,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.936022+00:00"
+      "scraped_at": "2026-08-10T07:20:42.109580+00:00"
     },
     {
       "id": "aadl-2026-09-04-cardboard-monkey-puppets",
@@ -7749,7 +7395,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.936237+00:00"
+      "scraped_at": "2026-08-10T07:20:42.109817+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-04-free-family-trivia-night",
@@ -7766,7 +7412,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546513+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725838+00:00"
     },
     {
       "id": "aadl-2026-09-04-silent-disco-dance-party",
@@ -7785,7 +7431,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.936464+00:00"
+      "scraped_at": "2026-08-10T07:20:42.110063+00:00"
     },
     {
       "id": "aadl-2026-09-04-handmade-felt-food-cherries",
@@ -7804,7 +7450,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.936677+00:00"
+      "scraped_at": "2026-08-10T07:20:42.110304+00:00"
     },
     {
       "id": "eastern_michigan-2026-09-04-emu-football-vs-san-jose-state",
@@ -7821,7 +7467,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:34.101519+00:00"
+      "scraped_at": "2026-08-10T07:20:11.123797+00:00"
     },
     {
       "id": "blue_llama-2026-09-04-erinn-alexis-huron-collective",
@@ -7841,7 +7487,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589496+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506892+00:00"
     },
     {
       "id": "michigan_theater-2026-09-04-the-room-in-35mm-big-shark-w-greg-sestero",
@@ -7860,7 +7506,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/the%20room_big%20shark_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189071+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381085+00:00"
     },
     {
       "id": "blind_pig-2026-09-04-destined-to-survive",
@@ -7879,7 +7525,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/12/93/08/44_Original.jpg?v=7",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.385933+00:00"
+      "scraped_at": "2026-08-10T07:19:53.479158+00:00"
     },
     {
       "id": "ark-2026-09-04-the-rfd-boys",
@@ -7898,7 +7544,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808803+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337451+00:00"
     },
     {
       "id": "detroit_street_filling-2026-09-04-happy-hour-lauren-crane",
@@ -7917,7 +7563,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1784320074903-HGF83SRK1LB8YZKBZTPU/Screenshot+2026-07-17+at+4.27.33%E2%80%AFPM.png",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855211+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789642+00:00"
     },
     {
       "id": "detroit_street_filling-2026-09-05-joshua-elwood-friends",
@@ -7936,7 +7582,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1784830493117-HS2O4R1XC7P0E18PLQ4Q/IMG_0744.jpeg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855277+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789693+00:00"
     },
     {
       "id": "aadl-2026-09-05-talking-pop-up-monsters",
@@ -7955,7 +7601,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.936893+00:00"
+      "scraped_at": "2026-08-10T07:20:42.110540+00:00"
     },
     {
       "id": "aadl-2026-09-05-french-storytime",
@@ -7974,7 +7620,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.937107+00:00"
+      "scraped_at": "2026-08-10T07:20:42.110772+00:00"
     },
     {
       "id": "um_athletics-2026-09-05-university-of-michigan-football-vs-western-michigan-olympianchampionship-recognition-presented-by-genentech",
@@ -7993,7 +7639,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:35.936562+00:00"
+      "scraped_at": "2026-08-10T07:20:13.228929+00:00"
     },
     {
       "id": "aadl-2026-09-05-knitting-nancies",
@@ -8012,7 +7658,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.937336+00:00"
+      "scraped_at": "2026-08-10T07:20:42.111019+00:00"
     },
     {
       "id": "aadl-2026-09-05-author-event-the-side-questers-with-jj-kochmanski",
@@ -8031,7 +7677,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.937549+00:00"
+      "scraped_at": "2026-08-10T07:20:42.111253+00:00"
     },
     {
       "id": "aadl-2026-09-05-lets-be-friends-cycling-mountain-biking",
@@ -8050,7 +7696,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.937764+00:00"
+      "scraped_at": "2026-08-10T07:20:42.111487+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-05-ann-arbor-farmers-market-saturday-market-regular-hours",
@@ -8067,7 +7713,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546571+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725903+00:00"
     },
     {
       "id": "blue_llama-2026-09-05-isis-damil",
@@ -8087,7 +7733,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589526+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506921+00:00"
     },
     {
       "id": "blind_pig-2026-09-05-the-ann-arbor-fall-beard-day-fest-2026",
@@ -8106,7 +7752,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/13/59/71/83_Original.jpg?v=3",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.386333+00:00"
+      "scraped_at": "2026-08-10T07:19:53.479588+00:00"
     },
     {
       "id": "aadl-2026-09-06-dancing-babies-with-momo-kajiwara",
@@ -8125,7 +7771,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:03.937980+00:00"
+      "scraped_at": "2026-08-10T07:20:42.111716+00:00"
     },
     {
       "id": "michigan_theater-2026-09-06-sing",
@@ -8144,7 +7790,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/sing%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189696+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381460+00:00"
     },
     {
       "id": "aadl-2026-09-06-women-in-engineering",
@@ -8163,7 +7809,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:05.630650+00:00"
+      "scraped_at": "2026-08-10T07:20:42.111962+00:00"
     },
     {
       "id": "aadl-2026-09-06-guided-acrylic-painting-with-katie-hammond",
@@ -8182,7 +7828,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:05.630890+00:00"
+      "scraped_at": "2026-08-10T07:20:42.112194+00:00"
     },
     {
       "id": "detroit_street_filling-2026-09-06-rollie-tussing-trio",
@@ -8201,7 +7847,7 @@
       "also_listed_at": [],
       "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1751125506888-J2GE3U56H3FKJQW49RLV/1000022312.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.855302+00:00"
+      "scraped_at": "2026-08-10T07:19:54.789717+00:00"
     },
     {
       "id": "aadl-2026-09-06-celebrating-10-years-of-westgate-branch",
@@ -8220,7 +7866,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:05.631117+00:00"
+      "scraped_at": "2026-08-10T07:20:42.112421+00:00"
     },
     {
       "id": "eastern_michigan-2026-09-06-emu-soccer-vs-southern-indiana",
@@ -8237,26 +7883,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:34.101556+00:00"
-    },
-    {
-      "id": "aadl-2026-09-06-canceled-collage-making",
-      "title": "CANCELED: Collage Making",
-      "date": "2026-09-06",
-      "time": "2:00 PM",
-      "venue": "Traverwood Branch: Program Room Grade K\u2013Adult",
-      "address": "",
-      "category": "community",
-      "tags": [
-        "crafts"
-      ],
-      "description": "",
-      "url": "https://www.aadl.org/node/668284",
-      "source": "aadl",
-      "also_listed_at": [],
-      "image_url": null,
-      "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:05.631357+00:00"
+      "scraped_at": "2026-08-10T07:20:11.123834+00:00"
     },
     {
       "id": "aadl-2026-09-06-letterpress-open-lab",
@@ -8275,7 +7902,26 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:05.631574+00:00"
+      "scraped_at": "2026-08-10T07:20:42.112646+00:00"
+    },
+    {
+      "id": "aadl-2026-09-06-canceled-collage-making",
+      "title": "CANCELED: Collage Making",
+      "date": "2026-09-06",
+      "time": "2:00 PM",
+      "venue": "Traverwood Branch: Program Room Grade K\u2013Adult",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "crafts"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/668284",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:42.112892+00:00"
     },
     {
       "id": "michigan_theater-2026-09-06-casablanca",
@@ -8294,7 +7940,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/casablanca_1080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189627+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381412+00:00"
     },
     {
       "id": "aadl-2026-09-06-puzzle-and-board-game-swap",
@@ -8313,7 +7959,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:05.631793+00:00"
+      "scraped_at": "2026-08-10T07:20:42.113137+00:00"
     },
     {
       "id": "blue_llama-2026-09-06-paul-vornhagen-quartet",
@@ -8333,7 +7979,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:18.589555+00:00"
+      "scraped_at": "2026-08-10T07:19:54.506950+00:00"
     },
     {
       "id": "michigan_theater-2026-09-06-the-michigan-theater-community-film-club-back-to-school-september",
@@ -8352,7 +7998,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/back%20to%20school%20-%20film%20club%20banner_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189664+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381438+00:00"
     },
     {
       "id": "michigan_theater-2026-09-06-twin-peaks-season-2-episode-1",
@@ -8371,7 +8017,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/twinpeaksseason2%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.189769+00:00"
+      "scraped_at": "2026-08-10T07:19:50.381483+00:00"
     },
     {
       "id": "eastern_michigan-2026-09-07-university-closed-labor-day",
@@ -8388,7 +8034,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:35.607988+00:00"
+      "scraped_at": "2026-08-10T07:20:11.123895+00:00"
     },
     {
       "id": "blind_pig-2026-09-07-blind-pig-comedy",
@@ -8407,7 +8053,7 @@
       "also_listed_at": [],
       "image_url": "https://i.ticketweb.com/i/00/13/62/02/73_Original.jpg?v=3",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:17.386687+00:00"
+      "scraped_at": "2026-08-10T07:19:53.479985+00:00"
     },
     {
       "id": "aadl-2026-09-08-baby-playgroups",
@@ -8426,7 +8072,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:05.632466+00:00"
+      "scraped_at": "2026-08-10T07:20:43.817308+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-08-housing-board-of-appeals",
@@ -8445,7 +8091,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546683+00:00"
+      "scraped_at": "2026-08-10T07:20:03.726011+00:00"
     },
     {
       "id": "aadl-2026-09-08-art-history-in-the-afternoon-ephemeral-art-of-the-forest",
@@ -8464,7 +8110,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:05.632682+00:00"
+      "scraped_at": "2026-08-10T07:20:43.817550+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-08-council-administration-committee",
@@ -8483,7 +8129,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:27.546741+00:00"
+      "scraped_at": "2026-08-10T07:20:03.726064+00:00"
     },
     {
       "id": "aadl-2026-09-08-gel-plate-printing-lab",
@@ -8502,7 +8148,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:05.632894+00:00"
+      "scraped_at": "2026-08-10T07:20:43.817781+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-08-budget-and-labor-committee",
@@ -8519,7 +8165,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546797+00:00"
+      "scraped_at": "2026-08-10T07:20:03.726117+00:00"
     },
     {
       "id": "aadl-2026-09-08-smell-tell-inside-the-writers-study",
@@ -8538,7 +8184,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:45:05.633108+00:00"
+      "scraped_at": "2026-08-10T07:20:43.818032+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-08-sustainability-commission",
@@ -8557,7 +8203,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546852+00:00"
+      "scraped_at": "2026-08-10T07:20:03.726175+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-08-city-council",
@@ -8576,7 +8222,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": true,
-      "scraped_at": "2026-08-09T06:44:27.546907+00:00"
+      "scraped_at": "2026-08-10T07:20:03.726228+00:00"
     },
     {
       "id": "michigan_theater-2026-09-08-mildred-pierce",
@@ -8595,7 +8241,7 @@
       "also_listed_at": [],
       "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mildredpierce%201080x450_thumb.jpg",
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:15.191823+00:00"
+      "scraped_at": "2026-08-10T07:19:50.382495+00:00"
     },
     {
       "id": "ark-2026-09-08-storytelling-nights",
@@ -8614,7 +8260,7 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:13.808834+00:00"
+      "scraped_at": "2026-08-10T07:19:49.337477+00:00"
     },
     {
       "id": "city_ann_arbor-2026-09-08-elizabeth-dean-fund-committee",
@@ -8631,7 +8277,268 @@
       "also_listed_at": [],
       "image_url": null,
       "possible_duplicate": false,
-      "scraped_at": "2026-08-09T06:44:27.546627+00:00"
+      "scraped_at": "2026-08-10T07:20:03.725958+00:00"
+    },
+    {
+      "id": "aadl-2026-09-09-preschool-storytimes",
+      "title": "Preschool Storytimes",
+      "date": "2026-09-09",
+      "time": "10:30 AM",
+      "venue": "Malletts Creek Branch: Program Room Age 2\u20135 Years",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "preschool_storytimes"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/646058",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:43.818266+00:00"
+    },
+    {
+      "id": "eastern_michigan-2026-09-09-holman-success-center-open-house",
+      "title": "Holman Success Center Open House",
+      "date": "2026-09-09",
+      "time": "11:00 am",
+      "venue": "Halle Library - Lower Level",
+      "address": "",
+      "category": "eastern_michigan",
+      "tags": [],
+      "description": "Join the HSC in kicking off the 2026-2027 school year by meeting your success coaches, supplemental instructors, tutors, and peer academic coaches!",
+      "url": "https://today.emich.edu/calendar/16749",
+      "source": "eastern_michigan",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:12.633520+00:00"
+    },
+    {
+      "id": "aadl-2026-09-09-young-scientists",
+      "title": "Young Scientists!",
+      "date": "2026-09-09",
+      "time": "1:00 PM",
+      "venue": "Westgate Branch: West Side Room Age 2\u20135",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "public_event"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/673002",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:43.818993+00:00"
+    },
+    {
+      "id": "aadl-2026-09-09-smell-tell-inside-the-writers-study",
+      "title": "Smell & Tell | Inside the Writer's Study",
+      "date": "2026-09-09",
+      "time": "1:30 PM",
+      "venue": "Downtown Library: 4th Floor Program Room",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "public_event"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/671361",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:43.819225+00:00"
+    },
+    {
+      "id": "eastern_michigan-2026-09-09-eaglefest",
+      "title": "Eaglefest",
+      "date": "2026-09-09",
+      "time": "4:00 pm",
+      "venue": "University Park",
+      "address": "",
+      "category": "eastern_michigan",
+      "tags": [],
+      "description": "Ready to meet new people and learn more about the student organizations and how to join them? Then EagleFest is the event for you! Meet with over 100 student organizations, enjoy free food, dance to a live DJ, and play games at this event.",
+      "url": "https://today.emich.edu/calendar/16757",
+      "source": "eastern_michigan",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:12.633583+00:00"
+    },
+    {
+      "id": "aadl-2026-09-09-exploring-the-mind-who-do-you-trust-trust-at-the-personal-community-and-society-level",
+      "title": "Exploring the Mind |  Who Do You Trust? Trust at the Personal, Community, and Society Level",
+      "date": "2026-09-09",
+      "time": "6:00 PM",
+      "venue": "Downtown Library: Lower Level Program Room",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "public_event"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/673239",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:43.819459+00:00"
+    },
+    {
+      "id": "aadl-2026-09-09-painting-with-water-color-pencils",
+      "title": "Painting with Water Color Pencils",
+      "date": "2026-09-09",
+      "time": "6:00 PM",
+      "venue": "Pittsfield Branch: Program Room",
+      "address": "",
+      "category": "community",
+      "tags": [
+        "public_event"
+      ],
+      "description": "",
+      "url": "https://www.aadl.org/node/670000",
+      "source": "aadl",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:43.819685+00:00"
+    },
+    {
+      "id": "city_ann_arbor-2026-09-09-ann-arbor-farmers-market-wednesday-market",
+      "title": "Ann Arbor Farmers Market Wednesday Market",
+      "date": "2026-09-09",
+      "time": "7:00 AM",
+      "venue": "Ann Arbor Farmers Market",
+      "address": "",
+      "category": "city_ann_arbor",
+      "tags": [],
+      "description": "",
+      "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D194454757",
+      "source": "city_ann_arbor",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:03.726284+00:00"
+    },
+    {
+      "id": "blue_llama-2026-09-09-jacob-hart-piano-duo",
+      "title": "Jacob Hart Piano Duo",
+      "date": "2026-09-09",
+      "time": "7:00 PM",
+      "venue": "Blue Llama Jazz Club",
+      "address": "",
+      "category": "arts_culture",
+      "tags": [
+        "music",
+        "jazz"
+      ],
+      "description": "Wed | Sep 9\t\n\n\tSets 7pm & 8pm | Free Cover! \n\t\t\t\n\t\t\t\t\t\t\tRESERVE TABLE\n\t\t\t\t\t\n\t\t\t\n\n\t\t\tAbout the Artist\t\n\tThis September, join us for dinner, or date night, with Piano Wednesdays at Blue LLama. Enjoy no cover, our full dinner menu, plus a special $95 Dinner for Two with your choice of 1 appetizer, 2 entrees, and 1 dessert to share. \nJacob Hart is a 17-year-old multi downbeat award-winning pianist, composer, and arranger, hailing from Detroit, Michigan. He has performed at the Michigan Jazz Festival, \u00a0the Detroit Jazz Festival, and the Toledo-Peacock jazz festival, with artists like Herlin Riley, Ryan Devlin, and others. Jacob has opened for several famous jazz artists such as Herbie Hancock, Branford Marsalis, and Terence Blanchard. He has also performed at several known jazz clubs in the area, including Baker\u2019s Keyboard Lounge, Dirty Dog Jazz Cafe, the Blue Llama, and Cliff Bell\u2019s. Hart is a student at the esteemed Detroit School of Arts and also takes part in many Detroit jazz programs, such as the DSO Civic Jazz Orchestra and the MSU Spartan Youth Jazz Program. On top of all of this, Jacob is releasing his second album, \u201cShort Circuit\u201d in the near future, so stay on the look out! \n\n\t\t\t\t\n\t\n\t\t\t\n\t\t\t\t\t\t\tRESERVE TABLE",
+      "url": "https://bluellamaclub.com/event/jacob-hart-piano-duo-3/",
+      "source": "blue_llama",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:19:54.506977+00:00"
+    },
+    {
+      "id": "city_ann_arbor-2026-09-09-city-planning-commission",
+      "title": "City Planning Commission",
+      "date": "2026-09-09",
+      "time": "7:00 PM",
+      "venue": "Electronic Meeting",
+      "address": "",
+      "category": "city_ann_arbor",
+      "tags": [
+        "public_meeting"
+      ],
+      "description": "Electronic Meeting<br /><br />Working Session - Video &amp; Audio Accessible<br /><br />To listen or speak at public comment, call: 206-337-9723 or 213-338-8477 or Toll Free<br />877-853-5247 or 888-788-0099; Enter Meeting ID: 977 6634 1226<br /><br />This meeting will be held virtually.<br /><a href=\"https://www.a2gov.org/city-clerk/electronic-meetings/\" target=\"_blank\" rel=\"noopener\">View detailed procedures for public participation, how to contact the body, and procedures for persons with disabilities to participate.</a>",
+      "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D194448003",
+      "source": "city_ann_arbor",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:03.726338+00:00"
+    },
+    {
+      "id": "city_ann_arbor-2026-09-09-human-rights-commission",
+      "title": "Human Rights Commission",
+      "date": "2026-09-09",
+      "time": "7:00 PM",
+      "venue": "Larcom City Hall, 301 E Huron St, Basement, conference room",
+      "address": "",
+      "category": "city_ann_arbor",
+      "tags": [
+        "public_meeting"
+      ],
+      "description": "This meeting will be broadcast live on CTN Cable Channel 16, ATT Channel 99, and online at a2gov.org/watchCTN Public commentary can be made in person only<br /><a href=\"http://a2gov.legistar.com/Calendar.aspx\" target=\"_blank\" rel=\"noopener\">View city council, boards and commissions meeting agendas.</a>",
+      "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D195431750",
+      "source": "city_ann_arbor",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:20:03.726391+00:00"
+    },
+    {
+      "id": "ark-2026-09-09-the-arks-open-stage",
+      "title": "The Ark's Open Stage",
+      "date": "2026-09-09",
+      "time": "8:00 PM",
+      "venue": "The Ark, 316 S. Main, Ann Arbor, MI, 48104, United States",
+      "address": "",
+      "category": "arts_culture",
+      "tags": [
+        "music"
+      ],
+      "description": "Whether you\u2019re looking for your big break, want to perfect your live performance skills, or just want to perform live for the sheer fun of it, Open Stage nights offer supportive audiences and a terrific space. Performers have eight minutes (or two songs) each to do their thing. Doors open at 7:30, and names are drawn at 7:55 and 8:30. If your name isn\u2019t chosen, bring your raffle ticket with you next time, and you\u2019ll double your chances. More info here! \nWhy play Open Stage at the Ark? Do it to be heard. Do it so you know you can. Do it to take your music to the masses. If you\u2019re not interested in getting on stage tonight, get your practice in at being a great audience member and observer of new music. \nTickets available at the door.",
+      "url": "https://theark.org/event/the-arks-open-stage-260909/",
+      "source": "ark",
+      "also_listed_at": [],
+      "image_url": null,
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:19:49.337507+00:00"
+    },
+    {
+      "id": "blind_pig-2026-09-09-jake-nellett-superego-the-quartet",
+      "title": "Jake Nellett | Superego | The Quartet",
+      "date": "2026-09-09",
+      "time": "8pm",
+      "venue": "The Blind Pig",
+      "address": "208 S. 1st St, Ann Arbor, MI",
+      "category": "arts_culture",
+      "tags": [
+        "music"
+      ],
+      "description": "+$5 AT THE DOOR IF UNDER 21",
+      "url": "https://blindpigmusic.com/tm-event/jake-nellett-superego-the-quartet/",
+      "source": "blind_pig",
+      "also_listed_at": [],
+      "image_url": "https://i.ticketweb.com/i/00/13/60/36/53_Original.jpg?v=4",
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:19:53.480382+00:00"
+    },
+    {
+      "id": "detroit_street_filling-2026-09-09-happy-hour-mikey-abbasspour",
+      "title": "Happy Hour: Mikey Abbasspour",
+      "date": "2026-09-09",
+      "time": "9:30 PM",
+      "venue": "Detroit Street Filling Station / North Star Lounge",
+      "address": "",
+      "category": "arts_culture",
+      "tags": [
+        "music"
+      ],
+      "description": "",
+      "url": "https://www.nstarlounge.com/events/hhmikeyabbasspour1",
+      "source": "detroit_street_filling",
+      "also_listed_at": [],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/62fd75cb471e0713728b1b71/1784237920791-QOJDC8JAAKX7GCWLWQCZ/Screenshot+2026-07-16+at+5.38.33%E2%80%AFPM.png",
+      "possible_duplicate": false,
+      "scraped_at": "2026-08-10T07:19:54.789741+00:00"
     }
   ]
 }
