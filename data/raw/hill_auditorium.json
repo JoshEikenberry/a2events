@@ -14,7 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-08-16T06:29:19.326386+00:00"
+    "scraped_at": "2026-08-17T06:41:03.789132+00:00"
   },
   {
     "id": "hill_auditorium-2026-09-12-aguank\u00f3-latin-jazz",
@@ -31,7 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-08-16T06:29:19.326708+00:00"
+    "scraped_at": "2026-08-17T06:41:03.789455+00:00"
   },
   {
     "id": "hill_auditorium-2026-09-13-tales-from-detroit-flying-cardboard-theater-for-families",
@@ -48,6 +48,23 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-08-16T06:29:19.327062+00:00"
+    "scraped_at": "2026-08-17T06:41:03.789798+00:00"
+  },
+  {
+    "id": "hill_auditorium-2026-09-16-open-mic-night-with-annie-bacon",
+    "title": "Open Mic Night with Annie Bacon",
+    "date": "2026-09-16",
+    "time": "",
+    "venue": "Hill Auditorium",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [],
+    "description": "",
+    "url": "https://ums.org/performance/open-mic-night/",
+    "source": "hill_auditorium",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-08-17T06:41:03.790078+00:00"
   }
 ]
