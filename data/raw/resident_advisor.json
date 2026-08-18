@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "resident_advisor-2026-08-21-technolodge",
+    "title": "TECHNOLODGE",
+    "date": "2026-08-21",
+    "time": "8:00 PM",
+    "venue": "Elks Pratt Lodge",
+    "address": "220 Sunset Rd; Ann Arbor; MI 48103",
+    "category": "arts_culture",
+    "tags": [
+      "music",
+      "electronic"
+    ],
+    "description": "",
+    "url": "https://ra.co/events/2514182",
+    "source": "resident_advisor",
+    "also_listed_at": [],
+    "image_url": "https://images.ra.co/e206e1d58b0ef1407f1a4338b6f9d8bfc98f9d8e.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-08-18T06:32:21.201766+00:00"
+  },
+  {
+    "id": "resident_advisor-2026-08-21-technolodge",
+    "title": "TECHNOLODGE",
+    "date": "2026-08-21",
+    "time": "8:00 PM",
+    "venue": "Elks Pratt Lodge",
+    "address": "220 Sunset Rd; Ann Arbor; MI 48103",
+    "category": "arts_culture",
+    "tags": [
+      "music",
+      "electronic"
+    ],
+    "description": "",
+    "url": "https://ra.co/events/2514182",
+    "source": "resident_advisor",
+    "also_listed_at": [],
+    "image_url": "https://images.ra.co/e206e1d58b0ef1407f1a4338b6f9d8bfc98f9d8e.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-08-18T06:32:21.202528+00:00"
+  }
+]
