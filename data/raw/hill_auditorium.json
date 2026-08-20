@@ -14,7 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-08-19T06:33:27.962069+00:00"
+    "scraped_at": "2026-08-20T06:35:16.323649+00:00"
   },
   {
     "id": "hill_auditorium-2026-09-12-aguank\u00f3-latin-jazz",
@@ -31,7 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-08-19T06:33:27.962374+00:00"
+    "scraped_at": "2026-08-20T06:35:16.323885+00:00"
   },
   {
     "id": "hill_auditorium-2026-09-13-tales-from-detroit-flying-cardboard-theater-for-families",
@@ -48,7 +48,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-08-19T06:33:27.962656+00:00"
+    "scraped_at": "2026-08-20T06:35:16.324103+00:00"
   },
   {
     "id": "hill_auditorium-2026-09-16-open-mic-night-with-annie-bacon",
@@ -65,7 +65,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-08-19T06:33:27.962895+00:00"
+    "scraped_at": "2026-08-20T06:35:16.324295+00:00"
   },
   {
     "id": "hill_auditorium-2026-09-18-sofa-stories-stories-on-stage-and-screen",
@@ -82,6 +82,23 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-08-19T06:33:27.963137+00:00"
+    "scraped_at": "2026-08-20T06:35:16.324475+00:00"
+  },
+  {
+    "id": "hill_auditorium-2026-09-19-the-music-of-john-coltrane-africabrass",
+    "title": "The Music of John Coltrane \u2014 Africa/Brass",
+    "date": "2026-09-19",
+    "time": "",
+    "venue": "Hill Auditorium",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [],
+    "description": "",
+    "url": "https://ums.org/performance/the-music-of-john-coltrane-africa-brass/",
+    "source": "hill_auditorium",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-08-20T06:35:16.324660+00:00"
   }
 ]

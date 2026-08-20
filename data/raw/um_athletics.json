@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-08-19T06:33:49.752342+00:00"
+    "scraped_at": "2026-08-20T06:35:35.272471+00:00"
   },
   {
     "id": "um_athletics-2026-09-12-university-of-michigan-football-vs-oklahoma-maize-out-presented-by-coca-cola",
@@ -35,6 +35,25 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-08-19T06:33:49.752415+00:00"
+    "scraped_at": "2026-08-20T06:35:35.272530+00:00"
+  },
+  {
+    "id": "um_athletics-2026-09-19-university-of-michigan-football-vs-utep-parachute-jump-presented-by-u-m-health",
+    "title": "University of Michigan Football vs UTEP- Parachute Jump | Presented by U-M Health",
+    "date": "2026-09-19",
+    "time": "7:30 PM",
+    "venue": "Ann Arbor, Mich.",
+    "address": "",
+    "category": "um_athletics",
+    "tags": [
+      "football"
+    ],
+    "description": "University of Michigan Football vs UTEP- Parachute Jump | Presented by U-M Health\nTV: Big Ten Network\nStreaming Video: https://www.foxsports.com/live/btn\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://mgoblue.com/calendar.aspx?game_id=30376&amp;sport_id=4",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=30376&amp;sport_id=4",
+    "source": "um_athletics",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-08-20T06:35:35.272589+00:00"
   }
 ]
