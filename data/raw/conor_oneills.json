@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "conor_oneills-2026-08-22-premier-league-at-the-pub",
+    "title": "Premier League at the pub",
+    "date": "2026-08-22",
+    "time": "11:30 AM",
+    "venue": "Conor O'Neill's",
+    "address": "318 South Main Street, Ann Arbor, MI 48104",
+    "category": "arts_culture",
+    "tags": [
+      "irish",
+      "live-entertainment"
+    ],
+    "description": "Join us in Michigans favorite soccer pub for all the premier league games! Conor O\u2019Neill\u2019s on Main Street in Ann Arbor for every soccer game.",
+    "url": "https://www.conoroneills.com/events/premier-league-at-the-pub-rw3nz",
+    "source": "conor_oneills",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5fb2ec3d767c4d6fc1204052/1787323685127-W9S8TP3S2HWVKBKBFXPY/Premier+League+%281%29.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-08-22T06:29:16.365535+00:00"
+  },
+  {
+    "id": "conor_oneills-2026-08-23-premier-league-at-the-pub-copy",
+    "title": "Premier League at the pub  (Copy)",
+    "date": "2026-08-23",
+    "time": "1:00 PM",
+    "venue": "Conor O'Neill's",
+    "address": "318 South Main Street, Ann Arbor, MI 48104",
+    "category": "arts_culture",
+    "tags": [
+      "irish",
+      "live-entertainment"
+    ],
+    "description": "Join us in Michigans favorite soccer pub for all the premier league games! Conor O\u2019Neill\u2019s on Main Street in Ann Arbor for every soccer game.",
+    "url": "https://www.conoroneills.com/events/premier-league-at-the-pub-rw3nz-cr49a",
+    "source": "conor_oneills",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5fb2ec3d767c4d6fc1204052/1787323685127-W9S8TP3S2HWVKBKBFXPY/Premier+League+%281%29.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-08-22T06:29:16.365618+00:00"
+  }
+]
