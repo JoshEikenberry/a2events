@@ -10,32 +10,32 @@
     "tags": [
       "football"
     ],
-    "description": "University of Michigan Football vs Iowa- Stripe Out | Presented by Meijer\nTV: CBS\nRadio: Learfield Michigan Sports Network\nStreaming Audio: https://mgoblue.com/showcase?Live=2826\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://mgoblue.com/calendar.aspx?game_id=30377&amp;sport_id=4",
+    "description": "University of Michigan Football vs Iowa- Stripe Out | Presented by Meijer\nTV: CBS\nRadio: Learfield Michigan Sports Network\nStreaming Video: https://www.cbssports.com/watch/college-football/LET-211534365\nStreaming Audio: https://mgoblue.com/showcase?Live=2826\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://mgoblue.com/calendar.aspx?game_id=30377&amp;sport_id=4",
     "url": "https://mgoblue.com/calendar.aspx?game_id=30377&amp;sport_id=4",
     "source": "um_athletics",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-21T11:45:11.361750+00:00"
+    "scraped_at": "2026-09-22T10:48:05.666310+00:00"
   },
   {
     "id": "um_athletics-2026-10-03-university-of-michigan-football-at-minnesota",
     "title": "University of Michigan Football at Minnesota",
     "date": "2026-10-03",
-    "time": "",
+    "time": "4:00 PM",
     "venue": "Minneapolis, Minn.",
     "address": "",
     "category": "um_athletics",
     "tags": [
       "football"
     ],
-    "description": "University of Michigan Football at Minnesota\nRadio: Learfield Michigan Sports Network\nStreaming Audio: https://mgoblue.com/showcase?Live=2827\n https://mgoblue.com/calendar.aspx?game_id=30378&amp;sport_id=4",
+    "description": "University of Michigan Football at Minnesota\nTV: Fox\nRadio: Learfield Michigan Sports Network\nStreaming Audio: https://mgoblue.com/showcase?Live=2827\n https://mgoblue.com/calendar.aspx?game_id=30378&amp;sport_id=4",
     "url": "https://mgoblue.com/calendar.aspx?game_id=30378&amp;sport_id=4",
     "source": "um_athletics",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-21T11:45:11.361806+00:00"
+    "scraped_at": "2026-09-22T10:48:05.666382+00:00"
   },
   {
     "id": "um_athletics-2026-10-17-university-of-michigan-football-vs-penn-state-homecoming-presented-by-dte",
@@ -54,6 +54,6 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-21T11:45:11.361850+00:00"
+    "scraped_at": "2026-09-22T10:48:05.666442+00:00"
   }
 ]
