@@ -14,7 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.885022+00:00"
+    "scraped_at": "2026-09-23T10:37:25.875681+00:00"
   },
   {
     "id": "hill_auditorium-2026-09-25-the-cleveland-orchestra",
@@ -31,7 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.885345+00:00"
+    "scraped_at": "2026-09-23T10:37:25.876004+00:00"
   },
   {
     "id": "hill_auditorium-2026-09-26-123-andr\u00e9s-for-families",
@@ -48,7 +48,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.885685+00:00"
+    "scraped_at": "2026-09-23T10:37:25.876330+00:00"
   },
   {
     "id": "hill_auditorium-2026-09-26-dames-brown",
@@ -65,7 +65,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.885969+00:00"
+    "scraped_at": "2026-09-23T10:37:25.876637+00:00"
   },
   {
     "id": "hill_auditorium-2026-09-27-my-brightest-diamond",
@@ -82,7 +82,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.886235+00:00"
+    "scraped_at": "2026-09-23T10:37:25.876918+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-02-bruce-hornsby-the-noisemakers-indigo-park-tour",
@@ -99,7 +99,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.886496+00:00"
+    "scraped_at": "2026-09-23T10:37:25.877173+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-03-marks-of-red-shamel-pitts-tribe",
@@ -116,7 +116,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.886773+00:00"
+    "scraped_at": "2026-09-23T10:37:25.877425+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-03-you-can-dance-with-shamel-pitts-tribe",
@@ -133,7 +133,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.887043+00:00"
+    "scraped_at": "2026-09-23T10:37:25.877722+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-09-samara-joy",
@@ -150,7 +150,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.887288+00:00"
+    "scraped_at": "2026-09-23T10:37:25.877974+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-17-lupita-infante-y-su-mariachi",
@@ -167,7 +167,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.887573+00:00"
+    "scraped_at": "2026-09-23T10:37:25.878223+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-18-american-dialogues-250-sphinx-virtuosi-feat-jnai-bridges-mezzo-soprano",
@@ -184,7 +184,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.887829+00:00"
+    "scraped_at": "2026-09-23T10:37:25.878474+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-19-school-day-performance-for-grades-k-12-lupita-infante-y-su-mariachi",
@@ -201,7 +201,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.888075+00:00"
+    "scraped_at": "2026-09-23T10:37:25.878745+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-20-ums-101-all-about-the-piano",
@@ -218,6 +218,23 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-22T10:47:41.888320+00:00"
+    "scraped_at": "2026-09-23T10:37:25.878993+00:00"
+  },
+  {
+    "id": "hill_auditorium-2026-10-23-the-rose-sonata-ums150-dance-commission-world-premiere",
+    "title": "The Rose Sonata UMS150 Dance Commission & World Premiere",
+    "date": "2026-10-23",
+    "time": "",
+    "venue": "Hill Auditorium",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [],
+    "description": "",
+    "url": "https://ums.org/performance/ums150-dance-commission-world-premiere/",
+    "source": "hill_auditorium",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-23T10:37:25.879238+00:00"
   }
 ]
