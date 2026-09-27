@@ -1,24 +1,5 @@
 [
   {
-    "id": "um_athletics-2026-09-26-university-of-michigan-football-vs-iowa-stripe-out-presented-by-meijer",
-    "title": "University of Michigan Football vs Iowa- Stripe Out | Presented by Meijer",
-    "date": "2026-09-26",
-    "time": "7:30 PM",
-    "venue": "Ann Arbor, Mich.",
-    "address": "",
-    "category": "um_athletics",
-    "tags": [
-      "football"
-    ],
-    "description": "University of Michigan Football vs Iowa- Stripe Out | Presented by Meijer\nTV: CBS\nRadio: Learfield Michigan Sports Network\nStreaming Video: https://www.cbssports.com/watch/college-football/LET-211534365\nStreaming Audio: https://mgoblue.com/showcase?Live=2826\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://mgoblue.com/calendar.aspx?game_id=30377&amp;sport_id=4",
-    "url": "https://mgoblue.com/calendar.aspx?game_id=30377&amp;sport_id=4",
-    "source": "um_athletics",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-09-26T10:39:40.638343+00:00"
-  },
-  {
     "id": "um_athletics-2026-10-03-university-of-michigan-football-at-minnesota",
     "title": "University of Michigan Football at Minnesota",
     "date": "2026-10-03",
@@ -35,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-26T10:39:40.638422+00:00"
+    "scraped_at": "2026-09-27T11:13:18.435327+00:00"
   },
   {
     "id": "um_athletics-2026-10-17-university-of-michigan-football-vs-penn-state-homecoming-presented-by-dte",
@@ -54,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-26T10:39:40.638485+00:00"
+    "scraped_at": "2026-09-27T11:13:18.435393+00:00"
   },
   {
     "id": "um_athletics-2026-10-24-university-of-michigan-football-vs-indiana-block-cancer-game-parents-weekend-presented-by-u-m-health-rogel-cancer-center",
@@ -73,6 +54,6 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-26T10:39:40.638550+00:00"
+    "scraped_at": "2026-09-27T11:13:18.435457+00:00"
   }
 ]
