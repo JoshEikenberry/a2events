@@ -1,22 +1,5 @@
 [
   {
-    "id": "hill_auditorium-2026-09-27-my-brightest-diamond",
-    "title": "My Brightest Diamond",
-    "date": "2026-09-27",
-    "time": "",
-    "venue": "Hill Auditorium",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [],
-    "description": "",
-    "url": "https://ums.org/performance/my-brightest-diamond/",
-    "source": "hill_auditorium",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-09-27T11:12:48.528281+00:00"
-  },
-  {
     "id": "hill_auditorium-2026-10-02-bruce-hornsby-the-noisemakers-indigo-park-tour",
     "title": "Bruce Hornsby & The Noisemakers Indigo Park Tour",
     "date": "2026-10-02",
@@ -31,7 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-27T11:12:48.528585+00:00"
+    "scraped_at": "2026-09-28T12:40:05.028155+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-03-marks-of-red-shamel-pitts-tribe",
@@ -48,7 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-27T11:12:48.528887+00:00"
+    "scraped_at": "2026-09-28T12:40:05.028499+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-03-you-can-dance-with-shamel-pitts-tribe",
@@ -65,7 +48,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-27T11:12:48.529156+00:00"
+    "scraped_at": "2026-09-28T12:40:05.028796+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-09-samara-joy",
@@ -82,7 +65,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-27T11:12:48.529393+00:00"
+    "scraped_at": "2026-09-28T12:40:05.029050+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-17-lupita-infante-y-su-mariachi",
@@ -99,7 +82,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-27T11:12:48.529641+00:00"
+    "scraped_at": "2026-09-28T12:40:05.029331+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-18-american-dialogues-250-sphinx-virtuosi-feat-jnai-bridges-mezzo-soprano",
@@ -116,7 +99,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-27T11:12:48.529911+00:00"
+    "scraped_at": "2026-09-28T12:40:05.029587+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-19-school-day-performance-for-grades-k-12-lupita-infante-y-su-mariachi",
@@ -133,7 +116,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-27T11:12:48.530172+00:00"
+    "scraped_at": "2026-09-28T12:40:05.029842+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-20-ums-101-all-about-the-piano",
@@ -150,7 +133,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-27T11:12:48.530412+00:00"
+    "scraped_at": "2026-09-28T12:40:05.030109+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-23-the-rose-sonata-ums150-dance-commission-world-premiere",
@@ -167,6 +150,23 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-09-27T11:12:48.530646+00:00"
+    "scraped_at": "2026-09-28T12:40:05.030380+00:00"
+  },
+  {
+    "id": "hill_auditorium-2026-10-28-bruce-liu-piano",
+    "title": "Bruce Liu, piano",
+    "date": "2026-10-28",
+    "time": "",
+    "venue": "Hill Auditorium",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [],
+    "description": "",
+    "url": "https://ums.org/performance/bruce-liu-piano/",
+    "source": "hill_auditorium",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-28T12:40:05.030614+00:00"
   }
 ]
