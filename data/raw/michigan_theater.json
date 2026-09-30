@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/rec%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548021+00:00"
+    "scraped_at": "2026-09-30T11:46:25.232483+00:00"
   },
   {
     "id": "michigan_theater-2026-10-09-anthony-jeselnik-wrath-of-man",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/anthony_jeselnik_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548086+00:00"
+    "scraped_at": "2026-09-30T11:46:25.232542+00:00"
   },
   {
     "id": "michigan_theater-2026-10-09-the-social-reckoning",
@@ -54,7 +54,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thesocialreckoning%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548136+00:00"
+    "scraped_at": "2026-09-30T11:46:25.232579+00:00"
   },
   {
     "id": "michigan_theater-2026-10-09-the-social-reckoning",
@@ -73,7 +73,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thesocialreckoning%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548146+00:00"
+    "scraped_at": "2026-09-30T11:46:25.232586+00:00"
   },
   {
     "id": "michigan_theater-2026-10-12-aanikoobijigan-ancestorgreat-grandparentgreat-grandchild",
@@ -92,7 +92,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aanikoobijigan_banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548202+00:00"
+    "scraped_at": "2026-09-30T11:46:25.232633+00:00"
   },
   {
     "id": "michigan_theater-2026-10-08-amy-franceschinifuturefarmers-presence-as-practice",
@@ -111,7 +111,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/amy%20franceschini_futurefarmers_banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548311+00:00"
+    "scraped_at": "2026-09-30T11:46:25.232718+00:00"
   },
   {
     "id": "michigan_theater-2026-10-08-the-battle-of-algiers",
@@ -130,7 +130,159 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/battleofalgiers%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548354+00:00"
+    "scraped_at": "2026-09-30T11:46:25.232753+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-08-digger",
+    "title": "Digger",
+    "date": "2026-10-08",
+    "time": "3:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039383~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.232784+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-08-digger",
+    "title": "Digger",
+    "date": "2026-10-08",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039384~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.232789+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-08-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-08",
+    "time": "4:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039409~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.232821+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-08-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-08",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039410~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.232826+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-08-primetime",
+    "title": "Primetime",
+    "date": "2026-10-08",
+    "time": "4:10pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039396~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.232856+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-08-primetime",
+    "title": "Primetime",
+    "date": "2026-10-08",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039397~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.232861+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-08-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-08",
+    "time": "4:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039422~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.232891+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-08-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-08",
+    "time": "7:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039423~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.232896+00:00"
   },
   {
     "id": "michigan_theater-2026-10-08-videodrome",
@@ -149,7 +301,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/videodrome%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548419+00:00"
+    "scraped_at": "2026-09-30T11:46:25.232925+00:00"
   },
   {
     "id": "michigan_theater-2026-10-03-barbara-forever",
@@ -168,7 +320,26 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/barbaraforever%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548494+00:00"
+    "scraped_at": "2026-09-30T11:46:25.232977+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-03-digger",
+    "title": "Digger",
+    "date": "2026-10-03",
+    "time": "3:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039378~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233005+00:00"
   },
   {
     "id": "michigan_theater-2026-10-03-digger",
@@ -187,7 +358,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548534+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233010+00:00"
   },
   {
     "id": "michigan_theater-2026-10-03-digger",
@@ -206,7 +377,64 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548541+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233014+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-03-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-03",
+    "time": "4:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039402~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233042+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-03-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-03",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039403~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233048+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-03-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-03",
+    "time": "9:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039404~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233053+00:00"
   },
   {
     "id": "michigan_theater-2026-10-03-the-history-of-concrete",
@@ -225,7 +453,121 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thehistoryofconcrete%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548584+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233083+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-03-primetime",
+    "title": "Primetime",
+    "date": "2026-10-03",
+    "time": "4:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039388~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233110+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-03-primetime",
+    "title": "Primetime",
+    "date": "2026-10-03",
+    "time": "7:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039389~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233126+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-03-primetime",
+    "title": "Primetime",
+    "date": "2026-10-03",
+    "time": "9:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039390~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233131+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-03-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-03",
+    "time": "4:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039414~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233166+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-03-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-03",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039415~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233172+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-03-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-03",
+    "time": "9:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039416~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233177+00:00"
   },
   {
     "id": "michigan_theater-2026-10-10-the-blair-witch-project",
@@ -244,7 +586,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/blair%20witch%20dan%201_thumb.png",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548664+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233231+00:00"
   },
   {
     "id": "michigan_theater-2026-10-10-lake-mungo",
@@ -263,7 +605,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/lakemungo%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548704+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233262+00:00"
   },
   {
     "id": "michigan_theater-2026-10-10-paranormal-activity",
@@ -282,7 +624,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/paranormalactivity%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548745+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233292+00:00"
   },
   {
     "id": "michigan_theater-2026-10-10-the-social-reckoning",
@@ -301,7 +643,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thesocialreckoning%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548785+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233322+00:00"
   },
   {
     "id": "michigan_theater-2026-10-10-the-social-reckoning",
@@ -320,7 +662,26 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thesocialreckoning%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.548793+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233328+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-28-cozy-craft-club-buffy-the-vampire-slayer",
+    "title": "Cozy\u00a0Craft\u00a0Club - Buffy the Vampire Slayer",
+    "date": "2026-10-28",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039236~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/buffy%20banner_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233410+00:00"
   },
   {
     "id": "michigan_theater-2026-10-11-cloverfield",
@@ -339,7 +700,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/cloverfield%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549022+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233541+00:00"
   },
   {
     "id": "michigan_theater-2026-10-11-drag-becomes-her",
@@ -358,7 +719,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/drag%20becomes%20her%20banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549061+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233574+00:00"
   },
   {
     "id": "michigan_theater-2026-10-11-found-footage-shorts",
@@ -377,7 +738,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/foundshorts%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549102+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233604+00:00"
   },
   {
     "id": "michigan_theater-2026-10-11-the-social-reckoning",
@@ -396,7 +757,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thesocialreckoning%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549142+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233633+00:00"
   },
   {
     "id": "michigan_theater-2026-10-11-the-social-reckoning",
@@ -415,7 +776,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thesocialreckoning%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549150+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233639+00:00"
   },
   {
     "id": "michigan_theater-2026-10-11-vhs",
@@ -434,7 +795,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/vhs%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549189+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233669+00:00"
   },
   {
     "id": "michigan_theater-2026-10-22-crash",
@@ -453,7 +814,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/crash%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549228+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233699+00:00"
   },
   {
     "id": "michigan_theater-2026-10-22-holly-herndon-protocol",
@@ -472,7 +833,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/hollyherndon_banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549268+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233729+00:00"
   },
   {
     "id": "michigan_theater-2026-10-06-cure",
@@ -491,7 +852,45 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/cure%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549306+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233757+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-06-digger",
+    "title": "Digger",
+    "date": "2026-10-06",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039381~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233784+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-06-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-06",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039408~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233810+00:00"
   },
   {
     "id": "michigan_theater-2026-10-06-the-history-of-concrete",
@@ -510,7 +909,102 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thehistoryofconcrete%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549346+00:00"
+    "scraped_at": "2026-09-30T11:46:25.233840+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-06-primetime",
+    "title": "Primetime",
+    "date": "2026-10-06",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039394~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233867+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-06-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-06",
+    "time": "7:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039420~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233894+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-the-devils",
+    "title": "The Devils",
+    "date": "2026-10-30",
+    "time": "12:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1038293~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedevils%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233943+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-fjord",
+    "title": "Fjord",
+    "date": "2026-10-30",
+    "time": "12:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1038295~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fjord%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233969+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-02-digger",
+    "title": "Digger",
+    "date": "2026-10-02",
+    "time": "3:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039377~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.233997+00:00"
   },
   {
     "id": "michigan_theater-2026-10-02-digger",
@@ -529,7 +1023,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549495+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234001+00:00"
   },
   {
     "id": "michigan_theater-2026-10-02-digger",
@@ -548,7 +1042,178 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549503+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234006+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-02-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-02",
+    "time": "4:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039399~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234036+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-02-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-02",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039400~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234042+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-02-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-02",
+    "time": "9:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039401~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234047+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-02-primetime",
+    "title": "Primetime",
+    "date": "2026-10-02",
+    "time": "4:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039385~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234075+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-02-primetime",
+    "title": "Primetime",
+    "date": "2026-10-02",
+    "time": "7:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039386~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234080+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-02-primetime",
+    "title": "Primetime",
+    "date": "2026-10-02",
+    "time": "9:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039387~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234084+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-02-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-02",
+    "time": "4:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039411~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234120+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-02-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-02",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039412~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234127+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-02-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-02",
+    "time": "9:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039413~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234132+00:00"
   },
   {
     "id": "michigan_theater-2026-10-02-whose-live-anyway",
@@ -567,7 +1232,26 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/web%20header_thumb.png",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549543+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234168+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-04-digger",
+    "title": "Digger",
+    "date": "2026-10-04",
+    "time": "1:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039379~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234198+00:00"
   },
   {
     "id": "michigan_theater-2026-10-04-digger",
@@ -586,7 +1270,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549581+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234202+00:00"
   },
   {
     "id": "michigan_theater-2026-10-04-digger",
@@ -605,7 +1289,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549587+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234207+00:00"
   },
   {
     "id": "michigan_theater-2026-10-04-ghost-in-the-machine",
@@ -624,7 +1308,64 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/ghostinthemachine%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549628+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234237+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-04-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-04",
+    "time": "2:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039405~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234266+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-04-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-04",
+    "time": "4:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039406~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234272+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-04-heart-of-the-beast",
+    "title": "Heart Of The Beast",
+    "date": "2026-10-04",
+    "time": "7:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039407~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234277+00:00"
   },
   {
     "id": "michigan_theater-2026-10-04-the-last-picture-shows",
@@ -643,7 +1384,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thelastpictureshow%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549669+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234305+00:00"
   },
   {
     "id": "michigan_theater-2026-10-04-the-lord-of-the-rings-the-return-of-the-king-extended-edition",
@@ -662,7 +1403,121 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/lotrreturnoftheking_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549715+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234337+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-04-primetime",
+    "title": "Primetime",
+    "date": "2026-10-04",
+    "time": "2:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039391~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234364+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-04-primetime",
+    "title": "Primetime",
+    "date": "2026-10-04",
+    "time": "5:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039392~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234369+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-04-primetime",
+    "title": "Primetime",
+    "date": "2026-10-04",
+    "time": "7:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039393~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234374+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-04-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-04",
+    "time": "2:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039417~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234402+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-04-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-04",
+    "time": "4:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039418~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234407+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-04-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-04",
+    "time": "7:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039419~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234411+00:00"
   },
   {
     "id": "michigan_theater-2026-10-04-twin-peaks-season-2-episode-8-9",
@@ -681,50 +1536,12 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/twinpeakss2e8-9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549757+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234444+00:00"
   },
   {
-    "id": "michigan_theater-2026-09-29-documentaries-about-dabls-in-detroit",
-    "title": "Documentaries about Dabls in Detroit",
-    "date": "2026-09-29",
-    "time": "6:00pm",
-    "venue": "State Theatre -Screen 1",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1034201~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/viewfinder_1080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549798+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-09-29-edie-arnold-is-a-loser",
-    "title": "Edie Arnold Is A Loser",
-    "date": "2026-09-29",
-    "time": "7:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1030846~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/ediearnoldisaloser%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549838+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-09-29-heart-of-the-beast",
-    "title": "Heart Of The Beast",
-    "date": "2026-09-29",
+    "id": "michigan_theater-2026-10-07-digger",
+    "title": "Digger",
+    "date": "2026-10-07",
     "time": "6:15pm",
     "venue": "State Theatre",
     "address": "",
@@ -733,17 +1550,55 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1038079~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039382~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/digger%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549879+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234473+00:00"
   },
   {
-    "id": "michigan_theater-2026-09-29-primetime",
+    "id": "michigan_theater-2026-10-07-the-history-of-concrete",
+    "title": "The History of Concrete",
+    "date": "2026-10-07",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039375~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thehistoryofconcrete%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234503+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-07-primetime",
     "title": "Primetime",
-    "date": "2026-09-29",
+    "date": "2026-10-07",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039395~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-09-30T11:46:25.234529+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-07-resident-evil",
+    "title": "Resident Evil",
+    "date": "2026-10-07",
     "time": "6:45pm",
     "venue": "State Theatre",
     "address": "",
@@ -752,17 +1607,17 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1038053~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039421~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549917+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234556+00:00"
   },
   {
-    "id": "michigan_theater-2026-09-29-resident-evil",
-    "title": "Resident Evil",
-    "date": "2026-09-29",
+    "id": "michigan_theater-2026-10-07-the-wedding",
+    "title": "The Wedding",
+    "date": "2026-10-07",
     "time": "7:00pm",
     "venue": "State Theatre",
     "address": "",
@@ -771,12 +1626,12 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1038066~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039180~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thewedding%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549957+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234583+00:00"
   },
   {
     "id": "michigan_theater-2026-10-24-dracula",
@@ -795,7 +1650,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dracula%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.549995+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234609+00:00"
   },
   {
     "id": "michigan_theater-2026-10-24-the-invisible-man",
@@ -814,7 +1669,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/theinvisibleman%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550035+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234637+00:00"
   },
   {
     "id": "michigan_theater-2026-10-24-the-rocky-horror-picture-show-ft-the-leather-medusas-shadowcast",
@@ -833,7 +1688,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/rocky%20horror%20picture%20show%20banner%20img_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550079+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234669+00:00"
   },
   {
     "id": "michigan_theater-2026-10-15-the-fly",
@@ -852,7 +1707,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thefly%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550117+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234696+00:00"
   },
   {
     "id": "michigan_theater-2026-10-15-shane-ward-fearless-by-design",
@@ -871,7 +1726,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/shane_ward_banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550157+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234725+00:00"
   },
   {
     "id": "michigan_theater-2026-09-30-heart-of-the-beast",
@@ -890,7 +1745,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550199+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234753+00:00"
   },
   {
     "id": "michigan_theater-2026-09-30-primetime",
@@ -909,7 +1764,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550239+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234779+00:00"
   },
   {
     "id": "michigan_theater-2026-09-30-resident-evil",
@@ -928,7 +1783,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550280+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234807+00:00"
   },
   {
     "id": "michigan_theater-2026-10-01-heart-of-the-beast",
@@ -947,7 +1802,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550320+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234836+00:00"
   },
   {
     "id": "michigan_theater-2026-10-01-heart-of-the-beast",
@@ -966,7 +1821,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/heartofthebeast%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550328+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234842+00:00"
   },
   {
     "id": "michigan_theater-2026-10-01-if-i-go-will-they-miss-me",
@@ -985,7 +1840,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/ifigowilltheymissme%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550384+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234871+00:00"
   },
   {
     "id": "michigan_theater-2026-10-01-lgbt-history-month-film-festival",
@@ -1004,7 +1859,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/lgbt_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550435+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234901+00:00"
   },
   {
     "id": "michigan_theater-2026-10-01-primetime",
@@ -1023,7 +1878,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550475+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234928+00:00"
   },
   {
     "id": "michigan_theater-2026-10-01-primetime",
@@ -1042,7 +1897,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/primetime%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550482+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234932+00:00"
   },
   {
     "id": "michigan_theater-2026-10-01-resident-evil",
@@ -1061,7 +1916,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550522+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234959+00:00"
   },
   {
     "id": "michigan_theater-2026-10-01-resident-evil",
@@ -1080,7 +1935,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/residentevil%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550529+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234964+00:00"
   },
   {
     "id": "michigan_theater-2026-10-01-scanners",
@@ -1099,7 +1954,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/scanners%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550568+00:00"
+    "scraped_at": "2026-09-30T11:46:25.234991+00:00"
   },
   {
     "id": "michigan_theater-2026-10-01-vijay-gupta-book-of-hours",
@@ -1118,7 +1973,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/vijay_gupta_banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550610+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235020+00:00"
   },
   {
     "id": "michigan_theater-2026-10-25-hotel-transylvania",
@@ -1137,7 +1992,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/hoteltransylvania%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550650+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235049+00:00"
   },
   {
     "id": "michigan_theater-2026-10-25-nosferatu",
@@ -1156,7 +2011,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/nosferatu_1080x450%20(1)_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550688+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235078+00:00"
   },
   {
     "id": "michigan_theater-2026-10-29-james-baxter-animation-its-alive",
@@ -1175,7 +2030,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/james_baxter_banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550729+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235109+00:00"
   },
   {
     "id": "michigan_theater-2026-10-20-jigoku",
@@ -1189,12 +2044,12 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1030804~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039367~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/jigoku%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550767+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235152+00:00"
   },
   {
     "id": "michigan_theater-2026-10-14-kenny-wayne-shepherd",
@@ -1213,7 +2068,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/static_digital-1080x450_kennywayneshepherdband_2026_regional_michigantheaterannarbor_1014_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550834+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235299+00:00"
   },
   {
     "id": "michigan_theater-2026-10-13-kwaidan",
@@ -1232,7 +2087,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/kwaidan%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550873+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235330+00:00"
   },
   {
     "id": "michigan_theater-2026-10-19-michigan-theater-blood-drive",
@@ -1251,7 +2106,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/header%20image%20rectangular%20-%20blood%20drive_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.550969+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235404+00:00"
   },
   {
     "id": "michigan_theater-2026-10-18-the-michigan-theater-community-film-club-horror-comedy-in-film",
@@ -1270,7 +2125,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/horror%20&%20comedy%20-%20film%20club%20banner%20(1)_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.551012+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235438+00:00"
   },
   {
     "id": "michigan_theater-2026-10-18-twin-peaks-season-2-episode-21-22",
@@ -1289,7 +2144,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/twinpeakss2e21-22%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.551053+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235469+00:00"
   },
   {
     "id": "michigan_theater-2026-10-17-the-mummy",
@@ -1308,7 +2163,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/themummy%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.551092+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235496+00:00"
   },
   {
     "id": "michigan_theater-2026-10-17-the-wolfman",
@@ -1327,7 +2182,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thewolfman%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.551132+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235523+00:00"
   },
   {
     "id": "michigan_theater-2026-10-16-student-night-obsession",
@@ -1346,7 +2201,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/obsession%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.551201+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235578+00:00"
   },
   {
     "id": "michigan_theater-2026-10-16-sense-and-sensibility",
@@ -1365,7 +2220,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/senseandsensibility%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.551242+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235607+00:00"
   },
   {
     "id": "michigan_theater-2026-10-23-the-rocky-horror-picture-show-ft-the-leather-medusas-shadowcast",
@@ -1384,7 +2239,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/rocky%20horror%20picture%20show%20banner%20img_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.551286+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235660+00:00"
   },
   {
     "id": "michigan_theater-2026-10-23-wicker",
@@ -1403,7 +2258,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.551324+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235687+00:00"
   },
   {
     "id": "michigan_theater-2026-10-23-you-can-see-everything",
@@ -1422,6 +2277,6 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-09-29T11:58:16.551363+00:00"
+    "scraped_at": "2026-09-30T11:46:25.235715+00:00"
   }
 ]
