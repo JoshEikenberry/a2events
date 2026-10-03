@@ -1,43 +1,5 @@
 [
   {
-    "id": "washtenaw_county-2026-10-02-police-services-steering-committee",
-    "title": "Police Services Steering Committee",
-    "date": "2026-10-02",
-    "time": "9:00 AM",
-    "venue": "4135 Washtenaw Ave, Ann Arbor, MI",
-    "address": "",
-    "category": "washtenaw_county",
-    "tags": [
-      "public_meeting"
-    ],
-    "description": "",
-    "url": "https://washtenawcomi.portal.civicclerk.com/event/4283",
-    "source": "washtenaw_county",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.418264+00:00"
-  },
-  {
-    "id": "washtenaw_county-2026-10-02-older-persons-millage-review-committee",
-    "title": "Older Persons Millage Review Committee",
-    "date": "2026-10-02",
-    "time": "10:00 AM",
-    "venue": "Learning Resource Center, 4135 Washtenaw, Ann Arbor, MI",
-    "address": "",
-    "category": "washtenaw_county",
-    "tags": [
-      "public_meeting"
-    ],
-    "description": "",
-    "url": "https://washtenawcomi.portal.civicclerk.com/event/4196",
-    "source": "washtenaw_county",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.418431+00:00"
-  },
-  {
     "id": "washtenaw_county-2026-10-05-regular-meeting-of-the-opioid-settlement-advisory-committee-in-person-virtual",
     "title": "Regular Meeting of the Opioid Settlement Advisory Committee (In person & virtual)",
     "date": "2026-10-05",
@@ -54,7 +16,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.418561+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590271+00:00"
+  },
+  {
+    "id": "washtenaw_county-2026-10-05-wccmh-quality-finance-committee",
+    "title": "WCCMH - Quality-Finance Committee",
+    "date": "2026-10-05",
+    "time": "2:30 PM",
+    "venue": "4135 Washtenaw Ave, Ann Arbor, Michigan",
+    "address": "",
+    "category": "washtenaw_county",
+    "tags": [
+      "public_meeting"
+    ],
+    "description": "",
+    "url": "https://washtenawcomi.portal.civicclerk.com/event/4286",
+    "source": "washtenaw_county",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-03T10:58:12.590344+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-06-election-commission-public-logic-accuracy-testing-october-6-2026",
@@ -73,7 +54,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.418686+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590400+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-06-election-commission-october-6-2026",
@@ -92,7 +73,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.418802+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590456+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-06-coalition-for-action-on-remediation-of-dioxane-meeting",
@@ -111,7 +92,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.418916+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590506+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-07-board-of-commissioners-working-session",
@@ -130,7 +111,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.419031+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590555+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-07-board-of-commissioners-meeting",
@@ -149,7 +130,24 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.419151+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590601+00:00"
+  },
+  {
+    "id": "washtenaw_county-2026-10-08-brownfield-redevelopment-authority",
+    "title": "Brownfield Redevelopment Authority",
+    "date": "2026-10-08",
+    "time": "9:00 AM",
+    "venue": "4135 Washtenaw Avenue, Superior Meeting Room, Ann Arbor, MI",
+    "address": "",
+    "category": "washtenaw_county",
+    "tags": [],
+    "description": "",
+    "url": "https://washtenawcomi.portal.civicclerk.com/event/4287",
+    "source": "washtenaw_county",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-03T10:58:12.590658+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-08-historic-district-commission",
@@ -168,7 +166,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.419263+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590707+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-13-parks-recreation-commission",
@@ -187,7 +185,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.419398+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590773+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-14-washtenaw-county-food-policy-council-meeting-10142026",
@@ -206,7 +204,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.419509+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590823+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-16-older-persons-millage-review-committee",
@@ -225,7 +223,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.419618+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590871+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-21-board-of-public-works-october-2026-meeting",
@@ -244,7 +242,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.419725+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590917+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-21-board-of-commissioners-working-session",
@@ -263,7 +261,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.419829+00:00"
+    "scraped_at": "2026-10-03T10:58:12.590963+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-21-board-of-commissioners-meeting",
@@ -282,6 +280,6 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-02T11:44:52.419934+00:00"
+    "scraped_at": "2026-10-03T10:58:12.591008+00:00"
   }
 ]
