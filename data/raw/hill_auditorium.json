@@ -1,22 +1,5 @@
 [
   {
-    "id": "hill_auditorium-2026-10-09-samara-joy",
-    "title": "Samara Joy",
-    "date": "2026-10-09",
-    "time": "",
-    "venue": "Hill Auditorium",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [],
-    "description": "",
-    "url": "https://ums.org/performance/samara/",
-    "source": "hill_auditorium",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-09T12:26:15.961929+00:00"
-  },
-  {
     "id": "hill_auditorium-2026-10-17-lupita-infante-y-su-mariachi",
     "title": "Lupita Infante y su mariachi",
     "date": "2026-10-17",
@@ -31,7 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-09T12:26:15.962211+00:00"
+    "scraped_at": "2026-10-10T11:45:14.967126+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-18-american-dialogues-250-sphinx-virtuosi-feat-jnai-bridges-mezzo-soprano",
@@ -48,7 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-09T12:26:15.962461+00:00"
+    "scraped_at": "2026-10-10T11:45:14.967329+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-19-school-day-performance-for-grades-k-12-lupita-infante-y-su-mariachi",
@@ -65,7 +48,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-09T12:26:15.962705+00:00"
+    "scraped_at": "2026-10-10T11:45:14.967492+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-20-ums-101-all-about-the-piano",
@@ -82,7 +65,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-09T12:26:15.962906+00:00"
+    "scraped_at": "2026-10-10T11:45:14.967628+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-23-the-rose-sonata-ums150-dance-commission-world-premiere",
@@ -99,7 +82,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-09T12:26:15.963101+00:00"
+    "scraped_at": "2026-10-10T11:45:14.967755+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-28-bruce-liu-piano",
@@ -116,7 +99,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-09T12:26:15.963285+00:00"
+    "scraped_at": "2026-10-10T11:45:14.967876+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-08-escher-quartet-jason-vieaux-guitar",
@@ -133,6 +116,6 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-09T12:26:15.963499+00:00"
+    "scraped_at": "2026-10-10T11:45:14.967998+00:00"
   }
 ]
