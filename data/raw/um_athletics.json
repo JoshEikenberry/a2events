@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-14T11:01:02.106195+00:00"
+    "scraped_at": "2026-10-15T10:43:55.486911+00:00"
   },
   {
     "id": "um_athletics-2026-10-24-university-of-michigan-football-vs-indiana-block-cancer-game-parents-weekend-presented-by-u-m-health-rogel-cancer-center",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-14T11:01:02.106239+00:00"
+    "scraped_at": "2026-10-15T10:43:55.486993+00:00"
   },
   {
     "id": "um_athletics-2026-10-31-university-of-michigan-football-at-rutgers",
@@ -54,7 +54,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-14T11:01:02.106266+00:00"
+    "scraped_at": "2026-10-15T10:43:55.487049+00:00"
   },
   {
     "id": "um_athletics-2026-11-07-university-of-michigan-football-vs-michigan-state-military-appreciation-game-presented-by-belfor-property-restoration",
@@ -73,6 +73,25 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-14T11:01:02.106292+00:00"
+    "scraped_at": "2026-10-15T10:43:55.487106+00:00"
+  },
+  {
+    "id": "um_athletics-2026-11-14-university-of-michigan-football-at-oregon",
+    "title": "University of Michigan Football at Oregon",
+    "date": "2026-11-14",
+    "time": "",
+    "venue": "Eugene, Ore.",
+    "address": "",
+    "category": "um_athletics",
+    "tags": [
+      "football"
+    ],
+    "description": "University of Michigan Football at Oregon\nRadio: Learfield Michigan Sports Network\nStreaming Audio: https://mgoblue.com/showcase?Live=2832\n https://mgoblue.com/calendar.aspx?game_id=30383&amp;sport_id=4",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=30383&amp;sport_id=4",
+    "source": "um_athletics",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-15T10:43:55.487178+00:00"
   }
 ]
