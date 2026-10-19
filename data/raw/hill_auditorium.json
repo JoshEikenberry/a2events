@@ -1,22 +1,5 @@
 [
   {
-    "id": "hill_auditorium-2026-10-18-american-dialogues-250-sphinx-virtuosi-feat-jnai-bridges-mezzo-soprano",
-    "title": "American Dialogues 250 Sphinx Virtuosi feat. J\u2019Nai Bridges, mezzo-soprano",
-    "date": "2026-10-18",
-    "time": "",
-    "venue": "Hill Auditorium",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [],
-    "description": "",
-    "url": "https://ums.org/performance/sphinx-virtuosi-featuring-jnai-bridges-mezzo-soprano/",
-    "source": "hill_auditorium",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-18T10:13:37.550068+00:00"
-  },
-  {
     "id": "hill_auditorium-2026-10-19-school-day-performance-for-grades-k-12-lupita-infante-y-su-mariachi",
     "title": "School Day Performance for Grades K-12: Lupita Infante y su mariachi",
     "date": "2026-10-19",
@@ -31,7 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-18T10:13:37.550376+00:00"
+    "scraped_at": "2026-10-19T11:51:27.904689+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-20-ums-101-all-about-the-piano",
@@ -48,7 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-18T10:13:37.550692+00:00"
+    "scraped_at": "2026-10-19T11:51:27.905023+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-23-the-rose-sonata-ums150-dance-commission-world-premiere",
@@ -65,7 +48,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-18T10:13:37.550957+00:00"
+    "scraped_at": "2026-10-19T11:51:27.905323+00:00"
   },
   {
     "id": "hill_auditorium-2026-10-28-bruce-liu-piano",
@@ -82,7 +65,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-18T10:13:37.551201+00:00"
+    "scraped_at": "2026-10-19T11:51:27.905579+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-08-escher-quartet-jason-vieaux-guitar",
@@ -99,7 +82,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-18T10:13:37.551437+00:00"
+    "scraped_at": "2026-10-19T11:51:27.905815+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-10-ums-101-explore-the-world-of-contemporary-percussion",
@@ -116,7 +99,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-18T10:13:37.551705+00:00"
+    "scraped_at": "2026-10-19T11:51:27.906084+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-13-mozarts-requiem",
@@ -133,7 +116,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-18T10:13:37.551951+00:00"
+    "scraped_at": "2026-10-19T11:51:27.906317+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-15-andy-akiho-sandbox-percussion",
@@ -150,7 +133,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-18T10:13:37.552190+00:00"
+    "scraped_at": "2026-10-19T11:51:27.906564+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-16-school-day-performance-for-grades-2-12-andy-akiho-sandbox-percussion",
@@ -167,6 +150,23 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-18T10:13:37.552440+00:00"
+    "scraped_at": "2026-10-19T11:51:27.906805+00:00"
+  },
+  {
+    "id": "hill_auditorium-2026-11-18-jack-tucker-comedy-standup-show-created-and-performed-by-zach-zucker",
+    "title": "Jack Tucker Comedy Standup Show Created and performed by Zach Zucker",
+    "date": "2026-11-18",
+    "time": "",
+    "venue": "Hill Auditorium",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [],
+    "description": "",
+    "url": "https://ums.org/performance/jack-tucker-comedy-standup-show/",
+    "source": "hill_auditorium",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-19T11:51:27.907067+00:00"
   }
 ]
