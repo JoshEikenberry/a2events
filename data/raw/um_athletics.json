@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-21T11:01:21.663231+00:00"
+    "scraped_at": "2026-10-22T10:59:48.237875+00:00"
   },
   {
     "id": "um_athletics-2026-10-31-university-of-michigan-football-at-rutgers",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-21T11:01:21.663275+00:00"
+    "scraped_at": "2026-10-22T10:59:48.237949+00:00"
   },
   {
     "id": "um_athletics-2026-11-07-university-of-michigan-football-vs-michigan-state-military-appreciation-game-presented-by-belfor-property-restoration",
@@ -54,7 +54,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-21T11:01:21.663312+00:00"
+    "scraped_at": "2026-10-22T10:59:48.238011+00:00"
   },
   {
     "id": "um_athletics-2026-11-14-university-of-michigan-football-at-oregon",
@@ -73,6 +73,25 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-21T11:01:21.663341+00:00"
+    "scraped_at": "2026-10-22T10:59:48.238063+00:00"
+  },
+  {
+    "id": "um_athletics-2026-11-21-university-of-michigan-football-vs-ucla-senior-day",
+    "title": "University of Michigan Football vs UCLA- Senior Day",
+    "date": "2026-11-21",
+    "time": "",
+    "venue": "Ann Arbor, Mich.",
+    "address": "",
+    "category": "um_athletics",
+    "tags": [
+      "football"
+    ],
+    "description": "University of Michigan Football vs UCLA- Senior Day\nRadio: Learfield Michigan Sports Network\nStreaming Audio: https://mgoblue.com/showcase?Live=2833\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://mgoblue.com/calendar.aspx?game_id=30384&amp;sport_id=4",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=30384&amp;sport_id=4",
+    "source": "um_athletics",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-22T10:59:48.238114+00:00"
   }
 ]
