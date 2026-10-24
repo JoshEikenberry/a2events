@@ -1,43 +1,5 @@
 [
   {
-    "id": "washtenaw_county-2026-10-23-regular-meeting-of-the-washtenaw-county-board-of-health-in-person-via-zoom",
-    "title": "Regular meeting of the Washtenaw County Board of Health (In person & via Zoom)",
-    "date": "2026-10-23",
-    "time": "9:00 AM",
-    "venue": "555 Towner, Room  #2102B, Ypsilanti, MI",
-    "address": "",
-    "category": "washtenaw_county",
-    "tags": [
-      "public_meeting"
-    ],
-    "description": "",
-    "url": "https://washtenawcomi.portal.civicclerk.com/event/4301",
-    "source": "washtenaw_county",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566217+00:00"
-  },
-  {
-    "id": "washtenaw_county-2026-10-23-wccmh-board",
-    "title": "WCCMH Board",
-    "date": "2026-10-23",
-    "time": "9:30 AM",
-    "venue": "555 Towner St, YPSILANTI, MI",
-    "address": "",
-    "category": "washtenaw_county",
-    "tags": [
-      "public_meeting"
-    ],
-    "description": "",
-    "url": "https://washtenawcomi.portal.civicclerk.com/event/4299",
-    "source": "washtenaw_county",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566290+00:00"
-  },
-  {
     "id": "washtenaw_county-2026-10-27-wcers-regular-board-meeting",
     "title": "WCERS Regular Board Meeting",
     "date": "2026-10-27",
@@ -54,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566343+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450045+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-27-space-plan-steering-committee-october-27-2026",
@@ -73,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566396+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450142+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-27-agricultural-lands-preservation-advisory-committee",
@@ -92,7 +54,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566446+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450220+00:00"
+  },
+  {
+    "id": "washtenaw_county-2026-10-28-continuum-of-care-board-october-meeting",
+    "title": "Continuum of Care Board October Meeting",
+    "date": "2026-10-28",
+    "time": "3:30 PM",
+    "venue": "2305 Platt Rd, Washtenaw Community Room, Ann Arbor, MI",
+    "address": "",
+    "category": "washtenaw_county",
+    "tags": [
+      "public_meeting"
+    ],
+    "description": "",
+    "url": "https://washtenawcomi.portal.civicclerk.com/event/4303",
+    "source": "washtenaw_county",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-24T10:07:27.450296+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-28-community-corrections-advisory-board",
@@ -111,26 +92,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566493+00:00"
-  },
-  {
-    "id": "washtenaw_county-2026-10-28-continuum-of-care-board-october-meeting",
-    "title": "Continuum of Care Board October Meeting",
-    "date": "2026-10-28",
-    "time": "5:30 PM",
-    "venue": "2305 Platt Rd, Washtenaw Community Room, Ann Arbor, MI",
-    "address": "",
-    "category": "washtenaw_county",
-    "tags": [
-      "public_meeting"
-    ],
-    "description": "",
-    "url": "https://washtenawcomi.portal.civicclerk.com/event/4131",
-    "source": "washtenaw_county",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566540+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450367+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-28-community-action-board-october-meeting",
@@ -149,7 +111,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566597+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450441+00:00"
   },
   {
     "id": "washtenaw_county-2026-10-28-community-action-board",
@@ -168,7 +130,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566644+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450512+00:00"
   },
   {
     "id": "washtenaw_county-2026-11-02-natural-areas-technical-advisory-committee",
@@ -187,7 +149,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566691+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450594+00:00"
   },
   {
     "id": "washtenaw_county-2026-11-03-coalition-for-action-on-remediation-of-dioxane-meeting",
@@ -206,7 +168,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566739+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450668+00:00"
   },
   {
     "id": "washtenaw_county-2026-11-04-board-of-commissioners-working-session",
@@ -225,7 +187,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566785+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450753+00:00"
   },
   {
     "id": "washtenaw_county-2026-11-04-board-of-commissioners-meeting",
@@ -244,7 +206,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566830+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450824+00:00"
   },
   {
     "id": "washtenaw_county-2026-11-05-board-of-canvassers-november-5-2026",
@@ -263,7 +225,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566875+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450894+00:00"
   },
   {
     "id": "washtenaw_county-2026-11-05-historic-district-commission",
@@ -282,6 +244,44 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-23T10:53:06.566920+00:00"
+    "scraped_at": "2026-10-24T10:07:27.450962+00:00"
+  },
+  {
+    "id": "washtenaw_county-2026-11-06-board-of-canvassers-november-6-2026",
+    "title": "Board of Canvassers November 6, 2026",
+    "date": "2026-11-06",
+    "time": "9:00 AM",
+    "venue": "200 N MAIN ST, Lower Level Conference Room, Ann Arbor, MI",
+    "address": "",
+    "category": "washtenaw_county",
+    "tags": [
+      "public_meeting"
+    ],
+    "description": "",
+    "url": "https://washtenawcomi.portal.civicclerk.com/event/4170",
+    "source": "washtenaw_county",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-24T10:07:27.451030+00:00"
+  },
+  {
+    "id": "washtenaw_county-2026-11-06-commission-on-aging",
+    "title": "Commission on Aging",
+    "date": "2026-11-06",
+    "time": "9:00 AM",
+    "venue": "Zoom Meeting",
+    "address": "",
+    "category": "washtenaw_county",
+    "tags": [
+      "public_meeting"
+    ],
+    "description": "",
+    "url": "https://washtenawcomi.portal.civicclerk.com/event/4288",
+    "source": "washtenaw_county",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-24T10:07:27.451097+00:00"
   }
 ]
