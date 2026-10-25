@@ -1,81 +1,5 @@
 [
   {
-    "id": "aadl-2026-10-24-reading-list-card-decks",
-    "title": "Reading-List Card Decks",
-    "date": "2026-10-24",
-    "time": "12:00 PM",
-    "venue": "Pittsfield Branch: Program Room Grade K\u2013Adult",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/674572",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.668869+00:00"
-  },
-  {
-    "id": "aadl-2026-10-24-super-smash-bros-ultimate-tournament",
-    "title": "Super Smash Bros. Ultimate Tournament",
-    "date": "2026-10-24",
-    "time": "1:00 PM",
-    "venue": "Downtown Library: 4th Floor Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/666426",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.669176+00:00"
-  },
-  {
-    "id": "aadl-2026-10-24-craft-stick-monsters",
-    "title": "Craft Stick Monsters",
-    "date": "2026-10-24",
-    "time": "3:00 PM",
-    "venue": "Pittsfield Branch: Program Room Grade K\u20135",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/671360",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.669443+00:00"
-  },
-  {
-    "id": "aadl-2026-10-24-pop-pop-boats",
-    "title": "Pop Pop Boats",
-    "date": "2026-10-24",
-    "time": "3:00 PM",
-    "venue": "Downtown Library: Secret Lab Grade 3\u2013Adult",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/669720",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.669721+00:00"
-  },
-  {
     "id": "aadl-2026-10-25-not-so-scary-haunted-house-sensory-friendly-hour",
     "title": "Not-so-scary Haunted House: Sensory Friendly Hour",
     "date": "2026-10-25",
@@ -92,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.669979+00:00"
+    "scraped_at": "2026-10-25T10:33:01.483267+00:00"
   },
   {
     "id": "aadl-2026-10-25-halloween-costume-contest",
@@ -111,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.670225+00:00"
+    "scraped_at": "2026-10-25T10:33:01.483511+00:00"
   },
   {
     "id": "aadl-2026-10-25-not-so-scary-haunted-house",
@@ -130,7 +54,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.670476+00:00"
+    "scraped_at": "2026-10-25T10:33:01.483714+00:00"
   },
   {
     "id": "aadl-2026-10-25-pumpkin-carving-demo",
@@ -149,26 +73,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.670744+00:00"
-  },
-  {
-    "id": "aadl-2026-10-25-all-ages-mario-kart-tournament",
-    "title": "All-Ages Mario Kart Tournament",
-    "date": "2026-10-25",
-    "time": "1:00 PM",
-    "venue": "Downtown Library: 4th Floor Program Room All Ages",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/666425",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.670993+00:00"
+    "scraped_at": "2026-10-25T10:33:01.483936+00:00"
   },
   {
     "id": "aadl-2026-10-25-oops-all-felt",
@@ -187,7 +92,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.671234+00:00"
+    "scraped_at": "2026-10-25T10:33:01.484120+00:00"
+  },
+  {
+    "id": "aadl-2026-10-25-all-ages-mario-kart-tournament",
+    "title": "All-Ages Mario Kart Tournament",
+    "date": "2026-10-25",
+    "time": "1:00 PM",
+    "venue": "Downtown Library: 4th Floor Program Room All Ages",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/666425",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:01.484311+00:00"
   },
   {
     "id": "aadl-2026-10-26-preschool-storytimes",
@@ -206,7 +130,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.671474+00:00"
+    "scraped_at": "2026-10-25T10:33:01.484493+00:00"
   },
   {
     "id": "aadl-2026-10-26-canceled-baby-playgroups",
@@ -225,7 +149,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.671736+00:00"
+    "scraped_at": "2026-10-25T10:33:01.484684+00:00"
   },
   {
     "id": "aadl-2026-10-26-washtenaw-literacy-digital-skills",
@@ -244,7 +168,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.671983+00:00"
+    "scraped_at": "2026-10-25T10:33:01.484865+00:00"
   },
   {
     "id": "aadl-2026-10-26-spooky-mini-paintings",
@@ -263,26 +187,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.672219+00:00"
-  },
-  {
-    "id": "aadl-2026-10-26-aadl-board-meeting-october-26-2026",
-    "title": "AADL Board Meeting - October 26, 2026",
-    "date": "2026-10-26",
-    "time": "6:00 PM",
-    "venue": "Downtown Library: 4th Floor Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/665176",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.672458+00:00"
+    "scraped_at": "2026-10-25T10:33:01.485045+00:00"
   },
   {
     "id": "aadl-2026-10-26-sewing-lab-hand-stitched-invisible-hems",
@@ -301,26 +206,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.672700+00:00"
+    "scraped_at": "2026-10-25T10:33:01.485253+00:00"
   },
   {
-    "id": "aadl-2026-10-27-canceled-baby-playgroups",
-    "title": "CANCELED Baby Playgroups",
-    "date": "2026-10-27",
-    "time": "11:00 AM",
-    "venue": "Traverwood Branch: Program Room Babies Up To 24 Months",
+    "id": "aadl-2026-10-26-aadl-board-meeting-october-26-2026",
+    "title": "AADL Board Meeting - October 26, 2026",
+    "date": "2026-10-26",
+    "time": "6:00 PM",
+    "venue": "Downtown Library: 4th Floor Program Room",
     "address": "",
     "category": "community",
     "tags": [
-      "baby_playgroups"
+      "public_event"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/644746",
+    "url": "https://www.aadl.org/node/665176",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.672958+00:00"
+    "scraped_at": "2026-10-25T10:33:01.485436+00:00"
   },
   {
     "id": "aadl-2026-10-27-preschool-storytimes",
@@ -339,7 +244,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.673214+00:00"
+    "scraped_at": "2026-10-25T10:33:01.485616+00:00"
   },
   {
     "id": "aadl-2026-10-27-canceled-preschool-storytimes",
@@ -358,7 +263,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.673473+00:00"
+    "scraped_at": "2026-10-25T10:33:01.485799+00:00"
+  },
+  {
+    "id": "aadl-2026-10-27-canceled-baby-playgroups",
+    "title": "CANCELED Baby Playgroups",
+    "date": "2026-10-27",
+    "time": "11:00 AM",
+    "venue": "Traverwood Branch: Program Room Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644746",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:01.485976+00:00"
   },
   {
     "id": "aadl-2026-10-27-intro-to-laser-engraving-wooden-coasters",
@@ -377,7 +301,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:49.673730+00:00"
+    "scraped_at": "2026-10-25T10:33:01.486153+00:00"
   },
   {
     "id": "aadl-2026-10-27-film-screening-the-extraordinary-caterpillar",
@@ -396,45 +320,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.662989+00:00"
-  },
-  {
-    "id": "aadl-2026-10-28-canceled-baby-playgroups",
-    "title": "CANCELED Baby Playgroups",
-    "date": "2026-10-28",
-    "time": "10:30 AM",
-    "venue": "Westgate Branch: West Side Room Babies Up To 24 Months",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "baby_playgroups"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/644290",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.663284+00:00"
-  },
-  {
-    "id": "aadl-2026-10-28-canceled-preschool-storytimes",
-    "title": "CANCELED Preschool Storytimes",
-    "date": "2026-10-28",
-    "time": "10:30 AM",
-    "venue": "Malletts Creek Branch: Program Room Age 2\u20135 Years",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "preschool_storytimes"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/646065",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.663544+00:00"
+    "scraped_at": "2026-10-25T10:33:01.486339+00:00"
   },
   {
     "id": "aadl-2026-10-28-baby-playgroups",
@@ -453,7 +339,45 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.663808+00:00"
+    "scraped_at": "2026-10-25T10:33:01.486518+00:00"
+  },
+  {
+    "id": "aadl-2026-10-28-canceled-baby-playgroups",
+    "title": "CANCELED Baby Playgroups",
+    "date": "2026-10-28",
+    "time": "10:30 AM",
+    "venue": "Westgate Branch: West Side Room Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644290",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:01.486696+00:00"
+  },
+  {
+    "id": "aadl-2026-10-28-canceled-preschool-storytimes",
+    "title": "CANCELED Preschool Storytimes",
+    "date": "2026-10-28",
+    "time": "10:30 AM",
+    "venue": "Malletts Creek Branch: Program Room Age 2\u20135 Years",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "preschool_storytimes"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/646065",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:01.486871+00:00"
   },
   {
     "id": "aadl-2026-10-28-wax-sealed-letter-writing",
@@ -472,26 +396,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.664050+00:00"
-  },
-  {
-    "id": "aadl-2026-10-28-aadl-welcomes-menopause-meditation-whats-changing-and-what-you-can-do-about-it",
-    "title": "AADL Welcomes | Menopause & Meditation: What\u2019s Changing and What You Can Do About It",
-    "date": "2026-10-28",
-    "time": "6:00 PM",
-    "venue": "Pittsfield Branch: Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "lectures_panel_discussions"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/674951",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.664329+00:00"
+    "scraped_at": "2026-10-25T10:33:02.165175+00:00"
   },
   {
     "id": "aadl-2026-10-28-aadl-welcomes-the-sierra-club-what-makes-this-el-ni\u00f1o-super-and-what-does-it-mean-for-us",
@@ -510,7 +415,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.664606+00:00"
+    "scraped_at": "2026-10-25T10:33:02.165397+00:00"
   },
   {
     "id": "aadl-2026-10-28-exploring-color-palettes-in-gouache-painting",
@@ -529,26 +434,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.664884+00:00"
+    "scraped_at": "2026-10-25T10:33:02.165586+00:00"
   },
   {
-    "id": "aadl-2026-10-29-canceled-preschool-storytimes",
-    "title": "CANCELED Preschool Storytimes",
-    "date": "2026-10-29",
-    "time": "11:00 AM",
-    "venue": "Traverwood Branch: Program Room Age 2\u20135 Years",
+    "id": "aadl-2026-10-28-aadl-welcomes-menopause-meditation-whats-changing-and-what-you-can-do-about-it",
+    "title": "AADL Welcomes | Menopause & Meditation: What\u2019s Changing and What You Can Do About It",
+    "date": "2026-10-28",
+    "time": "6:00 PM",
+    "venue": "Pittsfield Branch: Program Room",
     "address": "",
     "category": "community",
     "tags": [
-      "preschool_storytimes"
+      "lectures_panel_discussions"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/644225",
+    "url": "https://www.aadl.org/node/674951",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.665150+00:00"
+    "scraped_at": "2026-10-25T10:33:02.165772+00:00"
   },
   {
     "id": "aadl-2026-10-29-preschool-storytimes",
@@ -567,26 +472,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.665416+00:00"
+    "scraped_at": "2026-10-25T10:33:02.165954+00:00"
   },
   {
-    "id": "aadl-2026-10-29-mini-succulent-pumpkins",
-    "title": "Mini Succulent Pumpkins",
+    "id": "aadl-2026-10-29-canceled-preschool-storytimes",
+    "title": "CANCELED Preschool Storytimes",
     "date": "2026-10-29",
-    "time": "6:00 PM",
-    "venue": "Downtown Library: Secret Lab",
+    "time": "11:00 AM",
+    "venue": "Traverwood Branch: Program Room Age 2\u20135 Years",
     "address": "",
     "category": "community",
     "tags": [
-      "crafts"
+      "preschool_storytimes"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/669634",
+    "url": "https://www.aadl.org/node/644225",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.665677+00:00"
+    "scraped_at": "2026-10-25T10:33:02.166130+00:00"
   },
   {
     "id": "aadl-2026-10-29-author-event-kim-clarke-the-last-full-measure-an-american-family-and-how-the-united-states-brought-home-the-dead-of-world-war-ii",
@@ -605,7 +510,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.665961+00:00"
+    "scraped_at": "2026-10-25T10:33:02.166328+00:00"
   },
   {
     "id": "aadl-2026-10-29-interlocking-crochet",
@@ -624,7 +529,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.666217+00:00"
+    "scraped_at": "2026-10-25T10:33:02.166502+00:00"
+  },
+  {
+    "id": "aadl-2026-10-29-mini-succulent-pumpkins",
+    "title": "Mini Succulent Pumpkins",
+    "date": "2026-10-29",
+    "time": "6:00 PM",
+    "venue": "Downtown Library: Secret Lab",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/669634",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:02.166676+00:00"
   },
   {
     "id": "aadl-2026-10-30-the-halloween-show",
@@ -643,7 +567,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.666475+00:00"
+    "scraped_at": "2026-10-25T10:33:02.166855+00:00"
   },
   {
     "id": "aadl-2026-10-30-canceled-baby-playgroups",
@@ -662,7 +586,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.666748+00:00"
+    "scraped_at": "2026-10-25T10:33:02.167033+00:00"
   },
   {
     "id": "aadl-2026-10-30-the-halloween-show",
@@ -681,7 +605,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.667014+00:00"
+    "scraped_at": "2026-10-25T10:33:02.167208+00:00"
   },
   {
     "id": "aadl-2026-10-30-canceled-preschool-storytimes",
@@ -700,26 +624,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.667273+00:00"
-  },
-  {
-    "id": "aadl-2026-10-30-make-a-wire-sculpture-inspired-by-louise-bourgeoiss-spider",
-    "title": "Make a Wire Sculpture Inspired by Louise Bourgeois\u2019s \u201cSpider\"",
-    "date": "2026-10-30",
-    "time": "2:00 PM",
-    "venue": "Pittsfield Branch: Program Room Grade K-8",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/669573",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.667536+00:00"
+    "scraped_at": "2026-10-25T10:33:02.167392+00:00"
   },
   {
     "id": "aadl-2026-10-30-glitter-pictures",
@@ -738,7 +643,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.667813+00:00"
+    "scraped_at": "2026-10-25T10:33:02.167571+00:00"
+  },
+  {
+    "id": "aadl-2026-10-30-make-a-wire-sculpture-inspired-by-louise-bourgeoiss-spider",
+    "title": "Make a Wire Sculpture Inspired by Louise Bourgeois\u2019s \u201cSpider\"",
+    "date": "2026-10-30",
+    "time": "2:00 PM",
+    "venue": "Pittsfield Branch: Program Room Grade K-8",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/669573",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:02.167748+00:00"
   },
   {
     "id": "aadl-2026-10-30-reflejos-latinos-dance-performance",
@@ -757,26 +681,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:50.668078+00:00"
-  },
-  {
-    "id": "aadl-2026-10-31-animal-paper-craft-owls",
-    "title": "Animal Paper Craft: Owls",
-    "date": "2026-10-31",
-    "time": "11:00 AM",
-    "venue": "Downtown Library: Secret Lab Grade K\u20135",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/674552",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.185280+00:00"
+    "scraped_at": "2026-10-25T10:33:02.167921+00:00"
   },
   {
     "id": "aadl-2026-10-31-handmade-felt-ghost-garlands",
@@ -795,7 +700,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.185559+00:00"
+    "scraped_at": "2026-10-25T10:33:02.168097+00:00"
+  },
+  {
+    "id": "aadl-2026-10-31-animal-paper-craft-owls",
+    "title": "Animal Paper Craft: Owls",
+    "date": "2026-10-31",
+    "time": "11:00 AM",
+    "venue": "Downtown Library: Secret Lab Grade K\u20135",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/674552",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:02.168280+00:00"
   },
   {
     "id": "aadl-2026-10-31-letterpress-open-lab",
@@ -814,7 +738,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.185817+00:00"
+    "scraped_at": "2026-10-25T10:33:02.168462+00:00"
   },
   {
     "id": "aadl-2026-10-31-film-screening-goodbye-politicians-hello-democracy-with-braver-angels-of-washtenaw-county",
@@ -833,45 +757,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.186061+00:00"
-  },
-  {
-    "id": "aadl-2026-11-01-yarn-art-landscapes",
-    "title": "Yarn Art Landscapes",
-    "date": "2026-11-01",
-    "time": "1:00 PM",
-    "venue": "Pittsfield Branch: Program Room Grade K\u2013Adult",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/671276",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.186305+00:00"
-  },
-  {
-    "id": "aadl-2026-11-01-relief-printing-with-anishinaabe-artist-jamie-john",
-    "title": "Relief Printing with Anishinaabe Artist Jamie John",
-    "date": "2026-11-01",
-    "time": "1:00 PM",
-    "venue": "Downtown Library: Secret Lab",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/668389",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.186539+00:00"
+    "scraped_at": "2026-10-25T10:33:02.168640+00:00"
   },
   {
     "id": "aadl-2026-11-01-native-american-dance-and-cultural-program-with-reg-pettibone",
@@ -890,7 +776,45 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.186789+00:00"
+    "scraped_at": "2026-10-25T10:33:03.769418+00:00"
+  },
+  {
+    "id": "aadl-2026-11-01-yarn-art-landscapes",
+    "title": "Yarn Art Landscapes",
+    "date": "2026-11-01",
+    "time": "1:00 PM",
+    "venue": "Pittsfield Branch: Program Room Grade K\u2013Adult",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/671276",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:03.769634+00:00"
+  },
+  {
+    "id": "aadl-2026-11-01-relief-printing-with-anishinaabe-artist-jamie-john",
+    "title": "Relief Printing with Anishinaabe Artist Jamie John",
+    "date": "2026-11-01",
+    "time": "1:00 PM",
+    "venue": "Downtown Library: Secret Lab",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/668389",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:03.769823+00:00"
   },
   {
     "id": "aadl-2026-11-01-yarn-fabric-and-notions-swap",
@@ -909,7 +833,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.187019+00:00"
+    "scraped_at": "2026-10-25T10:33:03.770006+00:00"
   },
   {
     "id": "aadl-2026-11-01-bad-asians-of-ann-arbor",
@@ -928,7 +852,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.187247+00:00"
+    "scraped_at": "2026-10-25T10:33:03.770182+00:00"
   },
   {
     "id": "aadl-2026-11-02-preschool-storytimes",
@@ -947,7 +871,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.187477+00:00"
+    "scraped_at": "2026-10-25T10:33:03.770374+00:00"
   },
   {
     "id": "aadl-2026-11-02-washtenaw-literacy-digital-skills",
@@ -966,26 +890,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.187709+00:00"
-  },
-  {
-    "id": "aadl-2026-11-02-exploring-the-mind-pleasure-desire-and-addiction-in-the-brain",
-    "title": "Exploring the Mind | Pleasure, Desire, and Addiction in the Brain",
-    "date": "2026-11-02",
-    "time": "6:00 PM",
-    "venue": "Downtown Library: 4th Floor Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/673751",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.187959+00:00"
+    "scraped_at": "2026-10-25T10:33:03.770552+00:00"
   },
   {
     "id": "aadl-2026-11-02-collapsible-paper-boxes",
@@ -1004,45 +909,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.188189+00:00"
+    "scraped_at": "2026-10-25T10:33:03.770727+00:00"
   },
   {
-    "id": "aadl-2026-11-03-baby-playgroups",
-    "title": "Baby Playgroups",
-    "date": "2026-11-03",
-    "time": "11:00 AM",
-    "venue": "Traverwood Branch: Program Room Babies Up To 24 Months",
+    "id": "aadl-2026-11-02-exploring-the-mind-pleasure-desire-and-addiction-in-the-brain",
+    "title": "Exploring the Mind | Pleasure, Desire, and Addiction in the Brain",
+    "date": "2026-11-02",
+    "time": "6:00 PM",
+    "venue": "Downtown Library: 4th Floor Program Room",
     "address": "",
     "category": "community",
     "tags": [
-      "baby_playgroups"
+      "public_event"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/644747",
+    "url": "https://www.aadl.org/node/673751",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.188418+00:00"
-  },
-  {
-    "id": "aadl-2026-11-03-preschool-storytimes",
-    "title": "Preschool Storytimes",
-    "date": "2026-11-03",
-    "time": "11:00 AM",
-    "venue": "Downtown Library: Kids Story Corner Age 2\u20135 Years",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "preschool_storytimes"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/644116",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.188647+00:00"
+    "scraped_at": "2026-10-25T10:33:03.770899+00:00"
   },
   {
     "id": "aadl-2026-11-03-preschool-storytimes",
@@ -1061,7 +947,45 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.188890+00:00"
+    "scraped_at": "2026-10-25T10:33:03.771074+00:00"
+  },
+  {
+    "id": "aadl-2026-11-03-baby-playgroups",
+    "title": "Baby Playgroups",
+    "date": "2026-11-03",
+    "time": "11:00 AM",
+    "venue": "Traverwood Branch: Program Room Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644747",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:03.771261+00:00"
+  },
+  {
+    "id": "aadl-2026-11-03-preschool-storytimes",
+    "title": "Preschool Storytimes",
+    "date": "2026-11-03",
+    "time": "11:00 AM",
+    "venue": "Downtown Library: Kids Story Corner Age 2\u20135 Years",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "preschool_storytimes"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644116",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:03.771461+00:00"
   },
   {
     "id": "aadl-2026-11-03-author-event-sheila-hackbarth-lions-water",
@@ -1080,26 +1004,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.189123+00:00"
-  },
-  {
-    "id": "aadl-2026-11-03-magic-sponge-painting",
-    "title": "Magic Sponge Painting",
-    "date": "2026-11-03",
-    "time": "2:00 PM",
-    "venue": "Malletts Creek Branch: Program Room Preschool\u2013Grade 3",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/675378",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.189350+00:00"
+    "scraped_at": "2026-10-25T10:33:03.771640+00:00"
   },
   {
     "id": "aadl-2026-11-03-art-history-in-the-afternoon-marcel-duchamp",
@@ -1118,7 +1023,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.189580+00:00"
+    "scraped_at": "2026-10-25T10:33:03.771816+00:00"
   },
   {
     "id": "aadl-2026-11-03-sparkle-penguins",
@@ -1137,26 +1042,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:52.189818+00:00"
+    "scraped_at": "2026-10-25T10:33:03.771993+00:00"
   },
   {
-    "id": "aadl-2026-11-03-letterpress-open-lab",
-    "title": "Letterpress Open Lab",
+    "id": "aadl-2026-11-03-magic-sponge-painting",
+    "title": "Magic Sponge Painting",
     "date": "2026-11-03",
-    "time": "5:00 PM",
-    "venue": "Downtown Library: Secret Lab",
+    "time": "2:00 PM",
+    "venue": "Malletts Creek Branch: Program Room Preschool\u2013Grade 3",
     "address": "",
     "category": "community",
     "tags": [
-      "public_event"
+      "crafts"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/671223",
+    "url": "https://www.aadl.org/node/675378",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.672433+00:00"
+    "scraped_at": "2026-10-25T10:33:03.772168+00:00"
   },
   {
     "id": "aadl-2026-11-03-tunisian-crochet-for-absolute-beginners-with-toni-lipsey",
@@ -1175,7 +1080,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.672709+00:00"
+    "scraped_at": "2026-10-25T10:33:03.772366+00:00"
+  },
+  {
+    "id": "aadl-2026-11-03-letterpress-open-lab",
+    "title": "Letterpress Open Lab",
+    "date": "2026-11-03",
+    "time": "5:00 PM",
+    "venue": "Downtown Library: Secret Lab",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/671223",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:03.772538+00:00"
   },
   {
     "id": "aadl-2026-11-03-folk-song-jam-along",
@@ -1194,26 +1118,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.672985+00:00"
-  },
-  {
-    "id": "aadl-2026-11-04-baby-playgroups",
-    "title": "Baby Playgroups",
-    "date": "2026-11-04",
-    "time": "10:30 AM",
-    "venue": "Pittsfield Branch: Program Room Babies Up To 24 Months",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "baby_playgroups"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/644026",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.673242+00:00"
+    "scraped_at": "2026-10-25T10:33:03.772713+00:00"
   },
   {
     "id": "aadl-2026-11-04-baby-playgroups",
@@ -1232,7 +1137,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.673509+00:00"
+    "scraped_at": "2026-10-25T10:33:03.772888+00:00"
   },
   {
     "id": "aadl-2026-11-04-preschool-storytimes",
@@ -1251,26 +1156,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.673762+00:00"
+    "scraped_at": "2026-10-25T10:33:05.221601+00:00"
   },
   {
-    "id": "aadl-2026-11-04-introductory-woodcarving-dinos",
-    "title": "Introductory Woodcarving | Dinos",
+    "id": "aadl-2026-11-04-baby-playgroups",
+    "title": "Baby Playgroups",
     "date": "2026-11-04",
-    "time": "1:00 PM",
-    "venue": "Downtown Library: Secret Lab Teen\u2013Adult",
+    "time": "10:30 AM",
+    "venue": "Pittsfield Branch: Program Room Babies Up To 24 Months",
     "address": "",
     "category": "community",
     "tags": [
-      "crafts"
+      "baby_playgroups"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/669957",
+    "url": "https://www.aadl.org/node/644026",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.674006+00:00"
+    "scraped_at": "2026-10-25T10:33:05.221801+00:00"
   },
   {
     "id": "aadl-2026-11-04-literati-presents-lucy-ruth-cummins-love-bug",
@@ -1289,7 +1194,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.674246+00:00"
+    "scraped_at": "2026-10-25T10:33:05.221989+00:00"
+  },
+  {
+    "id": "aadl-2026-11-04-introductory-woodcarving-dinos",
+    "title": "Introductory Woodcarving | Dinos",
+    "date": "2026-11-04",
+    "time": "1:00 PM",
+    "venue": "Downtown Library: Secret Lab Teen\u2013Adult",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/669957",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:05.222167+00:00"
   },
   {
     "id": "aadl-2026-11-04-intro-to-3d-printing",
@@ -1308,26 +1232,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.674480+00:00"
-  },
-  {
-    "id": "aadl-2026-11-04-smell-tell-tadhana-modern-niche-perfumes-from-the-philippines",
-    "title": "Smell & Tell | Tadhana: Modern Niche Perfumes from the Philippines",
-    "date": "2026-11-04",
-    "time": "6:00 PM",
-    "venue": "Downtown Library: 4th Floor Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/672960",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.674727+00:00"
+    "scraped_at": "2026-10-25T10:33:05.222360+00:00"
   },
   {
     "id": "aadl-2026-11-04-esl-conversation-groups",
@@ -1346,7 +1251,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.674983+00:00"
+    "scraped_at": "2026-10-25T10:33:05.222534+00:00"
+  },
+  {
+    "id": "aadl-2026-11-04-smell-tell-tadhana-modern-niche-perfumes-from-the-philippines",
+    "title": "Smell & Tell | Tadhana: Modern Niche Perfumes from the Philippines",
+    "date": "2026-11-04",
+    "time": "6:00 PM",
+    "venue": "Downtown Library: 4th Floor Program Room",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/672960",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:05.222711+00:00"
   },
   {
     "id": "aadl-2026-11-05-esl-conversation-groups",
@@ -1365,7 +1289,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.675252+00:00"
+    "scraped_at": "2026-10-25T10:33:05.222884+00:00"
   },
   {
     "id": "aadl-2026-11-05-preschool-storytimes",
@@ -1384,7 +1308,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.675521+00:00"
+    "scraped_at": "2026-10-25T10:33:05.223059+00:00"
   },
   {
     "id": "aadl-2026-11-05-preschool-storytimes",
@@ -1403,7 +1327,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.675803+00:00"
+    "scraped_at": "2026-10-25T10:33:05.223232+00:00"
   },
   {
     "id": "aadl-2026-11-05-open-lab-button-makers-silhouette-cutting-machines-die-cutters-embossers",
@@ -1422,26 +1346,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.676076+00:00"
-  },
-  {
-    "id": "aadl-2026-11-05-cross-stitched-bookmark",
-    "title": "Cross-Stitched Bookmark",
-    "date": "2026-11-05",
-    "time": "6:00 PM",
-    "venue": "Downtown Library: 4th Floor Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/671362",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.676337+00:00"
+    "scraped_at": "2026-10-25T10:33:05.223433+00:00"
   },
   {
     "id": "aadl-2026-11-05-colorful-pajaki-chandeliers",
@@ -1460,7 +1365,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.676598+00:00"
+    "scraped_at": "2026-10-25T10:33:05.223605+00:00"
+  },
+  {
+    "id": "aadl-2026-11-05-cross-stitched-bookmark",
+    "title": "Cross-Stitched Bookmark",
+    "date": "2026-11-05",
+    "time": "6:00 PM",
+    "venue": "Downtown Library: 4th Floor Program Room",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/671362",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:05.223821+00:00"
   },
   {
     "id": "aadl-2026-11-06-baby-playgroups",
@@ -1479,7 +1403,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.676874+00:00"
+    "scraped_at": "2026-10-25T10:33:05.223994+00:00"
   },
   {
     "id": "aadl-2026-11-06-esl-conversation-groups",
@@ -1498,7 +1422,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.677113+00:00"
+    "scraped_at": "2026-10-25T10:33:05.224163+00:00"
   },
   {
     "id": "aadl-2026-11-06-preschool-storytimes",
@@ -1517,7 +1441,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:53.677353+00:00"
+    "scraped_at": "2026-10-25T10:33:05.224361+00:00"
   },
   {
     "id": "aadl-2026-11-06-hand-sewn-acorn-decoration",
@@ -1536,26 +1460,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.116825+00:00"
-  },
-  {
-    "id": "aadl-2026-11-06-aadl-welcomes-film-screening-the-road-home",
-    "title": "AADL Welcomes | Film Screening: The Road Home",
-    "date": "2026-11-06",
-    "time": "6:00 PM",
-    "venue": "Downtown Library: Lower Level Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "film_video_events"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/674872",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.117110+00:00"
+    "scraped_at": "2026-10-25T10:33:05.224531+00:00"
   },
   {
     "id": "aadl-2026-11-06-how-to-programmable-leds",
@@ -1574,7 +1479,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.117369+00:00"
+    "scraped_at": "2026-10-25T10:33:05.224702+00:00"
+  },
+  {
+    "id": "aadl-2026-11-06-aadl-welcomes-film-screening-the-road-home",
+    "title": "AADL Welcomes | Film Screening: The Road Home",
+    "date": "2026-11-06",
+    "time": "6:00 PM",
+    "venue": "Downtown Library: Lower Level Program Room",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "film_video_events"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/674872",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:05.224876+00:00"
   },
   {
     "id": "aadl-2026-11-07-aadl-welcomes-wee-write-with-826michigan",
@@ -1593,7 +1517,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.117629+00:00"
+    "scraped_at": "2026-10-25T10:33:05.225051+00:00"
   },
   {
     "id": "aadl-2026-11-07-french-storytime",
@@ -1612,7 +1536,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.117896+00:00"
+    "scraped_at": "2026-10-25T10:33:06.799203+00:00"
   },
   {
     "id": "aadl-2026-11-07-chinese-storytime",
@@ -1631,26 +1555,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.118141+00:00"
-  },
-  {
-    "id": "aadl-2026-11-07-cold-weather-gear-swap",
-    "title": "Cold Weather Gear Swap",
-    "date": "2026-11-07",
-    "time": "2:00 PM",
-    "venue": "Downtown Library: Lower Level Program Room Preschool\u2013Adult",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/664215",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.118387+00:00"
+    "scraped_at": "2026-10-25T10:33:06.799417+00:00"
   },
   {
     "id": "aadl-2026-11-07-origami-for-beginners",
@@ -1669,7 +1574,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.118646+00:00"
+    "scraped_at": "2026-10-25T10:33:06.799606+00:00"
+  },
+  {
+    "id": "aadl-2026-11-07-cold-weather-gear-swap",
+    "title": "Cold Weather Gear Swap",
+    "date": "2026-11-07",
+    "time": "2:00 PM",
+    "venue": "Downtown Library: Lower Level Program Room Preschool\u2013Adult",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/664215",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:06.799785+00:00"
   },
   {
     "id": "aadl-2026-11-07-colorful-cardboard-structures-inspired-by-architect-norma-sklarek",
@@ -1688,7 +1612,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.118914+00:00"
+    "scraped_at": "2026-10-25T10:33:06.799959+00:00"
   },
   {
     "id": "aadl-2026-11-07-foldable-farm",
@@ -1707,7 +1631,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.119160+00:00"
+    "scraped_at": "2026-10-25T10:33:06.800137+00:00"
   },
   {
     "id": "aadl-2026-11-08-dancing-babies-with-momo-kajiwara",
@@ -1726,7 +1650,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.119403+00:00"
+    "scraped_at": "2026-10-25T10:33:06.800328+00:00"
   },
   {
     "id": "aadl-2026-11-08-arabic-storytime",
@@ -1745,7 +1669,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.119643+00:00"
+    "scraped_at": "2026-10-25T10:33:06.800507+00:00"
   },
   {
     "id": "aadl-2026-11-08-letterpress-open-lab",
@@ -1764,7 +1688,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.119900+00:00"
+    "scraped_at": "2026-10-25T10:33:06.800679+00:00"
   },
   {
     "id": "aadl-2026-11-08-a-love-letter-to-black-romance-author-panel-discussion",
@@ -1783,7 +1707,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.120140+00:00"
+    "scraped_at": "2026-10-25T10:33:06.800854+00:00"
   },
   {
     "id": "aadl-2026-11-08-chesstastic",
@@ -1802,7 +1726,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.120373+00:00"
+    "scraped_at": "2026-10-25T10:33:06.801025+00:00"
   },
   {
     "id": "aadl-2026-11-08-the-sounds-and-stories-of-africa-with-fishmonger-stories",
@@ -1821,7 +1745,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.120607+00:00"
+    "scraped_at": "2026-10-25T10:33:06.801199+00:00"
   },
   {
     "id": "aadl-2026-11-08-drag-bingo",
@@ -1840,26 +1764,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.120848+00:00"
-  },
-  {
-    "id": "aadl-2026-11-09-baby-playgroups",
-    "title": "Baby Playgroups",
-    "date": "2026-11-09",
-    "time": "10:30 AM",
-    "venue": "Malletts Creek Branch: Program Room Babies Up To 24 Months",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "baby_playgroups"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/644169",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.121081+00:00"
+    "scraped_at": "2026-10-25T10:33:06.801382+00:00"
   },
   {
     "id": "aadl-2026-11-09-preschool-storytimes",
@@ -1878,7 +1783,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.121310+00:00"
+    "scraped_at": "2026-10-25T10:33:06.801572+00:00"
   },
   {
     "id": "aadl-2026-11-09-preschool-artstart",
@@ -1897,7 +1802,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:55.121538+00:00"
+    "scraped_at": "2026-10-25T10:33:06.801746+00:00"
+  },
+  {
+    "id": "aadl-2026-11-09-baby-playgroups",
+    "title": "Baby Playgroups",
+    "date": "2026-11-09",
+    "time": "10:30 AM",
+    "venue": "Malletts Creek Branch: Program Room Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644169",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:06.801917+00:00"
   },
   {
     "id": "aadl-2026-11-09-washtenaw-literacy-digital-skills",
@@ -1916,26 +1840,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.591525+00:00"
-  },
-  {
-    "id": "aadl-2026-11-09-sewing-lab-mitered-corners-with-bias-binding",
-    "title": "Sewing Lab | Mitered Corners with Bias Binding",
-    "date": "2026-11-09",
-    "time": "6:00 PM",
-    "venue": "Downtown Library: Secret Lab Grade 6\u2013Adult",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/645713",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.591809+00:00"
+    "scraped_at": "2026-10-25T10:33:06.802089+00:00"
   },
   {
     "id": "aadl-2026-11-09-photo-slide-art",
@@ -1954,7 +1859,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.592064+00:00"
+    "scraped_at": "2026-10-25T10:33:06.802269+00:00"
   },
   {
     "id": "aadl-2026-11-09-esl-conversation-groups",
@@ -1973,26 +1878,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.592305+00:00"
+    "scraped_at": "2026-10-25T10:33:06.802440+00:00"
   },
   {
-    "id": "aadl-2026-11-09-emerging-writers-workshop-do-you-have-what-it-takes-to-be-a-writer",
-    "title": "Emerging Writers Workshop | Do You Have What It Takes to Be a Writer?",
+    "id": "aadl-2026-11-09-sewing-lab-mitered-corners-with-bias-binding",
+    "title": "Sewing Lab | Mitered Corners with Bias Binding",
     "date": "2026-11-09",
-    "time": "6:30 PM",
-    "venue": "Westgate Branch: West Side Room",
+    "time": "6:00 PM",
+    "venue": "Downtown Library: Secret Lab Grade 6\u2013Adult",
     "address": "",
     "category": "community",
     "tags": [
-      "writing_publishing"
+      "crafts"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/647132",
+    "url": "https://www.aadl.org/node/645713",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.592561+00:00"
+    "scraped_at": "2026-10-25T10:33:06.802616+00:00"
   },
   {
     "id": "aadl-2026-11-09-literati-presents-jacob-weisberg-profiles-in-cowardice",
@@ -2011,26 +1916,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.592807+00:00"
+    "scraped_at": "2026-10-25T10:33:08.221453+00:00"
   },
   {
-    "id": "aadl-2026-11-10-baby-playgroups",
-    "title": "Baby Playgroups",
-    "date": "2026-11-10",
-    "time": "11:00 AM",
-    "venue": "Traverwood Branch: Program Room Babies Up To 24 Months",
+    "id": "aadl-2026-11-09-emerging-writers-workshop-do-you-have-what-it-takes-to-be-a-writer",
+    "title": "Emerging Writers Workshop | Do You Have What It Takes to Be a Writer?",
+    "date": "2026-11-09",
+    "time": "6:30 PM",
+    "venue": "Westgate Branch: West Side Room",
     "address": "",
     "category": "community",
     "tags": [
-      "baby_playgroups"
+      "writing_publishing"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/644748",
+    "url": "https://www.aadl.org/node/647132",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.593048+00:00"
+    "scraped_at": "2026-10-25T10:33:08.221660+00:00"
   },
   {
     "id": "aadl-2026-11-10-preschool-storytimes",
@@ -2049,7 +1954,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.593281+00:00"
+    "scraped_at": "2026-10-25T10:33:08.221857+00:00"
   },
   {
     "id": "aadl-2026-11-10-preschool-storytimes",
@@ -2068,7 +1973,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.593516+00:00"
+    "scraped_at": "2026-10-25T10:33:08.222041+00:00"
+  },
+  {
+    "id": "aadl-2026-11-10-baby-playgroups",
+    "title": "Baby Playgroups",
+    "date": "2026-11-10",
+    "time": "11:00 AM",
+    "venue": "Traverwood Branch: Program Room Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644748",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:08.222222+00:00"
   },
   {
     "id": "aadl-2026-11-10-intro-to-3d-modeling-keychains",
@@ -2087,7 +2011,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.593757+00:00"
+    "scraped_at": "2026-10-25T10:33:08.222409+00:00"
   },
   {
     "id": "aadl-2026-11-10-make-almost-anything-a-keychain",
@@ -2106,26 +2030,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.593992+00:00"
-  },
-  {
-    "id": "aadl-2026-11-11-preschool-storytimes",
-    "title": "Preschool Storytimes",
-    "date": "2026-11-11",
-    "time": "10:30 AM",
-    "venue": "Malletts Creek Branch: Program Room Age 2\u20135 Years",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "preschool_storytimes"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/646067",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.594230+00:00"
+    "scraped_at": "2026-10-25T10:33:08.222587+00:00"
   },
   {
     "id": "aadl-2026-11-11-baby-playgroups",
@@ -2144,7 +2049,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.594463+00:00"
+    "scraped_at": "2026-10-25T10:33:08.222765+00:00"
   },
   {
     "id": "aadl-2026-11-11-baby-playgroups",
@@ -2163,7 +2068,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.594695+00:00"
+    "scraped_at": "2026-10-25T10:33:08.222943+00:00"
+  },
+  {
+    "id": "aadl-2026-11-11-preschool-storytimes",
+    "title": "Preschool Storytimes",
+    "date": "2026-11-11",
+    "time": "10:30 AM",
+    "venue": "Malletts Creek Branch: Program Room Age 2\u20135 Years",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "preschool_storytimes"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/646067",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:08.223122+00:00"
   },
   {
     "id": "aadl-2026-11-11-preschool-artstart",
@@ -2182,7 +2106,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.594947+00:00"
+    "scraped_at": "2026-10-25T10:33:08.223315+00:00"
   },
   {
     "id": "aadl-2026-11-11-paper-folding-four-ways",
@@ -2201,7 +2125,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.595182+00:00"
+    "scraped_at": "2026-10-25T10:33:08.223492+00:00"
   },
   {
     "id": "aadl-2026-11-11-intro-to-laser-engraving-hand-drawn-designs",
@@ -2220,64 +2144,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.595419+00:00"
-  },
-  {
-    "id": "aadl-2026-11-11-countdown-calendars",
-    "title": "Countdown Calendars",
-    "date": "2026-11-11",
-    "time": "6:00 PM",
-    "venue": "Pittsfield Branch: Program Room Grade K\u2013Adult",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/674455",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.595656+00:00"
-  },
-  {
-    "id": "aadl-2026-11-11-film-screening-in-the-belly-of-ai-with-michigan-community-scholars-program",
-    "title": "Film Screening | In the Belly of AI with Michigan Community Scholars Program",
-    "date": "2026-11-11",
-    "time": "6:00 PM",
-    "venue": "Downtown Library: Lower Level Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "film_video_events"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/671660",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.595910+00:00"
-  },
-  {
-    "id": "aadl-2026-11-11-esl-conversation-groups",
-    "title": "ESL Conversation Groups",
-    "date": "2026-11-11",
-    "time": "6:00 PM",
-    "venue": "Malletts Creek Branch: Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/644854",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:56.596146+00:00"
+    "scraped_at": "2026-10-25T10:33:08.223672+00:00"
   },
   {
     "id": "aadl-2026-11-11-aadl-welcomes-the-sierra-club",
@@ -2296,26 +2163,64 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.179126+00:00"
+    "scraped_at": "2026-10-25T10:33:08.223848+00:00"
   },
   {
-    "id": "aadl-2026-11-12-esl-conversation-groups",
+    "id": "aadl-2026-11-11-countdown-calendars",
+    "title": "Countdown Calendars",
+    "date": "2026-11-11",
+    "time": "6:00 PM",
+    "venue": "Pittsfield Branch: Program Room Grade K\u2013Adult",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/674455",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:08.224025+00:00"
+  },
+  {
+    "id": "aadl-2026-11-11-film-screening-in-the-belly-of-ai-with-michigan-community-scholars-program",
+    "title": "Film Screening | In the Belly of AI with Michigan Community Scholars Program",
+    "date": "2026-11-11",
+    "time": "6:00 PM",
+    "venue": "Downtown Library: Lower Level Program Room",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "film_video_events"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/671660",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:08.224202+00:00"
+  },
+  {
+    "id": "aadl-2026-11-11-esl-conversation-groups",
     "title": "ESL Conversation Groups",
-    "date": "2026-11-12",
-    "time": "10:30 AM",
-    "venue": "Westgate Branch: West Side Room",
+    "date": "2026-11-11",
+    "time": "6:00 PM",
+    "venue": "Malletts Creek Branch: Program Room",
     "address": "",
     "category": "community",
     "tags": [
       "public_event"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/644957",
+    "url": "https://www.aadl.org/node/644854",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.179386+00:00"
+    "scraped_at": "2026-10-25T10:33:08.224386+00:00"
   },
   {
     "id": "aadl-2026-11-12-preschool-artstart",
@@ -2334,7 +2239,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.179630+00:00"
+    "scraped_at": "2026-10-25T10:33:08.224565+00:00"
   },
   {
     "id": "aadl-2026-11-12-korean-storytime",
@@ -2353,26 +2258,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.179884+00:00"
+    "scraped_at": "2026-10-25T10:33:08.224743+00:00"
   },
   {
-    "id": "aadl-2026-11-12-preschool-storytimes",
-    "title": "Preschool Storytimes",
+    "id": "aadl-2026-11-12-esl-conversation-groups",
+    "title": "ESL Conversation Groups",
     "date": "2026-11-12",
-    "time": "11:00 AM",
-    "venue": "Pittsfield Branch: Program Room Age 2\u20135 Years",
+    "time": "10:30 AM",
+    "venue": "Westgate Branch: West Side Room",
     "address": "",
     "category": "community",
     "tags": [
-      "preschool_storytimes"
+      "public_event"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/643978",
+    "url": "https://www.aadl.org/node/644957",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.180126+00:00"
+    "scraped_at": "2026-10-25T10:33:08.224919+00:00"
   },
   {
     "id": "aadl-2026-11-12-preschool-storytimes",
@@ -2391,26 +2296,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.180358+00:00"
+    "scraped_at": "2026-10-25T10:33:09.714066+00:00"
   },
   {
-    "id": "aadl-2026-11-12-breadboard-electric-piano",
-    "title": "Breadboard Electric Piano",
+    "id": "aadl-2026-11-12-preschool-storytimes",
+    "title": "Preschool Storytimes",
     "date": "2026-11-12",
-    "time": "5:30 PM",
-    "venue": "Malletts Creek Branch: Program Room Teen\u2013Adult",
+    "time": "11:00 AM",
+    "venue": "Pittsfield Branch: Program Room Age 2\u20135 Years",
     "address": "",
     "category": "community",
     "tags": [
-      "public_event"
+      "preschool_storytimes"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/670062",
+    "url": "https://www.aadl.org/node/643978",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.180591+00:00"
+    "scraped_at": "2026-10-25T10:33:09.714288+00:00"
   },
   {
     "id": "aadl-2026-11-12-everything-you-wanted-to-know-about-indians-but-were-afraid-to-ask-with-dr-anton-treuer",
@@ -2429,7 +2334,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.180842+00:00"
+    "scraped_at": "2026-10-25T10:33:09.714477+00:00"
   },
   {
     "id": "aadl-2026-11-12-open-lab-3d-printers-laser-engraver-3d-pens",
@@ -2448,7 +2353,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.181081+00:00"
+    "scraped_at": "2026-10-25T10:33:09.714660+00:00"
+  },
+  {
+    "id": "aadl-2026-11-12-breadboard-electric-piano",
+    "title": "Breadboard Electric Piano",
+    "date": "2026-11-12",
+    "time": "5:30 PM",
+    "venue": "Malletts Creek Branch: Program Room Teen\u2013Adult",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/670062",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:09.714840+00:00"
   },
   {
     "id": "aadl-2026-11-12-author-event-danah-boyd-data-are-made-not-found",
@@ -2467,7 +2391,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.181317+00:00"
+    "scraped_at": "2026-10-25T10:33:09.715018+00:00"
   },
   {
     "id": "aadl-2026-11-12-nerd-nite",
@@ -2486,26 +2410,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.181551+00:00"
-  },
-  {
-    "id": "aadl-2026-11-13-baby-playgroups",
-    "title": "Baby Playgroups",
-    "date": "2026-11-13",
-    "time": "10:30 AM",
-    "venue": "Downtown Library: Kids Story Corner Babies Up To 24 Months",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "baby_playgroups"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/646121",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.181813+00:00"
+    "scraped_at": "2026-10-25T10:33:09.715193+00:00"
   },
   {
     "id": "aadl-2026-11-13-esl-conversation-groups",
@@ -2524,7 +2429,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.182048+00:00"
+    "scraped_at": "2026-10-25T10:33:09.715380+00:00"
+  },
+  {
+    "id": "aadl-2026-11-13-baby-playgroups",
+    "title": "Baby Playgroups",
+    "date": "2026-11-13",
+    "time": "10:30 AM",
+    "venue": "Downtown Library: Kids Story Corner Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/646121",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:09.715557+00:00"
   },
   {
     "id": "aadl-2026-11-13-preschool-storytimes",
@@ -2543,7 +2467,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.182286+00:00"
+    "scraped_at": "2026-10-25T10:33:09.715733+00:00"
   },
   {
     "id": "aadl-2026-11-13-from-japantown-to-motown-to-hometown-the-japanese-american-experience-in-michigan",
@@ -2562,7 +2486,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.182520+00:00"
+    "scraped_at": "2026-10-25T10:33:09.715908+00:00"
   },
   {
     "id": "aadl-2026-11-14-aadl-welcomes-wee-write-with-826michigan",
@@ -2581,7 +2505,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.182772+00:00"
+    "scraped_at": "2026-10-25T10:33:09.716087+00:00"
   },
   {
     "id": "aadl-2026-11-14-printmaking-festival-vendor-fair",
@@ -2600,7 +2524,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.183004+00:00"
+    "scraped_at": "2026-10-25T10:33:09.716274+00:00"
   },
   {
     "id": "aadl-2026-11-14-printmaking-festival-perfectly-impractical",
@@ -2619,26 +2543,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.183235+00:00"
-  },
-  {
-    "id": "aadl-2026-11-14-printmaking-festival-printing-demos",
-    "title": "Printmaking Festival | Printing Demos",
-    "date": "2026-11-14",
-    "time": "1:00 PM",
-    "venue": "Downtown Library: Lower Level Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/673457",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.183466+00:00"
+    "scraped_at": "2026-10-25T10:33:09.716453+00:00"
   },
   {
     "id": "aadl-2026-11-14-forest-mindfulness-walk",
@@ -2657,7 +2562,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:58.183693+00:00"
+    "scraped_at": "2026-10-25T10:33:09.716626+00:00"
   },
   {
     "id": "aadl-2026-11-14-printmaking-festival-hands-on-printing",
@@ -2676,7 +2581,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.677820+00:00"
+    "scraped_at": "2026-10-25T10:33:09.716801+00:00"
+  },
+  {
+    "id": "aadl-2026-11-14-printmaking-festival-printing-demos",
+    "title": "Printmaking Festival | Printing Demos",
+    "date": "2026-11-14",
+    "time": "1:00 PM",
+    "venue": "Downtown Library: Lower Level Program Room",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/673457",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:09.716980+00:00"
   },
   {
     "id": "aadl-2026-11-14-printmaking-festival-finding-ceremony",
@@ -2695,7 +2619,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.678089+00:00"
+    "scraped_at": "2026-10-25T10:33:09.717161+00:00"
   },
   {
     "id": "aadl-2026-11-14-printmaking-festival-stitched-editions-responding-to-tradition-while-yielding-something-new",
@@ -2714,7 +2638,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.678336+00:00"
+    "scraped_at": "2026-10-25T10:33:09.717356+00:00"
   },
   {
     "id": "aadl-2026-11-15-bookfest-vendor-fair",
@@ -2733,26 +2657,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.678576+00:00"
-  },
-  {
-    "id": "aadl-2026-11-15-bookfest-a-morning-with-katie-kitamura",
-    "title": "Bookfest | A Morning with Katie Kitamura",
-    "date": "2026-11-15",
-    "time": "10:30 AM",
-    "venue": "Downtown Library: 4th Floor Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "lectures_panel_discussions"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/674265",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.678835+00:00"
+    "scraped_at": "2026-10-25T10:33:09.717538+00:00"
   },
   {
     "id": "aadl-2026-11-15-aadl-welcomes-jewish-storytime-and-activities",
@@ -2771,26 +2676,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.679079+00:00"
+    "scraped_at": "2026-10-25T10:33:11.259418+00:00"
   },
   {
-    "id": "aadl-2026-11-15-bookfest-vintage-book-page-garlands",
-    "title": "Bookfest | Vintage Book Page Garlands",
+    "id": "aadl-2026-11-15-bookfest-a-morning-with-katie-kitamura",
+    "title": "Bookfest | A Morning with Katie Kitamura",
     "date": "2026-11-15",
-    "time": "12:00 PM",
-    "venue": "Downtown Library: Secret Lab",
+    "time": "10:30 AM",
+    "venue": "Downtown Library: 4th Floor Program Room",
     "address": "",
     "category": "community",
     "tags": [
-      "crafts"
+      "lectures_panel_discussions"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/674221",
+    "url": "https://www.aadl.org/node/674265",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.679315+00:00"
+    "scraped_at": "2026-10-25T10:33:11.259628+00:00"
   },
   {
     "id": "aadl-2026-11-15-bookfest-picture-book-writing-guide-with-amy-nielander",
@@ -2809,7 +2714,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.679550+00:00"
+    "scraped_at": "2026-10-25T10:33:11.259814+00:00"
+  },
+  {
+    "id": "aadl-2026-11-15-bookfest-vintage-book-page-garlands",
+    "title": "Bookfest | Vintage Book Page Garlands",
+    "date": "2026-11-15",
+    "time": "12:00 PM",
+    "venue": "Downtown Library: Secret Lab",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/674221",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:11.259997+00:00"
   },
   {
     "id": "aadl-2026-11-15-bookfest-demystifying-the-authoreditor-relationship",
@@ -2828,7 +2752,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.679797+00:00"
+    "scraped_at": "2026-10-25T10:33:11.260177+00:00"
   },
   {
     "id": "aadl-2026-11-15-bookfest-self-publishing-success-stories",
@@ -2847,26 +2771,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.680032+00:00"
-  },
-  {
-    "id": "aadl-2026-11-16-baby-playgroups",
-    "title": "Baby Playgroups",
-    "date": "2026-11-16",
-    "time": "10:30 AM",
-    "venue": "Malletts Creek Branch: Program Room Babies Up To 24 Months",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "baby_playgroups"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/644170",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.680267+00:00"
+    "scraped_at": "2026-10-25T10:33:11.260366+00:00"
   },
   {
     "id": "aadl-2026-11-16-toddler-activity-course",
@@ -2885,7 +2790,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.680500+00:00"
+    "scraped_at": "2026-10-25T10:33:11.260545+00:00"
   },
   {
     "id": "aadl-2026-11-16-preschool-storytimes",
@@ -2904,7 +2809,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.680745+00:00"
+    "scraped_at": "2026-10-25T10:33:11.260723+00:00"
+  },
+  {
+    "id": "aadl-2026-11-16-baby-playgroups",
+    "title": "Baby Playgroups",
+    "date": "2026-11-16",
+    "time": "10:30 AM",
+    "venue": "Malletts Creek Branch: Program Room Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644170",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:11.260903+00:00"
   },
   {
     "id": "aadl-2026-11-16-washtenaw-literacy-digital-skills",
@@ -2923,7 +2847,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.680984+00:00"
+    "scraped_at": "2026-10-25T10:33:11.261081+00:00"
   },
   {
     "id": "aadl-2026-11-16-collage-making",
@@ -2942,7 +2866,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.681214+00:00"
+    "scraped_at": "2026-10-25T10:33:11.261266+00:00"
   },
   {
     "id": "aadl-2026-11-16-lets-be-friends-board-games",
@@ -2961,7 +2885,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.681447+00:00"
+    "scraped_at": "2026-10-25T10:33:11.261447+00:00"
   },
   {
     "id": "aadl-2026-11-16-letterpress-open-lab",
@@ -2980,26 +2904,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.681675+00:00"
-  },
-  {
-    "id": "aadl-2026-11-16-the-ever-present-camera-understanding-photography-on-your-smartphone",
-    "title": "The Ever-Present Camera: Understanding Photography on Your Smartphone",
-    "date": "2026-11-16",
-    "time": "6:00 PM",
-    "venue": "Westgate Branch: West Side Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/674092",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.681918+00:00"
+    "scraped_at": "2026-10-25T10:33:11.261624+00:00"
   },
   {
     "id": "aadl-2026-11-16-esl-conversation-groups",
@@ -3018,7 +2923,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.682144+00:00"
+    "scraped_at": "2026-10-25T10:33:11.261802+00:00"
+  },
+  {
+    "id": "aadl-2026-11-16-the-ever-present-camera-understanding-photography-on-your-smartphone",
+    "title": "The Ever-Present Camera: Understanding Photography on Your Smartphone",
+    "date": "2026-11-16",
+    "time": "6:00 PM",
+    "venue": "Westgate Branch: West Side Room",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/674092",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:11.261987+00:00"
   },
   {
     "id": "aadl-2026-11-16-aadl-board-meeting-november-16-2026",
@@ -3037,45 +2961,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:07:59.682371+00:00"
-  },
-  {
-    "id": "aadl-2026-11-17-preschool-storytimes",
-    "title": "Preschool Storytimes",
-    "date": "2026-11-17",
-    "time": "11:00 AM",
-    "venue": "Downtown Library: Kids Story Corner Age 2\u20135 Years",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "preschool_storytimes"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/644120",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.070691+00:00"
-  },
-  {
-    "id": "aadl-2026-11-17-baby-playgroups",
-    "title": "Baby Playgroups",
-    "date": "2026-11-17",
-    "time": "11:00 AM",
-    "venue": "Traverwood Branch: Program Room Babies Up To 24 Months",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "baby_playgroups"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/644749",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.070977+00:00"
+    "scraped_at": "2026-10-25T10:33:11.262165+00:00"
   },
   {
     "id": "aadl-2026-11-17-preschool-storytimes",
@@ -3094,7 +2980,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.071234+00:00"
+    "scraped_at": "2026-10-25T10:33:11.262356+00:00"
   },
   {
     "id": "aadl-2026-11-17-preschool-dance-party",
@@ -3113,7 +2999,45 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.071510+00:00"
+    "scraped_at": "2026-10-25T10:33:11.262537+00:00"
+  },
+  {
+    "id": "aadl-2026-11-17-preschool-storytimes",
+    "title": "Preschool Storytimes",
+    "date": "2026-11-17",
+    "time": "11:00 AM",
+    "venue": "Downtown Library: Kids Story Corner Age 2\u20135 Years",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "preschool_storytimes"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644120",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:11.262717+00:00"
+  },
+  {
+    "id": "aadl-2026-11-17-baby-playgroups",
+    "title": "Baby Playgroups",
+    "date": "2026-11-17",
+    "time": "11:00 AM",
+    "venue": "Traverwood Branch: Program Room Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644749",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:11.262895+00:00"
   },
   {
     "id": "aadl-2026-11-17-young-scientists",
@@ -3132,26 +3056,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.071766+00:00"
-  },
-  {
-    "id": "aadl-2026-11-17-film-screening-discussion-sisters-rising",
-    "title": "Film Screening & Discussion | Sisters Rising",
-    "date": "2026-11-17",
-    "time": "5:30 PM",
-    "venue": "Downtown Library: 4th Floor Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "film_video_events"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/670535",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.072007+00:00"
+    "scraped_at": "2026-10-25T10:33:12.712296+00:00"
   },
   {
     "id": "aadl-2026-11-17-introductory-woodcarving-dinos",
@@ -3170,7 +3075,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.072245+00:00"
+    "scraped_at": "2026-10-25T10:33:12.712506+00:00"
+  },
+  {
+    "id": "aadl-2026-11-17-film-screening-discussion-sisters-rising",
+    "title": "Film Screening & Discussion | Sisters Rising",
+    "date": "2026-11-17",
+    "time": "5:30 PM",
+    "venue": "Downtown Library: 4th Floor Program Room",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "film_video_events"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/670535",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:12.712690+00:00"
   },
   {
     "id": "aadl-2026-11-17-handmade-felt-food-avocado",
@@ -3189,26 +3113,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.072479+00:00"
-  },
-  {
-    "id": "aadl-2026-11-18-baby-playgroups",
-    "title": "Baby Playgroups",
-    "date": "2026-11-18",
-    "time": "10:30 AM",
-    "venue": "Pittsfield Branch: Program Room Babies Up To 24 Months",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "baby_playgroups"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/644029",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.072814+00:00"
+    "scraped_at": "2026-10-25T10:33:12.712870+00:00"
   },
   {
     "id": "aadl-2026-11-18-baby-playgroups",
@@ -3227,7 +3132,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.073058+00:00"
+    "scraped_at": "2026-10-25T10:33:12.713047+00:00"
   },
   {
     "id": "aadl-2026-11-18-preschool-storytimes",
@@ -3246,7 +3151,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.073296+00:00"
+    "scraped_at": "2026-10-25T10:33:12.713228+00:00"
+  },
+  {
+    "id": "aadl-2026-11-18-baby-playgroups",
+    "title": "Baby Playgroups",
+    "date": "2026-11-18",
+    "time": "10:30 AM",
+    "venue": "Pittsfield Branch: Program Room Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644029",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:12.713415+00:00"
   },
   {
     "id": "aadl-2026-11-18-riso-lab",
@@ -3265,26 +3189,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.073536+00:00"
-  },
-  {
-    "id": "aadl-2026-11-18-tiny-felt-and-bead-pie-magnets",
-    "title": "Tiny Felt and Bead Pie Magnets",
-    "date": "2026-11-18",
-    "time": "6:00 PM",
-    "venue": "Traverwood Branch: Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/670066",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.073787+00:00"
+    "scraped_at": "2026-10-25T10:33:12.713597+00:00"
   },
   {
     "id": "aadl-2026-11-18-esl-conversation-groups",
@@ -3303,7 +3208,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.074025+00:00"
+    "scraped_at": "2026-10-25T10:33:12.713775+00:00"
   },
   {
     "id": "aadl-2026-11-18-aadl-welcomes-washtenaw-bird-nature-alliance-natures-mcdonalds-why-lush-greenery-is-often-an-ecological-trap-for-birds",
@@ -3322,26 +3227,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.074272+00:00"
+    "scraped_at": "2026-10-25T10:33:12.713963+00:00"
   },
   {
-    "id": "aadl-2026-11-19-sensation-stations",
-    "title": "Sensation Stations",
-    "date": "2026-11-19",
-    "time": "10:30 AM",
-    "venue": "Malletts Creek Branch: Program Room Ages 10 Months\u20132 Years",
+    "id": "aadl-2026-11-18-tiny-felt-and-bead-pie-magnets",
+    "title": "Tiny Felt and Bead Pie Magnets",
+    "date": "2026-11-18",
+    "time": "6:00 PM",
+    "venue": "Traverwood Branch: Program Room",
     "address": "",
     "category": "community",
     "tags": [
-      "public_event"
+      "crafts"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/673756",
+    "url": "https://www.aadl.org/node/670066",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.074514+00:00"
+    "scraped_at": "2026-10-25T10:33:12.714139+00:00"
   },
   {
     "id": "aadl-2026-11-19-esl-conversation-groups",
@@ -3360,7 +3265,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.074758+00:00"
+    "scraped_at": "2026-10-25T10:33:12.714323+00:00"
   },
   {
     "id": "aadl-2026-11-19-little-play-date",
@@ -3379,45 +3284,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.074999+00:00"
+    "scraped_at": "2026-10-25T10:33:12.714500+00:00"
   },
   {
-    "id": "aadl-2026-11-19-open-lab-sewing-machines-silhouette-cutters-heat-press",
-    "title": "Open Lab: Sewing Machines, Silhouette Cutters, Heat Press",
+    "id": "aadl-2026-11-19-sensation-stations",
+    "title": "Sensation Stations",
     "date": "2026-11-19",
-    "time": "11:00 AM",
-    "venue": "Downtown Library: Secret Lab",
+    "time": "10:30 AM",
+    "venue": "Malletts Creek Branch: Program Room Ages 10 Months\u20132 Years",
     "address": "",
     "category": "community",
     "tags": [
-      "crafts"
+      "public_event"
     ],
     "description": "",
-    "url": "https://www.aadl.org/node/669116",
+    "url": "https://www.aadl.org/node/673756",
     "source": "aadl",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.075251+00:00"
-  },
-  {
-    "id": "aadl-2026-11-19-preschool-storytimes",
-    "title": "Preschool Storytimes",
-    "date": "2026-11-19",
-    "time": "11:00 AM",
-    "venue": "Pittsfield Branch: Program Room Age 2\u20135 Years",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "preschool_storytimes"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/643979",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:01.075485+00:00"
+    "scraped_at": "2026-10-25T10:33:12.714675+00:00"
   },
   {
     "id": "aadl-2026-11-19-preschool-storytimes",
@@ -3436,7 +3322,45 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.725532+00:00"
+    "scraped_at": "2026-10-25T10:33:12.714851+00:00"
+  },
+  {
+    "id": "aadl-2026-11-19-open-lab-sewing-machines-silhouette-cutters-heat-press",
+    "title": "Open Lab: Sewing Machines, Silhouette Cutters, Heat Press",
+    "date": "2026-11-19",
+    "time": "11:00 AM",
+    "venue": "Downtown Library: Secret Lab",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/669116",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:12.715026+00:00"
+  },
+  {
+    "id": "aadl-2026-11-19-preschool-storytimes",
+    "title": "Preschool Storytimes",
+    "date": "2026-11-19",
+    "time": "11:00 AM",
+    "venue": "Pittsfield Branch: Program Room Age 2\u20135 Years",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "preschool_storytimes"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/643979",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:12.715206+00:00"
   },
   {
     "id": "aadl-2026-11-19-aadl-welcomes-mental-health-book-club-with-nami-music-and-mind-harnessing-the-arts-for-health-and-wellness",
@@ -3455,7 +3379,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.725858+00:00"
+    "scraped_at": "2026-10-25T10:33:12.715393+00:00"
   },
   {
     "id": "aadl-2026-11-19-land-acknowledgement-plaques-reception",
@@ -3474,26 +3398,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.726113+00:00"
-  },
-  {
-    "id": "aadl-2026-11-20-baby-playgroups",
-    "title": "Baby Playgroups",
-    "date": "2026-11-20",
-    "time": "10:30 AM",
-    "venue": "Downtown Library: Kids Story Corner Babies Up To 24 Months",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "baby_playgroups"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/646122",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.726353+00:00"
+    "scraped_at": "2026-10-25T10:33:12.715571+00:00"
   },
   {
     "id": "aadl-2026-11-20-esl-conversation-groups",
@@ -3512,7 +3417,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.726584+00:00"
+    "scraped_at": "2026-10-25T10:33:12.715750+00:00"
+  },
+  {
+    "id": "aadl-2026-11-20-baby-playgroups",
+    "title": "Baby Playgroups",
+    "date": "2026-11-20",
+    "time": "10:30 AM",
+    "venue": "Downtown Library: Kids Story Corner Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/646122",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:14.258520+00:00"
   },
   {
     "id": "aadl-2026-11-20-make-a-busy-book-of-colors",
@@ -3531,7 +3455,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.726870+00:00"
+    "scraped_at": "2026-10-25T10:33:14.258729+00:00"
   },
   {
     "id": "aadl-2026-11-20-preschool-storytimes",
@@ -3550,26 +3474,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.727109+00:00"
-  },
-  {
-    "id": "aadl-2026-11-20-world-famous-trivia",
-    "title": "World Famous Trivia",
-    "date": "2026-11-20",
-    "time": "5:30 PM",
-    "venue": "Westgate Branch: West Side Room Adult",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/669772",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.727344+00:00"
+    "scraped_at": "2026-10-25T10:33:14.258914+00:00"
   },
   {
     "id": "aadl-2026-11-20-screen-printing-lab",
@@ -3588,7 +3493,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.727586+00:00"
+    "scraped_at": "2026-10-25T10:33:14.259092+00:00"
+  },
+  {
+    "id": "aadl-2026-11-20-world-famous-trivia",
+    "title": "World Famous Trivia",
+    "date": "2026-11-20",
+    "time": "5:30 PM",
+    "venue": "Westgate Branch: West Side Room Adult",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/669772",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:14.259284+00:00"
   },
   {
     "id": "aadl-2026-11-20-author-event-sierra-biidaaban-nadeau-what-the-ancestors-say",
@@ -3607,7 +3531,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.727841+00:00"
+    "scraped_at": "2026-10-25T10:33:14.259465+00:00"
   },
   {
     "id": "aadl-2026-11-21-aadl-welcomes-wee-write-with-826michigan",
@@ -3626,26 +3550,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.728081+00:00"
-  },
-  {
-    "id": "aadl-2026-11-21-make-a-stress-ball-for-less-stress",
-    "title": "Make A Stress Ball for Less Stress",
-    "date": "2026-11-21",
-    "time": "12:00 PM",
-    "venue": "Malletts Creek Branch: Program Room Grade K\u2013Adult",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/673769",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.728317+00:00"
+    "scraped_at": "2026-10-25T10:33:14.259646+00:00"
   },
   {
     "id": "aadl-2026-11-21-comics-jam",
@@ -3664,7 +3569,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.728549+00:00"
+    "scraped_at": "2026-10-25T10:33:14.259896+00:00"
+  },
+  {
+    "id": "aadl-2026-11-21-make-a-stress-ball-for-less-stress",
+    "title": "Make A Stress Ball for Less Stress",
+    "date": "2026-11-21",
+    "time": "12:00 PM",
+    "venue": "Malletts Creek Branch: Program Room Grade K\u2013Adult",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/673769",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:14.260080+00:00"
   },
   {
     "id": "aadl-2026-11-21-flowers-and-fungi-drawing-and-watercolor-with-jennifer-m-sheppard",
@@ -3683,7 +3607,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.728798+00:00"
+    "scraped_at": "2026-10-25T10:33:14.260268+00:00"
   },
   {
     "id": "aadl-2026-11-21-mini-knitted-bunny",
@@ -3702,7 +3626,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.729032+00:00"
+    "scraped_at": "2026-10-25T10:33:14.260444+00:00"
   },
   {
     "id": "aadl-2026-11-22-beginner-knitting",
@@ -3721,7 +3645,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.729271+00:00"
+    "scraped_at": "2026-10-25T10:33:14.260619+00:00"
   },
   {
     "id": "aadl-2026-11-22-letterpress-open-lab",
@@ -3740,26 +3664,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.729497+00:00"
-  },
-  {
-    "id": "aadl-2026-11-22-spinning-electric-paper-fans",
-    "title": "Spinning Electric Paper Fans",
-    "date": "2026-11-22",
-    "time": "2:00 PM",
-    "venue": "Traverwood Branch: Program Room Grade 3\u20137",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "crafts"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/672953",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.729739+00:00"
+    "scraped_at": "2026-10-25T10:33:14.260791+00:00"
   },
   {
     "id": "aadl-2026-11-22-beaded-gem-corn",
@@ -3778,7 +3683,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.729976+00:00"
+    "scraped_at": "2026-10-25T10:33:14.260967+00:00"
+  },
+  {
+    "id": "aadl-2026-11-22-spinning-electric-paper-fans",
+    "title": "Spinning Electric Paper Fans",
+    "date": "2026-11-22",
+    "time": "2:00 PM",
+    "venue": "Traverwood Branch: Program Room Grade 3\u20137",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/672953",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:14.261141+00:00"
   },
   {
     "id": "aadl-2026-11-22-culinary-historians-cooking-to-the-presidents-taste-asian-heritage-chefs-in-white-house-history",
@@ -3797,7 +3721,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:02.730268+00:00"
+    "scraped_at": "2026-10-25T10:33:14.261339+00:00"
   },
   {
     "id": "aadl-2026-11-22-aadl-welcomes-ukrainian-culture-history-didukh-making-hunger-for-truth-film-screening",
@@ -3816,26 +3740,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:04.217232+00:00"
-  },
-  {
-    "id": "aadl-2026-11-23-preschool-storytimes",
-    "title": "Preschool Storytimes",
-    "date": "2026-11-23",
-    "time": "10:30 AM",
-    "venue": "Pittsfield Branch: Program Room Age 2\u20135 Years",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "preschool_storytimes"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/646341",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:04.217502+00:00"
+    "scraped_at": "2026-10-25T10:33:14.261520+00:00"
   },
   {
     "id": "aadl-2026-11-23-baby-playgroups",
@@ -3854,7 +3759,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:04.217759+00:00"
+    "scraped_at": "2026-10-25T10:33:14.261695+00:00"
+  },
+  {
+    "id": "aadl-2026-11-23-preschool-storytimes",
+    "title": "Preschool Storytimes",
+    "date": "2026-11-23",
+    "time": "10:30 AM",
+    "venue": "Pittsfield Branch: Program Room Age 2\u20135 Years",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "preschool_storytimes"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/646341",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:14.261872+00:00"
   },
   {
     "id": "aadl-2026-11-23-washtenaw-literacy-digital-skills",
@@ -3873,26 +3797,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:04.218032+00:00"
-  },
-  {
-    "id": "aadl-2026-11-23-esl-conversation-groups",
-    "title": "ESL Conversation Groups",
-    "date": "2026-11-23",
-    "time": "6:00 PM",
-    "venue": "Traverwood Branch: Program Room",
-    "address": "",
-    "category": "community",
-    "tags": [
-      "public_event"
-    ],
-    "description": "",
-    "url": "https://www.aadl.org/node/644803",
-    "source": "aadl",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:04.218301+00:00"
+    "scraped_at": "2026-10-25T10:33:14.262049+00:00"
   },
   {
     "id": "aadl-2026-11-23-sewing-lab-open-lab",
@@ -3911,7 +3816,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:04.218540+00:00"
+    "scraped_at": "2026-10-25T10:33:15.770063+00:00"
   },
   {
     "id": "aadl-2026-11-23-making-modern-homes-in-mid-century-ann-arbor",
@@ -3930,7 +3835,26 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:04.218789+00:00"
+    "scraped_at": "2026-10-25T10:33:15.770291+00:00"
+  },
+  {
+    "id": "aadl-2026-11-23-esl-conversation-groups",
+    "title": "ESL Conversation Groups",
+    "date": "2026-11-23",
+    "time": "6:00 PM",
+    "venue": "Traverwood Branch: Program Room",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644803",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:15.770481+00:00"
   },
   {
     "id": "aadl-2026-11-23-emerging-writers-monthly-meet-up",
@@ -3949,6 +3873,101 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-24T10:08:04.219026+00:00"
+    "scraped_at": "2026-10-25T10:33:15.770667+00:00"
+  },
+  {
+    "id": "aadl-2026-11-24-preschool-storytimes",
+    "title": "Preschool Storytimes",
+    "date": "2026-11-24",
+    "time": "11:00 AM",
+    "venue": "Downtown Library: Kids Story Corner Age 2\u20135 Years",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "preschool_storytimes"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644122",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:15.770852+00:00"
+  },
+  {
+    "id": "aadl-2026-11-24-preschool-storytimes",
+    "title": "Preschool Storytimes",
+    "date": "2026-11-24",
+    "time": "11:00 AM",
+    "venue": "Malletts Creek Branch: Program Room Age 2\u20135 Years",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "preschool_storytimes"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644698",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:15.771032+00:00"
+  },
+  {
+    "id": "aadl-2026-11-24-baby-playgroups",
+    "title": "Baby Playgroups",
+    "date": "2026-11-24",
+    "time": "11:00 AM",
+    "venue": "Traverwood Branch: Program Room Babies Up To 24 Months",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "baby_playgroups"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/644750",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:15.771209+00:00"
+  },
+  {
+    "id": "aadl-2026-11-24-open-lab-soldering-electronics-circuits",
+    "title": "Open Lab: Soldering, Electronics, Circuits",
+    "date": "2026-11-24",
+    "time": "5:30 PM",
+    "venue": "Downtown Library: Secret Lab",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "public_event"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/669113",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:15.771397+00:00"
+  },
+  {
+    "id": "aadl-2026-11-24-felted-eyeballs",
+    "title": "Felted Eyeballs",
+    "date": "2026-11-24",
+    "time": "6:00 PM",
+    "venue": "Traverwood Branch: Program Room Teen\u2013Adult",
+    "address": "",
+    "category": "community",
+    "tags": [
+      "crafts"
+    ],
+    "description": "",
+    "url": "https://www.aadl.org/node/673157",
+    "source": "aadl",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-25T10:33:15.771576+00:00"
   }
 ]
