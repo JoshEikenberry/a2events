@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aplaceatthetable%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.666925+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737478+00:00"
   },
   {
     "id": "michigan_theater-2026-11-05-alice-in-the-cities",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aliceinthecities%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.666996+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737516+00:00"
   },
   {
     "id": "michigan_theater-2026-11-05-danielle-brathwaite-shirley",
@@ -54,7 +54,140 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/danielle_brathwaite_banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667081+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737539+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-05-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-11-05",
+    "time": "3:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043839~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.737562+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-05-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-11-05",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043840~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.737569+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-05-fjord",
+    "title": "Fjord",
+    "date": "2026-11-05",
+    "time": "3:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043871~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fjord%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.737591+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-05-wicker",
+    "title": "Wicker",
+    "date": "2026-11-05",
+    "time": "4:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043807~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.737609+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-05-wicker",
+    "title": "Wicker",
+    "date": "2026-11-05",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1044041~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.737612+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-05-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-11-05",
+    "time": "2:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043793~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.737630+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-05-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-11-05",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1044025~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.737634+00:00"
   },
   {
     "id": "michigan_theater-2026-11-14-jagodyblueberries",
@@ -73,7 +206,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/blueberries_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667129+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737651+00:00"
   },
   {
     "id": "michigan_theater-2026-11-14-short-films-program",
@@ -92,7 +225,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/shorts_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667179+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737669+00:00"
   },
   {
     "id": "michigan_theater-2026-11-14-cicha-w\u0119dr\u00f3wkasilent-drift",
@@ -111,7 +244,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/silent_drift_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667227+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737690+00:00"
   },
   {
     "id": "michigan_theater-2026-11-14-godej-do-mietalk-to-me",
@@ -130,7 +263,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/gadejdome_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667273+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737709+00:00"
   },
   {
     "id": "michigan_theater-2026-11-14-ministrancithe-altar-boys",
@@ -149,7 +282,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/altarboys_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667314+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737726+00:00"
   },
   {
     "id": "michigan_theater-2026-11-14-smok-diplodokthe-green-dinosaur",
@@ -168,7 +301,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/greendino_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667404+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737742+00:00"
   },
   {
     "id": "michigan_theater-2026-11-14-the-true-story-of-tamara-de-lempicka-the-art-of-survival",
@@ -187,7 +320,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/tamaradelempicka_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667490+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737760+00:00"
   },
   {
     "id": "michigan_theater-2026-11-14-tree-town-trans-film-festival",
@@ -206,7 +339,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/tttff_banner_thumb.jpeg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667596+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737777+00:00"
   },
   {
     "id": "michigan_theater-2026-11-15-taty-nie-madads-not-home",
@@ -225,7 +358,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/taty_nie_ma_dads_not_home_still01_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667696+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737796+00:00"
   },
   {
     "id": "michigan_theater-2026-11-15-dom-dobryhome-sweet-home",
@@ -244,7 +377,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/dom%20dobry_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667774+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737814+00:00"
   },
   {
     "id": "michigan_theater-2026-11-15-twin-peaks-fire-walk-with-me",
@@ -263,7 +396,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/twinpeaksfirewalkwithme%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.667941+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737831+00:00"
   },
   {
     "id": "michigan_theater-2026-11-13-lalkathe-doll",
@@ -282,7 +415,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/lalka_banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668021+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737847+00:00"
   },
   {
     "id": "michigan_theater-2026-11-08-andrea-gibsons-love-letter-from-the-afterlife",
@@ -301,7 +434,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/andrea_gibson_1080x450jpeg_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668207+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737892+00:00"
   },
   {
     "id": "michigan_theater-2026-11-08-godzilla-minus-zero",
@@ -320,7 +453,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668281+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737909+00:00"
   },
   {
     "id": "michigan_theater-2026-11-08-godzilla-minus-zero",
@@ -339,7 +472,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668294+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737913+00:00"
   },
   {
     "id": "michigan_theater-2026-11-08-godzilla-minus-zero",
@@ -358,7 +491,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668305+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737917+00:00"
   },
   {
     "id": "michigan_theater-2026-11-11-battle-of-the-bands-glenn-miller-orchestra-tommy-dorsey-orchestra",
@@ -377,7 +510,45 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/battle%20of%20the%20bands%20(1080x450)_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668384+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737937+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-27-blue-friday-at-the-michigan-theater",
+    "title": "Blue\u00a0Friday\u00a0at the Michigan Theater",
+    "date": "2026-11-27",
+    "time": "1:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042056~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/footballfield_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.737965+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-27-white-christmas-sing-along",
+    "title": "White Christmas Sing-Along",
+    "date": "2026-11-27",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042235~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/whitechristmas_1080x450.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.737982+00:00"
   },
   {
     "id": "michigan_theater-2026-10-31-the-bride-of-frankenstein",
@@ -396,7 +567,121 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/brideoffrankenstein%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668625+00:00"
+    "scraped_at": "2026-10-28T11:58:05.737998+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-the-devils",
+    "title": "The Devils",
+    "date": "2026-10-31",
+    "time": "9:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043874~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedevils%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738014+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-10-31",
+    "time": "3:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043831~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738030+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-10-31",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043832~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738034+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-10-31",
+    "time": "9:10pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043833~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738038+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-fjord",
+    "title": "Fjord",
+    "date": "2026-10-31",
+    "time": "3:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043866~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fjord%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738054+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-fjord",
+    "title": "Fjord",
+    "date": "2026-10-31",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043867~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fjord%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738057+00:00"
   },
   {
     "id": "michigan_theater-2026-10-31-frankenstein",
@@ -415,13 +700,13 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/frankenstein%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668695+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738074+00:00"
   },
   {
-    "id": "michigan_theater-2026-10-31-wild-at-heart-4k-restoration",
-    "title": "Wild at Heart - 4K Restoration",
+    "id": "michigan_theater-2026-10-31-the-history-of-concrete",
+    "title": "The History of Concrete",
     "date": "2026-10-31",
-    "time": "12:00pm",
+    "time": "7:30pm",
     "venue": "Michigan Theater",
     "address": "",
     "category": "arts_culture",
@@ -429,12 +714,183 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039884~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043780~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thehistoryofconcrete%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738090+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-wicker",
+    "title": "Wicker",
+    "date": "2026-10-31",
+    "time": "4:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043798~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738105+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-wicker",
+    "title": "Wicker",
+    "date": "2026-10-31",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043799~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738108+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-wicker",
+    "title": "Wicker",
+    "date": "2026-10-31",
+    "time": "9:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043800~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738111+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-wild-at-heart-4k-restoration",
+    "title": "Wild at Heart - 4K Restoration",
+    "date": "2026-10-31",
+    "time": "1:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043774~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildatheart%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668767+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738127+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-wild-at-heart-4k-restoration",
+    "title": "Wild at Heart - 4K Restoration",
+    "date": "2026-10-31",
+    "time": "4:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043775~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildatheart%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738131+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-wild-at-heart-4k-restoration",
+    "title": "Wild at Heart - 4K Restoration",
+    "date": "2026-10-31",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043776~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildatheart%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738135+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-10-31",
+    "time": "2:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043785~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738152+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-10-31",
+    "time": "6:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043786~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738155+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-31-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-10-31",
+    "time": "9:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043787~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738158+00:00"
   },
   {
     "id": "michigan_theater-2026-10-28-cozy-craft-club-buffy-the-vampire-slayer",
@@ -453,7 +909,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/buffy%20banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668843+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738176+00:00"
   },
   {
     "id": "michigan_theater-2026-10-28-man-of-iron",
@@ -472,7 +928,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/manofiron%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668911+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738192+00:00"
   },
   {
     "id": "michigan_theater-2026-10-28-the-scout",
@@ -491,7 +947,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/scout%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.668979+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738208+00:00"
   },
   {
     "id": "michigan_theater-2026-10-28-sense-and-sensibility",
@@ -510,7 +966,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/senseandsensibility%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669046+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738223+00:00"
   },
   {
     "id": "michigan_theater-2026-10-28-you-can-see-everything",
@@ -529,7 +985,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669114+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738239+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-campus-nights-tour",
@@ -548,7 +1004,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/campus_nights_2026_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669335+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738289+00:00"
   },
   {
     "id": "michigan_theater-2026-11-04-a-chronicle-of-amorous-accidents",
@@ -567,7 +1023,64 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/achronicleofamorousaccidents%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669468+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738317+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-04-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-11-04",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043838~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738333+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-04-wicker",
+    "title": "Wicker",
+    "date": "2026-11-04",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043805~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738347+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-04-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-11-04",
+    "time": "6:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043792~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738362+00:00"
   },
   {
     "id": "michigan_theater-2026-11-07-chronovisor",
@@ -586,7 +1099,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/chronovisor%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669566+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738377+00:00"
   },
   {
     "id": "michigan_theater-2026-11-07-godzilla-minus-zero",
@@ -605,7 +1118,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669640+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738392+00:00"
   },
   {
     "id": "michigan_theater-2026-11-07-godzilla-minus-zero",
@@ -624,7 +1137,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669655+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738395+00:00"
   },
   {
     "id": "michigan_theater-2026-11-07-godzilla-minus-zero",
@@ -643,7 +1156,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669667+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738399+00:00"
   },
   {
     "id": "michigan_theater-2026-11-07-nt-live-golden-boy",
@@ -662,13 +1175,13 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/goldenboy%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669736+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738414+00:00"
   },
   {
     "id": "michigan_theater-2026-10-30-the-devils",
     "title": "The Devils",
     "date": "2026-10-30",
-    "time": "12:00pm",
+    "time": "6:45pm",
     "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
@@ -676,18 +1189,94 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1038293~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043872~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedevils%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669807+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738429+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-the-devils",
+    "title": "The Devils",
+    "date": "2026-10-30",
+    "time": "9:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043873~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedevils%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738432+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-10-30",
+    "time": "3:50pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043828~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738447+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-10-30",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043829~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738451+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-10-30",
+    "time": "9:10pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043830~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738455+00:00"
   },
   {
     "id": "michigan_theater-2026-10-30-fjord",
     "title": "Fjord",
     "date": "2026-10-30",
-    "time": "12:00pm",
+    "time": "3:20pm",
     "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
@@ -695,18 +1284,18 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1038295~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043863~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fjord%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669875+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738469+00:00"
   },
   {
     "id": "michigan_theater-2026-10-30-wicker",
     "title": "Wicker",
     "date": "2026-10-30",
-    "time": "12:00pm",
+    "time": "3:40pm",
     "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
@@ -714,12 +1303,183 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1038044~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043795~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.669940+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738484+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-wicker",
+    "title": "Wicker",
+    "date": "2026-10-30",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043796~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738486+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-wicker",
+    "title": "Wicker",
+    "date": "2026-10-30",
+    "time": "9:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043797~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738489+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-10-30",
+    "time": "2:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043782~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738504+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-10-30",
+    "time": "6:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043783~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738507+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-30-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-10-30",
+    "time": "9:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043784~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738511+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-01-the-devils",
+    "title": "The Devils",
+    "date": "2026-11-01",
+    "time": "7:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043875~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thedevils%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738526+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-01-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-11-01",
+    "time": "1:40pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043834~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738541+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-01-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-11-01",
+    "time": "4:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043835~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738545+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-01-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-11-01",
+    "time": "7:10pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043836~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738549+00:00"
   },
   {
     "id": "michigan_theater-2026-11-01-film-club-screening-aaff-traveling-library-tour",
@@ -738,7 +1498,64 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/aaff%20filmclub%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670014+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738569+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-01-fjord",
+    "title": "Fjord",
+    "date": "2026-11-01",
+    "time": "1:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043868~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fjord%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738585+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-01-fjord",
+    "title": "Fjord",
+    "date": "2026-11-01",
+    "time": "4:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043869~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fjord%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738588+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-01-the-history-of-concrete",
+    "title": "The History of Concrete",
+    "date": "2026-11-01",
+    "time": "2:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043781~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thehistoryofconcrete%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738605+00:00"
   },
   {
     "id": "michigan_theater-2026-11-01-the-michigan-theater-community-film-club",
@@ -757,13 +1574,70 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/untitled%20design_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670087+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738623+00:00"
   },
   {
-    "id": "michigan_theater-2026-10-29-from-hilde-with-love",
-    "title": "From Hilde With Love",
-    "date": "2026-10-29",
-    "time": "7:00pm",
+    "id": "michigan_theater-2026-11-01-wicker",
+    "title": "Wicker",
+    "date": "2026-11-01",
+    "time": "2:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043801~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738638+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-01-wicker",
+    "title": "Wicker",
+    "date": "2026-11-01",
+    "time": "4:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043802~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738641+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-01-wicker",
+    "title": "Wicker",
+    "date": "2026-11-01",
+    "time": "7:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043803~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738644+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-01-wild-at-heart-4k-restoration",
+    "title": "Wild at Heart - 4K Restoration",
+    "date": "2026-11-01",
+    "time": "1:00pm",
     "venue": "Michigan Theater",
     "address": "",
     "category": "arts_culture",
@@ -771,18 +1645,18 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041115~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043777~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fromhildewithlove%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildatheart%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670157+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738660+00:00"
   },
   {
-    "id": "michigan_theater-2026-10-29-the-history-of-concrete",
-    "title": "The History of Concrete",
-    "date": "2026-10-29",
-    "time": "8:15pm",
+    "id": "michigan_theater-2026-11-01-wild-at-heart-4k-restoration",
+    "title": "Wild at Heart - 4K Restoration",
+    "date": "2026-11-01",
+    "time": "4:00pm",
     "venue": "Michigan Theater",
     "address": "",
     "category": "arts_culture",
@@ -790,397 +1664,17 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042729~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043778~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thehistoryofconcrete%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildatheart%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670231+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738663+00:00"
   },
   {
-    "id": "michigan_theater-2026-10-29-james-baxter-animation-its-alive",
-    "title": "James Baxter: Animation, It's Alive!",
-    "date": "2026-10-29",
-    "time": "5:30pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1032324~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/james_baxter_banner_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670306+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-29-possible-love",
-    "title": "Possible Love",
-    "date": "2026-10-29",
-    "time": "3:00pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042824~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/possiblelove%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670384+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-29-possible-love",
-    "title": "Possible Love",
-    "date": "2026-10-29",
-    "time": "6:45pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042825~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/possiblelove%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670405+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-29-the-scout",
-    "title": "The Scout",
-    "date": "2026-10-29",
-    "time": "6:30pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042834~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/scout%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670478+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-29-sense-and-sensibility",
-    "title": "Sense and Sensibility",
-    "date": "2026-10-29",
-    "time": "3:10pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042784~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/senseandsensibility%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670577+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-29-sense-and-sensibility",
-    "title": "Sense and Sensibility",
-    "date": "2026-10-29",
-    "time": "6:15pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042788~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/senseandsensibility%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670593+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-29-wildwood",
-    "title": "Wildwood",
-    "date": "2026-10-29",
-    "time": "3:30pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042751~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildwood%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670663+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-29-you-can-see-everything",
-    "title": "You Can See Everything",
-    "date": "2026-10-29",
-    "time": "3:20pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042744~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670735+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-29-you-can-see-everything",
-    "title": "You Can See Everything",
-    "date": "2026-10-29",
-    "time": "7:00pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042745~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670750+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-06-godzilla-minus-zero",
-    "title": "Godzilla Minus Zero",
-    "date": "2026-11-06",
-    "time": "3:30pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041016~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670818+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-06-godzilla-minus-zero",
-    "title": "Godzilla Minus Zero",
-    "date": "2026-11-06",
-    "time": "6:30pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041018~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670832+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-06-godzilla-minus-zero",
-    "title": "Godzilla Minus Zero",
-    "date": "2026-11-06",
-    "time": "9:30pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041019~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670844+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-27-the-history-of-concrete",
-    "title": "The History of Concrete",
-    "date": "2026-10-27",
-    "time": "6:30pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042728~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thehistoryofconcrete%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670915+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-27-house",
-    "title": "House",
-    "date": "2026-10-27",
-    "time": "7:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042685~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/house_1080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.670998+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-27-possible-love",
-    "title": "Possible Love",
-    "date": "2026-10-27",
-    "time": "6:45pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042823~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/possiblelove%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671067+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-27-the-scout",
-    "title": "The Scout",
-    "date": "2026-10-27",
-    "time": "6:30pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042832~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/scout%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671115+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-27-sense-and-sensibility",
-    "title": "Sense and Sensibility",
-    "date": "2026-10-27",
-    "time": "6:15pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042774~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/senseandsensibility%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671156+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-10-27-you-can-see-everything",
-    "title": "You Can See Everything",
-    "date": "2026-10-27",
-    "time": "6:00pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042741~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671196+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-19-jorge-perez-a-conversation",
-    "title": "Jorge Perez: A Conversation",
-    "date": "2026-11-19",
-    "time": "5:30pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1032333~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/jorge_perez_banner_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671239+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-19-wings-of-desire",
-    "title": "Wings of Desire",
-    "date": "2026-11-19",
-    "time": "8:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042089~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wingsofdesire%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671279+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-17-o-christmas-tea-a-british-comedy",
-    "title": "O Christmas Tea: A British Comedy",
-    "date": "2026-11-17",
+    "id": "michigan_theater-2026-11-01-wild-at-heart-4k-restoration",
+    "title": "Wild at Heart - 4K Restoration",
+    "date": "2026-11-01",
     "time": "7:30pm",
     "venue": "Michigan Theater",
     "address": "",
@@ -1189,94 +1683,18 @@
       "film"
     ],
     "description": "",
-    "url": "https://www.ticketmaster.com/event/080064F1C9899774",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043779~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/o%20christmas%20tea_1080%20x%20450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildatheart%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671491+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738667+00:00"
   },
   {
-    "id": "michigan_theater-2026-11-17-ten-times-betterabout-face",
-    "title": "Ten Times Better/About Face",
-    "date": "2026-11-17",
-    "time": "5:30pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043192~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/tentimesbetter%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671634+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-12-paris-texas",
-    "title": "Paris, Texas",
-    "date": "2026-11-12",
-    "time": "8:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042071~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/paristexas_1080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671687+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-12-voices-of-dissent-celebrating-250-years-of-a-peoples-history-of-the-united-states",
-    "title": "Voices of Dissent: Celebrating 250 Years of a People\u2019s History of the United States",
-    "date": "2026-11-12",
-    "time": "5:30pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1032331~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/voices_of_dissent_banner_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671738+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-18-cozy-craft-club-the-princess-bride",
-    "title": "Cozy\u00a0Craft\u00a0Club - The Princess Bride",
-    "date": "2026-11-18",
-    "time": "7:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039364~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/the%20princess%20bride%20banner_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671936+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-18-sir-thaddeus",
-    "title": "Sir Thaddeus",
-    "date": "2026-11-18",
-    "time": "7:00pm",
+    "id": "michigan_theater-2026-11-01-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-11-01",
+    "time": "12:15pm",
     "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
@@ -1284,69 +1702,88 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043174~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043788~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/sirthaddeus%201080x450%20(1)_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.671985+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738683+00:00"
   },
   {
-    "id": "michigan_theater-2026-11-24-return-to-reason-four-films-by-man-ray",
-    "title": "Return to Reason: Four Films by Man Ray",
-    "date": "2026-11-24",
-    "time": "7:00pm",
-    "venue": "Michigan Theater",
+    "id": "michigan_theater-2026-11-01-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-11-01",
+    "time": "4:00pm",
+    "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
     "tags": [
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041259~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043789~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/returntoreason%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.672028+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738687+00:00"
   },
   {
-    "id": "michigan_theater-2026-11-10-the-short-films-of-david-lynch",
-    "title": "The Short Films Of David Lynch",
-    "date": "2026-11-10",
-    "time": "7:00pm",
-    "venue": "Michigan Theater",
+    "id": "michigan_theater-2026-11-01-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-11-01",
+    "time": "7:40pm",
+    "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
     "tags": [
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041257~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043790~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/lynchshorts%201080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.672068+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738690+00:00"
   },
   {
-    "id": "michigan_theater-2026-11-25-warren-millers-days-off",
-    "title": "Warren Miller\u2019s Days Off",
-    "date": "2026-11-25",
-    "time": "7:00pm",
-    "venue": "Michigan Theater",
+    "id": "michigan_theater-2026-11-03-everest-the-other-side",
+    "title": "Everest: The Other Side",
+    "date": "2026-11-03",
+    "time": "6:30pm",
+    "venue": "State Theatre",
     "address": "",
     "category": "arts_culture",
     "tags": [
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1040969~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043837~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/warrenmiller_1080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/everesttheotherside%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.672139+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738717+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-03-fjord",
+    "title": "Fjord",
+    "date": "2026-11-03",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043870~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fjord%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738732+00:00"
   },
   {
     "id": "michigan_theater-2026-11-03-wheel-of-fortune-live",
@@ -1365,6 +1802,557 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wheel_of_fortune_banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-10-27T11:26:12.672180+00:00"
+    "scraped_at": "2026-10-28T11:58:05.738747+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-03-wicker",
+    "title": "Wicker",
+    "date": "2026-11-03",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043804~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wicker%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738762+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-03-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-11-03",
+    "time": "6:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043791~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738777+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-from-hilde-with-love",
+    "title": "From Hilde With Love",
+    "date": "2026-10-29",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041115~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fromhildewithlove%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738792+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-the-history-of-concrete",
+    "title": "The History of Concrete",
+    "date": "2026-10-29",
+    "time": "8:15pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042729~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thehistoryofconcrete%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738808+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-james-baxter-animation-its-alive",
+    "title": "James Baxter: Animation, It's Alive!",
+    "date": "2026-10-29",
+    "time": "5:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1032324~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/james_baxter_banner_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738824+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-possible-love",
+    "title": "Possible Love",
+    "date": "2026-10-29",
+    "time": "3:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042824~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/possiblelove%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738839+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-possible-love",
+    "title": "Possible Love",
+    "date": "2026-10-29",
+    "time": "6:45pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042825~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/possiblelove%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738842+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-the-scout",
+    "title": "The Scout",
+    "date": "2026-10-29",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042834~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/scout%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738857+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-sense-and-sensibility",
+    "title": "Sense and Sensibility",
+    "date": "2026-10-29",
+    "time": "3:10pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042784~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/senseandsensibility%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738873+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-sense-and-sensibility",
+    "title": "Sense and Sensibility",
+    "date": "2026-10-29",
+    "time": "6:15pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042788~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/senseandsensibility%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738876+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-wildwood",
+    "title": "Wildwood",
+    "date": "2026-10-29",
+    "time": "3:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042751~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildwood%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738891+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-10-29",
+    "time": "3:20pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042744~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738907+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-10-29-you-can-see-everything",
+    "title": "You Can See Everything",
+    "date": "2026-10-29",
+    "time": "7:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042745~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738910+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-06-godzilla-minus-zero",
+    "title": "Godzilla Minus Zero",
+    "date": "2026-11-06",
+    "time": "3:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041016~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738925+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-06-godzilla-minus-zero",
+    "title": "Godzilla Minus Zero",
+    "date": "2026-11-06",
+    "time": "6:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041018~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738929+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-06-godzilla-minus-zero",
+    "title": "Godzilla Minus Zero",
+    "date": "2026-11-06",
+    "time": "9:30pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041019~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738932+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-06-wild-horse-nine",
+    "title": "Wild Horse Nine",
+    "date": "2026-11-06",
+    "time": "12:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1044012~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.738948+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-19-jorge-perez-a-conversation",
+    "title": "Jorge Perez: A Conversation",
+    "date": "2026-11-19",
+    "time": "5:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1032333~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/jorge_perez_banner_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739049+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-19-wings-of-desire",
+    "title": "Wings of Desire",
+    "date": "2026-11-19",
+    "time": "8:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042089~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wingsofdesire%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739068+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-10-mystery-member-matinee",
+    "title": "Mystery Member Matinee",
+    "date": "2026-11-10",
+    "time": "4:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043773~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/mystery%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739144+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-10-the-short-films-of-david-lynch",
+    "title": "The Short Films Of David Lynch",
+    "date": "2026-11-10",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041257~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/lynchshorts%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739162+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-17-o-christmas-tea-a-british-comedy",
+    "title": "O Christmas Tea: A British Comedy",
+    "date": "2026-11-17",
+    "time": "7:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://www.ticketmaster.com/event/080064F1C9899774",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/o%20christmas%20tea_1080%20x%20450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739178+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-17-ten-times-betterabout-face",
+    "title": "Ten Times Better/About Face",
+    "date": "2026-11-17",
+    "time": "5:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043192~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/tentimesbetter%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739194+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-12-paris-texas",
+    "title": "Paris, Texas",
+    "date": "2026-11-12",
+    "time": "8:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1042071~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/paristexas_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739210+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-12-voices-of-dissent-celebrating-250-years-of-a-peoples-history-of-the-united-states",
+    "title": "Voices of Dissent: Celebrating 250 Years of a People\u2019s History of the United States",
+    "date": "2026-11-12",
+    "time": "5:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1032331~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/voices_of_dissent_banner_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739230+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-18-cozy-craft-club-the-princess-bride",
+    "title": "Cozy\u00a0Craft\u00a0Club - The Princess Bride",
+    "date": "2026-11-18",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039364~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/the%20princess%20bride%20banner_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739272+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-18-sir-thaddeus",
+    "title": "Sir Thaddeus",
+    "date": "2026-11-18",
+    "time": "7:00pm",
+    "venue": "State Theatre",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043174~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/sirthaddeus%201080x450%20(1)_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739287+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-24-return-to-reason-four-films-by-man-ray",
+    "title": "Return to Reason: Four Films by Man Ray",
+    "date": "2026-11-24",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1041259~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/returntoreason%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739304+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-11-25-warren-millers-days-off",
+    "title": "Warren Miller\u2019s Days Off",
+    "date": "2026-11-25",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1040969~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/warrenmiller_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-28T11:58:05.739332+00:00"
   }
 ]
