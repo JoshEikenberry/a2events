@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-28T11:58:44.135077+00:00"
+    "scraped_at": "2026-10-29T12:07:53.998661+00:00"
   },
   {
     "id": "um_athletics-2026-11-07-university-of-michigan-football-vs-michigan-state-military-appreciation-game-presented-by-belfor-property-restoration",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-28T11:58:44.135113+00:00"
+    "scraped_at": "2026-10-29T12:07:53.998706+00:00"
   },
   {
     "id": "um_athletics-2026-11-14-university-of-michigan-football-at-oregon",
@@ -54,7 +54,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-28T11:58:44.135137+00:00"
+    "scraped_at": "2026-10-29T12:07:53.998736+00:00"
   },
   {
     "id": "um_athletics-2026-11-21-university-of-michigan-football-vs-ucla-senior-day",
@@ -73,6 +73,25 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-28T11:58:44.135159+00:00"
+    "scraped_at": "2026-10-29T12:07:53.998765+00:00"
+  },
+  {
+    "id": "um_athletics-2026-11-28-university-of-michigan-football-at-ohio-state",
+    "title": "University of Michigan Football at Ohio State",
+    "date": "2026-11-28",
+    "time": "5:00 PM",
+    "venue": "Columbus, Ohio",
+    "address": "",
+    "category": "um_athletics",
+    "tags": [
+      "football"
+    ],
+    "description": "University of Michigan Football at Ohio State\nTV: Fox\nRadio: Learfield Michigan Sports Network\nStreaming Audio: https://mgoblue.com/showcase?Live=2834\n https://mgoblue.com/calendar.aspx?game_id=30385&amp;sport_id=4",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=30385&amp;sport_id=4",
+    "source": "um_athletics",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-10-29T12:07:53.998798+00:00"
   }
 ]
