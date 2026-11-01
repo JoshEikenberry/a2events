@@ -1,41 +1,22 @@
 [
   {
-    "id": "um_athletics-2026-10-31-university-of-michigan-football-at-rutgers",
-    "title": "University of Michigan Football at Rutgers",
-    "date": "2026-10-31",
-    "time": "4:30 PM",
-    "venue": "Piscataway, N.J.",
-    "address": "",
-    "category": "um_athletics",
-    "tags": [
-      "football"
-    ],
-    "description": "University of Michigan Football at Rutgers\nTV: Big Ten Network\nRadio: Learfield Michigan Sports Network\nStreaming Video: https://www.fox.com/sports/football/college-football/watch-michigan-wolverines-vs-rutgers-scarlet-knights-oct-31-2026\nStreaming Audio: https://mgoblue.com/showcase?Live=2830\n https://mgoblue.com/calendar.aspx?game_id=30381&amp;sport_id=4",
-    "url": "https://mgoblue.com/calendar.aspx?game_id=30381&amp;sport_id=4",
-    "source": "um_athletics",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-10-31T11:33:30.311964+00:00"
-  },
-  {
-    "id": "um_athletics-2026-11-07-university-of-michigan-football-vs-michigan-state-military-appreciation-game-presented-by-belfor-property-restoration",
-    "title": "University of Michigan Football vs Michigan State- Military Appreciation Game | Presented by Belfor Property Restoration",
-    "date": "2026-11-07",
-    "time": "",
+    "id": "um_athletics-2026-11-08-university-of-michigan-football-vs-michigan-state-blue-out-military-appreciation-game-presented-by-belfor-property-restoration",
+    "title": "University of Michigan Football vs Michigan State- Blue Out & Military Appreciation Game | Presented by Belfor Property Restoration",
+    "date": "2026-11-08",
+    "time": "12:30 AM",
     "venue": "Ann Arbor, Mich.",
     "address": "",
     "category": "um_athletics",
     "tags": [
       "football"
     ],
-    "description": "University of Michigan Football vs Michigan State- Military Appreciation Game | Presented by Belfor Property Restoration\nRadio: Learfield Michigan Sports Network\nStreaming Audio: https://mgoblue.com/showcase?Live=2831\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://mgoblue.com/calendar.aspx?game_id=30382&amp;sport_id=4",
+    "description": "University of Michigan Football vs Michigan State- Blue Out & Military Appreciation Game | Presented by Belfor Property Restoration\nTV: Peacock\nRadio: Learfield Michigan Sports Network\nStreaming Video: https://www.peacocktv.com/sports/big-ten-football\nStreaming Audio: https://mgoblue.com/showcase?Live=2831\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://mgoblue.com/calendar.aspx?game_id=30382&amp;sport_id=4",
     "url": "https://mgoblue.com/calendar.aspx?game_id=30382&amp;sport_id=4",
     "source": "um_athletics",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-31T11:33:30.312037+00:00"
+    "scraped_at": "2026-11-01T12:31:45.460127+00:00"
   },
   {
     "id": "um_athletics-2026-11-14-university-of-michigan-football-at-oregon",
@@ -54,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-31T11:33:30.312080+00:00"
+    "scraped_at": "2026-11-01T12:31:45.460155+00:00"
   },
   {
     "id": "um_athletics-2026-11-21-university-of-michigan-football-vs-ucla-senior-day",
@@ -73,7 +54,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-31T11:33:30.312117+00:00"
+    "scraped_at": "2026-11-01T12:31:45.460177+00:00"
   },
   {
     "id": "um_athletics-2026-11-28-university-of-michigan-football-at-ohio-state",
@@ -92,6 +73,6 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-10-31T11:33:30.312163+00:00"
+    "scraped_at": "2026-11-01T12:31:45.460202+00:00"
   }
 ]
