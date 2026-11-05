@@ -14,7 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-04T13:39:10.504950+00:00"
+    "scraped_at": "2026-11-05T13:51:21.432076+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-10-ums-101-explore-the-world-of-contemporary-percussion",
@@ -31,7 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-04T13:39:10.505251+00:00"
+    "scraped_at": "2026-11-05T13:51:21.432293+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-13-mozarts-requiem",
@@ -48,7 +48,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-04T13:39:10.505532+00:00"
+    "scraped_at": "2026-11-05T13:51:21.432469+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-15-andy-akiho-sandbox-percussion",
@@ -65,7 +65,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-04T13:39:10.505768+00:00"
+    "scraped_at": "2026-11-05T13:51:21.432622+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-16-school-day-performance-for-grades-2-12-andy-akiho-sandbox-percussion",
@@ -82,7 +82,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-04T13:39:10.505990+00:00"
+    "scraped_at": "2026-11-05T13:51:21.432768+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-18-jack-tucker-comedy-standup-show-created-and-performed-by-zach-zucker",
@@ -99,6 +99,23 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-04T13:39:10.506207+00:00"
+    "scraped_at": "2026-11-05T13:51:21.432905+00:00"
+  },
+  {
+    "id": "hill_auditorium-2026-12-05-handels-messiah",
+    "title": "Handel\u2019s Messiah",
+    "date": "2026-12-05",
+    "time": "",
+    "venue": "Hill Auditorium",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [],
+    "description": "",
+    "url": "https://ums.org/performance/handels-messiah-2026/",
+    "source": "hill_auditorium",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-11-05T13:51:21.433034+00:00"
   }
 ]

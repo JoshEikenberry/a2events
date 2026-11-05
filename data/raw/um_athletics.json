@@ -16,7 +16,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-04T13:39:40.613889+00:00"
+    "scraped_at": "2026-11-05T13:51:50.207857+00:00"
   },
   {
     "id": "um_athletics-2026-11-14-university-of-michigan-football-at-oregon",
@@ -35,7 +35,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-04T13:39:40.613947+00:00"
+    "scraped_at": "2026-11-05T13:51:50.207895+00:00"
   },
   {
     "id": "um_athletics-2026-11-21-university-of-michigan-football-vs-ucla-senior-day",
@@ -54,7 +54,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-04T13:39:40.613989+00:00"
+    "scraped_at": "2026-11-05T13:51:50.207919+00:00"
   },
   {
     "id": "um_athletics-2026-11-28-university-of-michigan-football-at-ohio-state",
@@ -73,6 +73,25 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-04T13:39:40.614032+00:00"
+    "scraped_at": "2026-11-05T13:51:50.207945+00:00"
+  },
+  {
+    "id": "um_athletics-2026-12-05-university-of-michigan-football-vs-big-ten-championship-game",
+    "title": "University of Michigan Football vs Big Ten Championship Game",
+    "date": "2026-12-05",
+    "time": "",
+    "venue": "Indianapolis, Ind.",
+    "address": "",
+    "category": "um_athletics",
+    "tags": [
+      "football"
+    ],
+    "description": "University of Michigan Football vs Big Ten Championship Game\n https://mgoblue.com/calendar.aspx?game_id=30386&amp;sport_id=4",
+    "url": "https://mgoblue.com/calendar.aspx?game_id=30386&amp;sport_id=4",
+    "source": "um_athletics",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-11-05T13:51:50.207968+00:00"
   }
 ]
