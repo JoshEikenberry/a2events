@@ -14,7 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-09T14:55:45.532426+00:00"
+    "scraped_at": "2026-11-10T14:08:25.106937+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-13-mozarts-requiem",
@@ -31,7 +31,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-09T14:55:45.532621+00:00"
+    "scraped_at": "2026-11-10T14:08:25.107190+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-15-andy-akiho-sandbox-percussion",
@@ -48,7 +48,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-09T14:55:45.532796+00:00"
+    "scraped_at": "2026-11-10T14:08:25.107393+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-16-school-day-performance-for-grades-2-12-andy-akiho-sandbox-percussion",
@@ -65,7 +65,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-09T14:55:45.532950+00:00"
+    "scraped_at": "2026-11-10T14:08:25.107581+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-18-jack-tucker-comedy-standup-show-created-and-performed-by-zach-zucker",
@@ -82,7 +82,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-09T14:55:45.533089+00:00"
+    "scraped_at": "2026-11-10T14:08:25.107752+00:00"
   },
   {
     "id": "hill_auditorium-2026-12-05-handels-messiah",
@@ -99,6 +99,23 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-09T14:55:45.533214+00:00"
+    "scraped_at": "2026-11-10T14:08:25.107911+00:00"
+  },
+  {
+    "id": "hill_auditorium-2026-12-10-yo-yo-ma-cello-emanuel-ax-piano",
+    "title": "Yo-Yo Ma, cello Emanuel Ax, piano",
+    "date": "2026-12-10",
+    "time": "",
+    "venue": "Hill Auditorium",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [],
+    "description": "",
+    "url": "https://ums.org/performance/yo-yo-ma-cello-and-emanuel-ax-piano/",
+    "source": "hill_auditorium",
+    "also_listed_at": [],
+    "image_url": null,
+    "possible_duplicate": false,
+    "scraped_at": "2026-11-10T14:08:25.108085+00:00"
   }
 ]
