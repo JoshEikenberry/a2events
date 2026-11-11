@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "resident_advisor-2026-11-20-ann-arbor-drum-bass",
+    "title": "Ann Arbor Drum & Bass",
+    "date": "2026-11-20",
+    "time": "7:30 PM",
+    "venue": "Ashley Street Social",
+    "address": "336 S Ashley St, Ann Arbor, MI 48104",
+    "category": "arts_culture",
+    "tags": [
+      "music",
+      "electronic"
+    ],
+    "description": "",
+    "url": "https://ra.co/events/2582277",
+    "source": "resident_advisor",
+    "also_listed_at": [],
+    "image_url": "https://images.ra.co/abc4d482f46e324d88e67bc2f210198ae06e51e9.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-11-11T13:24:57.965176+00:00"
+  }
+]
