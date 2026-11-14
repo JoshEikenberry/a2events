@@ -1,22 +1,5 @@
 [
   {
-    "id": "hill_auditorium-2026-11-13-mozarts-requiem",
-    "title": "Mozart\u2019s Requiem",
-    "date": "2026-11-13",
-    "time": "",
-    "venue": "Hill Auditorium",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [],
-    "description": "",
-    "url": "https://ums.org/performance/mozart-requiem/",
-    "source": "hill_auditorium",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-11-13T13:46:59.746681+00:00"
-  },
-  {
     "id": "hill_auditorium-2026-11-15-andy-akiho-sandbox-percussion",
     "title": "Andy Akiho & Sandbox Percussion",
     "date": "2026-11-15",
@@ -31,7 +14,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-13T13:46:59.746914+00:00"
+    "scraped_at": "2026-11-14T12:51:08.181826+00:00"
   },
   {
     "id": "hill_auditorium-2026-11-16-school-day-performance-for-grades-2-12-andy-akiho-sandbox-percussion",
@@ -48,11 +31,11 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-13T13:46:59.747121+00:00"
+    "scraped_at": "2026-11-14T12:51:08.182126+00:00"
   },
   {
-    "id": "hill_auditorium-2026-11-18-jack-tucker-comedy-standup-show-created-and-performed-by-zach-zucker",
-    "title": "Jack Tucker Comedy Standup Show Created and performed by Zach Zucker",
+    "id": "hill_auditorium-2026-11-18-jack-tucker-comedy-standup-hour-created-and-performed-by-zach-zucker",
+    "title": "Jack Tucker Comedy Standup Hour Created and performed by Zach Zucker",
     "date": "2026-11-18",
     "time": "",
     "venue": "Hill Auditorium",
@@ -65,7 +48,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-13T13:46:59.747322+00:00"
+    "scraped_at": "2026-11-14T12:51:08.182394+00:00"
   },
   {
     "id": "hill_auditorium-2026-12-05-handels-messiah",
@@ -82,7 +65,7 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-13T13:46:59.747481+00:00"
+    "scraped_at": "2026-11-14T12:51:08.182614+00:00"
   },
   {
     "id": "hill_auditorium-2026-12-10-yo-yo-ma-cello-emanuel-ax-piano",
@@ -99,6 +82,6 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-13T13:46:59.747636+00:00"
+    "scraped_at": "2026-11-14T12:51:08.182820+00:00"
   }
 ]

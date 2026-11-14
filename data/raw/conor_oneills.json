@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "conor_oneills-2026-11-15-lions-watch-party",
+    "title": "Lions Watch Party",
+    "date": "2026-11-15",
+    "time": "2:30 PM",
+    "venue": "Conor O'Neill's",
+    "address": "318 South Main Street, Ann Arbor, MI 48104",
+    "category": "arts_culture",
+    "tags": [
+      "irish",
+      "live-entertainment"
+    ],
+    "description": "Join us for our Lions Watch Party! Sunday Morning at 9am.",
+    "url": "https://www.conoroneills.com/events/lions-watch-party",
+    "source": "conor_oneills",
+    "also_listed_at": [],
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5fb2ec3d767c4d6fc1204052/1794584314347-AXRK928RX9G33BRHBL8K/LIONS+%281%29.png",
+    "possible_duplicate": false,
+    "scraped_at": "2026-11-14T12:51:16.925778+00:00"
+  }
+]
