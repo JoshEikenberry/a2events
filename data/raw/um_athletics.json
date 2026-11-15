@@ -1,41 +1,22 @@
 [
   {
-    "id": "um_athletics-2026-11-14-university-of-michigan-football-at-oregon",
-    "title": "University of Michigan Football at Oregon",
-    "date": "2026-11-14",
-    "time": "8:30 PM",
-    "venue": "Eugene, Ore.",
-    "address": "",
-    "category": "um_athletics",
-    "tags": [
-      "football"
-    ],
-    "description": "University of Michigan Football at Oregon\nTV: FS1\nRadio: Learfield Michigan Sports Network\nStreaming Video: https://www.fox.com/sports/football/college-football/watch-michigan-wolverines-vs-oregon-ducks-nov-14-2026\nStreaming Audio: https://mgoblue.com/showcase?Live=2832\n https://mgoblue.com/calendar.aspx?game_id=30383&amp;sport_id=4",
-    "url": "https://mgoblue.com/calendar.aspx?game_id=30383&amp;sport_id=4",
-    "source": "um_athletics",
-    "also_listed_at": [],
-    "image_url": null,
-    "possible_duplicate": false,
-    "scraped_at": "2026-11-14T12:51:42.104979+00:00"
-  },
-  {
     "id": "um_athletics-2026-11-21-university-of-michigan-football-vs-ucla-senior-day",
     "title": "University of Michigan Football vs UCLA- Senior Day",
     "date": "2026-11-21",
-    "time": "",
+    "time": "8:30 PM",
     "venue": "Ann Arbor, Mich.",
     "address": "",
     "category": "um_athletics",
     "tags": [
       "football"
     ],
-    "description": "University of Michigan Football vs UCLA- Senior Day\nRadio: Learfield Michigan Sports Network\nStreaming Audio: https://mgoblue.com/showcase?Live=2833\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://mgoblue.com/calendar.aspx?game_id=30384&amp;sport_id=4",
+    "description": "University of Michigan Football vs UCLA- Senior Day\nTV: CBS\nRadio: Learfield Michigan Sports Network\nStreaming Audio: https://mgoblue.com/showcase?Live=2833\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://mgoblue.com/calendar.aspx?game_id=30384&amp;sport_id=4",
     "url": "https://mgoblue.com/calendar.aspx?game_id=30384&amp;sport_id=4",
     "source": "um_athletics",
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-14T12:51:42.105050+00:00"
+    "scraped_at": "2026-11-15T13:18:33.908027+00:00"
   },
   {
     "id": "um_athletics-2026-11-28-university-of-michigan-football-at-ohio-state",
@@ -54,6 +35,6 @@
     "also_listed_at": [],
     "image_url": null,
     "possible_duplicate": false,
-    "scraped_at": "2026-11-14T12:51:42.105099+00:00"
+    "scraped_at": "2026-11-15T13:18:33.908095+00:00"
   }
 ]
