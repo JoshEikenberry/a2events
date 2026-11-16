@@ -2,6 +2,9 @@
 import json
 from pathlib import Path
 from unittest.mock import patch, MagicMock
+from datetime import datetime
+
+import pytest
 
 FIXTURE_PATH = Path(__file__).parent / "fixtures" / "detroit_street_filling.json"
 FIXTURE_BYTES = FIXTURE_PATH.read_bytes()
@@ -82,3 +85,39 @@ def test_empty_upcoming_returns_empty_list():
         from scrapers.detroit_street_filling import scrape
         result = scrape()
         assert result == []
+
+
+@pytest.mark.parametrize(("utc_start", "expected_date", "expected_time"), [
+    ("2026-01-02T02:30:00+00:00", "2026-01-01", "9:30 PM"),
+    ("2026-07-02T02:30:00+00:00", "2026-07-01", "10:30 PM"),
+])
+def test_scrape_uses_detroit_date_and_time(utc_start, expected_date, expected_time):
+    from scrapers.detroit_street_filling import scrape
+    start_ms = int(datetime.fromisoformat(utc_start).timestamp() * 1000)
+    data = {"upcoming": [{"title": "Music", "startDate": start_ms, "fullUrl": "/events/music"}]}
+    with patch("scrapers.detroit_street_filling.RateLimitedSession", return_value=_mock_session(json.dumps(data))), \
+         patch("scrapers.detroit_street_filling.is_in_window", return_value=True) as in_window:
+        events = scrape()
+    in_window.assert_called_once_with(expected_date)
+    assert [(event["date"], event["time"]) for event in events] == [(expected_date, expected_time)]
+
+
+@pytest.mark.parametrize("text", [
+    "not json",
+    "{}",
+    '{"upcoming": null}',
+    '{"upcoming": [{"title": "Bad", "startDate": "invalid", "fullUrl": "/bad"}]}',
+])
+def test_invalid_response_or_partial_event_propagates(text):
+    from scrapers.detroit_street_filling import scrape
+    with patch("scrapers.detroit_street_filling.RateLimitedSession", return_value=_mock_session(text)):
+        with pytest.raises((TypeError, ValueError)):
+            scrape()
+
+
+def test_fetch_failure_propagates():
+    from scrapers.detroit_street_filling import scrape
+    with patch("scrapers.detroit_street_filling.RateLimitedSession") as cls:
+        cls.return_value.get.side_effect = RuntimeError("network error")
+        with pytest.raises(RuntimeError, match="network error"):
+            scrape()

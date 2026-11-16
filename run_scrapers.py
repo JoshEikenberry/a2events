@@ -29,6 +29,8 @@ SCRAPER_NAMES = [
     "um_events",
     "um_athletics",
     "aadl",
+    "ann_arbor_art_center",
+    "riverside",
 ]
 
 
@@ -44,18 +46,18 @@ def discover_scrapers() -> dict:
     return scrapers
 
 
-def run_scraper(name: str, module) -> list[dict]:
-    """Run a single scraper module. Returns events or [] on failure."""
+def run_scraper(name: str, module) -> list[dict] | None:
+    """Run a scraper, returning None on failure and a list on success."""
     try:
         events = module.scrape()
         if not isinstance(events, list):
             logger.error(f"[{name}] scrape() returned {type(events).__name__}, expected list")
-            return []
+            return None
         logger.info(f"[{name}] scraped {len(events)} events")
         return events
     except Exception as e:
         logger.error(f"[{name}] FAILED: {e}", exc_info=True)
-        return []
+        return None
 
 
 def save_raw(name: str, events: list[dict], raw_dir: Path = RAW_DIR):
@@ -78,6 +80,9 @@ def main():
     total = 0
     for name, module in scrapers.items():
         events = run_scraper(name, module)
+        if events is None:
+            logger.warning(f"[{name}] preserving existing raw data after scraper failure")
+            continue
         save_raw(name, events)
         total += len(events)
 

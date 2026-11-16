@@ -120,3 +120,61 @@ def test_load_raw_events_skips_malformed_json(tmp_path, monkeypatch):
     result = load_raw_events()
     assert len(result) == 1
     assert result[0]["id"] == "1"
+
+
+def test_main_excludes_expired_events_from_preserved_raw_data(tmp_path, monkeypatch):
+    from datetime import date, timedelta
+    import merge
+
+    today = date(2026, 3, 15)
+    monkeypatch.setattr(merge, "local_today", lambda: today)
+    events = [
+        make_test_event("Past", (today - timedelta(days=1)).isoformat(), "Venue"),
+        make_test_event("Today", today.isoformat(), "Venue"),
+        make_test_event("Future", (today + timedelta(days=1)).isoformat(), "Venue"),
+    ]
+    (tmp_path / "source.json").write_text(json.dumps(events))
+    monkeypatch.setattr(merge, "RAW_DIR", tmp_path)
+    monkeypatch.setattr(merge, "OUTPUT_PATH", tmp_path / "output" / "events.json")
+
+    merge.main()
+
+    output = json.loads(merge.OUTPUT_PATH.read_text())
+    assert [event["title"] for event in output["events"]] == ["Today", "Future"]
+
+
+def test_same_id_occurrences_survive_merge_when_better_keeper_changes():
+    first = make_test_event("Show", "2026-03-15", "The Ark", time="7:00 PM")
+    duplicate = make_test_event("Show", "2026-03-15", "The Ark", time="19:00", source="other")
+    duplicate["description"] = "More details"
+    later = make_test_event("Show", "2026-03-15", "The Ark", time="9:00 PM")
+
+    result = merge_events([first, duplicate, later])
+
+    assert len(result) == 2
+    assert {event["time"] for event in result} == {"19:00", "9:00 PM"}
+    assert result[0]["also_listed_at"] == [first["url"]]
+
+
+@pytest.mark.parametrize("first,second", [
+    ("7 PM", "19:00"),
+    ("12:00 AM", "00:00"),
+    ("12 p.m.", "12:00"),
+])
+def test_equivalent_times_merge(first, second):
+    a = make_test_event("Show", "2026-03-15", "The Ark", time=first)
+    b = make_test_event("Show", "2026-03-15", "The Ark", time=second, source="other")
+    assert compute_similarity(a, b) == 100
+    assert len(merge_events([a, b])) == 1
+
+
+@pytest.mark.parametrize("first,second", [
+    ("7:00 PM", "9:00 PM"),
+    ("", "7:00 PM"),
+    ("", ""),
+    ("doors at 7", "7:00 PM"),
+])
+def test_distinct_or_unknown_times_are_not_merged(first, second):
+    a = make_test_event("Show", "2026-03-15", "The Ark", time=first)
+    b = make_test_event("Show", "2026-03-15", "The Ark", time=second)
+    assert len(merge_events([a, b])) == 2

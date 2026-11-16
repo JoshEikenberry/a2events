@@ -4,9 +4,12 @@ import sys
 from calendar import month_name
 from datetime import date, datetime, timedelta, timezone
 from email.utils import formatdate
+from html import escape
 from pathlib import Path
 
 from lxml import etree
+
+from scrapers.base import local_today
 
 _INVALID_XML_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
 
@@ -14,7 +17,7 @@ _INVALID_XML_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
 def _sanitize(text: str) -> str:
     return _INVALID_XML_RE.sub("", text) if text else text
 
-SITE_URL = "https://josheikenbery.github.io/a2events/"
+SITE_URL = "https://josheikenberry.github.io/a2events/"
 EVENTS_PATH = Path("docs/events.json")
 OUTPUT_DIR = Path("docs")
 WINDOW_DAYS = 30
@@ -49,10 +52,10 @@ def build_item_title(event: dict) -> str:
 def build_item_description(event: dict) -> str:
     """Build HTML description block for an RSS item."""
     date_str = event.get("date", "")
-    time_str = (event.get("time") or "").strip()
-    venue = (event.get("venue") or "").strip()
-    address = (event.get("address") or "").strip()
-    description = (event.get("description") or "").strip()
+    time_str = escape((event.get("time") or "").strip())
+    venue = escape((event.get("venue") or "").strip())
+    address = escape((event.get("address") or "").strip())
+    description = escape((event.get("description") or "").strip())
 
     header = f"<strong>{format_date_long(date_str)}"
     if time_str:
@@ -102,7 +105,7 @@ def filter_events(
     window_days: int = WINDOW_DAYS,
 ) -> list[dict]:
     """Return events within the rolling window, optionally filtered by category."""
-    today = date.today()
+    today = local_today()
     cutoff = today + timedelta(days=window_days)
     result = []
     for event in events:

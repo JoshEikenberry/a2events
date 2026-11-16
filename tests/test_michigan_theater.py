@@ -24,10 +24,7 @@ def _make_mock_session(text):
 
 
 def _patch_today():
-    """Patch scrapers.base.date.today() to return FIXTURE_DATE."""
-    mock_date = MagicMock(wraps=datetime.date)
-    mock_date.today.return_value = FIXTURE_DATE
-    return patch("scrapers.base.date", mock_date)
+    return patch("scrapers.base.local_today", return_value=FIXTURE_DATE)
 
 
 def test_scrape_returns_list():

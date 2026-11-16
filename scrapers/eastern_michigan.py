@@ -6,9 +6,9 @@ with no bot protection. The API returns a 7-day window per call; we make
 5 weekly calls to cover the full 30-day window.
 """
 import logging
-from datetime import date, timedelta
+from datetime import timedelta
 
-from scrapers.base import RateLimitedSession, make_event, is_in_window, parse_date, WINDOW_DAYS
+from scrapers.base import RateLimitedSession, local_today, make_event, is_in_window, parse_date, WINDOW_DAYS
 
 logger = logging.getLogger(__name__)
 
@@ -22,7 +22,7 @@ FALLBACK_URL = "https://today.emich.edu/calendar"
 def scrape() -> list[dict]:
     """Fetch EMU campus events from the today.emich.edu JSON API."""
     session = RateLimitedSession()
-    today = date.today()
+    today = local_today()
     seen_ids: set = set()
     all_events: list[dict] = []
 
@@ -31,14 +31,13 @@ def scrape() -> list[dict]:
         start = today + timedelta(days=week_offset)
         url = EVENTS_API_URL.format(year=start.year, month=start.month, day=start.day)
 
-        try:
-            response = session.get(url)
-            data = response.json()
-        except Exception as exc:
-            logger.error("eastern_michigan: failed to fetch week starting %s: %s", start, exc)
-            continue
-
-        grouped = data.get("groupedByDay", {})
+        response = session.get(url)
+        data = response.json()
+        if not isinstance(data, dict) or not isinstance(data.get("groupedByDay"), dict):
+            raise ValueError(f"eastern_michigan: invalid response for week starting {start}")
+        grouped = data["groupedByDay"]
+        if any(not isinstance(day_events, list) for day_events in grouped.values()):
+            raise ValueError(f"eastern_michigan: invalid day listings for week starting {start}")
         for day_events in grouped.values():
             for item in day_events:
                 event_id = item.get("id")

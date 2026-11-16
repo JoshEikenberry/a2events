@@ -137,11 +137,9 @@ def scrape() -> list[dict]:
 
     while True:
         url = f"{FEED_URL}?page={page}"
-        try:
-            response = session.get(url)
-        except Exception as exc:
-            logger.error("aadl: failed to fetch page %d: %s", page, exc)
-            break
+        response = session.get(url)
+        if not BeautifulSoup(response.text, "lxml").select_one("#search-results, .views-row.search-result"):
+            raise ValueError(f"aadl: missing results container on page {page}")
 
         events, total_rows, dates_parsed = _parse_page(response.text)
         all_events.extend(events)

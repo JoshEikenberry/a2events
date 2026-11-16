@@ -1,4 +1,5 @@
 # tests/test_washtenaw_county.py
+from datetime import date
 from pathlib import Path
 from unittest.mock import patch, MagicMock
 from scrapers.base import is_in_window
@@ -17,6 +18,8 @@ def _mock_session(text):
     return sess
 
 
+@patch("scrapers.washtenaw_county.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_scrape_returns_list():
     with patch("scrapers.washtenaw_county.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
@@ -24,6 +27,8 @@ def test_scrape_returns_list():
         assert isinstance(scrape(), list)
 
 
+@patch("scrapers.washtenaw_county.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_events_source_and_category():
     with patch("scrapers.washtenaw_county.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
@@ -33,6 +38,8 @@ def test_events_source_and_category():
             assert e["category"] == "washtenaw_county"
 
 
+@patch("scrapers.washtenaw_county.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_events_in_window():
     with patch("scrapers.washtenaw_county.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
@@ -43,6 +50,8 @@ def test_events_in_window():
             assert is_in_window(e["date"]), f"Out of window: {e['date']}"
 
 
+@patch("scrapers.washtenaw_county.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_events_have_required_fields():
     with patch("scrapers.washtenaw_county.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
@@ -57,6 +66,8 @@ def test_events_have_required_fields():
             assert e["category"] == "washtenaw_county"
 
 
+@patch("scrapers.washtenaw_county.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_meeting_events_are_tagged():
     with patch("scrapers.washtenaw_county.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)

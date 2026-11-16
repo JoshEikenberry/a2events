@@ -1,4 +1,5 @@
 # tests/test_kerrytown.py
+from datetime import date
 from pathlib import Path
 from unittest.mock import patch, MagicMock
 from scrapers.base import is_in_window
@@ -14,6 +15,7 @@ def _mock_session(content_bytes):
     return mock_sess
 
 
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_scrape_returns_list():
     with patch("scrapers.kerrytown.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
@@ -21,6 +23,7 @@ def test_scrape_returns_list():
         assert isinstance(scrape(), list)
 
 
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_scrape_events_have_required_fields():
     with patch("scrapers.kerrytown.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
@@ -35,6 +38,7 @@ def test_scrape_events_have_required_fields():
         assert e["title"]
 
 
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_events_source():
     with patch("scrapers.kerrytown.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
@@ -44,6 +48,7 @@ def test_events_source():
             assert e["category"] == "arts_culture"
 
 
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_events_in_window():
     with patch("scrapers.kerrytown.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
@@ -53,6 +58,7 @@ def test_events_in_window():
             assert is_in_window(e["date"]), f"Event out of window: {e['date']}"
 
 
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_events_have_valid_urls():
     with patch("scrapers.kerrytown.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)

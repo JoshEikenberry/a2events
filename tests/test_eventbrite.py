@@ -1,11 +1,17 @@
 """Tests for the Eventbrite scraper."""
 import json
+from datetime import date
 from pathlib import Path
 from unittest.mock import patch, MagicMock
 
 import pytest
 
 FIXTURE = json.loads((Path(__file__).parent / "fixtures" / "eventbrite.json").read_text())
+
+@pytest.fixture
+def fixture_clock():
+    with patch("scrapers.base.local_today", return_value=date(2026, 3, 16)):
+        yield
 
 
 def _mock_scrape(fixture=FIXTURE):
@@ -21,6 +27,8 @@ def _mock_scrape(fixture=FIXTURE):
 
         # Mock the search POST
         search_resp = MagicMock()
+        fixture = json.loads(json.dumps(fixture))
+        fixture["events"]["pagination"]["page_count"] = 1
         search_resp.json.return_value = fixture
         search_resp.raise_for_status = MagicMock()
 
@@ -35,17 +43,17 @@ def _mock_scrape(fixture=FIXTURE):
         return scrape()
 
 
-def test_scrape_returns_list():
+def test_scrape_returns_list(fixture_clock):
     events = _mock_scrape()
     assert isinstance(events, list)
 
 
-def test_events_not_empty():
+def test_events_not_empty(fixture_clock):
     events = _mock_scrape()
     assert len(events) > 0
 
 
-def test_events_source():
+def test_events_source(fixture_clock):
     events = _mock_scrape()
     for e in events:
         assert e["source"] == "eventbrite"
@@ -53,21 +61,21 @@ def test_events_source():
         assert e["url"].startswith("http")
 
 
-def test_events_in_window():
+def test_events_in_window(fixture_clock):
     from scrapers.base import is_in_window
     events = _mock_scrape()
     for e in events:
         assert is_in_window(e["date"]), f"Event {e['title']!r} date {e['date']!r} is outside window"
 
 
-def test_events_have_required_fields():
+def test_events_have_required_fields(fixture_clock):
     events = _mock_scrape()
     required = {"id", "title", "date", "time", "venue", "url", "source", "category"}
     for e in events:
         assert required.issubset(e.keys()), f"Missing fields: {required - e.keys()}"
 
 
-def test_events_skip_missing_url():
+def test_events_skip_missing_url(fixture_clock):
     """Events with no URL should be skipped."""
     fixture = json.loads(json.dumps(FIXTURE))
     fixture["events"]["results"][0]["url"] = ""
@@ -77,7 +85,7 @@ def test_events_skip_missing_url():
     assert len(events) <= original_count - 1 or len(events) == original_count - 1 or True
 
 
-def test_events_skip_out_of_window():
+def test_events_skip_out_of_window(fixture_clock):
     """Events outside the date window should be skipped."""
     fixture = json.loads(json.dumps(FIXTURE))
     # Set first event to a date far in the past

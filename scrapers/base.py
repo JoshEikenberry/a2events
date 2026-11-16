@@ -3,6 +3,9 @@ import re
 import time
 import logging
 from datetime import date, datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
+import hashlib
+import json
 from typing import Optional
 
 from dateutil import parser as dateutil_parser
@@ -14,6 +17,12 @@ from urllib3.util.retry import Retry
 logger = logging.getLogger(__name__)
 
 WINDOW_DAYS = 30
+LOCAL_TIMEZONE = ZoneInfo("America/Detroit")
+
+
+def local_today() -> date:
+    """Return today's date in the event calendar's local timezone."""
+    return datetime.now(LOCAL_TIMEZONE).date()
 
 
 def slugify(text: str) -> str:
@@ -43,7 +52,9 @@ def make_event(
     if not url or not url.strip():
         raise ValueError("url is required and must not be None or empty")
 
-    event_id = f"{source}-{date}-{slugify(title)}"
+    identity = json.dumps([title, time, venue, url], ensure_ascii=False, separators=(",", ":"))
+    digest = hashlib.sha256(identity.encode("utf-8")).hexdigest()[:16]
+    event_id = f"{source}-{date}-{slugify(title)}-{digest}"
 
     return {
         "id": event_id,
@@ -114,43 +125,94 @@ def is_in_window(date_str: str, window_days: int = WINDOW_DAYS) -> bool:
     parsed = parse_date(date_str)
     if not parsed:
         return False
-    today = date.today()
+    today = local_today()
     return today <= parsed <= today + timedelta(days=window_days)
 
 
 def parse_ical_feed(ical_bytes: bytes, source: str, category: str) -> list[dict]:
-    """Parse an iCal feed and return a list of event dicts within the window."""
+    """Expand explicit calendar occurrences whose local start is in the window."""
+    from dateutil.rrule import rruleset, rrulestr
     from icalendar import Calendar
-    cal = Calendar.from_ical(ical_bytes)
+
+    def as_datetime(value):
+        return value if isinstance(value, datetime) else datetime.combine(value, datetime.min.time())
+
+    def occurrence_key(value):
+        if isinstance(value, datetime) and value.tzinfo:
+            return value.astimezone(timezone.utc)
+        return value
+
+    def properties(component, name):
+        value = component.get(name, [])
+        return value if isinstance(value, list) else [value]
+
+    components = [c for c in Calendar.from_ical(ical_bytes).walk() if c.name == "VEVENT"]
+    overrides = {}
+    for component in components:
+        if component.get("UID") and component.get("RECURRENCE-ID"):
+            key = (str(component["UID"]), occurrence_key(component["RECURRENCE-ID"].dt))
+            overrides[key] = component
+
     events = []
-    for component in cal.walk():
-        if component.name != "VEVENT":
-            continue
-        dtstart = component.get("DTSTART")
-        if not dtstart:
-            continue
-        event_date = dtstart.dt
-        if hasattr(event_date, "date"):
-            event_date = event_date.date()
-        date_str = event_date.isoformat()
-        if not is_in_window(date_str):
-            continue
-        title = str(component.get("SUMMARY", "")).strip()
-        url = str(component.get("URL", "")).strip() or None
-        if not url or not title:
-            continue
+
+    def emit(component, start, master=None):
+        if str(component.get("STATUS", "")).upper() == "CANCELLED":
+            return
+        if isinstance(start, datetime) and start.tzinfo:
+            start = start.astimezone(LOCAL_TIMEZONE)
+        day = start.date() if isinstance(start, datetime) else start
+        if not is_in_window(day.isoformat()):
+            return
+        def field(name):
+            return str(component.get(name, master.get(name, "") if master else "")).strip()
+        title, url = field("SUMMARY"), field("URL")
+        if not title or not url:
+            return
         events.append(make_event(
-            title=title,
-            date=date_str,
-            time=(
-                (lambda s: s[1:] if s[0] == "0" else s)(dtstart.dt.strftime("%I:%M %p"))
-                if isinstance(dtstart.dt, datetime)
-                else ""
-            ),
-            venue=str(component.get("LOCATION", "")).strip(),
-            url=url,
-            source=source,
-            category=category,
-            description=str(component.get("DESCRIPTION", "")).strip(),
+            title=title, date=day.isoformat(),
+            time=start.strftime("%I:%M %p").lstrip("0") if isinstance(start, datetime) else "",
+            venue=field("LOCATION"), url=url, source=source, category=category,
+            description=field("DESCRIPTION"),
         ))
+
+    for component in components:
+        if component.get("RECURRENCE-ID") or not component.get("DTSTART"):
+            continue
+        if str(component.get("STATUS", "")).upper() == "CANCELLED":
+            continue
+        start = component["DTSTART"].dt
+        uid = str(component.get("UID", ""))
+        recurring = component.get("RRULE") or component.get("RDATE")
+        if not recurring:
+            if (uid, occurrence_key(start)) not in overrides:
+                emit(component, start)
+            continue
+        all_day = not isinstance(start, datetime)
+        dtstart = as_datetime(start)
+        rules = rruleset()
+        rules.rdate(dtstart)
+        for rule in properties(component, "RRULE"):
+            rules.rrule(rrulestr(rule.to_ical().decode(), dtstart=dtstart))
+        for name, add in (("RDATE", rules.rdate), ("EXDATE", rules.exdate)):
+            for prop in properties(component, name):
+                for entry in prop.dts:
+                    value = entry.dt
+                    if isinstance(value, tuple):
+                        value = value[0]
+                    add(as_datetime(value))
+        today = local_today()
+        # Offset-aware events may cross local midnight; filter precisely in emit.
+        lower = datetime.combine(today - timedelta(days=2), datetime.min.time(), tzinfo=dtstart.tzinfo)
+        upper = datetime.combine(today + timedelta(days=WINDOW_DAYS + 3), datetime.min.time(), tzinfo=dtstart.tzinfo)
+        for occurrence in rules.between(lower, upper, inc=True):
+            value = occurrence.date() if all_day else occurrence
+            if (uid, occurrence_key(value)) not in overrides:
+                emit(component, value)
+
+    masters = {str(c["UID"]): c for c in components if c.get("UID") and not c.get("RECURRENCE-ID")}
+    for (uid, _), component in overrides.items():
+        master = masters.get(uid)
+        if (component.get("DTSTART")
+                and (master is None or str(master.get("STATUS", "")).upper() != "CANCELLED")):
+            emit(component, component["DTSTART"].dt, master)
     return events

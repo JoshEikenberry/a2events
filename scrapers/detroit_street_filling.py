@@ -5,18 +5,18 @@ North Star Lounge, hosts live music events scraped here from nstarlounge.com.
 """
 import html
 import json
-import logging
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 from scrapers.base import RateLimitedSession, is_in_window, make_event
 
-logger = logging.getLogger(__name__)
 
 SOURCE = "detroit_street_filling"
 CATEGORY = "arts_culture"
 EVENTS_URL = "https://www.nstarlounge.com/events?format=json"
 VENUE = "Detroit Street Filling Station / North Star Lounge"
 BASE_URL = "https://www.nstarlounge.com"
+DETROIT = ZoneInfo("America/Detroit")
 
 
 def scrape() -> list[dict]:
@@ -24,16 +24,10 @@ def scrape() -> list[dict]:
     session = RateLimitedSession()
     response = session.get(EVENTS_URL)
 
-    try:
-        data = json.loads(response.text)
-    except json.JSONDecodeError as exc:
-        logger.error("detroit_street_filling: failed to parse JSON response: %s", exc)
-        return []
-
-    upcoming = data.get("upcoming", [])
-    if not isinstance(upcoming, list):
-        logger.warning("detroit_street_filling: 'upcoming' field is not a list")
-        return []
+    data = json.loads(response.text)
+    if not isinstance(data, dict) or not isinstance(data.get("upcoming"), list):
+        raise ValueError("detroit_street_filling: 'upcoming' field is not a list")
+    upcoming = data["upcoming"]
 
     events = []
     for entry in upcoming:
@@ -41,11 +35,7 @@ def scrape() -> list[dict]:
         if not start_ms:
             continue
 
-        try:
-            dt = datetime.fromtimestamp(start_ms / 1000)
-        except (OSError, OverflowError, ValueError) as exc:
-            logger.warning("detroit_street_filling: invalid startDate %r: %s", start_ms, exc)
-            continue
+        dt = datetime.fromtimestamp(start_ms / 1000, tz=DETROIT)
 
         date_str = dt.date().isoformat()
         if not is_in_window(date_str):
@@ -66,22 +56,16 @@ def scrape() -> list[dict]:
 
         image_url = entry.get("assetUrl") or None
 
-        try:
-            event = make_event(
-                title=title,
-                date=date_str,
-                time=time_str,
-                venue=VENUE,
-                url=full_url,
-                source=SOURCE,
-                category=CATEGORY,
-                tags=["music"],
-                image_url=image_url,
-            )
-        except ValueError as exc:
-            logger.warning("detroit_street_filling: skipping event %r: %s", title, exc)
-            continue
-
-        events.append(event)
+        events.append(make_event(
+            title=title,
+            date=date_str,
+            time=time_str,
+            venue=VENUE,
+            url=full_url,
+            source=SOURCE,
+            category=CATEGORY,
+            tags=["music"],
+            image_url=image_url,
+        ))
 
     return events

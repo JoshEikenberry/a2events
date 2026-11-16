@@ -17,13 +17,9 @@ def scrape() -> list[dict]:
     where each value is an event object. Relevant fields:
       event_title, date_start, time_start, location_name, description, permalink
     """
-    try:
-        session = RateLimitedSession()
-        resp = session.get(API_URL, params={"filter": "upcoming", "range": 30})
-        data = resp.json()
-    except Exception as exc:
-        logger.error("Failed to fetch U-M events: %s", exc)
-        return []
+    session = RateLimitedSession()
+    resp = session.get(API_URL, params={"filter": "upcoming", "range": 30})
+    data = resp.json()
 
     # API returns a dict keyed by occurrence ID; values are event objects.
     # If for some reason it returns a list, handle that gracefully too.
@@ -32,8 +28,7 @@ def scrape() -> list[dict]:
     elif isinstance(data, dict):
         items = list(data.values())
     else:
-        logger.error("Unexpected response type from U-M Events API: %s", type(data))
-        return []
+        raise ValueError(f"Unexpected response type from U-M Events API: {type(data)}")
 
     events = []
     for item in items:
@@ -69,7 +64,7 @@ def scrape() -> list[dict]:
                 description=description,
             ))
         except Exception as exc:
-            logger.warning("Skipping um_events item %r: %s", item.get("event_title"), exc)
+            logger.warning("Skipping um_events item %r: %s", item, exc)
 
     logger.info("um_events: %d events in window", len(events))
     return events

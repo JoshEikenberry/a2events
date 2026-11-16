@@ -1,9 +1,19 @@
 # tests/test_blind_pig.py
+from datetime import date
 from pathlib import Path
 from unittest.mock import patch, MagicMock
+
+import pytest
 from scrapers.base import is_in_window
 
 FIXTURE = (Path(__file__).parent / "fixtures" / "blind_pig.html").read_text(encoding="utf-8")
+
+@pytest.fixture
+def fixture_clock():
+    today = date(2026, 3, 16)
+    with patch("scrapers.base.local_today", return_value=today), \
+         patch("scrapers.blind_pig.local_today", return_value=today):
+        yield
 
 
 def _mock_session(text):
@@ -15,7 +25,7 @@ def _mock_session(text):
     return sess
 
 
-def test_scrape_returns_list():
+def test_scrape_returns_list(fixture_clock):
     with patch("scrapers.blind_pig.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
         from scrapers.blind_pig import scrape
@@ -23,7 +33,7 @@ def test_scrape_returns_list():
         assert isinstance(result, list)
 
 
-def test_events_source_and_category():
+def test_events_source_and_category(fixture_clock):
     with patch("scrapers.blind_pig.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
         from scrapers.blind_pig import scrape
@@ -32,7 +42,7 @@ def test_events_source_and_category():
             assert e["category"] == "arts_culture"
 
 
-def test_events_in_window():
+def test_events_in_window(fixture_clock):
     with patch("scrapers.blind_pig.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
         from scrapers.blind_pig import scrape
@@ -41,7 +51,7 @@ def test_events_in_window():
             assert is_in_window(e["date"]), f"Event out of window: {e['date']}"
 
 
-def test_events_have_required_fields():
+def test_events_have_required_fields(fixture_clock):
     with patch("scrapers.blind_pig.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
         from scrapers.blind_pig import scrape
@@ -54,7 +64,7 @@ def test_events_have_required_fields():
             assert e["venue"] == "The Blind Pig"
 
 
-def test_events_have_music_tag():
+def test_events_have_music_tag(fixture_clock):
     with patch("scrapers.blind_pig.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE)
         from scrapers.blind_pig import scrape

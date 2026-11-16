@@ -1,6 +1,6 @@
 # Ann Arbor / Ypsilanti Events Calendar
 
-A daily-updating public events calendar for Ann Arbor, Ypsilanti, and Washtenaw County. Aggregates events from 11 local venues and listing sites, deduplicates them, and publishes a static site updated every morning.
+A daily-updating public events calendar for Ann Arbor, Ypsilanti, and Washtenaw County. It aggregates local venues and public calendars, deduplicates listings, and publishes a static site.
 
 **Live site:** `https://josheikenberry.github.io/a2events/`
 
@@ -20,6 +20,10 @@ scrapers/*.py
 2. `merge.py` reads all raw files, deduplicates events with fuzzy matching (rapidfuzz), and writes `docs/events.json`.
 3. `docs/index.html` is a static page that reads `events.json` at load time and renders the calendar client-side.
 4. GitHub Actions runs the full pipeline daily at 6 AM UTC and pushes the updated data files back to `main`, triggering a GitHub Pages deployment.
+
+If a scraper raises an error or returns an invalid result, the runner retains its last raw file; expired events are removed during the merge. A successful empty result replaces the previous file. Individual malformed listings may be skipped, so retained data can still be incomplete or stale.
+
+Event dates and rolling windows use the `America/Detroit` timezone. Events with different known start times are not merged; listings with unknown or ambiguous times are kept separately to avoid losing performances. Event IDs include occurrence details, so the first refresh after this change can cause RSS readers to treat existing events as new.
 
 ---
 
@@ -54,7 +58,15 @@ python merge.py
 python run_scrapers.py && python merge.py
 ```
 
-Then open `docs/index.html` in a browser to view the result.
+Serve the site locally (browsers may block `fetch` when opening the file directly):
+
+```bash
+python -m http.server 8000 --directory docs
+```
+
+Open `http://localhost:8000/`.
+
+The calendar defaults to a dark theme. Search titles, venues, descriptions, and tags, or combine the source and date-range filters with a category, tag, or calendar day. The RSS links provide all-events, arts and community feeds.
 
 ---
 
@@ -125,6 +137,23 @@ python -m pytest tests/ -v
 | Resident Advisor | https://ra.co |
 | Ann Arbor Observer | https://annarborobserver.com |
 | Eventbrite | https://eventbrite.com |
+| Ann Arbor District Library | https://aadl.org |
+| City of Ann Arbor | https://www.a2gov.org |
+| Washtenaw County | https://www.washtenaw.org |
+| City of Ypsilanti | https://cityofypsilanti.com |
+| Eastern Michigan University | https://www.emich.edu |
+| University of Michigan events | https://events.umich.edu |
+| University of Michigan athletics | https://mgoblue.com |
+| Ann Arbor Art Center | https://www.annarborartcenter.org/events/list/ |
+| Riverside Arts Center | https://www.riversidearts.org/events/ |
+
+The Art Center scraper pages through its public events API for the full 30-day window. Coverage is limited to events published by that API. The shared iCalendar parser expands recurrence rules and exceptions within the window; it does not invent daily occurrences for a multi-day event.
+
+### Additional source research
+
+- [Dexter District Library](https://dexter.lib.mi.us/events/) offers an RSS feed, but the observed feed only contained ten events; 30-day coverage needs investigation.
+- [Chelsea District Library](https://chelseadistrictlibrary.libnet.info/events) and [Matthaei Botanical Gardens and Nichols Arboretum](https://mbgna.umich.edu/events/all) have public event pages; pagination and recurring occurrences need investigation.
+- [Ypsilanti District Library](https://ypsilibrary.events.mylibrary.digital/) blocked automated access during research; an authorized feed or access arrangement is needed.
 
 ---
 

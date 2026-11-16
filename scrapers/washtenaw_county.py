@@ -10,7 +10,7 @@ import logging
 import re
 from datetime import datetime, timezone, timedelta
 
-from scrapers.base import RateLimitedSession, make_event, is_in_window, parse_date, WINDOW_DAYS
+from scrapers.base import RateLimitedSession, local_today, make_event, is_in_window, parse_date, WINDOW_DAYS
 
 logger = logging.getLogger(__name__)
 
@@ -25,7 +25,7 @@ MEETING_KEYWORDS = re.compile(
 
 
 def _build_api_params() -> dict:
-    today = datetime.now(timezone.utc).date()
+    today = local_today()
     end = today + timedelta(days=WINDOW_DAYS)
     start_str = today.isoformat() + "T00:00:00Z"
     end_str = end.isoformat() + "T23:59:59Z"
@@ -52,20 +52,16 @@ def scrape() -> list[dict]:
     """Fetch and parse Washtenaw County public meeting events from the CivicClerk API."""
     session = RateLimitedSession()
 
-    try:
-        response = session.get(
-            "https://washtenawcomi.api.civicclerk.com/v1/Events",
-            params=_build_api_params(),
-        )
-        data = json.loads(response.text)
-    except Exception as exc:
-        logger.error("Failed to fetch Washtenaw County calendar: %s", exc)
-        return []
-
-    raw_events = data.get("value", [])
-    if not isinstance(raw_events, list):
-        logger.error("Unexpected response format from CivicClerk API")
-        return []
+    response = session.get(
+        "https://washtenawcomi.api.civicclerk.com/v1/Events",
+        params=_build_api_params(),
+    )
+    data = json.loads(response.text)
+    if not isinstance(data, dict) or not isinstance(data.get("value"), list):
+        raise ValueError("Unexpected response format from CivicClerk API")
+    if data.get("@odata.nextLink"):
+        raise ValueError("CivicClerk response has unsupported pagination")
+    raw_events = data["value"]
 
     events = []
     for item in raw_events:
@@ -126,7 +122,7 @@ def scrape() -> list[dict]:
                 tags=tags,
             ))
         except Exception as exc:
-            logger.warning("washtenaw_county: skipping event %r: %s", item.get("eventName"), exc)
+            logger.warning("washtenaw_county: skipping event %r: %s", item, exc)
 
     logger.info("washtenaw_county: %d events in window", len(events))
     return events

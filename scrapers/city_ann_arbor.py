@@ -23,17 +23,12 @@ def _is_meeting(title: str) -> bool:
 
 def scrape() -> list[dict]:
     """Fetch and parse City of Ann Arbor events from the Trumba JSON API."""
-    try:
-        session = RateLimitedSession()
-        response = session.get(TRUMBA_JSON_URL)
-        data = response.json()
-    except Exception as exc:
-        logger.error("Failed to fetch City of Ann Arbor calendar: %s", exc)
-        return []
+    session = RateLimitedSession()
+    response = session.get(TRUMBA_JSON_URL)
+    data = response.json()
 
     if not isinstance(data, list):
-        logger.error("Unexpected response format from Trumba API")
-        return []
+        raise ValueError("Unexpected response format from Trumba API")
 
     events = []
     for item in data:
@@ -83,7 +78,7 @@ def scrape() -> list[dict]:
                 description=(item.get("description") or "").strip(),
             ))
         except Exception as exc:
-            logger.warning("city_ann_arbor: skipping event %r: %s", item.get("title"), exc)
+            logger.warning("city_ann_arbor: skipping event %r: %s", item, exc)
 
     logger.info("city_ann_arbor: %d events in window", len(events))
     return events

@@ -9,11 +9,12 @@ import generate_rss
 
 # ── fixtures ──────────────────────────────────────────────────────────────────
 
-TODAY = date.today().isoformat()
-TOMORROW = (date.today() + timedelta(days=1)).isoformat()
-IN_WINDOW = (date.today() + timedelta(days=15)).isoformat()
-OUTSIDE_WINDOW = (date.today() + timedelta(days=31)).isoformat()
-YESTERDAY = (date.today() - timedelta(days=1)).isoformat()
+_TODAY = generate_rss.local_today()
+TODAY = _TODAY.isoformat()
+TOMORROW = (_TODAY + timedelta(days=1)).isoformat()
+IN_WINDOW = (_TODAY + timedelta(days=15)).isoformat()
+OUTSIDE_WINDOW = (_TODAY + timedelta(days=31)).isoformat()
+YESTERDAY = (_TODAY - timedelta(days=1)).isoformat()
 
 
 def make_event(**overrides):
@@ -167,6 +168,12 @@ def test_filter_events_excludes_past():
     assert len(result) == 0
 
 
+def test_filter_events_uses_local_calendar_day(monkeypatch):
+    monkeypatch.setattr(generate_rss, "local_today", lambda: date(2026, 3, 15))
+    events = [make_event(date="2026-03-14"), make_event(date="2026-03-15")]
+    assert [event["date"] for event in generate_rss.filter_events(events)] == ["2026-03-15"]
+
+
 def test_filter_events_by_category():
     events = [
         make_event(date=TOMORROW, category="arts_culture"),
@@ -318,3 +325,24 @@ def test_build_feed_pubdate_format():
     assert "Mar" in pub_date
     assert "2026" in pub_date
     assert "00:00:00" in pub_date
+
+
+def test_feed_description_escapes_untrusted_event_text():
+    event = make_event(
+        time='<img src=x onerror="alert(1)">',
+        venue="<script>alert(1)</script>",
+        address="Main & First",
+        description="<b>not trusted</b>",
+    )
+    feed = generate_rss.build_feed([event], "Events", generate_rss.SITE_URL)
+    description = feed.find("channel/item/description").text
+    assert "<script>" not in description
+    assert "<img " not in description
+    assert "&lt;script&gt;alert(1)&lt;/script&gt;" in description
+    assert "Main &amp; First" in description
+    assert "&lt;b&gt;not trusted&lt;/b&gt;" in description
+
+
+def test_default_channel_url_points_to_published_site():
+    feed = generate_rss.build_feed([], "Events", generate_rss.SITE_URL)
+    assert feed.findtext("channel/link") == "https://josheikenberry.github.io/a2events/"

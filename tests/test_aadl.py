@@ -1,11 +1,19 @@
 """Tests for the AADL (Ann Arbor District Library) events scraper."""
 from pathlib import Path
+from datetime import date
 from unittest.mock import patch, MagicMock
+
+import pytest
 
 from scrapers.base import is_in_window
 from scrapers.aadl import FALLBACK_URL
 
 FIXTURE = (Path(__file__).parent / "fixtures" / "aadl.html").read_text(encoding="utf-8")
+
+@pytest.fixture
+def fixture_clock():
+    with patch("scrapers.base.local_today", return_value=date(2026, 3, 16)):
+        yield
 
 EMPTY_PAGE = """
 <!DOCTYPE html><html><body>
@@ -37,14 +45,14 @@ def _mock_session(*pages):
     return sess
 
 
-def test_returns_list():
+def test_returns_list(fixture_clock):
     with patch("scrapers.aadl.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE, EMPTY_PAGE)
         from scrapers.aadl import scrape
         assert isinstance(scrape(), list)
 
 
-def test_source_and_category():
+def test_source_and_category(fixture_clock):
     with patch("scrapers.aadl.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE, EMPTY_PAGE)
         from scrapers.aadl import scrape
@@ -55,7 +63,7 @@ def test_source_and_category():
             assert e["category"] == "community"
 
 
-def test_in_window_filtering():
+def test_in_window_filtering(fixture_clock):
     """Out-of-window event (Sept 2027) must be excluded."""
     with patch("scrapers.aadl.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE, EMPTY_PAGE)
@@ -68,7 +76,7 @@ def test_in_window_filtering():
             assert is_in_window(e["date"]), f"Event out of window: {e['date']} — {e['title']}"
 
 
-def test_required_fields():
+def test_required_fields(fixture_clock):
     with patch("scrapers.aadl.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE, EMPTY_PAGE)
         from scrapers.aadl import scrape
@@ -82,7 +90,7 @@ def test_required_fields():
             assert e["category"] == "community"
 
 
-def test_event_type_tag():
+def test_event_type_tag(fixture_clock):
     """Event type label from .mat-type-icon p becomes a normalized tag."""
     with patch("scrapers.aadl.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE, EMPTY_PAGE)
@@ -98,7 +106,7 @@ def test_event_type_tag():
         assert "lectures_panel_discussions" in lectures[0]["tags"]
 
 
-def test_url_fallback():
+def test_url_fallback(fixture_clock):
     """Event with no href in <a> tag falls back to FALLBACK_URL."""
     with patch("scrapers.aadl.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE, EMPTY_PAGE)
@@ -109,7 +117,7 @@ def test_url_fallback():
         assert sewing[0]["url"] == FALLBACK_URL
 
 
-def test_pagination_stops():
+def test_pagination_stops(fixture_clock):
     """Scraper fetches page 0 (has events), then page 1 (empty), then stops."""
     with patch("scrapers.aadl.RateLimitedSession") as cls:
         # page 0 = fixture with events, page 1 = empty page

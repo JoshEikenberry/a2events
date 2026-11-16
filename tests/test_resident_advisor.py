@@ -1,4 +1,5 @@
 """Tests for the Resident Advisor scraper."""
+from datetime import date
 import json
 from pathlib import Path
 from unittest.mock import patch, MagicMock
@@ -17,6 +18,8 @@ def _make_mock_post(fixture=FIXTURE):
     return mock_resp
 
 
+@patch("scrapers.resident_advisor.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_scrape_returns_list():
     with patch("scrapers.resident_advisor.requests.post") as mock_post:
         mock_post.return_value = _make_mock_post()
@@ -25,6 +28,8 @@ def test_scrape_returns_list():
         assert isinstance(result, list)
 
 
+@patch("scrapers.resident_advisor.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_events_source_and_category():
     with patch("scrapers.resident_advisor.requests.post") as mock_post:
         mock_post.return_value = _make_mock_post()
@@ -36,6 +41,8 @@ def test_events_source_and_category():
             assert e["category"] == "arts_culture"
 
 
+@patch("scrapers.resident_advisor.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_events_in_window():
     with patch("scrapers.resident_advisor.requests.post") as mock_post:
         mock_post.return_value = _make_mock_post()
@@ -45,6 +52,8 @@ def test_events_in_window():
             assert is_in_window(e["date"]), f"Event date out of window: {e['date']}"
 
 
+@patch("scrapers.resident_advisor.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_events_have_required_fields():
     with patch("scrapers.resident_advisor.requests.post") as mock_post:
         mock_post.return_value = _make_mock_post()
@@ -57,6 +66,8 @@ def test_events_have_required_fields():
             assert e["venue"]
 
 
+@patch("scrapers.resident_advisor.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_skips_out_of_window_events():
     """Event with date 2020-01-01 should be excluded."""
     with patch("scrapers.resident_advisor.requests.post") as mock_post:
@@ -67,6 +78,8 @@ def test_skips_out_of_window_events():
         assert "2020-01-01" not in dates
 
 
+@patch("scrapers.resident_advisor.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_skips_events_with_empty_url():
     """Event with empty contentUrl should be excluded."""
     with patch("scrapers.resident_advisor.requests.post") as mock_post:
@@ -77,6 +90,8 @@ def test_skips_events_with_empty_url():
         assert "No URL Event" not in titles
 
 
+@patch("scrapers.resident_advisor.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_events_have_music_tags():
     with patch("scrapers.resident_advisor.requests.post") as mock_post:
         mock_post.return_value = _make_mock_post()
@@ -96,6 +111,8 @@ def test_scrape_handles_empty_response():
         assert result == []
 
 
+@patch("scrapers.resident_advisor.local_today", new=lambda: date(2026, 3, 15))
+@patch("scrapers.base.local_today", new=lambda: date(2026, 3, 15))
 def test_event_url_format():
     """URLs should be full ra.co URLs."""
     with patch("scrapers.resident_advisor.requests.post") as mock_post:

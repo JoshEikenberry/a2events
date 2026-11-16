@@ -20,14 +20,9 @@ def scrape() -> list[dict]:
     # The calendar page embeds a JS variable: var calendarEvents = [...];
     match = re.search(r"var calendarEvents = (\[.*?\]);", response.text, re.DOTALL)
     if not match:
-        logger.warning("michigan_theater: calendarEvents variable not found on calendar page")
-        return []
+        raise ValueError("michigan_theater: calendarEvents variable not found on calendar page")
 
-    try:
-        raw_events = json.loads(match.group(1))
-    except json.JSONDecodeError as exc:
-        logger.error("michigan_theater: failed to parse calendarEvents JSON: %s", exc)
-        return []
+    raw_events = json.loads(match.group(1))
 
     events = []
     for entry in raw_events:

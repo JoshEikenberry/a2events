@@ -3,7 +3,7 @@ import logging
 
 import requests
 
-from scrapers.base import is_in_window, make_event
+from scrapers.base import is_in_window, local_today, make_event
 
 logger = logging.getLogger(__name__)
 
@@ -16,8 +16,8 @@ RA_GRAPHQL_URL = "https://ra.co/graphql"
 RA_AREA_ID = 360
 
 RA_QUERY = """
-query GET_EVENT_LISTINGS($filters: FilterInputDtoInput, $pageSize: Int) {
-  eventListings(filters: $filters, pageSize: $pageSize, page: 1) {
+query GET_EVENT_LISTINGS($filters: FilterInputDtoInput, $pageSize: Int, $page: Int) {
+  eventListings(filters: $filters, pageSize: $pageSize, page: $page) {
     data {
       id
       event {
@@ -56,9 +56,9 @@ def _is_ann_arbor(address: str) -> bool:
 
 def scrape() -> list[dict]:
     """Fetch RA Michigan-area events and return those in Ann Arbor within the window."""
-    from datetime import date, timedelta
+    from datetime import timedelta
 
-    today = date.today()
+    today = local_today()
     end_date = today + timedelta(days=30)
 
     payload = {
@@ -72,29 +72,28 @@ def scrape() -> list[dict]:
                 },
             },
             "pageSize": 100,
+            "page": 1,
         },
     }
 
-    try:
+    listings = []
+    while True:
         resp = requests.post(
             RA_GRAPHQL_URL, json=payload, headers=HEADERS, timeout=15
         )
         resp.raise_for_status()
-    except requests.RequestException as exc:
-        logger.error("resident_advisor: request failed: %s", exc)
-        return []
-
-    try:
         data = resp.json()
-    except ValueError as exc:
-        logger.error("resident_advisor: failed to parse JSON: %s", exc)
-        return []
-
-    listings = (
-        data.get("data", {})
-        .get("eventListings", {})
-        .get("data", [])
-    ) or []
+        if not isinstance(data, dict) or data.get("errors"):
+            raise ValueError("resident_advisor: GraphQL request failed")
+        result = data.get("data")
+        listings_data = result.get("eventListings") if isinstance(result, dict) else None
+        if not isinstance(listings_data, dict) or not isinstance(listings_data.get("data"), list):
+            raise ValueError("resident_advisor: invalid event listings response")
+        page_listings = listings_data["data"]
+        listings.extend(page_listings)
+        if len(page_listings) < payload["variables"]["pageSize"]:
+            break
+        payload["variables"]["page"] += 1
 
     events = []
     for listing in listings:

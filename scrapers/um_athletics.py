@@ -1,6 +1,7 @@
 """Scraper for University of Michigan Athletics schedules (mgoblue.com)."""
 import logging
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 from icalendar import Calendar
 
@@ -10,6 +11,7 @@ logger = logging.getLogger(__name__)
 
 SOURCE = "um_athletics"
 CATEGORY = "um_athletics"
+DETROIT = ZoneInfo("America/Detroit")
 
 # Map sport tag → (iCal URL, fallback schedule page URL)
 # sportId values are global_sport_id from the Sidearm Sports platform embedded JS state.
@@ -69,12 +71,15 @@ def _parse_sport_ical(ical_bytes: bytes, sport_tag: str, fallback_url: str) -> l
     for component in cal.walk():
         if component.name != "VEVENT":
             continue
+        if component.errors:
+            raise ValueError(f"Invalid {sport_tag} iCalendar event: {component.errors}")
         dtstart = component.get("DTSTART")
         if not dtstart:
             continue
-        event_date = dtstart.dt
-        if hasattr(event_date, "date"):
-            event_date = event_date.date()
+        start = dtstart.dt
+        if isinstance(start, datetime) and start.tzinfo is not None:
+            start = start.astimezone(DETROIT)
+        event_date = start.date() if isinstance(start, datetime) else start
         date_str = event_date.isoformat()
         if not is_in_window(date_str):
             continue
@@ -87,27 +92,23 @@ def _parse_sport_ical(ical_bytes: bytes, sport_tag: str, fallback_url: str) -> l
         url = str(component.get("URL", "")).strip() or fallback_url
 
         time_str = ""
-        if isinstance(dtstart.dt, datetime):
-            local_dt = dtstart.dt.astimezone()
-            time_str = local_dt.strftime("%I:%M %p").lstrip("0")
+        if isinstance(start, datetime):
+            time_str = start.strftime("%I:%M %p").lstrip("0")
 
         venue = str(component.get("LOCATION", "")).strip()
         description = str(component.get("DESCRIPTION", "")).strip()
 
-        try:
-            events.append(make_event(
-                title=title,
-                date=date_str,
-                time=time_str,
-                venue=venue,
-                url=url,
-                source=SOURCE,
-                category=CATEGORY,
-                description=description,
-                tags=[sport_tag],
-            ))
-        except Exception as exc:
-            logger.warning("Skipping %s event %r: %s", sport_tag, title, exc)
+        events.append(make_event(
+            title=title,
+            date=date_str,
+            time=time_str,
+            venue=venue,
+            url=url,
+            source=SOURCE,
+            category=CATEGORY,
+            description=description,
+            tags=[sport_tag],
+        ))
     return events
 
 
@@ -117,12 +118,9 @@ def scrape() -> list[dict]:
     all_events = []
 
     for sport_tag, (ical_url, fallback_url) in SPORTS.items():
-        try:
-            resp = session.get(ical_url)
-            sport_events = _parse_sport_ical(resp.content, sport_tag, fallback_url)
-            all_events.extend(sport_events)
-            logger.info("um_athletics %s: %d events", sport_tag, len(sport_events))
-        except Exception as exc:
-            logger.warning("Failed to fetch um_athletics feed for %s: %s", sport_tag, exc)
+        resp = session.get(ical_url)
+        sport_events = _parse_sport_ical(resp.content, sport_tag, fallback_url)
+        all_events.extend(sport_events)
+        logger.info("um_athletics %s: %d events", sport_tag, len(sport_events))
 
     return all_events

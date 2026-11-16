@@ -1,10 +1,9 @@
 """Scraper for The Blind Pig (blindpigmusic.com)."""
 import logging
-from datetime import date
 
 from bs4 import BeautifulSoup
 
-from scrapers.base import RateLimitedSession, is_in_window, make_event, parse_date
+from scrapers.base import RateLimitedSession, is_in_window, local_today, make_event, parse_date
 
 logger = logging.getLogger(__name__)
 
@@ -19,7 +18,7 @@ def _parse_event_date(raw: str) -> str:
     """Parse date string like 'Mar 16' into ISO format, assuming current or next year."""
     if not raw:
         return ""
-    today = date.today()
+    today = local_today()
     # Try appending the current year first
     for year in (today.year, today.year + 1):
         parsed = parse_date(f"{raw} {year}")

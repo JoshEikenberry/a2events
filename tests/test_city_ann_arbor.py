@@ -1,12 +1,20 @@
 """Tests for the City of Ann Arbor calendar scraper."""
 import json
+from datetime import date
 from pathlib import Path
 from unittest.mock import patch, MagicMock
+
+import pytest
 
 from scrapers.base import is_in_window
 
 FIXTURE_PATH = Path(__file__).parent / "fixtures" / "city_ann_arbor.json"
 FIXTURE_DATA = json.loads(FIXTURE_PATH.read_text(encoding="utf-8"))
+
+@pytest.fixture
+def fixture_clock():
+    with patch("scrapers.base.local_today", return_value=date(2026, 3, 16)):
+        yield
 
 
 def _mock_session(json_data):
@@ -19,14 +27,14 @@ def _mock_session(json_data):
     return sess
 
 
-def test_scrape_returns_list():
+def test_scrape_returns_list(fixture_clock):
     with patch("scrapers.city_ann_arbor.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE_DATA)
         from scrapers.city_ann_arbor import scrape
         assert isinstance(scrape(), list)
 
 
-def test_events_source_and_category():
+def test_events_source_and_category(fixture_clock):
     with patch("scrapers.city_ann_arbor.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE_DATA)
         from scrapers.city_ann_arbor import scrape
@@ -35,7 +43,7 @@ def test_events_source_and_category():
             assert e["category"] == "city_ann_arbor"
 
 
-def test_events_in_window():
+def test_events_in_window(fixture_clock):
     with patch("scrapers.city_ann_arbor.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE_DATA)
         from scrapers.city_ann_arbor import scrape
@@ -45,7 +53,7 @@ def test_events_in_window():
             assert is_in_window(e["date"]), f"Out of window: {e['date']}"
 
 
-def test_events_have_required_fields():
+def test_events_have_required_fields(fixture_clock):
     with patch("scrapers.city_ann_arbor.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE_DATA)
         from scrapers.city_ann_arbor import scrape
@@ -59,7 +67,7 @@ def test_events_have_required_fields():
             assert e["category"] == "city_ann_arbor"
 
 
-def test_public_meeting_tag():
+def test_public_meeting_tag(fixture_clock):
     with patch("scrapers.city_ann_arbor.RateLimitedSession") as cls:
         cls.return_value = _mock_session(FIXTURE_DATA)
         from scrapers.city_ann_arbor import scrape

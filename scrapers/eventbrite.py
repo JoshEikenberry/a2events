@@ -40,7 +40,7 @@ def scrape() -> list[dict]:
     })
 
     # Fetch homepage to acquire session cookies (including csrftoken)
-    session.get(HOME_URL, timeout=15)
+    session.get(HOME_URL, timeout=15).raise_for_status()
 
     csrf = next(
         (c.value for c in session.cookies if c.name == "csrftoken"),
@@ -59,12 +59,31 @@ def scrape() -> list[dict]:
         }
     }
 
-    resp = session.post(SEARCH_URL, json=payload, timeout=15)
-    resp.raise_for_status()
-    data = resp.json()
+    results = []
+    page = 1
+    while True:
+        payload["event_search"]["page"] = page
+        resp = session.post(SEARCH_URL, json=payload, timeout=15)
+        resp.raise_for_status()
+        data = resp.json()
+        container = data.get("events") if isinstance(data, dict) else None
+        if not isinstance(container, dict) or not isinstance(container.get("results"), list):
+            raise ValueError("Eventbrite: invalid search response")
+        pagination = container.get("pagination")
+        if not isinstance(pagination, dict) or not isinstance(pagination.get("page_count"), int):
+            raise ValueError("Eventbrite: missing pagination")
+        page_count = pagination["page_count"]
+        if page_count < 0 or (page > 1 and page > page_count):
+            raise ValueError("Eventbrite: invalid page count")
+        if pagination.get("page_number", page) != page:
+            raise ValueError("Eventbrite: unexpected page number")
+        results.extend(container["results"])
+        if page >= page_count:
+            break
+        page += 1
 
     events = []
-    for item in data.get("events", {}).get("results", []):
+    for item in results:
         date_str = item.get("start_date", "")
         if not is_in_window(date_str):
             continue

@@ -178,6 +178,59 @@
         cursor: pointer;
       }
     }
+    /* A quieter, high-contrast dark palette for the directory. */
+    :root {
+      color-scheme: dark;
+      --bg: #101513; --surface: #19211e; --border: #34433b;
+      --text: #edf4ef; --muted: #b2c2b7; --accent: #a8dec0;
+      --accent-light: #283e32; --arts: #dfc4fa; --arts-light: #3a2e49;
+      --community: #ffd1a8; --community-light: #493528;
+      --city-a2: #b8d6ff; --city-a2-light: #293d54;
+      --washtenaw: #a8e7d9; --washtenaw-light: #25463e;
+      --ypsilanti: #ffbfc0; --ypsilanti-light: #4d3033;
+      --um-athletics: #bed6ff; --um-athletics-light: #29364f;
+      --emu: #b9eac7; --emu-light: #294536;
+    }
+    body { font-family: system-ui, sans-serif; }
+    nav { position: static; padding: 1rem max(1.5rem, calc((100% - 1200px) / 2)); gap: 0.5rem 1.5rem; }
+    .nav-title { flex-basis: 100%; padding: 0; color: var(--text); font-size: 1.3rem; letter-spacing: -0.03em; }
+    .nav-tabs { flex-wrap: wrap; }
+    .tab-btn.active, .tag-pill.active, .cal-day.selected { background: var(--accent) !important; border-color: var(--accent) !important; color: #102018 !important; }
+    .layout { max-width: 1200px; grid-template-columns: 260px minmax(0, 1fr); gap: 2rem; padding-top: 2rem; }
+    .sidebar { top: 1rem; }
+    .calendar-widget, .rss-widget, .event-card, .state-message { border-radius: 0.5rem; }
+    .event-card { padding: 1.25rem; }
+    .event-card:hover { border-color: var(--accent); box-shadow: none; }
+    .cal-day.today:hover { background: var(--accent-light); }
+    .cal-day.selected::after { background: #102018; }
+    .badge.meeting { background: #493528; color: #ffd1a8; border-color: #78563d; }
+    .state-message.error h2 { color: #ffb6ad; }
+    :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+    button, input, select { font: inherit; }
+    button.cal-day { background: transparent; border: 0; font-size: 0.8rem; }
+    button.cal-day:hover { background: var(--bg); }
+    button.cal-day.today { background: var(--accent-light); }
+    .content { min-width: 0; }
+    .content h1 { font-size: clamp(1.6rem, 3vw, 2.3rem); letter-spacing: -0.04em; line-height: 1.15; }
+    .intro { color: var(--muted); margin: 0.5rem 0 1.5rem; }
+    .filters { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.85rem; margin-bottom: 1.5rem; }
+    .filter-field { display: flex; flex-direction: column; gap: 0.3rem; color: var(--muted); font-size: 0.8rem; font-weight: 600; }
+    .filter-field input, .filter-field select {
+      width: 100%; min-width: 0; min-height: 2.6rem; padding: 0.55rem 0.7rem;
+      background: var(--surface); border: 1px solid var(--border); border-radius: 0.375rem; color: var(--text);
+    }
+    .filter-reset { justify-self: start; background: none; color: var(--accent); border: 1px solid var(--border); border-radius: 0.375rem; padding: 0.45rem 0.75rem; cursor: pointer; }
+    .filter-reset:hover { border-color: var(--accent); }
+    @media (max-width: 720px) {
+      nav { padding: 1rem; }
+      .nav-title { flex-basis: auto; flex-grow: 1; }
+      .tag-row { display: flex; }
+      .layout { display: flex; flex-direction: column; padding: 1rem; gap: 1.5rem; }
+      .content { width: 100%; order: 0; }
+      .sidebar { display: grid; position: static; width: 100%; order: 1; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0.75rem; }
+      .rss-widget { margin-top: 0; }
+    }
+    @media (max-width: 420px) { .filters { grid-template-columns: 1fr; } }
 
   </style>
 </head>
@@ -252,11 +305,24 @@
     </div>
   </aside>
 
-  <section class="events-list" id="events-list">
-    <div class="state-message">
-      <h2>Loading events…</h2>
+  <div class="content">
+    <h1>Find something to do.</h1>
+    <p class="intro">Events across Ann Arbor and Ypsilanti, all in one place.</p>
+    <div class="filters" aria-label="Event filters">
+      <label class="filter-field">Search events
+        <input id="search" type="search" placeholder="Title, venue, or keyword" />
+      </label>
+      <label class="filter-field">Source
+        <select id="source"><option value="">All sources</option></select>
+      </label>
+      <label class="filter-field">From date <input id="date-from" type="date" /></label>
+      <label class="filter-field">Through date <input id="date-to" type="date" /></label>
+      <button class="filter-reset" id="reset-filters" type="button">Clear all filters</button>
     </div>
-  </section>
+    <section class="events-list" id="events-list" aria-label="Events" aria-live="polite" aria-atomic="false">
+      <div class="state-message"><h2>Loading events…</h2></div>
+    </section>
+  </div>
 </main>
 
 <script>
@@ -267,6 +333,7 @@
   var TODAY = new Date();
   var todayStr = fmtIso(TODAY);
   var allEvents = [];
+  var eventsLoaded = false;
   var activeCategory = "all";
   var selectedDay = null;
   var activeTags = new Set();
@@ -365,6 +432,10 @@
   function clearEl(node) { while (node.firstChild) node.removeChild(node.firstChild); }
 
   function getFiltered() {
+    var query = document.getElementById("search").value.trim().toLowerCase();
+    var source = document.getElementById("source").value;
+    var from = document.getElementById("date-from").value;
+    var to = document.getElementById("date-to").value;
     return allEvents.filter(function(ev) {
       if (activeTags.size > 0) {
         var evTags = ev.tags || [];
@@ -375,24 +446,24 @@
         if (activeCategory !== "all" && ev.category !== activeCategory) return false;
       }
       if (selectedDay && ev.date !== selectedDay) return false;
+      if (from && ev.date < from || to && ev.date > to) return false;
+      if (source && ev.source !== source) return false;
+      if (query && [ev.title, ev.venue, ev.address, ev.description, ev.source, (ev.tags || []).join(" ")]
+        .join(" ").toLowerCase().indexOf(query) === -1) return false;
       return true;
     });
   }
 
   function renderEvents() {
+    if (!eventsLoaded) return;
     var list = document.getElementById("events-list");
     clearEl(list);
     var filtered = getFiltered();
 
     if (filtered.length === 0) {
-      var emptyMsg;
-      if (activeTags.size > 0 && selectedDay) {
-        emptyMsg = "No events found for the selected tags on this day.";
-      } else if (activeTags.size > 0) {
-        emptyMsg = "No events found for the selected tags.";
-      } else {
-        emptyMsg = "Try changing the category or selecting a different day.";
-      }
+      var emptyMsg = allEvents.length
+        ? "Try changing or clearing your filters."
+        : "There are no events available right now.";
       list.appendChild(el("div", {className: "state-message"}, [
         el("h2", {textContent: "No events found"}),
         el("p", {textContent: emptyMsg})
@@ -424,8 +495,9 @@
       }
       var meta = el("div", {className: "event-meta", textContent: metaParts.join(" \u00b7 ")});
 
-      var titleChild = ev.url
-        ? el("a", {href: ev.url, target: "_blank", rel: "noopener noreferrer", textContent: ev.title || ""})
+      var url = safeEventUrl(ev.url);
+      var titleChild = url
+        ? el("a", {href: url, target: "_blank", rel: "noopener noreferrer", textContent: ev.title || ""})
         : el("span", {textContent: ev.title || ""});
       var title = el("h3", {className: "event-title"}, [titleChild]);
 
@@ -440,10 +512,10 @@
       var badges = el("div", {className: "badges"}, badgeList);
 
       var bodyChildren = [title, meta, badges];
-      if (ev.url) {
+      if (url) {
         bodyChildren.push(el("a", {
           className: "event-link-btn",
-          href: ev.url,
+          href: url,
           target: "_blank",
           rel: "noopener noreferrer",
           textContent: "Details \u2192"
@@ -491,12 +563,12 @@
       if (dateStr === selectedDay) classes.push("selected");
       if (eventDays[dateStr]) classes.push("has-events");
 
-      var cell = el("div", {
+      var cell = el("button", {
+        type: "button",
         className: classes.join(" "),
         "data-date": dateStr,
-        role: "button",
-        tabindex: "0",
         "aria-label": dateStr,
+        "aria-pressed": String(dateStr === selectedDay),
         textContent: String(d)
       });
 
@@ -504,10 +576,8 @@
         cell.addEventListener("click", function() {
           selectedDay = (selectedDay === ds) ? null : ds;
           renderCalendar();
+          grid.querySelector('[data-date="' + ds + '"]').focus();
           renderEvents();
-        });
-        cell.addEventListener("keydown", function(e) {
-          if (e.key === "Enter" || e.key === " ") { e.preventDefault(); cell.click(); }
         });
       })(dateStr);
 
@@ -517,6 +587,7 @@
 
   function initTabs() {
     document.querySelectorAll(".tab-btn").forEach(function(btn) {
+      btn.setAttribute("aria-pressed", String(btn.dataset.category === activeCategory));
       btn.addEventListener("click", function() {
         activeTags.clear();
         document.querySelectorAll(".tag-pill.active").forEach(function(p) {
@@ -524,8 +595,11 @@
           p.setAttribute("aria-pressed", "false");
         });
         activeCategory = btn.dataset.category;
-        document.querySelectorAll(".tab-btn").forEach(function(b) { b.classList.remove("active"); });
-        btn.classList.add("active");
+        document.querySelectorAll(".tab-btn").forEach(function(b) {
+          var selected = b === btn;
+          b.classList.toggle("active", selected);
+          b.setAttribute("aria-pressed", String(selected));
+        });
         var sel = document.getElementById("tab-select");
         if (sel) sel.value = activeCategory;
         renderEvents();
@@ -543,6 +617,7 @@
         activeCategory = tabSelect.value;
         document.querySelectorAll(".tab-btn").forEach(function(b) {
           b.classList[b.dataset.category === activeCategory ? "add" : "remove"]("active");
+          b.setAttribute("aria-pressed", String(b.dataset.category === activeCategory));
         });
         renderEvents();
       });
@@ -588,6 +663,7 @@
             activeCategory = "all";
             document.querySelectorAll(".tab-btn").forEach(function(b) {
               b.classList[b.dataset.category === "all" ? "add" : "remove"]("active");
+              b.setAttribute("aria-pressed", String(b.dataset.category === "all"));
             });
             var sel = document.getElementById("tab-select");
             if (sel) sel.value = "all";
@@ -597,7 +673,10 @@
           btn.classList.add("active");
           btn.setAttribute("aria-pressed", "true");
           activeCategory = "all";
-          document.querySelectorAll(".tab-btn").forEach(function(b) { b.classList.remove("active"); });
+          document.querySelectorAll(".tab-btn").forEach(function(b) {
+            b.classList.remove("active");
+            b.setAttribute("aria-pressed", "false");
+          });
           var sel = document.getElementById("tab-select");
           if (sel) sel.value = "all";
         }
@@ -608,17 +687,47 @@
 
     nav.appendChild(row);
 
-    if (window.ResizeObserver) {
-      new ResizeObserver(function() {
-        var sidebar = document.querySelector(".sidebar");
-        if (sidebar) sidebar.style.top = nav.offsetHeight + "px";
-      }).observe(nav);
+  }
+
+  function safeEventUrl(value) {
+    try {
+      var url = new URL(value);
+      return url.protocol === "https:" || url.protocol === "http:" ? url.href : "";
+    } catch (err) {
+      return "";
     }
+  }
+
+  function initFilters() {
+    ["search", "source", "date-from", "date-to"].forEach(function(id) {
+      document.getElementById(id).addEventListener(id === "search" ? "input" : "change", renderEvents);
+    });
+    document.getElementById("reset-filters").addEventListener("click", function() {
+      ["search", "source", "date-from", "date-to"].forEach(function(id) {
+        document.getElementById(id).value = "";
+      });
+      selectedDay = null;
+      activeTags.clear();
+      activeCategory = "all";
+      document.getElementById("tab-select").value = "all";
+      document.querySelectorAll(".tab-btn").forEach(function(btn) {
+        var selected = btn.dataset.category === "all";
+        btn.classList.toggle("active", selected);
+        btn.setAttribute("aria-pressed", String(selected));
+      });
+      document.querySelectorAll(".tag-pill").forEach(function(btn) {
+        btn.classList.remove("active");
+        btn.setAttribute("aria-pressed", "false");
+      });
+      renderCalendar();
+      renderEvents();
+    });
   }
 
   function init() {
     initTabs();
     initCalNav();
+    initFilters();
     renderCalendar();
 
     fetch("./events.json")
@@ -632,6 +741,12 @@
         allEvents = events.slice().sort(function(a, b) {
           return a.date < b.date ? -1 : a.date > b.date ? 1 : 0;
         });
+        var sources = Array.from(new Set(allEvents.map(function(ev) { return ev.source; }).filter(Boolean))).sort();
+        var sourceSelect = document.getElementById("source");
+        sources.forEach(function(source) {
+          sourceSelect.appendChild(el("option", {value: source, textContent: humanizeTag(source)}));
+        });
+        eventsLoaded = true;
         initTagRow();
         renderCalendar();
         renderEvents();

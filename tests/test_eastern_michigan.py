@@ -3,6 +3,7 @@ import datetime
 import json
 from pathlib import Path
 from unittest.mock import MagicMock, patch
+import pytest
 
 from scrapers.base import is_in_window
 
@@ -44,10 +45,7 @@ WEEK1_RESPONSE = {
 
 
 def _patch_today():
-    """Patch scrapers.base.date.today() to return FIXTURE_DATE."""
-    mock_date = MagicMock(wraps=datetime.date)
-    mock_date.today.return_value = FIXTURE_DATE
-    return patch("scrapers.base.date", mock_date)
+    return patch("scrapers.base.local_today", return_value=FIXTURE_DATE)
 
 
 def _mock_session(*responses):
@@ -157,22 +155,12 @@ def test_scrape_makes_five_calls():
         )
 
 
-def test_scrape_fetch_error_continues():
-    """A failed API call should be skipped; other weeks still return events."""
-    with _patch_today(), patch("scrapers.eastern_michigan.RateLimitedSession") as cls:
-        sess = MagicMock()
-        # Week 0 raises, weeks 1-4 return valid/empty data
-        ok_resp = MagicMock()
-        ok_resp.json.return_value = FIXTURE
-        sess.get.side_effect = [
-            Exception("connection error"),
-            ok_resp,
-            MagicMock(**{"json.return_value": EMPTY_RESPONSE}),
-            MagicMock(**{"json.return_value": EMPTY_RESPONSE}),
-            MagicMock(**{"json.return_value": EMPTY_RESPONSE}),
+def test_scrape_fetch_error_aborts():
+    with patch("scrapers.eastern_michigan.RateLimitedSession") as cls:
+        cls.return_value.get.side_effect = [
+            MagicMock(**{"json.return_value": FIXTURE}),
+            ConnectionError("connection error"),
         ]
-        cls.return_value = sess
         from scrapers.eastern_michigan import scrape
-        events = scrape()
-        assert isinstance(events, list)
-        assert len(events) >= 1
+        with pytest.raises(ConnectionError, match="connection error"):
+            scrape()

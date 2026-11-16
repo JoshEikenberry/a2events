@@ -5,7 +5,7 @@ from datetime import date, timedelta
 
 from bs4 import BeautifulSoup
 
-from scrapers.base import RateLimitedSession, is_in_window, make_event, parse_date
+from scrapers.base import RateLimitedSession, is_in_window, local_today, make_event
 
 logger = logging.getLogger(__name__)
 
@@ -97,13 +97,13 @@ def _parse_events_from_html(html: str) -> list[dict]:
 def scrape() -> list[dict]:
     """Fetch Ann Arbor Observer calendar events for the next 30 days."""
     session = RateLimitedSession()
-    today = date.today()
+    today = local_today()
     window_end = today + timedelta(days=30)
 
     # Collect events from weekly pages covering today through window_end.
     # The calendar week view shows Sun-Sat; step by 7 days.
     all_events: list[dict] = []
-    seen_ids: set[str] = set()
+    seen_occurrences: set[tuple[str, str, str, str, str, str]] = set()
 
     # Determine the first Sunday on or before today
     week_start = today - timedelta(days=today.weekday() + 1)  # Monday=0, so Sunday=6
@@ -120,16 +120,14 @@ def scrape() -> list[dict]:
             url = _week_url(current)
 
         logger.debug("observer: fetching %s", url)
-        try:
-            response = session.get(url)
-            week_events = _parse_events_from_html(response.text)
-        except Exception as exc:
-            logger.error("observer: failed to fetch %s: %s", url, exc)
-            week_events = []
+        response = session.get(url)
+        response.raise_for_status()
+        week_events = _parse_events_from_html(response.text)
 
         for ev in week_events:
-            if ev["id"] not in seen_ids:
-                seen_ids.add(ev["id"])
+            occurrence = (ev["id"], ev["date"], ev["time"], ev["title"], ev["venue"], ev["url"])
+            if occurrence not in seen_occurrences:
+                seen_occurrences.add(occurrence)
                 all_events.append(ev)
 
         current += timedelta(weeks=1)

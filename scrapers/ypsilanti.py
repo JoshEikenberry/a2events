@@ -21,12 +21,10 @@ MEETING_KEYWORDS = re.compile(
 def scrape() -> list[dict]:
     """Fetch and parse the City of Ypsilanti public calendar."""
     session = RateLimitedSession()
-    try:
-        response = session.get(EVENTS_URL)
-        soup = BeautifulSoup(response.text, "lxml")
-    except Exception as exc:
-        logger.error("Failed to fetch Ypsilanti calendar: %s", exc)
-        return []
+    response = session.get(EVENTS_URL)
+    soup = BeautifulSoup(response.text, "lxml")
+    if not soup.select_one(".calendars"):
+        raise ValueError("ypsilanti: calendar container not found")
 
     events = []
     # Events are in <li> elements inside .calendars .calendar containers.
