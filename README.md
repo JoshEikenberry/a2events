@@ -25,6 +25,18 @@ If a scraper raises an error or returns an invalid result, the runner retains it
 
 Event dates and rolling windows use the `America/Detroit` timezone. Events with different known start times are not merged; listings with unknown or ambiguous times are kept separately to avoid losing performances. Event IDs include occurrence details, so the first refresh after this change can cause RSS readers to treat existing events as new.
 
+Events are ordered by local start time within each day; all-day or unrecognized times appear after timed events.
+
+Athletic events clearly held outside the local area, including away games and out-of-town neutral-site games, are excluded from the published calendar and location research queue. Home and known local games are kept; events with ambiguous locations are retained rather than guessed.
+
+## Location research
+
+The merge normalizes venue and address text from every source, including retained raw files. Published events include `location_status` (`resolved`, `needs_review`, or `online`) and `location_city` when a city can be identified. A resolved address has a recognizable street and Michigan city; it has not necessarily been independently verified. Unknown and incomplete physical locations are flagged rather than guessed. The calendar can filter by location status or town.
+
+`python merge.py` also rebuilds `docs/location-review.json`, grouping unresolved named locations by source and retaining event links for research. Missing locations with no venue or address remain separate. To resolve a location, verify the address against a reliable primary source, then add an entry to `data/locations.json` with the exact scraper `source`, `venue`, `address`, and evidence `source_url`. Matches are source-specific and case-insensitive; a room suffix after `:` is retained. Run the merge again to apply the address and remove resolved entries from the queue. No external geocoding service is used.
+
+Campus building aliases are maintained separately in `data/campus_emu.json` and `data/campus_um.json`, with university source links for each address. Matching is scoped to the event source and uses exact building names, with recognized campus room suffixes and city prefixes; it retains room names in the displayed venue. Existing addresses are never overwritten, and ambiguous or unlisted buildings remain in the research queue. The files are curated snapshots, not live map lookups; verify changes against the cited university directories before updating them.
+
 ---
 
 ## Setup
@@ -146,8 +158,13 @@ python -m pytest tests/ -v
 | University of Michigan athletics | https://mgoblue.com |
 | Ann Arbor Art Center | https://www.annarborartcenter.org/events/list/ |
 | Riverside Arts Center | https://www.riversidearts.org/events/ |
+| The Sun Times News | https://thesuntimesnews.com/events/ |
 
 The Art Center scraper pages through its public events API for the full 30-day window. Coverage is limited to events published by that API. The shared iCalendar parser expands recurrence rules and exceptions within the window; it does not invent daily occurrences for a multi-day event.
+
+The Observer's API is limited to 50 events per page and its `robots.txt` requests 600 seconds between requests. A 13-page crawl takes roughly two hours; the workflow serializes runs to prevent concurrent crawls. Back-to-back manual runs should also be spaced at least 10 minutes apart. A failed or inconsistent crawl retains the previous raw data.
+
+The Sun Times News calendar covers multiple communities and may include events outside Washtenaw County. Its listing suppresses some recurring occurrences, so the scraper includes only dates the listing explicitly provides.
 
 ### Additional source research
 

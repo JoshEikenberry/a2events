@@ -31,6 +31,7 @@ SCRAPER_NAMES = [
     "aadl",
     "ann_arbor_art_center",
     "riverside",
+    "sun_times_news",
 ]
 
 
