@@ -1,595 +1,6 @@
 {
-  "count": 592,
+  "count": 569,
   "locations": [
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "eventbrite-2026-11-17-washtenaw-countys-special-education-inclusion-coffee-conversation-e757c6bf089899e1",
-          "title": "Washtenaw County's Special Education Inclusion Coffee & Conversation",
-          "date": "2026-11-17",
-          "time": "09:30",
-          "url": "https://www.eventbrite.com/e/washtenaw-countys-special-education-inclusion-coffee-conversation-tickets-1990489068386",
-          "source": "eventbrite",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-investigate-labs-u-m-museum-of-natural-history-bdcd6baade67bd52",
-          "title": "“Investigate Labs”: U-M Museum of Natural History",
-          "date": "2026-11-17",
-          "time": "11:00 AM",
-          "url": "https://annarborobserver.com/event/investigate-labs-u-m-museum-of-natural-history-29/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-u-m-center-for-chinese-studies-noon-lecture-series-f6b5534ad6406c8c",
-          "title": "U-M Center for Chinese Studies Noon Lecture Series",
-          "date": "2026-11-17",
-          "time": "12:00 PM",
-          "url": "https://annarborobserver.com/event/u-m-center-for-chinese-studies-noon-lecture-series/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "sun_times_news-2026-11-17-quartermania-3fa75918efca1c4f",
-          "title": "Quartermania",
-          "date": "2026-11-17",
-          "time": "17:30",
-          "url": "https://thesuntimesnews.com/event/quartermania/",
-          "source": "sun_times_news",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-defy-how-to-speak-up-when-it-matters-u-m-positive-links-speaker-series-506cf44ba8ae0190",
-          "title": "“Defy: How to Speak Up When It Matters”: U-M Positive Links Speaker Series",
-          "date": "2026-11-17",
-          "time": "1:00 PM",
-          "url": "https://annarborobserver.com/event/defy-how-to-speak-up-when-it-matters-u-m-positive-links-speaker-series/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-duplicate-bridge-ann-arbor-city-club-17b2cf5defd8d875",
-          "title": "Duplicate Bridge: Ann Arbor City Club",
-          "date": "2026-11-17",
-          "time": "1:00 PM",
-          "url": "https://annarborobserver.com/event/duplicate-bridge-ann-arbor-city-club-30/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-ann-arbor-area-scrabble-club-a48228326bcd64b9",
-          "title": "Ann Arbor Area Scrabble Club",
-          "date": "2026-11-17",
-          "time": "3:30 PM",
-          "url": "https://annarborobserver.com/event/ann-arbor-area-scrabble-club-11/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-should-hate-speech-be-protected-u-m-raoul-wallenberg-institute-samantha-woll-dialogues-6a45aa998eb4e320",
-          "title": "“Should Hate Speech Be Protected?”: U-M Raoul Wallenberg Institute Samantha Woll Dialogues",
-          "date": "2026-11-17",
-          "time": "4:00 PM",
-          "url": "https://annarborobserver.com/event/should-hate-speech-be-protected-u-m-raoul-wallenberg-institute-samantha-woll-dialogues/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-michigan-marching-band-practice-777b1a615345795c",
-          "title": "Michigan Marching Band Practice",
-          "date": "2026-11-17",
-          "time": "4:45 PM",
-          "url": "https://annarborobserver.com/event/michigan-marching-band-practice-3/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-game-night-sylvan-factory-64da0de5d8fe1adf",
-          "title": "Game Night: Sylvan Factory",
-          "date": "2026-11-17",
-          "time": "5:00 PM",
-          "url": "https://annarborobserver.com/event/game-night-sylvan-factory-15/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-international-travel-fellowship-panel-u-m-center-for-the-education-of-women-fe43554a1390332f",
-          "title": "“International Travel Fellowship Panel”: U-M Center for the Education of Women",
-          "date": "2026-11-17",
-          "time": "5:30 PM",
-          "url": "https://annarborobserver.com/event/international-travel-fellowship-panel-u-m-center-for-the-education-of-women/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-sisters-rising-ann-arbor-district-library-b45f22d907c82cb5",
-          "title": "“Sisters Rising”: Ann Arbor District Library",
-          "date": "2026-11-17",
-          "time": "5:30 PM",
-          "url": "https://annarborobserver.com/event/sisters-rising-ann-arbor-district-library/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-drop-in-knitting-spun-986cad90594ce3b2",
-          "title": "Drop-in Knitting: Spun",
-          "date": "2026-11-17",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/drop-in-knitting-spun-24/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-handmade-felt-food-avocado-ann-arbor-district-library-0a3a4bb00f366daa",
-          "title": "“Handmade Felt Food: Avocado”: Ann Arbor District Library",
-          "date": "2026-11-17",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/handmade-felt-food-avocado-ann-arbor-district-library/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-tour-de-dirt-ann-arbor-bicycle-touring-society-af337a2288ff57e6",
-          "title": "“Tour de Dirt”: Ann Arbor Bicycle Touring Society",
-          "date": "2026-11-17",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/tour-de-dirt-ann-arbor-bicycle-touring-society/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-luna-phoenix-queen-literati-bookstore-8c30c055c02335d6",
-          "title": "“Luna, Phoenix, Queen”: Literati Bookstore",
-          "date": "2026-11-17",
-          "time": "6:30 PM",
-          "url": "https://annarborobserver.com/event/luna-phoenix-queen-literati-bookstore/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-trivia-with-terry-argus-farm-stop-ffc307b3bb9100c6",
-          "title": "“Trivia with Terry!”: Argus Farm Stop",
-          "date": "2026-11-17",
-          "time": "6:30 PM",
-          "url": "https://annarborobserver.com/event/trivia-with-terry-argus-farm-stop-7/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-ann-arbor-camera-club-fdd69933b3019a12",
-          "title": "Ann Arbor Camera Club",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/ann-arbor-camera-club-3/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-astronomy-on-tap-17dae1bd868adce8",
-          "title": "Astronomy on Tap",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/astronomy-on-tap-3/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-catene-u-m-cineforum-italian-classics-on-campus-ce7a6ea16495cba0",
-          "title": "“Catene”: U-M Cineforum: Italian Classics on Campus",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/catene-u-m-cineforum-italian-classics-on-campus/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-french-canadian-music-session-ann-arbor-community-for-traditional-music-and-dance-af56a711fa575ffb",
-          "title": "French Canadian Music Session: Ann Arbor Community for Traditional Music and Dance",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/french-canadian-music-session-ann-arbor-community-for-traditional-music-and-dance-5/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-huron-valley-harmonizers-chapter-of-the-barbershop-harmony-society-84d224319398efa8",
-          "title": "Huron Valley Harmonizers Chapter of the Barbershop Harmony Society",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/huron-valley-harmonizers-chapter-of-the-barbershop-harmony-society-9/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-polka-jam-session-american-legion-hall-288a9bccf224409a",
-          "title": "Polka Jam Session: American Legion Hall",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/polka-jam-session-american-legion-hall-5/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-soccer-101-world-cup-tactics-afc-ann-arbor-08fbde1bb8b49446",
-          "title": "“Soccer 101: World Cup Tactics”: AFC Ann Arbor",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/soccer-101-world-cup-tactics-afc-ann-arbor/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-sound-silence-canterbury-house-5e460e28d1d55087",
-          "title": "“Sound & Silence”: Canterbury House",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/sound-silence-canterbury-house/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-tuesday-english-country-dance-ann-arbor-community-of-traditional-music-and-dance-c58f5ce515d79284",
-          "title": "Tuesday English Country Dance: Ann Arbor Community of Traditional Music and Dance",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/tuesday-english-country-dance-ann-arbor-community-of-traditional-music-and-dance-11/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-comedy-on-tap-hearsay-brewing-theater-58c74ea8b041cb95",
-          "title": "“Comedy On Tap”: Hear.Say Brewing + Theater",
-          "date": "2026-11-17",
-          "time": "7:30 PM",
-          "url": "https://annarborobserver.com/event/comedy-on-tap-hear-say-brewing-theater-4/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-o-christmas-tea-a-british-comedy-live-nation-6d12b830043a5bc0",
-          "title": "“O Christmas Tea: A British Comedy”: Live Nation",
-          "date": "2026-11-17",
-          "time": "7:30 PM",
-          "url": "https://annarborobserver.com/event/o-christmas-tea-a-british-comedy-live-nation/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-the-moth-storyslam-u-m-michigan-public-27028695f6f453f4",
-          "title": "The Moth StorySlam: U-M Michigan Public",
-          "date": "2026-11-17",
-          "time": "7:30 PM",
-          "url": "https://annarborobserver.com/event/the-moth-storyslam-u-m-michigan-public-5/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-dont-let-the-sun-u-m-chamber-choir-university-choir-6cbef101fab81cc9",
-          "title": "“Don’t Let the Sun”: U-M Chamber Choir & University Choir",
-          "date": "2026-11-17",
-          "time": "8:00 PM",
-          "url": "https://annarborobserver.com/event/dont-let-the-sun-u-m-chamber-choir-university-choir/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-17-the-ann-arbor-tuesday-night-gmrs-radio-net-79e4684060746f0b",
-          "title": "The Ann Arbor Tuesday Night GMRS Radio Net",
-          "date": "2026-11-17",
-          "time": "8:00 PM",
-          "url": "https://annarborobserver.com/event/the-ann-arbor-tuesday-night-gmrs-radio-net/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
     {
       "venue": "",
       "address": "",
@@ -794,6 +205,44 @@
           "date": "2026-11-18",
           "time": "4:00 PM",
           "url": "https://annarborobserver.com/event/ann-arbor-ed-talks-is-college-still-worth-it/",
+          "source": "observer",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
+      "venue": "",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "missing_location",
+      "count": 1,
+      "events": [
+        {
+          "id": "observer-2026-11-18-mend-sew-social-scrap-creative-reuse-383b750698a3978f",
+          "title": "Mend & Sew Social: SCRAP Creative Reuse",
+          "date": "2026-11-18",
+          "time": "4:00 PM",
+          "url": "https://annarborobserver.com/event/mend-sew-social-scrap-creative-reuse/",
+          "source": "observer",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
+      "venue": "",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "missing_location",
+      "count": 1,
+      "events": [
+        {
+          "id": "observer-2026-11-18-the-working-artist-making-books-making-art-making-a-living-cde29e4e57b34a50",
+          "title": "The Working Artist: Making Books, Making Art, Making a Living",
+          "date": "2026-11-18",
+          "time": "4:00 PM",
+          "url": "https://annarborobserver.com/event/the-working-artist-making-books-making-art-making-a-living/",
           "source": "observer",
           "also_listed_at": []
         }
@@ -3525,6 +2974,25 @@
       "count": 1,
       "events": [
         {
+          "id": "observer-2026-11-21-film-slide-collage-scrap-creative-reuse-efd9f5d371366258",
+          "title": "Film Slide Collage: SCRAP Creative Reuse",
+          "date": "2026-11-21",
+          "time": "12:00 PM",
+          "url": "https://annarborobserver.com/event/film-slide-collage-scrap-creative-reuse/",
+          "source": "observer",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
+      "venue": "",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "missing_location",
+      "count": 1,
+      "events": [
+        {
           "id": "observer-2026-11-21-marvelous-magnets-u-m-museum-of-natural-history-discovery-demos-fabbc0ecad0ff8ec",
           "title": "“Marvelous Magnets”: U-M Museum of Natural History Discovery Demos",
           "date": "2026-11-21",
@@ -4271,6 +3739,25 @@
           "date": "2026-11-22",
           "time": "10:45 AM",
           "url": "https://annarborobserver.com/event/elemental-ecstatic-dance-11/2026-11-22/",
+          "source": "observer",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
+      "venue": "",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "missing_location",
+      "count": 1,
+      "events": [
+        {
+          "id": "observer-2026-11-22-community-fundraiser-nature-animals-family-fun-7f6aa669059e7cb6",
+          "title": "Community Fundraiser: Nature, Animals & Family Fun",
+          "date": "2026-11-22",
+          "time": "11:00 AM",
+          "url": "https://annarborobserver.com/event/community-fundraiser-nature-animals-family-fun/",
           "source": "observer",
           "also_listed_at": []
         }
@@ -5159,11 +4646,11 @@
       "count": 1,
       "events": [
         {
-          "id": "ypsilanti-2026-11-23-recycling-a-week-aa533a0902ee42dd",
+          "id": "ypsilanti-2026-11-23-recycling-a-week-7840d7a8b5fca1e2",
           "title": "Recycling \"A\" Week",
           "date": "2026-11-23",
           "time": "12:01 AM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4339&month=11&year=2026&day=17&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4339&month=11&year=2026&day=18&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -6090,11 +5577,11 @@
       "count": 1,
       "events": [
         {
-          "id": "ypsilanti-2026-11-26-trash-yard-waste-and-recycling-pickup-one-day-behind-bcf2f1ff1f5f6153",
+          "id": "ypsilanti-2026-11-26-trash-yard-waste-and-recycling-pickup-one-day-behind-d0b433719dcd97c2",
           "title": "Trash, Yard Waste and Recycling pickup one day behind",
           "date": "2026-11-26",
           "time": "",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4315&month=11&year=2026&day=17&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4315&month=11&year=2026&day=18&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -6209,6 +5696,25 @@
           "date": "2026-11-27",
           "time": "12:00 PM",
           "url": "https://annarborobserver.com/event/chime-concert-kerrytown-market-shops-30/2026-11-27/",
+          "source": "observer",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
+      "venue": "",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "missing_location",
+      "count": 1,
+      "events": [
+        {
+          "id": "observer-2026-11-27-craft-friday-collage-junk-journal-more-scrap-creative-reuse-f91af39dd2f3c6a0",
+          "title": "Craft Friday: Collage, Junk Journal & More: SCRAP Creative Reuse",
+          "date": "2026-11-27",
+          "time": "12:00 PM",
+          "url": "https://annarborobserver.com/event/craft-friday-collage-junk-journal-more-scrap-creative-reuse/",
           "source": "observer",
           "also_listed_at": []
         }
@@ -7534,11 +7040,11 @@
       "count": 1,
       "events": [
         {
-          "id": "ypsilanti-2026-11-30-recycling-b-week-f9fba9c202f53234",
+          "id": "ypsilanti-2026-11-30-recycling-b-week-b5f6afbbf8f7aea7",
           "title": "Recycling \"B\" Week",
           "date": "2026-11-30",
           "time": "12:01 AM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4439&month=11&year=2026&day=17&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4439&month=11&year=2026&day=18&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -9521,6 +9027,63 @@
       ]
     },
     {
+      "venue": "",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "missing_location",
+      "count": 1,
+      "events": [
+        {
+          "id": "city_ann_arbor-2026-12-18-love-a-park-wosi-f0f3cbcd781257c4",
+          "title": "Love a Park w/OSI",
+          "date": "2026-12-18",
+          "time": "3:00 PM",
+          "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D207720354",
+          "source": "city_ann_arbor",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
+      "venue": "",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "missing_location",
+      "count": 1,
+      "events": [
+        {
+          "id": "observer-2026-12-18-irving-berlins-holiday-inn-the-encore-musical-theatre-company-01a8fbca4e6b8280",
+          "title": "“Irving Berlin’s Holiday Inn”: The Encore Musical Theatre Company",
+          "date": "2026-12-18",
+          "time": "7:00 PM",
+          "url": "https://annarborobserver.com/event/irving-berlins-holiday-inn-the-encore-musical-theatre-company/2026-12-18/",
+          "source": "observer",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
+      "venue": "",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "missing_location",
+      "count": 1,
+      "events": [
+        {
+          "id": "observer-2026-12-18-bastard-purple-rose-theatre-company-be4de3d099c237ce",
+          "title": "“Bastard”: Purple Rose Theatre Company",
+          "date": "2026-12-18",
+          "time": "8:30 PM",
+          "url": "https://annarborobserver.com/event/bastard-purple-rose-theatre-company/2026-12-18/",
+          "source": "observer",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
       "venue": "2000 S. Industrial Hwy",
       "address": "2000 S. Industrial Hwy",
       "location_city": "",
@@ -9704,17 +9267,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 87,
+      "count": 86,
       "events": [
-        {
-          "id": "eventbrite-2026-11-17-international-travel-fellowship-panel-97a718b20d317628",
-          "title": "International Travel Fellowship Panel",
-          "date": "2026-11-17",
-          "time": "17:30",
-          "url": "https://www.eventbrite.com/e/international-travel-fellowship-panel-registration-1998496220995",
-          "source": "eventbrite",
-          "also_listed_at": []
-        },
         {
           "id": "eventbrite-2026-11-18-brightworks-bagels-673061229c696834",
           "title": "BrightWorks & Bagels",
@@ -10770,17 +10324,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 11,
+      "count": 10,
       "events": [
-        {
-          "id": "observer-2026-11-17-jackie-greene-24a74a9c185aeb31",
-          "title": "Jackie Greene.",
-          "date": "2026-11-17",
-          "time": "8:00 PM",
-          "url": "https://annarborobserver.com/event/jackie-greene/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-18-open-stage-d33a684b392dd46f",
           "title": "Open Stage.",
@@ -11018,7 +10563,7 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 22,
+      "count": 23,
       "events": [
         {
           "id": "blue_llama-2026-11-18-date-night-aris-chalin-piano-duo-f8c7c7ec70bea154",
@@ -11225,6 +10770,15 @@
           "url": "https://bluellamaclub.com/event/langston-m-kitchen-the-mahogany-collective-copy/",
           "source": "blue_llama",
           "also_listed_at": []
+        },
+        {
+          "id": "blue_llama-2026-12-18-aguankós-holiday-show-1a9ce2c3f8631e12",
+          "title": "Aguankó's Holiday Show",
+          "date": "2026-12-18",
+          "time": "7:00 PM",
+          "url": "https://bluellamaclub.com/event/aguanko-holiday-show/",
+          "source": "blue_llama",
+          "also_listed_at": []
         }
       ]
     },
@@ -11357,32 +10911,23 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 3,
+      "count": 2,
       "events": [
         {
-          "id": "ypsilanti-2026-11-17-regular-city-council-meeting-73fed061780edfab",
-          "title": "Regular City Council Meeting",
-          "date": "2026-11-17",
-          "time": "7:00 PM - 10:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4302&month=11&year=2026&day=17&calType=0",
-          "source": "ypsilanti",
-          "also_listed_at": []
-        },
-        {
-          "id": "ypsilanti-2026-11-19-administrative-hearings-bureau-647de027ec6f1504",
+          "id": "ypsilanti-2026-11-19-administrative-hearings-bureau-ebd43b1eb7a1decd",
           "title": "Administrative Hearings Bureau",
           "date": "2026-11-19",
           "time": "9:00 AM - 12:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4827&month=11&year=2026&day=17&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4827&month=11&year=2026&day=18&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         },
         {
-          "id": "ypsilanti-2026-11-23-human-relations-commission-meeting-40fa60cc98255a9b",
+          "id": "ypsilanti-2026-11-23-human-relations-commission-meeting-880caae0458ed950",
           "title": "Human Relations Commission Meeting",
           "date": "2026-11-23",
           "time": "6:00 PM - 9:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4862&month=11&year=2026&day=17&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4862&month=11&year=2026&day=18&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -11394,7 +10939,7 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 32,
+      "count": 34,
       "events": [
         {
           "id": "detroit_street_filling-2026-11-18-happy-hour-ralph-santarpia-c14491a3f93f3d5d",
@@ -11683,6 +11228,24 @@
           "url": "https://www.nstarlounge.com/events/dragbingo12-17",
           "source": "detroit_street_filling",
           "also_listed_at": []
+        },
+        {
+          "id": "detroit_street_filling-2026-12-18-happy-hour-our-two-cents-the-gold-standard-6150212c2cd7f23d",
+          "title": "Happy Hour: Our Two Cents & the Gold Standard",
+          "date": "2026-12-18",
+          "time": "5:30 PM",
+          "url": "https://www.nstarlounge.com/events/hhtwocentsgoldstandard12-18",
+          "source": "detroit_street_filling",
+          "also_listed_at": []
+        },
+        {
+          "id": "detroit_street_filling-2026-12-18-bluegrass-friday-pontiac-trail-blazers-ft-ashton-young-96adf0ab4976adc6",
+          "title": "Bluegrass Friday: Pontiac Trail Blazers ft. Ashton Young",
+          "date": "2026-12-18",
+          "time": "7:00 PM",
+          "url": "https://www.nstarlounge.com/events/bluegrass12-18",
+          "source": "detroit_street_filling",
+          "also_listed_at": []
         }
       ]
     },
@@ -11713,15 +11276,6 @@
       "reason": "incomplete_address",
       "count": 22,
       "events": [
-        {
-          "id": "observer-2026-11-17-jake-reichbart-af7b1cab42efee20",
-          "title": "Jake Reichbart.",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/jake-reichbart/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-18-jake-reichbart-eb969b83bc9454aa",
           "title": "Jake Reichbart.",
@@ -11910,6 +11464,15 @@
           "url": "https://annarborobserver.com/event/jake-reichbart/2026-12-17/",
           "source": "observer",
           "also_listed_at": []
+        },
+        {
+          "id": "observer-2026-12-18-rick-burgess-trio-e52a30ca660f59d5",
+          "title": "Rick Burgess Trio.",
+          "date": "2026-12-18",
+          "time": "7:00 PM",
+          "url": "https://annarborobserver.com/event/rick-burgess-trio/2026-12-18/",
+          "source": "observer",
+          "also_listed_at": []
         }
       ]
     },
@@ -11987,29 +11550,29 @@
       "count": 3,
       "events": [
         {
-          "id": "ypsilanti-2026-11-21-private-rental-f158b1c1016841d6",
+          "id": "ypsilanti-2026-11-21-private-rental-9789fbb8c3f42c27",
           "title": "Private Rental",
           "date": "2026-11-21",
           "time": "8:00 AM - 6:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4717&month=11&year=2026&day=17&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4717&month=11&year=2026&day=18&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         },
         {
-          "id": "ypsilanti-2026-11-28-ypsi-artisans-market-f1092412b99bf042",
+          "id": "ypsilanti-2026-11-28-ypsi-artisans-market-fcd70533617e1806",
           "title": "Ypsi Artisans Market",
           "date": "2026-11-28",
           "time": "8:00 AM - 5:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4778&month=11&year=2026&day=17&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4778&month=11&year=2026&day=18&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         },
         {
-          "id": "ypsilanti-2026-11-29-ypsi-artisans-market-2500839ef4dd423a",
+          "id": "ypsilanti-2026-11-29-ypsi-artisans-market-2ef14e8f1eacc070",
           "title": "Ypsi Artisans Market",
           "date": "2026-11-29",
           "time": "8:00 AM - 5:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4779&month=11&year=2026&day=17&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4779&month=11&year=2026&day=18&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -12151,7 +11714,7 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 3,
+      "count": 4,
       "events": [
         {
           "id": "hill_auditorium-2026-11-18-jack-tucker-comedy-standup-hour-created-and-performed-by-zach-zucker-02b03f4d22f07aab",
@@ -12177,6 +11740,15 @@
           "date": "2026-12-10",
           "time": "",
           "url": "https://ums.org/performance/yo-yo-ma-cello-and-emanuel-ax-piano/",
+          "source": "hill_auditorium",
+          "also_listed_at": []
+        },
+        {
+          "id": "hill_auditorium-2026-12-18-isidore-string-quartet-anthony-mcgill-clarinet-a8b81ae440f86ff8",
+          "title": "Isidore String Quartet Anthony McGill, clarinet",
+          "date": "2026-12-18",
+          "time": "",
+          "url": "https://ums.org/performance/isidore-quartet-anthony-mcgill/",
           "source": "hill_auditorium",
           "also_listed_at": []
         }
@@ -12449,17 +12021,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 11,
+      "count": 10,
       "events": [
-        {
-          "id": "city_ann_arbor-2026-11-17-city-planning-commission-856dfec37b7d048b",
-          "title": "City Planning Commission",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D195431727",
-          "source": "city_ann_arbor",
-          "also_listed_at": []
-        },
         {
           "id": "city_ann_arbor-2026-11-19-building-board-of-appeals-cb8268c7eaa313f7",
           "title": "Building Board of Appeals",
@@ -12933,26 +12496,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 28,
+      "count": 35,
       "events": [
-        {
-          "id": "michigan_theater-2026-11-17-ten-times-betterabout-face-5d697c04ccfcfdff",
-          "title": "Ten Times Better/About Face",
-          "date": "2026-11-17",
-          "time": "5:30pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043192~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
-        {
-          "id": "michigan_theater-2026-11-17-o-christmas-tea-a-british-comedy-58d59a9fb6f61540",
-          "title": "O Christmas Tea: A British Comedy",
-          "date": "2026-11-17",
-          "time": "7:30pm",
-          "url": "https://www.ticketmaster.com/event/080064F1C9899774",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
         {
           "id": "michigan_theater-2026-11-18-being-heumann-886e5f807c273245",
           "title": "Being Heumann",
@@ -12999,11 +12544,83 @@
           "also_listed_at": []
         },
         {
+          "id": "michigan_theater-2026-11-20-once-upon-a-time-in-harlem-28e6aaad1cf63a1a",
+          "title": "Once Upon A Time In Harlem",
+          "date": "2026-11-20",
+          "time": "4:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048118~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
           "id": "michigan_theater-2026-11-20-campus-nights-tour-4e3743d55ffb017e",
           "title": "Campus Nights Tour",
           "date": "2026-11-20",
           "time": "7:00pm",
           "url": "https://www.ticketmaster.com/event/080064F7D14290E7",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-once-upon-a-time-in-harlem-6f805af8c8eb8ec1",
+          "title": "Once Upon A Time In Harlem",
+          "date": "2026-11-21",
+          "time": "4:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048119~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-la-bola-negra-1f287abb6a5a66ee",
+          "title": "La Bola Negra",
+          "date": "2026-11-21",
+          "time": "8:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048122~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-la-bola-negra-ebcb7f02c7559a5b",
+          "title": "La Bola Negra",
+          "date": "2026-11-22",
+          "time": "3:45pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048123~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-once-upon-a-time-in-harlem-327e6d5e108bd531",
+          "title": "Once Upon A Time In Harlem",
+          "date": "2026-11-22",
+          "time": "4:15pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048120~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-la-bola-negra-1673ac5533ef45a3",
+          "title": "La Bola Negra",
+          "date": "2026-11-22",
+          "time": "7:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048124~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-once-upon-a-time-in-harlem-a1b873ced9f4960b",
+          "title": "Once Upon A Time In Harlem",
+          "date": "2026-11-22",
+          "time": "7:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048121~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-24-la-bola-negra-34b8570aa4e34698",
+          "title": "La Bola Negra",
+          "date": "2026-11-24",
+          "time": "6:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048125~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
           "source": "michigan_theater",
           "also_listed_at": []
         },
@@ -13022,6 +12639,15 @@
           "date": "2026-11-25",
           "time": "7:00pm",
           "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1040969~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-25-la-bola-negra-b594056a74aff2b0",
+          "title": "La Bola Negra",
+          "date": "2026-11-25",
+          "time": "7:45pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048126~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
           "source": "michigan_theater",
           "also_listed_at": []
         },
@@ -13404,11 +13030,11 @@
       "count": 1,
       "events": [
         {
-          "id": "ypsilanti-2026-11-23-beyond-the-bell-d89d37f0385a7082",
+          "id": "ypsilanti-2026-11-23-beyond-the-bell-5dfd9505f8a6470b",
           "title": "Beyond the Bell",
           "date": "2026-11-23",
           "time": "4:30 PM - 6:30 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4881&month=11&year=2026&day=17&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4881&month=11&year=2026&day=18&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -13513,7 +13139,7 @@
       "location_city": "Ypsilanti",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 10,
+      "count": 11,
       "events": [
         {
           "id": "riverside-2026-11-21-futurity-project-weekly-free-creative-workshops-for-k-12-students-ebf63394783286ce",
@@ -13602,6 +13228,15 @@
           "date": "2026-12-11",
           "time": "8:00 PM",
           "url": "https://www.riversidearts.org/event/riverside-swings-2-2023-07-28-2/2026-12-11/",
+          "source": "riverside",
+          "also_listed_at": []
+        },
+        {
+          "id": "riverside-2026-12-18-riverside-swings-a6ca705f697a68b6",
+          "title": "Riverside Swings",
+          "date": "2026-12-18",
+          "time": "8:00 PM",
+          "url": "https://www.riversidearts.org/event/riverside-swings-2-2023-07-28-2/2026-12-18/",
           "source": "riverside",
           "also_listed_at": []
         }
@@ -13884,44 +13519,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 16,
+      "count": 68,
       "events": [
-        {
-          "id": "michigan_theater-2026-11-17-you-can-see-everything-c8bace90da22f40c",
-          "title": "You Can See Everything",
-          "date": "2026-11-17",
-          "time": "6:00pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1046895~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
-        {
-          "id": "michigan_theater-2026-11-17-godzilla-minus-zero-86a2f30f13f284bb",
-          "title": "Godzilla Minus Zero",
-          "date": "2026-11-17",
-          "time": "6:15pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047032~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
-        {
-          "id": "michigan_theater-2026-11-17-once-upon-a-time-in-harlem-453470d6d9df9812",
-          "title": "Once Upon A Time In Harlem",
-          "date": "2026-11-17",
-          "time": "6:30pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1046886~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
-        {
-          "id": "michigan_theater-2026-11-17-wild-horse-nine-c554b00f630d8c2d",
-          "title": "Wild Horse Nine",
-          "date": "2026-11-17",
-          "time": "6:45pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047046~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
         {
           "id": "michigan_theater-2026-11-18-you-can-see-everything-bb4d1a3808ff0de0",
           "title": "You Can See Everything",
@@ -14027,6 +13626,510 @@
           "date": "2026-11-19",
           "time": "6:45pm",
           "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047035~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-wild-horse-nine-e9298d56d0ff1576",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-20",
+          "time": "10:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048159~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-i-play-rocky-add8ba34d1003bc9",
+          "title": "I Play Rocky",
+          "date": "2026-11-20",
+          "time": "10:20pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048145~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-club-kid-c737831ce566e99b",
+          "title": "Club Kid",
+          "date": "2026-11-20",
+          "time": "10:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048129~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-you-can-see-everything-2f19635ae4140f06",
+          "title": "You Can See Everything",
+          "date": "2026-11-20",
+          "time": "3:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048171~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-wild-horse-nine-ac24d17ed5c7b7c6",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-20",
+          "time": "4:10pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048157~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-i-play-rocky-a03654892faa294a",
+          "title": "I Play Rocky",
+          "date": "2026-11-20",
+          "time": "4:20pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048143~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-club-kid-29067aebd561f465",
+          "title": "Club Kid",
+          "date": "2026-11-20",
+          "time": "4:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048127~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-wild-horse-nine-9058dc75bec08ad9",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-20",
+          "time": "7:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048158~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-you-can-see-everything-de2bc044255a3707",
+          "title": "You Can See Everything",
+          "date": "2026-11-20",
+          "time": "7:15pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048172~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-i-play-rocky-9570dd18226ae259",
+          "title": "I Play Rocky",
+          "date": "2026-11-20",
+          "time": "7:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048144~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-20-club-kid-2dbef2ec4a3543fa",
+          "title": "Club Kid",
+          "date": "2026-11-20",
+          "time": "7:45pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048128~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-you-can-see-everything-e1d1d948a4fcfb1e",
+          "title": "You Can See Everything",
+          "date": "2026-11-21",
+          "time": "10:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048176~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-wild-horse-nine-de28dbce7d73e3f0",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-21",
+          "time": "10:40pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048331~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-club-kid-e141614315bf0da1",
+          "title": "Club Kid",
+          "date": "2026-11-21",
+          "time": "11:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048135~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-you-can-see-everything-18712134bd1d5ba2",
+          "title": "You Can See Everything",
+          "date": "2026-11-21",
+          "time": "11:30am",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048173~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-club-kid-99567fd7cf8d5f67",
+          "title": "Club Kid",
+          "date": "2026-11-21",
+          "time": "11:45am",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048130~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-wild-horse-nine-b91605221af9426f",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-21",
+          "time": "12:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048160~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-i-play-rocky-ea419005bea00294",
+          "title": "I Play Rocky",
+          "date": "2026-11-21",
+          "time": "12:15pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048146~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-club-kid-47656c82d482b0f3",
+          "title": "Club Kid",
+          "date": "2026-11-21",
+          "time": "2:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048132~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-wild-horse-nine-6b37824aacb273f0",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-21",
+          "time": "2:40pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048161~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-you-can-see-everything-52d394df82599969",
+          "title": "You Can See Everything",
+          "date": "2026-11-21",
+          "time": "3:10pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048174~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-i-play-rocky-a5656d8e30f6a44c",
+          "title": "I Play Rocky",
+          "date": "2026-11-21",
+          "time": "3:20pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048147~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-club-kid-b3589d5b5a8bc84d",
+          "title": "Club Kid",
+          "date": "2026-11-21",
+          "time": "5:20pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048133~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-wild-horse-nine-286ca5d5958824cc",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-21",
+          "time": "5:20pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048162~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-i-play-rocky-d6178fa01f401aa6",
+          "title": "I Play Rocky",
+          "date": "2026-11-21",
+          "time": "6:15pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048148~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-you-can-see-everything-d6841e3e024c5e3f",
+          "title": "You Can See Everything",
+          "date": "2026-11-21",
+          "time": "6:50pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048175~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-wild-horse-nine-ba4db1dc49955875",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-21",
+          "time": "8:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048163~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-club-kid-f82349f212d4a96c",
+          "title": "Club Kid",
+          "date": "2026-11-21",
+          "time": "8:10pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048134~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-21-i-play-rocky-87ee8c187dda7639",
+          "title": "I Play Rocky",
+          "date": "2026-11-21",
+          "time": "9:15pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048149~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-you-can-see-everything-700583150e27d80b",
+          "title": "You Can See Everything",
+          "date": "2026-11-22",
+          "time": "11:30am",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048177~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-club-kid-341f3e5778cb0395",
+          "title": "Club Kid",
+          "date": "2026-11-22",
+          "time": "11:40am",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048136~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-wild-horse-nine-f73a89191242399a",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-22",
+          "time": "11:50am",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048164~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-i-play-rocky-06a717fd4838190b",
+          "title": "I Play Rocky",
+          "date": "2026-11-22",
+          "time": "12:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048150~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-club-kid-36fbc40dc1db3a8f",
+          "title": "Club Kid",
+          "date": "2026-11-22",
+          "time": "2:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048137~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-wild-horse-nine-2c513d8cf57b38fd",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-22",
+          "time": "2:40pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048165~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-i-play-rocky-7a049a543dbaa790",
+          "title": "I Play Rocky",
+          "date": "2026-11-22",
+          "time": "3:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048151~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-you-can-see-everything-828597db8fa2ca77",
+          "title": "You Can See Everything",
+          "date": "2026-11-22",
+          "time": "3:10pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048178~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-club-kid-5e125c84108b7382",
+          "title": "Club Kid",
+          "date": "2026-11-22",
+          "time": "5:15pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048138~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-wild-horse-nine-c98f31761a10d8c3",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-22",
+          "time": "5:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048166~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-i-play-rocky-314b5e84dd6420a4",
+          "title": "I Play Rocky",
+          "date": "2026-11-22",
+          "time": "6:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048152~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-you-can-see-everything-c175c6509c73dcc4",
+          "title": "You Can See Everything",
+          "date": "2026-11-22",
+          "time": "7:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048179~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-club-kid-a582630c0887ea08",
+          "title": "Club Kid",
+          "date": "2026-11-22",
+          "time": "8:10pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048139~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-wild-horse-nine-1ff0adaf15c03f26",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-22",
+          "time": "8:20pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048167~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-22-i-play-rocky-fa7aef2266f6864c",
+          "title": "I Play Rocky",
+          "date": "2026-11-22",
+          "time": "9:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048153~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-24-i-play-rocky-992fcf513afae32f",
+          "title": "I Play Rocky",
+          "date": "2026-11-24",
+          "time": "6:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048154~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-24-you-can-see-everything-d3076de67b14218a",
+          "title": "You Can See Everything",
+          "date": "2026-11-24",
+          "time": "6:45pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048180~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-24-wild-horse-nine-bb51f66cb44c814b",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-24",
+          "time": "7:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048168~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-24-club-kid-9f16d72fc0780393",
+          "title": "Club Kid",
+          "date": "2026-11-24",
+          "time": "7:15pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048140~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-25-i-play-rocky-ee627f693248e00c",
+          "title": "I Play Rocky",
+          "date": "2026-11-25",
+          "time": "6:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048155~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-25-you-can-see-everything-6a19eb65dcf63ee2",
+          "title": "You Can See Everything",
+          "date": "2026-11-25",
+          "time": "6:45pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048181~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-25-wild-horse-nine-7c9dfb01f1450c92",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-25",
+          "time": "7:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048169~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-25-club-kid-6fa8c0de3db8c28c",
+          "title": "Club Kid",
+          "date": "2026-11-25",
+          "time": "7:15pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048141~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-26-i-play-rocky-2117063338d914cc",
+          "title": "I Play Rocky",
+          "date": "2026-11-26",
+          "time": "6:30pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048156~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-26-you-can-see-everything-cab5f8cf1fa21114",
+          "title": "You Can See Everything",
+          "date": "2026-11-26",
+          "time": "6:45pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048182~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-26-wild-horse-nine-b329dc25368545c6",
+          "title": "Wild Horse Nine",
+          "date": "2026-11-26",
+          "time": "7:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048170~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-11-26-club-kid-2b98f5fe9c012873",
+          "title": "Club Kid",
+          "date": "2026-11-26",
+          "time": "7:15pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048142~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
           "source": "michigan_theater",
           "also_listed_at": []
         }
@@ -14342,17 +14445,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 12,
+      "count": 11,
       "events": [
-        {
-          "id": "observer-2026-11-17-open-mic-b61018cc99d8b747",
-          "title": "Open Mic.",
-          "date": "2026-11-17",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/open-mic-27/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-18-deep-steam-315524a3ab71e578",
           "title": "Deep Steam.",
@@ -14460,17 +14554,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 16,
+      "count": 15,
       "events": [
-        {
-          "id": "eventbrite-2026-11-17-rickstar-financial-presents-planning-for-financial-independence-seminar-791ba0db474ad0cc",
-          "title": "RICKSTAR Financial Presents: Planning for Financial Independence Seminar",
-          "date": "2026-11-17",
-          "time": "18:30",
-          "url": "https://www.eventbrite.com/e/rickstar-financial-presents-planning-for-financial-independence-seminar-tickets-2003832712585",
-          "source": "eventbrite",
-          "also_listed_at": []
-        },
         {
           "id": "eventbrite-2026-11-18-dance-date-ages-28-35-6a2efc06d556df02",
           "title": "Dance Date: Ages 28-35",
@@ -14633,17 +14718,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 18,
+      "count": 17,
       "events": [
-        {
-          "id": "observer-2026-11-17-easy-street-jazz-band-17b2d7b0b3c8ad5f",
-          "title": "Easy Street Jazz Band.",
-          "date": "2026-11-17",
-          "time": "5:00 PM",
-          "url": "https://annarborobserver.com/event/easy-street-jazz-band-8/2026-11-17/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-19-four-roses-61f6a54304829663",
           "title": "Four Roses.",
@@ -14805,17 +14881,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 11,
+      "count": 10,
       "events": [
-        {
-          "id": "observer-2026-11-17-mv3-7c157d07120c765b",
-          "title": "MV3.",
-          "date": "2026-11-17",
-          "time": "8:00 PM",
-          "url": "https://annarborobserver.com/event/mv3/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-18-queenie-t-the-frogs-and-toads-b25628394cab947f",
           "title": "Queenie T & the Frogs and Toads.",
