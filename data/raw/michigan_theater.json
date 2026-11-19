@@ -1,119 +1,5 @@
 [
   {
-    "id": "michigan_theater-2026-11-18-being-heumann-886e5f807c273245",
-    "title": "Being Heumann",
-    "date": "2026-11-18",
-    "time": "7:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1046877~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/beingheumann%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.804913+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-18-godzilla-minus-zero-2ca529330161f2db",
-    "title": "Godzilla Minus Zero",
-    "date": "2026-11-18",
-    "time": "6:45pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047033~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.804979+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-18-cozy-craft-club-the-princess-bride-37ce97692497c747",
-    "title": "Cozy\u00a0Craft\u00a0Club - The Princess Bride",
-    "date": "2026-11-18",
-    "time": "7:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039364~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/the%20princess%20bride%20banner_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805044+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-18-sir-thaddeus-eda62b2c3ceb1818",
-    "title": "Sir Thaddeus",
-    "date": "2026-11-18",
-    "time": "7:00pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043174~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/sirthaddeus%201080x450%20(1)_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805107+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-18-wild-horse-nine-0a42f52a57c3a8c0",
-    "title": "Wild Horse Nine",
-    "date": "2026-11-18",
-    "time": "6:30pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047047~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805155+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-11-18-you-can-see-everything-bb4d1a3808ff0de0",
-    "title": "You Can See Everything",
-    "date": "2026-11-18",
-    "time": "6:00pm",
-    "venue": "State Theatre",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1046896~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805204+00:00"
-  },
-  {
     "id": "michigan_theater-2026-11-19-being-heumann-07de8b9f28d8600a",
     "title": "Being Heumann",
     "date": "2026-11-19",
@@ -130,7 +16,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/beingheumann%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805253+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325141+00:00"
   },
   {
     "id": "michigan_theater-2026-11-19-godzilla-minus-zero-4360a24503581dec",
@@ -149,7 +35,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805301+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325201+00:00"
   },
   {
     "id": "michigan_theater-2026-11-19-godzilla-minus-zero-0dfcafd02d265a18",
@@ -168,7 +54,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/godzillaminuszero%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805314+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325210+00:00"
   },
   {
     "id": "michigan_theater-2026-11-19-jorge-perez-a-conversation-00657aded7b688de",
@@ -187,7 +73,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/jorge_perez_banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805364+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325247+00:00"
   },
   {
     "id": "michigan_theater-2026-11-19-once-upon-a-time-in-harlem-4c9a7533019d8291",
@@ -206,7 +92,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/onceuponatimeinharlem%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805413+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325276+00:00"
   },
   {
     "id": "michigan_theater-2026-11-19-once-upon-a-time-in-harlem-4500ccd51a860354",
@@ -225,7 +111,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/onceuponatimeinharlem%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805426+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325285+00:00"
   },
   {
     "id": "michigan_theater-2026-11-19-wild-horse-nine-f84804a4410376dd",
@@ -244,7 +130,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805473+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325312+00:00"
   },
   {
     "id": "michigan_theater-2026-11-19-wild-horse-nine-09cbbf611c130ca0",
@@ -263,7 +149,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805485+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325319+00:00"
   },
   {
     "id": "michigan_theater-2026-11-19-wings-of-desire-8243b442687c9a42",
@@ -282,7 +168,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wingsofdesire%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805531+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325346+00:00"
   },
   {
     "id": "michigan_theater-2026-11-19-you-can-see-everything-d605ba803b263b49",
@@ -301,7 +187,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805593+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325372+00:00"
   },
   {
     "id": "michigan_theater-2026-11-19-you-can-see-everything-adbe9071da7e5956",
@@ -320,7 +206,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805609+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325380+00:00"
   },
   {
     "id": "michigan_theater-2026-11-27-blue-friday-at-the-michigan-theater-f7bd1fa153991c23",
@@ -339,7 +225,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/footballfield_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805672+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325413+00:00"
   },
   {
     "id": "michigan_theater-2026-11-27-white-christmas-sing-along-9722c942606a802d",
@@ -358,7 +244,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/whitechristmas_1080x450.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805725+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325440+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-campus-nights-tour-4e3743d55ffb017e",
@@ -377,7 +263,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/campus_nights_2026_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805855+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325512+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-club-kid-29067aebd561f465",
@@ -396,7 +282,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805902+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325538+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-club-kid-2dbef2ec4a3543fa",
@@ -415,7 +301,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805913+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325545+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-club-kid-c737831ce566e99b",
@@ -434,7 +320,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805923+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325552+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-i-play-rocky-a03654892faa294a",
@@ -453,7 +339,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805969+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325578+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-i-play-rocky-9570dd18226ae259",
@@ -472,7 +358,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805980+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325586+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-i-play-rocky-add8ba34d1003bc9",
@@ -491,7 +377,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.805990+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325592+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-once-upon-a-time-in-harlem-28e6aaad1cf63a1a",
@@ -510,7 +396,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/onceuponatimeinharlem%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806037+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325619+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-wild-horse-nine-ac24d17ed5c7b7c6",
@@ -529,7 +415,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806083+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325645+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-wild-horse-nine-9058dc75bec08ad9",
@@ -548,7 +434,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806094+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325651+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-wild-horse-nine-e9298d56d0ff1576",
@@ -567,7 +453,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806105+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325658+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-you-can-see-everything-2f19635ae4140f06",
@@ -586,7 +472,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806151+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325683+00:00"
   },
   {
     "id": "michigan_theater-2026-11-20-you-can-see-everything-de2bc044255a3707",
@@ -605,7 +491,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806163+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325691+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-club-kid-99567fd7cf8d5f67",
@@ -624,7 +510,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806237+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325734+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-club-kid-47656c82d482b0f3",
@@ -643,7 +529,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806248+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325740+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-club-kid-b3589d5b5a8bc84d",
@@ -662,7 +548,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806257+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325746+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-club-kid-f82349f212d4a96c",
@@ -681,7 +567,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806267+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325752+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-club-kid-e141614315bf0da1",
@@ -700,7 +586,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806277+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325763+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-i-play-rocky-ea419005bea00294",
@@ -719,7 +605,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806323+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325788+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-i-play-rocky-a5656d8e30f6a44c",
@@ -738,7 +624,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806334+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325794+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-i-play-rocky-d6178fa01f401aa6",
@@ -757,7 +643,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806344+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325801+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-i-play-rocky-87ee8c187dda7639",
@@ -776,7 +662,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806354+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325808+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-la-bola-negra-1f287abb6a5a66ee",
@@ -795,7 +681,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/labolanegra%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806407+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325835+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-once-upon-a-time-in-harlem-6f805af8c8eb8ec1",
@@ -814,7 +700,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/onceuponatimeinharlem%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806455+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325861+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-wild-horse-nine-b91605221af9426f",
@@ -833,7 +719,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806499+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325899+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-wild-horse-nine-6b37824aacb273f0",
@@ -852,7 +738,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806510+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325906+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-wild-horse-nine-286ca5d5958824cc",
@@ -871,7 +757,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806520+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325912+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-wild-horse-nine-ba4db1dc49955875",
@@ -890,7 +776,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806531+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325918+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-wild-horse-nine-de28dbce7d73e3f0",
@@ -909,7 +795,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806540+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325924+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-you-can-see-everything-18712134bd1d5ba2",
@@ -928,7 +814,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806603+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325954+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-you-can-see-everything-52d394df82599969",
@@ -947,7 +833,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806616+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325961+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-you-can-see-everything-d6841e3e024c5e3f",
@@ -966,7 +852,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806627+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325968+00:00"
   },
   {
     "id": "michigan_theater-2026-11-21-you-can-see-everything-e1d1d948a4fcfb1e",
@@ -985,7 +871,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806637+00:00"
+    "scraped_at": "2026-11-19T15:03:41.325974+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-club-kid-341f3e5778cb0395",
@@ -1004,7 +890,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806687+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326000+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-club-kid-36fbc40dc1db3a8f",
@@ -1023,7 +909,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806698+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326006+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-club-kid-5e125c84108b7382",
@@ -1042,7 +928,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806708+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326013+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-club-kid-a582630c0887ea08",
@@ -1061,7 +947,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806717+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326019+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-i-play-rocky-06a717fd4838190b",
@@ -1080,7 +966,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806764+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326046+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-i-play-rocky-7a049a543dbaa790",
@@ -1099,7 +985,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806776+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326053+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-i-play-rocky-314b5e84dd6420a4",
@@ -1118,7 +1004,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806787+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326059+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-i-play-rocky-fa7aef2266f6864c",
@@ -1137,7 +1023,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806797+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326065+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-la-bola-negra-ebcb7f02c7559a5b",
@@ -1156,7 +1042,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/labolanegra%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806843+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326091+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-la-bola-negra-1673ac5533ef45a3",
@@ -1175,7 +1061,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/labolanegra%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806855+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326097+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-once-upon-a-time-in-harlem-327e6d5e108bd531",
@@ -1194,7 +1080,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/onceuponatimeinharlem%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806902+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326123+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-once-upon-a-time-in-harlem-a1b873ced9f4960b",
@@ -1213,7 +1099,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/onceuponatimeinharlem%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806914+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326130+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-wild-horse-nine-f73a89191242399a",
@@ -1232,7 +1118,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806960+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326155+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-wild-horse-nine-2c513d8cf57b38fd",
@@ -1251,7 +1137,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806972+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326170+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-wild-horse-nine-c98f31761a10d8c3",
@@ -1270,7 +1156,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806983+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326180+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-wild-horse-nine-1ff0adaf15c03f26",
@@ -1289,7 +1175,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.806992+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326186+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-you-can-see-everything-700583150e27d80b",
@@ -1308,7 +1194,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807039+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326216+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-you-can-see-everything-828597db8fa2ca77",
@@ -1327,7 +1213,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807051+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326223+00:00"
   },
   {
     "id": "michigan_theater-2026-11-22-you-can-see-everything-c175c6509c73dcc4",
@@ -1346,7 +1232,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807062+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326230+00:00"
   },
   {
     "id": "michigan_theater-2026-11-24-club-kid-9f16d72fc0780393",
@@ -1365,7 +1251,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807108+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326259+00:00"
   },
   {
     "id": "michigan_theater-2026-11-24-i-play-rocky-992fcf513afae32f",
@@ -1384,7 +1270,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807154+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326284+00:00"
   },
   {
     "id": "michigan_theater-2026-11-24-la-bola-negra-34b8570aa4e34698",
@@ -1403,7 +1289,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/labolanegra%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807208+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326310+00:00"
   },
   {
     "id": "michigan_theater-2026-11-24-return-to-reason-four-films-by-man-ray-24a74667c8dc67f3",
@@ -1422,7 +1308,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/returntoreason%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807257+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326336+00:00"
   },
   {
     "id": "michigan_theater-2026-11-24-wild-horse-nine-bb51f66cb44c814b",
@@ -1441,7 +1327,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807303+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326361+00:00"
   },
   {
     "id": "michigan_theater-2026-11-24-you-can-see-everything-d3076de67b14218a",
@@ -1460,7 +1346,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807348+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326385+00:00"
   },
   {
     "id": "michigan_theater-2026-11-25-club-kid-6fa8c0de3db8c28c",
@@ -1479,7 +1365,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807393+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326409+00:00"
   },
   {
     "id": "michigan_theater-2026-11-25-i-play-rocky-ee627f693248e00c",
@@ -1498,7 +1384,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807438+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326432+00:00"
   },
   {
     "id": "michigan_theater-2026-11-25-la-bola-negra-b594056a74aff2b0",
@@ -1517,7 +1403,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/labolanegra%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807483+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326457+00:00"
   },
   {
     "id": "michigan_theater-2026-11-25-warren-millers-days-off-bd04153afa6693a6",
@@ -1536,7 +1422,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/warrenmiller_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807532+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326486+00:00"
   },
   {
     "id": "michigan_theater-2026-11-25-wild-horse-nine-7c9dfb01f1450c92",
@@ -1555,7 +1441,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807593+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326510+00:00"
   },
   {
     "id": "michigan_theater-2026-11-25-you-can-see-everything-6a19eb65dcf63ee2",
@@ -1574,7 +1460,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807646+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326534+00:00"
   },
   {
     "id": "michigan_theater-2026-11-26-club-kid-2b98f5fe9c012873",
@@ -1593,7 +1479,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/clubkid%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807691+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326557+00:00"
   },
   {
     "id": "michigan_theater-2026-11-26-i-play-rocky-2117063338d914cc",
@@ -1612,7 +1498,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/iplayrocky%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807736+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326581+00:00"
   },
   {
     "id": "michigan_theater-2026-11-26-wild-horse-nine-b329dc25368545c6",
@@ -1631,7 +1517,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildhorse9%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807781+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326604+00:00"
   },
   {
     "id": "michigan_theater-2026-11-26-you-can-see-everything-cab5f8cf1fa21114",
@@ -1650,7 +1536,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/youcanseeeverything%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807826+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326627+00:00"
   },
   {
     "id": "michigan_theater-2026-12-17-fanny-and-alexander-57c6851e5bce3f34",
@@ -1669,7 +1555,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/fanny&alexander%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807898+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326665+00:00"
   },
   {
     "id": "michigan_theater-2026-12-13-the-grinch-66ae73eda4c93631",
@@ -1688,7 +1574,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/grinch_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807944+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326689+00:00"
   },
   {
     "id": "michigan_theater-2026-12-06-home-alone-2-acad5f89781eecce",
@@ -1707,7 +1593,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/homealone2%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.807989+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326713+00:00"
   },
   {
     "id": "michigan_theater-2026-12-06-the-michigan-theater-community-film-club-holiday-nostalgia-6619109547805d09",
@@ -1726,7 +1612,26 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/film%20club%20-%20holiday%20nostalgia_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808037+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326739+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-12-19-hundreds-of-beavers-7d3c1b1065bd1c88",
+    "title": "Hundreds of Beavers",
+    "date": "2026-12-19",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048449~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/hundredsofbeavers_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-11-19T15:03:41.326762+00:00"
   },
   {
     "id": "michigan_theater-2026-12-16-cozy-craft-club-klaus-5ad5976b74da383e",
@@ -1745,7 +1650,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/cc%20klaus%20banner_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808085+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326787+00:00"
   },
   {
     "id": "michigan_theater-2026-12-04-michael-blaustein-the-taste-me-tour-the-final-leg-5ea1b593709ae166",
@@ -1764,7 +1669,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/blaustein_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808163+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326835+00:00"
   },
   {
     "id": "michigan_theater-2026-12-04-michael-blaustein-the-taste-me-tour-the-final-leg-385697de06dc08c5",
@@ -1783,7 +1688,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/blaustein_1080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808179+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326844+00:00"
   },
   {
     "id": "michigan_theater-2026-11-29-miracle-on-34th-street-0206678c50d37e76",
@@ -1802,7 +1707,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/miracleon34thst%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808225+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326870+00:00"
   },
   {
     "id": "michigan_theater-2026-11-29-warner-bros-cartoon-shorts-d5a0ad723753809d",
@@ -1821,50 +1726,12 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/looneytunes_1080x450.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808271+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326897+00:00"
   },
   {
-    "id": "michigan_theater-2026-12-11-omar-al-abdallat-live-in-concert-855e133f6ecd0a33",
-    "title": "Omar Al Abdallat: Live In Concert",
-    "date": "2026-12-11",
-    "time": "7:30pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047237~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/omar%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808450+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-12-11-the-polar-express-7db8dec97de9b807",
-    "title": "The Polar Express",
-    "date": "2026-12-11",
-    "time": "6:00pm",
-    "venue": "Michigan Theater",
-    "address": "",
-    "category": "arts_culture",
-    "tags": [
-      "film"
-    ],
-    "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047134~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-    "source": "michigan_theater",
-    "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thepolarexpress%201080x450_thumb.jpg",
-    "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808496+00:00"
-  },
-  {
-    "id": "michigan_theater-2026-12-05-an-evening-with-peter-billingsley-a-christmas-story-ac452dcd33388dfe",
-    "title": "An Evening With Peter Billingsley: A Christmas Story",
-    "date": "2026-12-05",
+    "id": "michigan_theater-2026-12-03-no-impact-man-db4e80dfde4e8e00",
+    "title": "No Impact Man",
+    "date": "2026-12-03",
     "time": "7:00pm",
     "venue": "Michigan Theater",
     "address": "",
@@ -1873,12 +1740,12 @@
       "film"
     ],
     "description": "",
-    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1040932~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048453~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
     "source": "michigan_theater",
     "also_listed_at": [],
-    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/peter_billingsley_1080x450_thumb.jpg",
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/noimpactman%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808545+00:00"
+    "scraped_at": "2026-11-19T15:03:41.326994+00:00"
   },
   {
     "id": "michigan_theater-2026-12-03-wild-strawberries-eff8085e7242912a",
@@ -1897,7 +1764,83 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/wildstrawberries%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808693+00:00"
+    "scraped_at": "2026-11-19T15:03:41.327020+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-12-11-omar-al-abdallat-live-in-concert-855e133f6ecd0a33",
+    "title": "Omar Al Abdallat: Live In Concert",
+    "date": "2026-12-11",
+    "time": "7:30pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047237~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/omar%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-11-19T15:03:41.327048+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-12-11-the-polar-express-7db8dec97de9b807",
+    "title": "The Polar Express",
+    "date": "2026-12-11",
+    "time": "6:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047134~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/thepolarexpress%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-11-19T15:03:41.327073+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-12-05-an-evening-with-peter-billingsley-a-christmas-story-ac452dcd33388dfe",
+    "title": "An Evening With Peter Billingsley: A Christmas Story",
+    "date": "2026-12-05",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1040932~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/peter_billingsley_1080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-11-19T15:03:41.327099+00:00"
+  },
+  {
+    "id": "michigan_theater-2026-12-18-holiday-date-night-while-you-were-sleeping-ab05debe6c1a3ed7",
+    "title": "Holiday Date Night: While You Were Sleeping",
+    "date": "2026-12-18",
+    "time": "7:00pm",
+    "venue": "Michigan Theater",
+    "address": "",
+    "category": "arts_culture",
+    "tags": [
+      "film"
+    ],
+    "description": "",
+    "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048456~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+    "source": "michigan_theater",
+    "also_listed_at": [],
+    "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/whileyouweresleeping%201080x450_thumb.jpg",
+    "possible_duplicate": false,
+    "scraped_at": "2026-11-19T15:03:41.327179+00:00"
   },
   {
     "id": "michigan_theater-2026-12-10-winter-light-620d2b1490e7d015",
@@ -1916,7 +1859,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/winter%20light%201080x450_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808740+00:00"
+    "scraped_at": "2026-11-19T15:03:41.327209+00:00"
   },
   {
     "id": "michigan_theater-2026-12-14-world-ballet-company-the-nutcracker-379c57d6e6934de9",
@@ -1935,7 +1878,7 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/nutcracker_1080x450px_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808788+00:00"
+    "scraped_at": "2026-11-19T15:03:41.327237+00:00"
   },
   {
     "id": "michigan_theater-2026-12-15-world-ballet-company-the-nutcracker-30887dea2322a070",
@@ -1954,6 +1897,6 @@
     "also_listed_at": [],
     "image_url": "https://prod3.agileticketing.net/images/user/mt_3768/nutcracker_1080x450px_thumb.jpg",
     "possible_duplicate": false,
-    "scraped_at": "2026-11-18T14:57:16.808835+00:00"
+    "scraped_at": "2026-11-19T15:03:41.327263+00:00"
   }
 ]

@@ -1,785 +1,6 @@
 {
-  "count": 569,
+  "count": 531,
   "locations": [
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "eventbrite-2026-11-18-volunteer-event-woody-invasive-species-removal-7bb1a78a9011de94",
-          "title": "Volunteer Event - Woody Invasive Species Removal",
-          "date": "2026-11-18",
-          "time": "09:00",
-          "url": "https://www.eventbrite.com/e/volunteer-event-woody-invasive-species-removal-tickets-2003205658048",
-          "source": "eventbrite",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-investigate-labs-u-m-museum-of-natural-history-b3825a3659caf1a4",
-          "title": "“Investigate Labs”: U-M Museum of Natural History",
-          "date": "2026-11-18",
-          "time": "11:00 AM",
-          "url": "https://annarborobserver.com/event/investigate-labs-u-m-museum-of-natural-history-29/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "eventbrite-2026-11-18-a²zero-eats-guided-tour-washtenaw-food-hub-85ad7139189120d2",
-          "title": "A²ZERO Eats Guided Tour: Washtenaw Food Hub",
-          "date": "2026-11-18",
-          "time": "12:00",
-          "url": "https://www.eventbrite.com/e/a2zero-eats-guided-tour-washtenaw-food-hub-tickets-2004123199439",
-          "source": "eventbrite",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-chime-concert-kerrytown-market-shops-cc516970f22d09e6",
-          "title": "Chime Concert: Kerrytown Market & Shops",
-          "date": "2026-11-18",
-          "time": "12:00 PM",
-          "url": "https://annarborobserver.com/event/chime-concert-kerrytown-market-shops-30/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-rehabilitative-postsocialism-racialised-capital-and-yearning-for-crip-horizon-u-m-center-for-russian-east-european-and-eurasian-studies-noon-lecture-series-dc311b563b2c70c1",
-          "title": "“Rehabilitative Postsocialism, Racialised Capital, and Yearning for Crip Horizon”: U-M Center for Russian, East European, and Eurasian Studies Noon Lecture Series",
-          "date": "2026-11-18",
-          "time": "12:00 PM",
-          "url": "https://annarborobserver.com/event/rehabilitative-postsocialism-racialised-capital-and-yearning-for-crip-horizon-u-m-center-for-russian-east-european-and-eurasian-studies-noon-lecture-series/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-whats-going-on-at-your-library-aauw-ann-arbor-4526cd6c955a8a2c",
-          "title": "“What’s Going On at Your Library?”:  AAUW-Ann Arbor",
-          "date": "2026-11-18",
-          "time": "12:30 PM",
-          "url": "https://annarborobserver.com/event/whats-going-on-at-your-library-aauw-ann-arbor/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "eventbrite-2026-11-18-mindful-eating-seasonal-cooking-workshop-communal-supper-8539f13b8a3340c8",
-          "title": "Mindful Eating & Seasonal Cooking Workshop & Communal Supper",
-          "date": "2026-11-18",
-          "time": "17:30",
-          "url": "https://www.eventbrite.com/e/mindful-eating-seasonal-cooking-workshop-communal-supper-tickets-1994162112560",
-          "source": "eventbrite",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "eventbrite-2026-11-18-community-table-fresh-hopped-rice-ale-pt2-8f491bee82ff7393",
-          "title": "Community Table Fresh-Hopped Rice Ale, Pt.2",
-          "date": "2026-11-18",
-          "time": "18:00",
-          "url": "https://www.eventbrite.com/e/community-table-fresh-hopped-rice-ale-pt2-tickets-2003236452154",
-          "source": "eventbrite",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-come-as-you-are-memory-café-dementia-friendly-services-8938396db5ca9d5d",
-          "title": "“Come As You Are” Memory Café: Dementia Friendly Services",
-          "date": "2026-11-18",
-          "time": "2:00 PM",
-          "url": "https://annarborobserver.com/event/come-as-you-are-memory-cafe-dementia-friendly-services-6/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-bastard-purple-rose-theatre-company-03be7c4873b2c80c",
-          "title": "“Bastard”: Purple Rose Theatre Company",
-          "date": "2026-11-18",
-          "time": "3:00 PM",
-          "url": "https://annarborobserver.com/event/bastard-purple-rose-theatre-company-2/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-ann-arbor-ed-talks-is-college-still-worth-it-09018f154f409fdf",
-          "title": "Ann Arbor ED Talks: Is College Still Worth It?",
-          "date": "2026-11-18",
-          "time": "4:00 PM",
-          "url": "https://annarborobserver.com/event/ann-arbor-ed-talks-is-college-still-worth-it/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-mend-sew-social-scrap-creative-reuse-383b750698a3978f",
-          "title": "Mend & Sew Social: SCRAP Creative Reuse",
-          "date": "2026-11-18",
-          "time": "4:00 PM",
-          "url": "https://annarborobserver.com/event/mend-sew-social-scrap-creative-reuse/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-the-working-artist-making-books-making-art-making-a-living-cde29e4e57b34a50",
-          "title": "The Working Artist: Making Books, Making Art, Making a Living",
-          "date": "2026-11-18",
-          "time": "4:00 PM",
-          "url": "https://annarborobserver.com/event/the-working-artist-making-books-making-art-making-a-living/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-michigan-marching-band-practice-611ad29a92f3ac33",
-          "title": "Michigan Marching Band Practice",
-          "date": "2026-11-18",
-          "time": "4:45 PM",
-          "url": "https://annarborobserver.com/event/michigan-marching-band-practice-3/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-board-game-night-bløm-mead-cider-dc25bf2c47087a5e",
-          "title": "Board Game Night: Bløm Mead + Cider",
-          "date": "2026-11-18",
-          "time": "5:00 PM",
-          "url": "https://annarborobserver.com/event/board-game-night-blom-mead-cider-12/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-magic-the-gathering-sylvan-factory-f237358cd9b837ec",
-          "title": "Magic: The Gathering: Sylvan Factory",
-          "date": "2026-11-18",
-          "time": "5:00 PM",
-          "url": "https://annarborobserver.com/event/magic-the-gathering-sylvan-factory/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-riso-lab-ann-arbor-district-library-ef13ed61dea06148",
-          "title": "Riso Lab: Ann Arbor District Library",
-          "date": "2026-11-18",
-          "time": "5:00 PM",
-          "url": "https://annarborobserver.com/event/riso-lab-ann-arbor-district-library-5/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-the-193233-holodomor-in-soviet-ukraine-and-its-afterlife-u-m-slavic-languages-literatures-department-0549589beebd42ea",
-          "title": "“The 1932–33 Holodomor in Soviet Ukraine and Its Afterlife”: U-M Slavic Languages & Literatures Department",
-          "date": "2026-11-18",
-          "time": "5:00 PM",
-          "url": "https://annarborobserver.com/event/the-1932-33-holodomor-in-soviet-ukraine-and-its-afterlife-u-m-slavic-languages-literatures-department/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-ypsi-fine-arts-club-riverside-arts-center-f5ea46557d6545b6",
-          "title": "Ypsi Fine Arts Club: Riverside Arts Center",
-          "date": "2026-11-18",
-          "time": "5:00 PM",
-          "url": "https://annarborobserver.com/event/ypsi-fine-arts-club-riverside-arts-center-7/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-an-evening-with-professor-dennis-wilson-and-the-u-m-jazz-trombone-ensemble-evenings-with-olli-u-m-osher-lifelong-learning-institute-f8268333246b95bc",
-          "title": "“An Evening with Professor Dennis Wilson and the U-M Jazz Trombone Ensemble”: Evenings with OLLI (U-M Osher Lifelong Learning Institute)",
-          "date": "2026-11-18",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/an-evening-with-professor-dennis-wilson-and-the-u-m-jazz-trombone-ensemble-evenings-with-olli-u-m-osher-lifelong-learning-institute/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-community-table-the-washtenaw-food-hub-caedf259b575a059",
-          "title": "“Community Table”: The Washtenaw Food Hub",
-          "date": "2026-11-18",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/community-table-the-washtenaw-food-hub-11/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-drop-in-knitting-spun-838833db756a19a0",
-          "title": "Drop-in Knitting: Spun",
-          "date": "2026-11-18",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/drop-in-knitting-spun-24/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-income-taxes-who-should-payand-how-much-braver-angels-of-washtenaw-county-ce9c32ba1b61fe2b",
-          "title": "“Income Taxes: Who Should Pay—and How Much?”: Braver Angels of Washtenaw County",
-          "date": "2026-11-18",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/income-taxes-who-should-pay-and-how-much-braver-angels-of-washtenaw-county/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-moms-night-at-the-stone-chalet-92928ab9b7d52121",
-          "title": "Moms’ Night at the Stone Chalet",
-          "date": "2026-11-18",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/moms-night-at-the-stone-chalet/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-small-bite-sessions-zingermans-deli-51e18021e4fda500",
-          "title": "“Small Bite Sessions”: Zingerman’s Deli",
-          "date": "2026-11-18",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/small-bite-sessions-zingermans-deli/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-the-fungal-frontier-u-m-museum-of-natural-history-science-café-4cbbb95837d3a7a7",
-          "title": "“The Fungal Frontier”: U-M Museum of Natural History Science Café",
-          "date": "2026-11-18",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/the-fungal-frontier-u-m-museum-of-natural-history-science-cafe/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-tiny-felt-and-bead-pie-magnets-ann-arbor-district-library-971bf3d03a390469",
-          "title": "“Tiny Felt and Bead Pie Magnets”: Ann Arbor District Library",
-          "date": "2026-11-18",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/tiny-felt-and-bead-pie-magnets-ann-arbor-district-library/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-crazy-wisdom-bookstore-gathering-series-c54f0ab5da0f9925",
-          "title": "Crazy Wisdom Bookstore Gathering Series",
-          "date": "2026-11-18",
-          "time": "6:30 PM",
-          "url": "https://annarborobserver.com/event/crazy-wisdom-bookstore-gathering-series-2/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-emu-mens-basketball-vs-detroit-mercy-acd94906d8da86a1",
-          "title": "EMU Men’s Basketball vs. Detroit Mercy",
-          "date": "2026-11-18",
-          "time": "6:30 PM",
-          "url": "https://annarborobserver.com/event/emu-mens-basketball-vs-detroit-mercy/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-emu-mens-basketball-vs-detroit-mercy-d840a1aa16be00c5",
-          "title": "EMU Men’s Basketball vs. Detroit Mercy",
-          "date": "2026-11-18",
-          "time": "6:30 PM",
-          "url": "https://annarborobserver.com/event/emu-mens-basketball-vs-detroit-mercy-2/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-griefshare-surviving-the-holidays-e2e6b651aede20c7",
-          "title": "GriefShare: Surviving the Holidays",
-          "date": "2026-11-18",
-          "time": "6:30 PM",
-          "url": "https://annarborobserver.com/event/griefshare-surviving-the-holidays/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-ann-arbor-bridge-club-15899df2f4d08913",
-          "title": "Ann Arbor Bridge Club",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/ann-arbor-bridge-club-11/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-ann-arbor-group-runs-fleet-feet-f66bc3a0b5bb097f",
-          "title": "Ann Arbor Group Runs: Fleet Feet",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/ann-arbor-group-runs-fleet-feet-29/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-cozy-craft-club-screening-of-the-princess-bride-michigan-theater-c5882afdf81f8e8f",
-          "title": "Cozy Craft Club Screening of “The Princess Bride”: Michigan Theater",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/cozy-craft-club-screening-of-the-princess-bride-michigan-theater/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-craft-chat-pittsfield-union-grange-36eba2bd0a38185d",
-          "title": "“Craft & Chat”: Pittsfield Union Grange",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/craft-chat-pittsfield-union-grange-5/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-quakers-who-are-we-ann-arbor-friends-meeting-0bdcbf3937f397da",
-          "title": "“Quakers: Who Are We?”: Ann Arbor Friends Meeting",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/quakers-who-are-we-ann-arbor-friends-meeting-7/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-u-m-womens-basketball-fc8e5db3c4412ce6",
-          "title": "U-M Women’s Basketball",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/u-m-womens-basketball/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-comedy-jamm-ann-arbor-comedy-showcase-7d84bab5fa234e59",
-          "title": "“Comedy Jamm”: Ann Arbor Comedy Showcase",
-          "date": "2026-11-18",
-          "time": "7:15 PM",
-          "url": "https://annarborobserver.com/event/comedy-jamm-ann-arbor-comedy-showcase-10/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-jack-tucker-comedy-standup-show-university-musical-society-6d93f9741c408ba7",
-          "title": "“Jack Tucker Comedy Standup Show”: University Musical Society",
-          "date": "2026-11-18",
-          "time": "7:30 PM",
-          "url": "https://annarborobserver.com/event/jack-tucker-comedy-standup-show-university-musical-society/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-wednesday-night-swing-swing-ann-arbor-9da1eb71be68ee5d",
-          "title": "“Wednesday Night Swing”: Swing Ann Arbor",
-          "date": "2026-11-18",
-          "time": "7:30 PM",
-          "url": "https://annarborobserver.com/event/wednesday-night-swing-swing-ann-arbor-12/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "missing_location",
-      "count": 1,
-      "events": [
-        {
-          "id": "observer-2026-11-18-volunteer-event-woody-invasive-species-removal-3c83243445719eef",
-          "title": "Volunteer Event – Woody Invasive Species Removal",
-          "date": "2026-11-18",
-          "time": "9:00 AM",
-          "url": "https://annarborobserver.com/event/volunteer-event-woody-invasive-species-removal-6/",
-          "source": "observer",
-          "also_listed_at": []
-        }
-      ]
-    },
     {
       "venue": "",
       "address": "",
@@ -4646,11 +3867,11 @@
       "count": 1,
       "events": [
         {
-          "id": "ypsilanti-2026-11-23-recycling-a-week-7840d7a8b5fca1e2",
+          "id": "ypsilanti-2026-11-23-recycling-a-week-5df28e43f359a87f",
           "title": "Recycling \"A\" Week",
           "date": "2026-11-23",
           "time": "12:01 AM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4339&month=11&year=2026&day=18&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4339&month=11&year=2026&day=19&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -5577,11 +4798,11 @@
       "count": 1,
       "events": [
         {
-          "id": "ypsilanti-2026-11-26-trash-yard-waste-and-recycling-pickup-one-day-behind-d0b433719dcd97c2",
+          "id": "ypsilanti-2026-11-26-trash-yard-waste-and-recycling-pickup-one-day-behind-f8bd665138a9af5d",
           "title": "Trash, Yard Waste and Recycling pickup one day behind",
           "date": "2026-11-26",
           "time": "",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4315&month=11&year=2026&day=18&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4315&month=11&year=2026&day=19&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -7040,11 +6261,11 @@
       "count": 1,
       "events": [
         {
-          "id": "ypsilanti-2026-11-30-recycling-b-week-b5f6afbbf8f7aea7",
+          "id": "ypsilanti-2026-11-30-recycling-b-week-3150e921b974a682",
           "title": "Recycling \"B\" Week",
           "date": "2026-11-30",
           "time": "12:01 AM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4439&month=11&year=2026&day=18&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4439&month=11&year=2026&day=19&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -9112,12 +8333,31 @@
       ]
     },
     {
+      "venue": "555 Towner, Room #2102B, Ypsilanti, MI",
+      "address": "",
+      "location_city": "Ypsilanti",
+      "status": "needs_review",
+      "reason": "incomplete_address",
+      "count": 1,
+      "events": [
+        {
+          "id": "washtenaw_county-2026-11-20-regular-meeting-of-the-washtenaw-county-board-of-health-in-person-via-zoom-484fdbf61aa69163",
+          "title": "Regular meeting of the Washtenaw County Board of Health (In person & via Zoom)",
+          "date": "2026-11-20",
+          "time": "9:00 AM",
+          "url": "https://washtenawcomi.portal.civicclerk.com/event/4324",
+          "source": "washtenaw_county",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
       "venue": "A2AC (Ann Arbor Art Center), 117 W Liberty, Ann Arbor, MI",
       "address": "",
       "location_city": "Ann Arbor",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 2,
+      "count": 3,
       "events": [
         {
           "id": "ann_arbor_art_center-2026-11-30-family-night-paint-your-own-pottery-drop-in-2173a51dc365d3d0",
@@ -9136,6 +8376,15 @@
           "url": "https://www.annarborartcenter.org/event/midnight-madness-26/",
           "source": "ann_arbor_art_center",
           "also_listed_at": []
+        },
+        {
+          "id": "ann_arbor_art_center-2026-12-04-starry-night-light-up-planet-drop-in-b4ab82e97c2625cb",
+          "title": "Starry Night Light-Up Planet Drop-In!",
+          "date": "2026-12-04",
+          "time": "5:00 PM",
+          "url": "https://www.annarborartcenter.org/event/starry-night-light-up-planet-drop-in/",
+          "source": "ann_arbor_art_center",
+          "also_listed_at": []
         }
       ]
     },
@@ -9145,7 +8394,7 @@
       "location_city": "Ann Arbor",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 4,
+      "count": 3,
       "events": [
         {
           "id": "ann_arbor_art_center-2026-11-20-colorism-opening-reception-561a2810963701a3",
@@ -9153,15 +8402,6 @@
           "date": "2026-11-20",
           "time": "6:00 PM",
           "url": "https://www.annarborartcenter.org/event/colorism-opening-reception/",
-          "source": "ann_arbor_art_center",
-          "also_listed_at": []
-        },
-        {
-          "id": "ann_arbor_art_center-2026-12-04-starry-night-light-up-planet-drop-in-1eb18ab282610690",
-          "title": "Starry Night Light-Up Planet Drop-In!",
-          "date": "2026-12-04",
-          "time": "5:00 PM",
-          "url": "https://www.annarborartcenter.org/event/starry-night-light-up-planet-drop-in/",
           "source": "ann_arbor_art_center",
           "also_listed_at": []
         },
@@ -9243,6 +8483,25 @@
       ]
     },
     {
+      "venue": "Alexander Music Building - Alexander Recital Hall (Room 110)",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "incomplete_address",
+      "count": 1,
+      "events": [
+        {
+          "id": "eastern_michigan-2026-12-07-emu-chamber-music-recital-ff5e8d219551aab3",
+          "title": "EMU Chamber Music Recital",
+          "date": "2026-12-07",
+          "time": "7:00 pm",
+          "url": "https://today.emich.edu/calendar/17896",
+          "source": "eastern_michigan",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
       "venue": "Alexander Music Building - Recital Hall",
       "address": "",
       "location_city": "",
@@ -9267,37 +8526,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 86,
+      "count": 83,
       "events": [
-        {
-          "id": "eventbrite-2026-11-18-brightworks-bagels-673061229c696834",
-          "title": "BrightWorks & Bagels",
-          "date": "2026-11-18",
-          "time": "08:00",
-          "url": "https://www.eventbrite.com/e/brightworks-bagels-tickets-1994720978142",
-          "source": "eventbrite",
-          "also_listed_at": [
-            "https://www.eventbrite.com/e/brightworks-bagels-tickets-1994723847725"
-          ]
-        },
-        {
-          "id": "eventbrite-2026-11-18-leadership-office-hours-8f327bbd1d1104ed",
-          "title": "Leadership Office Hours",
-          "date": "2026-11-18",
-          "time": "16:15",
-          "url": "https://www.eventbrite.com/e/leadership-office-hours-tickets-1998504121626",
-          "source": "eventbrite",
-          "also_listed_at": []
-        },
-        {
-          "id": "eventbrite-2026-11-18-recess-book-club-43b44ce8f78b69b9",
-          "title": "Recess Book Club",
-          "date": "2026-11-18",
-          "time": "18:00",
-          "url": "https://www.eventbrite.com/e/recess-book-club-tickets-2004379991511",
-          "source": "eventbrite",
-          "also_listed_at": []
-        },
         {
           "id": "eventbrite-2026-11-19-ann-arbor-professional-networking-205d880b739493c4",
           "title": "Ann Arbor Professional Networking",
@@ -10080,15 +9310,6 @@
       "count": 10,
       "events": [
         {
-          "id": "city_ann_arbor-2026-11-18-ann-arbor-farmers-market-wednesday-market-2d94b0d1331ce643",
-          "title": "Ann Arbor Farmers Market Wednesday Market",
-          "date": "2026-11-18",
-          "time": "7:00 AM",
-          "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D194454767",
-          "source": "city_ann_arbor",
-          "also_listed_at": []
-        },
-        {
           "id": "city_ann_arbor-2026-11-21-ann-arbor-farmers-market-saturday-market-regular-hours-489938ce3a69dad5",
           "title": "Ann Arbor Farmers Market Saturday Market Regular Hours",
           "date": "2026-11-21",
@@ -10166,6 +9387,15 @@
           "date": "2026-12-16",
           "time": "7:00 AM",
           "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D194454771",
+          "source": "city_ann_arbor",
+          "also_listed_at": []
+        },
+        {
+          "id": "city_ann_arbor-2026-12-19-ann-arbor-farmers-market-saturday-market-regular-hours-9161c8a5667fb221",
+          "title": "Ann Arbor Farmers Market Saturday Market Regular Hours",
+          "date": "2026-12-19",
+          "time": "7:00 AM",
+          "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D194454874",
           "source": "city_ann_arbor",
           "also_listed_at": []
         }
@@ -10324,17 +9554,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 10,
+      "count": 9,
       "events": [
-        {
-          "id": "observer-2026-11-18-open-stage-d33a684b392dd46f",
-          "title": "Open Stage.",
-          "date": "2026-11-18",
-          "time": "8:00 PM",
-          "url": "https://annarborobserver.com/event/open-stage-7/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-19-sam-shackleton-8b34b5f089372e90",
           "title": "Sam Shackleton.",
@@ -10424,23 +9645,33 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 2,
+      "count": 1,
       "events": [
-        {
-          "id": "eastern_michigan-2026-11-20-professional-networking-and-branding-on-linkedin-32fefe048a061dd2",
-          "title": "Professional Networking and Branding on LinkedIn",
-          "date": "2026-11-20",
-          "time": "10:00 am",
-          "url": "https://today.emich.edu/calendar/17521",
-          "source": "eastern_michigan",
-          "also_listed_at": []
-        },
         {
           "id": "eastern_michigan-2026-11-20-personal-safety-class-5e6b64729231995a",
           "title": "Personal Safety Class",
           "date": "2026-11-20",
           "time": "11:00 am",
           "url": "https://today.emich.edu/calendar/17858",
+          "source": "eastern_michigan",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
+      "venue": "Best Hall - Ground Floor Lounge",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "incomplete_address",
+      "count": 1,
+      "events": [
+        {
+          "id": "eastern_michigan-2026-12-11-coco-cookies-crafts-with-mcnair-035ae269d515225d",
+          "title": "Coco, Cookies & Crafts with McNair",
+          "date": "2026-12-11",
+          "time": "12:00 pm",
+          "url": "https://today.emich.edu/calendar/17890",
           "source": "eastern_michigan",
           "also_listed_at": []
         }
@@ -10526,17 +9757,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 3,
+      "count": 2,
       "events": [
-        {
-          "id": "observer-2026-11-18-aris-chalin-duo-8418941d7449dcd5",
-          "title": "Aris Chalin Duo.",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/aris-chalin-duo/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-19-ajde-aman-26e56e302aac549e",
           "title": "Ajde Aman.",
@@ -10565,15 +9787,6 @@
       "reason": "incomplete_address",
       "count": 23,
       "events": [
-        {
-          "id": "blue_llama-2026-11-18-date-night-aris-chalin-piano-duo-f8c7c7ec70bea154",
-          "title": "Date Night: Aris Chalin Piano Duo",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://bluellamaclub.com/event/aris-chalin-piano-duo-3-2/",
-          "source": "blue_llama",
-          "also_listed_at": []
-        },
         {
           "id": "blue_llama-2026-11-19-ajde-aman-f83105e48ca62b9b",
           "title": "Ajde Aman",
@@ -10779,6 +9992,15 @@
           "url": "https://bluellamaclub.com/event/aguanko-holiday-show/",
           "source": "blue_llama",
           "also_listed_at": []
+        },
+        {
+          "id": "blue_llama-2026-12-19-planet-d-nonets-stevie-wonder-swing-72e82433bfebb5a1",
+          "title": "Planet D Nonet's Stevie Wonder & Swing",
+          "date": "2026-12-19",
+          "time": "7:00 PM",
+          "url": "https://bluellamaclub.com/event/planet-d-nonet/",
+          "source": "blue_llama",
+          "also_listed_at": []
         }
       ]
     },
@@ -10807,7 +10029,7 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 5,
+      "count": 6,
       "events": [
         {
           "id": "eastern_michigan-2026-11-25-day-before-thanksgiving-no-classes-university-closed-91a632ee99722548",
@@ -10853,6 +10075,15 @@
           "date": "2026-12-14",
           "time": "12:00 am",
           "url": "https://today.emich.edu/calendar/16558",
+          "source": "eastern_michigan",
+          "also_listed_at": []
+        },
+        {
+          "id": "eastern_michigan-2026-12-19-fall-commencement-110dae560af06c29",
+          "title": "Fall Commencement",
+          "date": "2026-12-19",
+          "time": "12:00 am",
+          "url": "https://today.emich.edu/calendar/16559",
           "source": "eastern_michigan",
           "also_listed_at": []
         }
@@ -10914,20 +10145,20 @@
       "count": 2,
       "events": [
         {
-          "id": "ypsilanti-2026-11-19-administrative-hearings-bureau-ebd43b1eb7a1decd",
+          "id": "ypsilanti-2026-11-19-administrative-hearings-bureau-1467e79c9cdad393",
           "title": "Administrative Hearings Bureau",
           "date": "2026-11-19",
           "time": "9:00 AM - 12:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4827&month=11&year=2026&day=18&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4827&month=11&year=2026&day=19&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         },
         {
-          "id": "ypsilanti-2026-11-23-human-relations-commission-meeting-880caae0458ed950",
+          "id": "ypsilanti-2026-11-23-human-relations-commission-meeting-bd2b4c3784a47648",
           "title": "Human Relations Commission Meeting",
           "date": "2026-11-23",
           "time": "6:00 PM - 9:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4862&month=11&year=2026&day=18&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4862&month=11&year=2026&day=19&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -10941,24 +10172,6 @@
       "reason": "incomplete_address",
       "count": 34,
       "events": [
-        {
-          "id": "detroit_street_filling-2026-11-18-happy-hour-ralph-santarpia-c14491a3f93f3d5d",
-          "title": "Happy Hour: Ralph Santarpia",
-          "date": "2026-11-18",
-          "time": "5:30 PM",
-          "url": "https://www.nstarlounge.com/events/hhralphsantarpia",
-          "source": "detroit_street_filling",
-          "also_listed_at": []
-        },
-        {
-          "id": "detroit_street_filling-2026-11-18-earthwork-music-collective-ft-dede-alder-audra-kubat-and-mike-savina-29e4fe443473a029",
-          "title": "Earthwork Music Collective Ft. Dede Alder, Audra Kubat, and Mike Savina",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://www.nstarlounge.com/events/novearthwork",
-          "source": "detroit_street_filling",
-          "also_listed_at": []
-        },
         {
           "id": "detroit_street_filling-2026-11-19-happy-hour-gretchen-pleuss-25205e87244486aa",
           "title": "Happy Hour: Gretchen Pleuss",
@@ -11246,6 +10459,24 @@
           "url": "https://www.nstarlounge.com/events/bluegrass12-18",
           "source": "detroit_street_filling",
           "also_listed_at": []
+        },
+        {
+          "id": "detroit_street_filling-2026-12-19-rochelle-clark-the-familiars-98ce788e8041af47",
+          "title": "Rochelle Clark & The Familiars",
+          "date": "2026-12-19",
+          "time": "6:00 PM",
+          "url": "https://www.nstarlounge.com/events/rochelleclark12-19",
+          "source": "detroit_street_filling",
+          "also_listed_at": []
+        },
+        {
+          "id": "detroit_street_filling-2026-12-19-the-minor-pieces-cd1b45574b518cbb",
+          "title": "The Minor Pieces",
+          "date": "2026-12-19",
+          "time": "8:30 PM",
+          "url": "https://www.nstarlounge.com/events/minorpieces12-19",
+          "source": "detroit_street_filling",
+          "also_listed_at": []
         }
       ]
     },
@@ -11274,17 +10505,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 22,
+      "count": 21,
       "events": [
-        {
-          "id": "observer-2026-11-18-jake-reichbart-eb969b83bc9454aa",
-          "title": "Jake Reichbart.",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/jake-reichbart/2026-11-18/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-19-jake-reichbart-d30623996ab56628",
           "title": "Jake Reichbart.",
@@ -11482,17 +10704,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 3,
+      "count": 2,
       "events": [
-        {
-          "id": "observer-2026-11-18-turner-luce-75a8b90ca2fde846",
-          "title": "Turner Luce.",
-          "date": "2026-11-18",
-          "time": "6:00 PM",
-          "url": "https://annarborobserver.com/event/turner-luce-2/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-19-street-fiction-1c9ec4a8a7502298",
           "title": "Street Fiction.",
@@ -11550,49 +10763,30 @@
       "count": 3,
       "events": [
         {
-          "id": "ypsilanti-2026-11-21-private-rental-9789fbb8c3f42c27",
+          "id": "ypsilanti-2026-11-21-private-rental-59b1370f40b86962",
           "title": "Private Rental",
           "date": "2026-11-21",
           "time": "8:00 AM - 6:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4717&month=11&year=2026&day=18&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4717&month=11&year=2026&day=19&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         },
         {
-          "id": "ypsilanti-2026-11-28-ypsi-artisans-market-fcd70533617e1806",
+          "id": "ypsilanti-2026-11-28-ypsi-artisans-market-960c02698917bdab",
           "title": "Ypsi Artisans Market",
           "date": "2026-11-28",
           "time": "8:00 AM - 5:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4778&month=11&year=2026&day=18&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4778&month=11&year=2026&day=19&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         },
         {
-          "id": "ypsilanti-2026-11-29-ypsi-artisans-market-2ef14e8f1eacc070",
+          "id": "ypsilanti-2026-11-29-ypsi-artisans-market-9c9bc7968f747b46",
           "title": "Ypsi Artisans Market",
           "date": "2026-11-29",
           "time": "8:00 AM - 5:00 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4779&month=11&year=2026&day=18&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4779&month=11&year=2026&day=19&calType=0",
           "source": "ypsilanti",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
-      "venue": "GriefShare @ St. Luke Lutheran Church",
-      "address": "4205 Washtenaw Avenue, Ann Arbor, M, United States",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "incomplete_address",
-      "count": 1,
-      "events": [
-        {
-          "id": "sun_times_news-2026-11-18-griefshare-surviving-the-holidays-6251c5ba72a65b59",
-          "title": "GriefShare: Surviving the Holidays",
-          "date": "2026-11-18",
-          "time": "18:30",
-          "url": "https://thesuntimesnews.com/event/griefshare-surviving-the-holidays/",
-          "source": "sun_times_news",
           "also_listed_at": []
         }
       ]
@@ -11714,17 +10908,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 4,
+      "count": 3,
       "events": [
-        {
-          "id": "hill_auditorium-2026-11-18-jack-tucker-comedy-standup-hour-created-and-performed-by-zach-zucker-02b03f4d22f07aab",
-          "title": "Jack Tucker Comedy Standup Hour Created and performed by Zach Zucker",
-          "date": "2026-11-18",
-          "time": "",
-          "url": "https://ums.org/performance/jack-tucker-comedy-standup-show/",
-          "source": "hill_auditorium",
-          "also_listed_at": []
-        },
         {
           "id": "hill_auditorium-2026-12-05-handels-messiah-890b98ad6fb94264",
           "title": "Handel’s Messiah",
@@ -11882,7 +11067,7 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 6,
+      "count": 4,
       "events": [
         {
           "id": "sun_times_news-2026-12-03-dave-bennett-quartet-swing-pop-rock-d8887c16dce15be7",
@@ -11908,24 +11093,6 @@
           "date": "2026-12-05",
           "time": "19:30",
           "url": "https://thesuntimesnews.com/event/alla-boara-christmas-in-italy/",
-          "source": "sun_times_news",
-          "also_listed_at": []
-        },
-        {
-          "id": "sun_times_news-2026-12-11-mr-b-the-kerrytown-stompers-let-the-good-times-stomp-e58492fd613ceca4",
-          "title": "Mr. B & The Kerrytown Stompers: Let the Good Times Stomp!",
-          "date": "2026-12-11",
-          "time": "19:30",
-          "url": "https://thesuntimesnews.com/event/mr-b-the-kerrytown-stompers-let-the-good-times-stomp/",
-          "source": "sun_times_news",
-          "also_listed_at": []
-        },
-        {
-          "id": "sun_times_news-2026-12-13-ellen-rowes-all-about-the-trio-holiday-spectacular-1c1601bccb2d0bd2",
-          "title": "Ellen Rowe’s All About the Trio: Holiday Spectacular",
-          "date": "2026-12-13",
-          "time": "14:00",
-          "url": "https://thesuntimesnews.com/event/ellen-rowes-all-about-the-trio-holiday-spectacular/",
           "source": "sun_times_news",
           "also_listed_at": []
         },
@@ -11974,17 +11141,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 2,
+      "count": 1,
       "events": [
-        {
-          "id": "city_ann_arbor-2026-11-18-human-rights-commission-772bc4f2d202433b",
-          "title": "Human Rights Commission",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D195431752",
-          "source": "city_ann_arbor",
-          "also_listed_at": []
-        },
         {
           "id": "city_ann_arbor-2026-12-09-human-rights-commission-11f9158e99ef5ca2",
           "title": "Human Rights Commission",
@@ -12379,25 +11537,6 @@
       ]
     },
     {
-      "venue": "Mark Jefferson Science Complex - Table",
-      "address": "",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "incomplete_address",
-      "count": 1,
-      "events": [
-        {
-          "id": "eastern_michigan-2026-11-18-lunch-level-up-graduate-business-programs-77e32f5950d60836",
-          "title": "Lunch & Level Up: Graduate Business Programs",
-          "date": "2026-11-18",
-          "time": "11:00 am",
-          "url": "https://today.emich.edu/calendar/17364",
-          "source": "eastern_michigan",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
       "venue": "Mash (Ypsilanti)",
       "address": "400 W. River, Ypsilanti",
       "location_city": "",
@@ -12439,6 +11578,25 @@
           "time": "8:00 PM",
           "url": "https://annarborobserver.com/event/the-townsmen/",
           "source": "observer",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
+      "venue": "MelissaKrzysik",
+      "address": "1390 North Freer Road, Chelsea, M, United States",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "incomplete_address",
+      "count": 1,
+      "events": [
+        {
+          "id": "sun_times_news-2026-12-19-wreaths-across-america-2026-71ce726ed2f2f203",
+          "title": "Wreaths Across America 2026",
+          "date": "2026-12-19",
+          "time": "12:00",
+          "url": "https://thesuntimesnews.com/event/wreaths-across-america-2026/",
+          "source": "sun_times_news",
           "also_listed_at": []
         }
       ]
@@ -12496,26 +11654,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 35,
+      "count": 36,
       "events": [
-        {
-          "id": "michigan_theater-2026-11-18-being-heumann-886e5f807c273245",
-          "title": "Being Heumann",
-          "date": "2026-11-18",
-          "time": "7:00pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1046877~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
-        {
-          "id": "michigan_theater-2026-11-18-cozy-craft-club-the-princess-bride-37ce97692497c747",
-          "title": "Cozy Craft Club - The Princess Bride",
-          "date": "2026-11-18",
-          "time": "7:00pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1039364~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
         {
           "id": "michigan_theater-2026-11-19-jorge-perez-a-conversation-00657aded7b688de",
           "title": "Jorge Perez: A Conversation",
@@ -12688,6 +11828,15 @@
           "also_listed_at": []
         },
         {
+          "id": "michigan_theater-2026-12-03-no-impact-man-db4e80dfde4e8e00",
+          "title": "No Impact Man",
+          "date": "2026-12-03",
+          "time": "7:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048453~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
           "id": "michigan_theater-2026-12-03-wild-strawberries-eff8085e7242912a",
           "title": "Wild Strawberries",
           "date": "2026-12-03",
@@ -12812,6 +11961,24 @@
           "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047371~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
           "source": "michigan_theater",
           "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-12-18-holiday-date-night-while-you-were-sleeping-ab05debe6c1a3ed7",
+          "title": "Holiday Date Night: While You Were Sleeping",
+          "date": "2026-12-18",
+          "time": "7:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048456~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
+        },
+        {
+          "id": "michigan_theater-2026-12-19-hundreds-of-beavers-7d3c1b1065bd1c88",
+          "title": "Hundreds of Beavers",
+          "date": "2026-12-19",
+          "time": "7:00pm",
+          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1048449~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
+          "source": "michigan_theater",
+          "also_listed_at": []
         }
       ]
     },
@@ -12886,26 +12053,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 12,
+      "count": 10,
       "events": [
-        {
-          "id": "observer-2026-11-18-ralph-santarpia-8b61f6f18967e2bb",
-          "title": "Ralph Santarpia.",
-          "date": "2026-11-18",
-          "time": "5:30 PM",
-          "url": "https://annarborobserver.com/event/ralph-santarpia/",
-          "source": "observer",
-          "also_listed_at": []
-        },
-        {
-          "id": "observer-2026-11-18-earthwork-music-collective-5751947a51dfb487",
-          "title": "Earthwork Music Collective.",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/earthwork-music-collective-5/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-19-gretchen-pleuss-b1abea37bb1e6f73",
           "title": "Gretchen Pleuss.",
@@ -13030,11 +12179,11 @@
       "count": 1,
       "events": [
         {
-          "id": "ypsilanti-2026-11-23-beyond-the-bell-5dfd9505f8a6470b",
+          "id": "ypsilanti-2026-11-23-beyond-the-bell-6b31ee1a7a6399d0",
           "title": "Beyond the Bell",
           "date": "2026-11-23",
           "time": "4:30 PM - 6:30 PM",
-          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4881&month=11&year=2026&day=18&calType=0",
+          "url": "https://www.cityofypsilanti.com/Calendar.aspx?EID=4881&month=11&year=2026&day=19&calType=0",
           "source": "ypsilanti",
           "also_listed_at": []
         }
@@ -13120,8 +12269,17 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 1,
+      "count": 2,
       "events": [
+        {
+          "id": "eastern_michigan-2026-12-01-giving-trueday-2026-f9322215b8f2a56b",
+          "title": "Giving Trueday 2026",
+          "date": "2026-12-01",
+          "time": "12:00 am",
+          "url": "https://today.emich.edu/calendar/17892",
+          "source": "eastern_michigan",
+          "also_listed_at": []
+        },
         {
           "id": "eastern_michigan-2026-12-08-bsn-information-sessions-6c5d2ff63fd83836",
           "title": "BSN Information Sessions",
@@ -13269,17 +12427,8 @@
       "location_city": "Ypsilanti",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 3,
+      "count": 2,
       "events": [
-        {
-          "id": "riverside-2026-11-18-riversides-ypsi-fine-arts-club-704d14eb5fb60ba4",
-          "title": "Riverside’s Ypsi Fine Arts Club",
-          "date": "2026-11-18",
-          "time": "5:00 PM",
-          "url": "https://www.riversidearts.org/event/riversides-ypsi-fine-arts-club/2026-11-18/",
-          "source": "riverside",
-          "also_listed_at": []
-        },
         {
           "id": "riverside-2026-12-02-riversides-ypsi-fine-arts-club-c373c720bdfbd884",
           "title": "Riverside’s Ypsi Fine Arts Club",
@@ -13362,17 +12511,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 9,
+      "count": 8,
       "events": [
-        {
-          "id": "eventbrite-2026-11-18-brightworks-bagels-e6682f72086fa00a",
-          "title": "BrightWorks & Bagels",
-          "date": "2026-11-18",
-          "time": "08:00",
-          "url": "https://www.eventbrite.com/e/brightworks-bagels-tickets-1994722174721",
-          "source": "eventbrite",
-          "also_listed_at": []
-        },
         {
           "id": "eventbrite-2026-11-19-bright-light-on-business-509711af0a66a6c3",
           "title": "Bright Light on Business",
@@ -13519,44 +12659,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 68,
+      "count": 64,
       "events": [
-        {
-          "id": "michigan_theater-2026-11-18-you-can-see-everything-bb4d1a3808ff0de0",
-          "title": "You Can See Everything",
-          "date": "2026-11-18",
-          "time": "6:00pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1046896~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
-        {
-          "id": "michigan_theater-2026-11-18-wild-horse-nine-0a42f52a57c3a8c0",
-          "title": "Wild Horse Nine",
-          "date": "2026-11-18",
-          "time": "6:30pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047047~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
-        {
-          "id": "michigan_theater-2026-11-18-godzilla-minus-zero-2ca529330161f2db",
-          "title": "Godzilla Minus Zero",
-          "date": "2026-11-18",
-          "time": "6:45pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1047033~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
-        {
-          "id": "michigan_theater-2026-11-18-sir-thaddeus-eda62b2c3ceb1818",
-          "title": "Sir Thaddeus",
-          "date": "2026-11-18",
-          "time": "7:00pm",
-          "url": "https://tix.marquee-arts.org/websales/pages/ticketsearchcriteria.aspx?evtinfo=1043174~c76be4f4-22b5-4bed-a89c-7def863b8c53&",
-          "source": "michigan_theater",
-          "also_listed_at": []
-        },
         {
           "id": "michigan_theater-2026-11-19-you-can-see-everything-d605ba803b263b49",
           "title": "You Can See Everything",
@@ -14136,25 +13240,6 @@
       ]
     },
     {
-      "venue": "Sweetwaters on 735 W. Cross Street, Ypsilanti – near Water Tower",
-      "address": "735 W. Cross Street, Ypsilanti – near Water Tower",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "incomplete_address",
-      "count": 1,
-      "events": [
-        {
-          "id": "eastern_michigan-2026-11-18-mba-gradate-business-career-coffee-chat-89850a2e292abb95",
-          "title": "MBA & Gradate Business Career Coffee Chat",
-          "date": "2026-11-18",
-          "time": "5:00 pm",
-          "url": "https://today.emich.edu/calendar/17333",
-          "source": "eastern_michigan",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
       "venue": "Tap Room",
       "address": "201 W. Michigan, Ypsilanti, Ypsilanti",
       "location_city": "",
@@ -14375,25 +13460,6 @@
       ]
     },
     {
-      "venue": "Washtenaw Food Hub 4175 Whitmore Lake Road Ann Arbor, MI 48105",
-      "address": "4175 Whitmore Lake Road Ann Arbor, MI 48105",
-      "location_city": "",
-      "status": "needs_review",
-      "reason": "incomplete_address",
-      "count": 1,
-      "events": [
-        {
-          "id": "city_ann_arbor-2026-11-18-a178zero-eats-guided-tour-washtenaw-food-hub-ee56b99df3035ada",
-          "title": "A&#178;ZERO Eats Guided Tour: Washtenaw Food Hub",
-          "date": "2026-11-18",
-          "time": "12:00 PM",
-          "url": "https://www.a2gov.org/pages/calendar.aspx?trumbaEmbed=view%3Devent%26eventid%3D213468595",
-          "source": "city_ann_arbor",
-          "also_listed_at": []
-        }
-      ]
-    },
-    {
       "venue": "Water Tower Distilling Co.",
       "address": "23 N. Washington,, Ypsilanti",
       "location_city": "",
@@ -14440,22 +13506,80 @@
       ]
     },
     {
+      "venue": "Welch Hall - 201",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "incomplete_address",
+      "count": 3,
+      "events": [
+        {
+          "id": "eastern_michigan-2026-12-03-finance-and-investment-committee-meeting-15c87029abc17463",
+          "title": "Finance and Investment Committee Meeting",
+          "date": "2026-12-03",
+          "time": "11:30 am",
+          "url": "https://today.emich.edu/calendar/17884",
+          "source": "eastern_michigan",
+          "also_listed_at": []
+        },
+        {
+          "id": "eastern_michigan-2026-12-03-regular-board-meeting-af5b74aaad46887b",
+          "title": "Regular Board Meeting",
+          "date": "2026-12-03",
+          "time": "2:00 pm",
+          "url": "https://today.emich.edu/calendar/17885",
+          "source": "eastern_michigan",
+          "also_listed_at": []
+        },
+        {
+          "id": "eastern_michigan-2026-12-03-athletic-affairs-committee-meeting-d7910afeca33940f",
+          "title": "Athletic Affairs Committee Meeting",
+          "date": "2026-12-03",
+          "time": "9:30 am",
+          "url": "https://today.emich.edu/calendar/17880",
+          "source": "eastern_michigan",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
+      "venue": "Welch Hall - 205",
+      "address": "",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "incomplete_address",
+      "count": 2,
+      "events": [
+        {
+          "id": "eastern_michigan-2026-12-03-faculty-affairs-committee-meeting-df74881189ddd25b",
+          "title": "Faculty Affairs Committee Meeting",
+          "date": "2026-12-03",
+          "time": "10:30 am",
+          "url": "https://today.emich.edu/calendar/17882",
+          "source": "eastern_michigan",
+          "also_listed_at": [
+            "https://today.emich.edu/calendar/17883"
+          ]
+        },
+        {
+          "id": "eastern_michigan-2026-12-03-educational-policies-committee-meeting-7932c9163c72be0d",
+          "title": "Educational Policies Committee Meeting",
+          "date": "2026-12-03",
+          "time": "9:30 am",
+          "url": "https://today.emich.edu/calendar/17881",
+          "source": "eastern_michigan",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
       "venue": "Ypsi Alehouse",
       "address": "124 Pearl, #100, Ypsilanti, Ypsilanti",
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 11,
+      "count": 10,
       "events": [
-        {
-          "id": "observer-2026-11-18-deep-steam-315524a3ab71e578",
-          "title": "Deep Steam.",
-          "date": "2026-11-18",
-          "time": "7:00 PM",
-          "url": "https://annarborobserver.com/event/deep-steam-5/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-19-focus-jazz-c49a4694b089abb9",
           "title": "Focus: Jazz.",
@@ -14554,17 +13678,8 @@
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 15,
+      "count": 14,
       "events": [
-        {
-          "id": "eventbrite-2026-11-18-dance-date-ages-28-35-6a2efc06d556df02",
-          "title": "Dance Date: Ages 28-35",
-          "date": "2026-11-18",
-          "time": "19:00",
-          "url": "https://www.eventbrite.com/e/dance-date-ages-28-35-tickets-2003984379224",
-          "source": "eventbrite",
-          "also_listed_at": []
-        },
         {
           "id": "eventbrite-2026-11-19-paint-pour-parties-in-ypsilanti-for-adults-teens-and-kids-00711326bb0d9838",
           "title": "Paint & Pour Parties in Ypsilanti for Adults, Teens and Kids",
@@ -14876,22 +13991,32 @@
       ]
     },
     {
+      "venue": "Zameen Art House",
+      "address": "1515 Anderson St, Vancouver, BC, Canada",
+      "location_city": "",
+      "status": "needs_review",
+      "reason": "incomplete_address",
+      "count": 1,
+      "events": [
+        {
+          "id": "sun_times_news-2026-12-06-dream-tech-4a116c2593f2bd97",
+          "title": "DREAM TECH",
+          "date": "2026-12-06",
+          "time": "19:00",
+          "url": "https://thesuntimesnews.com/event/dream-tech/",
+          "source": "sun_times_news",
+          "also_listed_at": []
+        }
+      ]
+    },
+    {
       "venue": "Ziggy’s",
       "address": "206 W. Michigan Ave., Ypsilanti, Ypsilanti",
       "location_city": "",
       "status": "needs_review",
       "reason": "incomplete_address",
-      "count": 10,
+      "count": 9,
       "events": [
-        {
-          "id": "observer-2026-11-18-queenie-t-the-frogs-and-toads-b25628394cab947f",
-          "title": "Queenie T & the Frogs and Toads.",
-          "date": "2026-11-18",
-          "time": "8:00 PM",
-          "url": "https://annarborobserver.com/event/queenie-t-the-frogs-and-toads/",
-          "source": "observer",
-          "also_listed_at": []
-        },
         {
           "id": "observer-2026-11-19-lena-maude-dbf6a1e9725b5fb1",
           "title": "Lena Maude.",
